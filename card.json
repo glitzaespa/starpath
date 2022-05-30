@@ -1,11 +1,38 @@
 {
 "IVGA_PS_XP": [
     {
-      "name":"<:XP_:977668739879292960> <:perfectsacrifice:980963215880106064> **IVE GAEUL** perfect sacrifice",
-      "idol":"IVE GAEUL",
+      "name":"<:XP_:977668739879292960> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
+      "idol":"IVE Gaeul",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855196434442/C.png",
+      "theme": "perfect sacrifice", 
+      "rarity": "<:perfectsacrifice:980963215880106064>"
+    }
+    ],
+      "IVGA_PS_X": [
+    {
+      "name":"<:X_:977668740290318426> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
+      "idol":"IVE Gaeul",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855473278986/R.png",
+      "theme": "perfect sacrifice", 
+      "rarity": "<:perfectsacrifice:980963215880106064>"
+    }
+    ],
+      "IVGA_PS_R": [
+    {
+      "name":"<:R_:977668740281950318> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
+      "idol":"IVE Gaeul",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855787847701/X.png",
+      "theme": "perfect sacrifice", 
+      "rarity": "<:perfectsacrifice:980963215880106064>"
+    }
+    ],
+      "IVGA_PS_C": [
+    {
+      "name":"<:C_:977668739623432193> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
+      "idol":"IVE Gaeul",
       "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642856131784714/XPLUS.png",
       "theme": "perfect sacrifice", 
-      "rarity": "<:XP_:977668739879292960> <:perfectsacrifice:980963215880106064>"
+      "rarity": "<:perfectsacrifice:980963215880106064>"
     }
     ]
 }
