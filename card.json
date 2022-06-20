@@ -1,38 +1,46 @@
 {
-"IVGA_PS_XP": [
+    "IVWY_YM_XP": [
     {
-      "name":"<:XP_:977668739879292960> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
-      "idol":"IVE Gaeul",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642856131784714/XPLUS.png",
-      "theme": "perfect sacrifice", 
-      "rarity": "<:perfectsacrifice:980963215880106064>"
+      "name":"<:XP_:977668739879292960> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
+      "idol":"IVE WONYOUNG",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844514598912/C.png",
+      "theme": "You make me feel like", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "30",
+      "maximum": "40"
     }
     ],
-      "IVGA_PS_X": [
+      "IVWY_YM_X": [
     {
-      "name":"<:X_:977668740290318426> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
-      "idol":"IVE Gaeul",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855787847701/X.png",
-      "theme": "perfect sacrifice", 
-      "rarity": "<:perfectsacrifice:980963215880106064>"
+      "name":"<:X_:977668740290318426> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
+      "idol":"IVE WONYOUNG",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844816592906/R.png",
+      "theme": "You make me feel like", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "20",
+      "maximum": "30"
     }
     ],
-      "IVGA_PS_R": [
+      "IVWY_YM_R": [
     {
-      "name":"<:R_:977668740281950318> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
-      "idol":"IVE Gaeul",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855473278986/R.png",
-      "theme": "perfect sacrifice", 
-      "rarity": "<:perfectsacrifice:980963215880106064>"
+      "name":"<:R_:977668740281950318> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
+      "idol":"IVE WONYOUNG",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845500272700/X.png",
+      "theme": "You make me feel like", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "10",
+      "maximum": "20"
     }
     ],
-      "IVGA_PS_C": [
+      "IVWY_YM_C": [
     {
-      "name":"<:C_:977668739623432193> <:perfectsacrifice:980963215880106064> **IVE Gaeul** perfect sacrifice",
-      "idol":"IVE Gaeul",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/980642855196434442/C.png",
-      "theme": "perfect sacrifice", 
-      "rarity": "<:perfectsacrifice:980963215880106064>"
+      "name":"<:C_:977668739623432193> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
+      "idol":"IVE WONYOUNG",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845798043688/XPLUS.png",
+      "theme": "You make me feel like", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "1",
+      "maximum": "10"
     }
     ]
 }
