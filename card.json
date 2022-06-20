@@ -131,4 +131,48 @@
       "maximum": "10"
     }
     ]
+    "IVRE_EL_XP": [
+    {
+      "name":"<:XP_:977668739879292960> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208108549591171/XPLUS.png",
+      "theme": "ELEVEN", 
+      "rarity": "/",
+      "minimum": "30",
+      "maximum": "40"
+    }
+    ],
+      "IVRE_EL_X": [
+    {
+      "name":"<:X_:977668740290318426> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208108184674325/X.png",
+      "theme": "ELEVEN", 
+      "rarity": "/",
+      "minimum": "20",
+      "maximum": "30"
+    }
+    ],
+      "IVRE_EL_R": [
+    {
+      "name":"<:R_:977668740281950318> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208107823968296/R.png",
+      "theme": "ELEVEN", 
+      "rarity": "/",
+      "minimum": "10",
+      "maximum": "20"
+    }
+    ],
+      "IVRE_EL_C": [
+    {
+      "name":"<:C_:977668739623432193> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208107576508486/C.png",
+      "theme": "ELEVEN", 
+      "rarity": "/",
+      "minimum": "0",
+      "maximum": "10"
+    }
+    ]
           }
