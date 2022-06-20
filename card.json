@@ -86,5 +86,49 @@
       "minimum": "0",
       "maximum": "10"
     }
+    ],
+    "IVYJ_EL_XP": [
+    {
+      "name":"<:XP_:977668739879292960> **IVE YUJIN** ELEVEN",
+      "idol":"IVE YUJIN",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168695914506/XPLUS.png",
+      "theme": "ELEVEN", 
+      "rarity": "",
+      "minimum": "30",
+      "maximum": "40"
+    }
+    ],
+      "IVYJ_EL_X": [
+    {
+      "name":"<:X_:977668740290318426> **IVE YUJIN** ELEVEN",
+      "idol":"IVE YUJIN",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168419078204/X.png",
+      "theme": "ELEVEN", 
+      "rarity": "",
+      "minimum": "20",
+      "maximum": "30"
+    }
+    ],
+      "IVYJ_EL_R": [
+    {
+      "name":"<:R_:977668740281950318> **IVE YUJIN** ELEVEN",
+      "idol":"IVE YUJIN",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168150659092/R.png",
+      "theme": "ELEVEN", 
+      "rarity": "",
+      "minimum": "10",
+      "maximum": "20"
+    }
+    ],
+      "IVYJ_EL_C": [
+    {
+      "name":"<:C_:977668739623432193> **IVE YUJIN** ELEVEN",
+      "idol":"IVE YUJIN",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208167752179762/C.png",
+      "theme": "ELEVEN", 
+      "rarity": "",
+      "minimum": "0",
+      "maximum": "10"
+    }
     ]
           }
