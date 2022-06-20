@@ -1,9 +1,9 @@
 {
     "IVWY_YM_XP": [
     {
-      "name":"<:XP_:977668739879292960> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844514598912/C.png",
+      "name": "<:XP_:977668739879292960> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
+      "idol": "IVE WONYOUNG",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845798043688/XPLUS.png",
       "theme": "You make me feel like", 
       "rarity": "<:MAKING:977670841716342866>",
       "minimum": "30",
@@ -14,7 +14,7 @@
     {
       "name":"<:X_:977668740290318426> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
       "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844816592906/R.png",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845500272700/X.png",
       "theme": "You make me feel like", 
       "rarity": "<:MAKING:977670841716342866>",
       "minimum": "20",
@@ -25,7 +25,7 @@
     {
       "name":"<:R_:977668740281950318> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
       "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845500272700/X.png",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844816592906/R.png",
       "theme": "You make me feel like", 
       "rarity": "<:MAKING:977670841716342866>",
       "minimum": "10",
@@ -36,7 +36,7 @@
     {
       "name":"<:C_:977668739623432193> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
       "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845798043688/XPLUS.png",
+      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844514598912/C.png",
       "theme": "You make me feel like", 
       "rarity": "<:MAKING:977670841716342866>",
       "minimum": "1",
