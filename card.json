@@ -46,5 +46,53 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+    "DEFAULT_DF_XP": [
+    {
+      "name":":XP_: Default **Default DF** DF",
+      "idol":"Default DF",
+      "inv":":XP_: DF",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "DF", 
+      "rarity": "Default",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+      "DEFAULT_DF_X": [
+    {
+      "name":"<:X_:977668740290318426> Default **Default DF** DF",
+      "idol":"Default DF",
+      "inv":"<:X_:977668740290318426> DF",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "DF", 
+      "rarity": "Default",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+      "DEFAULT_DF_R": [
+    {
+      "name":"<:R_:977668740281950318> Default **Default DF** DF",
+      "idol":"Default DF",
+      "inv":"<:R_:977668740281950318> DF",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "DF", 
+      "rarity": "Default",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+      "DEFAULT_DF_C": [
+    {
+      "name":"<:C_:1006205504474845214> Default **Default DF** DF",
+      "idol":"Default DF",
+      "inv":"<:C_:1006205504474845214> DF",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "DF", 
+      "rarity": "Default",
+      "minimum": "0",
+      "maximum": "0"
+    }
     ]
           }
