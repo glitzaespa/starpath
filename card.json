@@ -1,180 +1,4 @@
 {
-    "IVWY_YM_XP": [
-    {
-      "name": "<:XP_:977668739879292960> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
-      "idol": "IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845798043688/XPLUS.png",
-      "theme": "You make me feel like", 
-      "rarity": "<:MAKING:977670841716342866>",
-      "minimum": "30",
-      "maximum": "40"
-    }
-    ],
-      "IVWY_YM_X": [
-    {
-      "name":"<:X_:977668740290318426> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243845500272700/X.png",
-      "theme": "You make me feel like", 
-      "rarity": "<:MAKING:977670841716342866>",
-      "minimum": "20",
-      "maximum": "30"
-    }
-    ],
-      "IVWY_YM_R": [
-    {
-      "name":"<:R_:977668740281950318> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844816592906/R.png",
-      "theme": "You make me feel like", 
-      "rarity": "<:MAKING:977670841716342866>",
-      "minimum": "10",
-      "maximum": "20"
-    }
-    ],
-      "IVWY_YM_C": [
-    {
-      "name":"<:C_:977668739623432193> <:MAKING:977670841716342866> **IVE WONYOUNG** You make me feel like",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988243844514598912/C.png",
-      "theme": "You make me feel like", 
-      "rarity": "<:MAKING:977670841716342866>",
-      "minimum": "1",
-      "maximum": "10"
-    }
-    ],
-"IVWY_EL_XP": [
-    {
-      "name":"<:XP_:977668739879292960> **IVE WONYOUNG** ELEVEN",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208136869527593/XPLUS.png",
-      "theme": "ELEVEN", 
-      "rarity": "* *",
-      "minimum": "30",
-      "maximum": "40"
-    }
-    ],
-      "IVWY_EL_X": [
-    {
-      "name":"<:X_:977668740290318426> **IVE WONYOUNG** ELEVEN",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208136550752316/X.png",
-      "theme": "ELEVEN", 
-      "rarity": "* *",
-      "minimum": "20",
-      "maximum": "30"
-    }
-    ],
-      "IVWY_EL_R": [
-    {
-      "name":"<:R_:977668740281950318> **IVE WONYOUNG** ELEVEN",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208136135540766/R.png",
-      "theme": "ELEVEN", 
-      "rarity": "* *",
-      "minimum": "10",
-      "maximum": "20"
-    }
-    ],
-      "IVWY_EL_C": [
-    {
-      "name":"<:C_:977668739623432193> **IVE WONYOUNG** ELEVEN",
-      "idol":"IVE WONYOUNG",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208135753850900/C.png",
-      "theme": "ELEVEN", 
-      "rarity": "* *",
-      "minimum": "0",
-      "maximum": "10"
-    }
-    ],
-    "IVYJ_EL_XP": [
-    {
-      "name":"<:XP_:977668739879292960> **IVE YUJIN** ELEVEN",
-      "idol":"IVE YUJIN",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168695914506/XPLUS.png",
-      "theme": "ELEVEN", 
-      "rarity": "",
-      "minimum": "30",
-      "maximum": "40"
-    }
-    ],
-      "IVYJ_EL_X": [
-    {
-      "name":"<:X_:977668740290318426> **IVE YUJIN** ELEVEN",
-      "idol":"IVE YUJIN",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168419078204/X.png",
-      "theme": "ELEVEN", 
-      "rarity": "",
-      "minimum": "20",
-      "maximum": "30"
-    }
-    ],
-      "IVYJ_EL_R": [
-    {
-      "name":"<:R_:977668740281950318> **IVE YUJIN** ELEVEN",
-      "idol":"IVE YUJIN",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208168150659092/R.png",
-      "theme": "ELEVEN", 
-      "rarity": "",
-      "minimum": "10",
-      "maximum": "20"
-    }
-    ],
-      "IVYJ_EL_C": [
-    {
-      "name":"<:C_:977668739623432193> **IVE YUJIN** ELEVEN",
-      "idol":"IVE YUJIN",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208167752179762/C.png",
-      "theme": "ELEVEN", 
-      "rarity": "",
-      "minimum": "0",
-      "maximum": "10"
-    }
-    ],
-    "IVRE_EL_XP": [
-    {
-      "name":"<:XP_:977668739879292960> **IVE REI** ELEVEN",
-      "idol":"IVE REI",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208108549591171/XPLUS.png",
-      "theme": "ELEVEN", 
-      "rarity": "/",
-      "minimum": "30",
-      "maximum": "40"
-    }
-    ],
-      "IVRE_EL_X": [
-    {
-      "name":"<:X_:977668740290318426> **IVE REI** ELEVEN",
-      "idol":"IVE REI",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208108184674325/X.png",
-      "theme": "ELEVEN", 
-      "rarity": "/",
-      "minimum": "20",
-      "maximum": "30"
-    }
-    ],
-      "IVRE_EL_R": [
-    {
-      "name":"<:R_:977668740281950318> **IVE REI** ELEVEN",
-      "idol":"IVE REI",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208107823968296/R.png",
-      "theme": "ELEVEN", 
-      "rarity": "/",
-      "minimum": "10",
-      "maximum": "20"
-    }
-    ],
-      "IVRE_EL_C": [
-    {
-      "name":"<:C_:977668739623432193> **IVE REI** ELEVEN",
-      "idol":"IVE REI",
-      "image": "https://cdn.discordapp.com/attachments/977668974047268905/988208107576508486/C.png",
-      "theme": "ELEVEN", 
-      "rarity": "/",
-      "minimum": "0",
-      "maximum": "10"
-    }
-    ],
     "HDHY_PP_XP": [
     {
       "name":"<:XP_:977668739879292960> **HyunA&DAWN HyunA** PING PONG",
@@ -215,6 +39,50 @@
       "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006201265824473129/C.png",
       "theme": "PING PONG", 
       "rarity": "normal",
+      "minimum": "0",
+      "maximum": "1000"
+    }
+    ],
+    "HDDA_PP_XP": [
+    {
+      "name":"<:XP_:977668739879292960> Normal **HyunA&DAWN DAWN** PING PONG",
+      "idol":"HyunA&DAWN DAWN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006203404156145705/XPLUS.png",
+      "theme": "PING PONG", 
+      "rarity": "Normal",
+      "minimum": "No min. input.",
+      "maximum": "No max. input."
+    }
+    ],
+      "HDDA_PP_X": [
+    {
+      "name":"<:X_:977668740290318426> Normal **HyunA&DAWN DAWN** PING PONG",
+      "idol":"HyunA&DAWN DAWN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006203403808022568/X.png",
+      "theme": "PING PONG", 
+      "rarity": "Normal",
+      "minimum": "No min. input.",
+      "maximum": "No max. input."
+    }
+    ],
+      "HDDA_PP_R": [
+    {
+      "name":"<:R_:977668740281950318> Normal **HyunA&DAWN DAWN** PING PONG",
+      "idol":"HyunA&DAWN DAWN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006203403476664360/R.png",
+      "theme": "PING PONG", 
+      "rarity": "Normal",
+      "minimum": "1000",
+      "maximum": "No max. input."
+    }
+    ],
+      "HDDA_PP_C": [
+    {
+      "name":"<:C_:977668739623432193> Normal **HyunA&DAWN DAWN** PING PONG",
+      "idol":"HyunA&DAWN DAWN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006203403183075428/C.png",
+      "theme": "PING PONG", 
+      "rarity": "Normal",
       "minimum": "0",
       "maximum": "1000"
     }
