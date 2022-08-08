@@ -42,5 +42,93 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+    "TGWJ_SS_XP": [
+    {
+      "name":"<:XP_:977668739879292960> **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842719395850/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+      "TGWJ_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842316726352/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+      "TGWJ_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841989582880/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+      "TGWJ_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841616281660/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+    "TGKS_SS_XP": [
+    {
+      "name":"<:XP_:977668739879292960> **TEENAGEGIRLS (CLASS:y) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM SEONYOU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252754555125810/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+      "TGKS_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **TEENAGEGIRLS (CLASS:y) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM SEONYOU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252754055999561/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+      "TGKS_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **TEENAGEGIRLS (CLASS:y) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM SEONYOU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252753674326035/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+      "TGKS_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **TEENAGEGIRLS (CLASS:y) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM SEONYOU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252753158410320/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
