@@ -130,5 +130,49 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+    "TGKR_SS_XP": [
+    {
+      "name":"<:XP_:977668739879292960> **TEENAGEGIRLS (CLASS:y) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM RIWON",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252737983430757/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+      "TGKR_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **TEENAGEGIRLS (CLASS:y) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM RIWON",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252737480110222/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+      "TGKR_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **TEENAGEGIRLS (CLASS:y) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM RIWON",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252737119404183/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+      "TGKR_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **TEENAGEGIRLS (CLASS:y) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"TEENAGEGIRLS (CLASS:y) KIM RIWON",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
