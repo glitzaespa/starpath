@@ -190,5 +190,53 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+        "SOTY_SO_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> <:MAKING:977670841716342866> **Soloist TAEYEON** so I envy you",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:XP_:1006265669802799135> so I envy you",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328707574243369/X.png",
+      "theme": "so I envy you", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "SOTY_SO_X": [
+    {
+      "name":"<:X_:977668740290318426> <:MAKING:977670841716342866> **Soloist TAEYEON** so I envy you",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:X_:977668740290318426> so I envy you",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328707226107944/X.png",
+      "theme": "so I envy you", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "SOTY_SO_R": [
+    {
+      "name":"<:R_:977668740281950318> <:MAKING:977670841716342866> **Soloist TAEYEON** so I envy you",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:R_:977668740281950318> so I envy you",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328706898964601/R.png",
+      "theme": "so I envy you", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "SOTY_SO_C": [
+    {
+      "name":"<:C_:1006205504474845214> <:MAKING:977670841716342866> **Soloist TAEYEON** so I envy you",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:C_:1006205504474845214> so I envy you",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328706458558605/C.png",
+      "theme": "so I envy you", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
