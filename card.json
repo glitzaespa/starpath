@@ -238,5 +238,53 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+        "SOTY_IN_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **Soloist TAEYEON** INVU",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:XP_:1006265669802799135> INVU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328794274693140/X.png",
+      "theme": "INVU", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "SOTY_IN_X": [
+    {
+      "name":"<:X_:977668740290318426> **Soloist TAEYEON** INVU",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:X_:977668740290318426> INVU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328794002084000/X.png",
+      "theme": "INVU", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "SOTY_IN_R": [
+    {
+      "name":"<:R_:977668740281950318> **Soloist TAEYEON** INVU",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:R_:977668740281950318> INVU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328793641357382/R.png",
+      "theme": "INVU", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "SOTY_IN_C": [
+    {
+      "name":"<:C_:1006205504474845214> **Soloist TAEYEON** INVU",
+      "idol":"Soloist TAEYEON",
+      "inv":"<:C_:1006205504474845214> INVU",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007328793289048124/C.png",
+      "theme": "INVU", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
