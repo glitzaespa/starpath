@@ -1,98 +1,50 @@
 {
-    "TGWJ_SS_XP": [
+    "BPJN_HY_XP": [
     {
-      "name":":XP_: normal **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
-      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
-      "inv":":XP_: SAME SAME DIFFERENT",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842719395850/X.png",
-      "theme": "SAME SAME DIFFERENT", 
-      "rarity": "normal",
+      "name":"<:XP_:1006265669802799135> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:XP_:1006265669802799135> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192458683654276/XPLUS.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
       "minimum": "500",
       "maximum": "1000"
     }
     ],
-      "TGWJ_SS_X": [
+      "BPJN_HY_X": [
     {
-      "name":"<:X_:977668740290318426> normal **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
-      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
-      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842316726352/X.png",
-      "theme": "SAME SAME DIFFERENT", 
-      "rarity": "normal",
+      "name":"<:X_:977668740290318426> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:X_:977668740290318426> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192458176147577/X.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
       "minimum": "250",
       "maximum": "500"
     }
     ],
-      "TGWJ_SS_R": [
+      "BPJN_HY_R": [
     {
-      "name":"<:R_:977668740281950318> normal **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
-      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
-      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841989582880/R.png",
-      "theme": "SAME SAME DIFFERENT", 
-      "rarity": "normal",
+      "name":"<:R_:977668740281950318> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:R_:977668740281950318> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192457723154564/R.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
       "minimum": "100",
       "maximum": "250"
     }
     ],
-      "TGWJ_SS_C": [
+      "BPJN_HY_C": [
     {
-      "name":"<:C_:1006205504474845214> normal **TEENAGEGIRLS (CLASS:y) WON JIMIN** SAME SAME DIFFERENT",
-      "idol":"TEENAGEGIRLS (CLASS:y) WON JIMIN",
-      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841616281660/C.png",
-      "theme": "SAME SAME DIFFERENT", 
-      "rarity": "normal",
+      "name":"<:C_:1006205504474845214> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:C_:1006205504474845214> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192457379233914/C.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
       "minimum": "0",
       "maximum": "100"
-    }
-    ],
-    "DEFAULT_DF_XP": [
-    {
-      "name":":XP_: Default **Default DF** DF",
-      "idol":"Default DF",
-      "inv":":XP_: DF",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
-      "theme": "DF", 
-      "rarity": "Default",
-      "minimum": "0",
-      "maximum": "0"
-    }
-    ],
-      "DEFAULT_DF_X": [
-    {
-      "name":"<:X_:977668740290318426> Default **Default DF** DF",
-      "idol":"Default DF",
-      "inv":"<:X_:977668740290318426> DF",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
-      "theme": "DF", 
-      "rarity": "Default",
-      "minimum": "0",
-      "maximum": "0"
-    }
-    ],
-      "DEFAULT_DF_R": [
-    {
-      "name":"<:R_:977668740281950318> Default **Default DF** DF",
-      "idol":"Default DF",
-      "inv":"<:R_:977668740281950318> DF",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
-      "theme": "DF", 
-      "rarity": "Default",
-      "minimum": "0",
-      "maximum": "0"
-    }
-    ],
-      "DEFAULT_DF_C": [
-    {
-      "name":"<:C_:1006205504474845214> Default **Default DF** DF",
-      "idol":"Default DF",
-      "inv":"<:C_:1006205504474845214> DF",
-      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
-      "theme": "DF", 
-      "rarity": "Default",
-      "minimum": "0",
-      "maximum": "0"
     }
     ]
           }
