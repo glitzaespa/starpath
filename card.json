@@ -94,5 +94,101 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+    "BPRS_HY_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:XP_:1006265669802799135> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192642385789039/XPLUS.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+      "BPRS_HY_X": [
+    {
+      "name":"<:X_:977668740290318426> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:X_:977668740290318426> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192641853096016/X.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+      "BPRS_HY_R": [
+    {
+      "name":"<:R_:977668740281950318> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:R_:977668740281950318> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192641429479484/R.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+      "BPRS_HY_C": [
+    {
+      "name":"<:C_:1006205504474845214> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:C_:1006205504474845214> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192641123307691/C.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+    "BPLS_HY_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:XP_:1006265669802799135> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192597544484934/XPLUS.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+      "BPLS_HY_X": [
+    {
+      "name":"<:X_:977668740290318426> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:X_:977668740290318426> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192597246677023/X.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+      "BPLS_HY_R": [
+    {
+      "name":"<:R_:977668740281950318> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:R_:977668740281950318> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192596978257920/R.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+      "BPLS_HY_C": [
+    {
+      "name":"<:C_:1006205504474845214> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:C_:1006205504474845214> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006192596688830524/C.png",
+      "theme": "How You Like That", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
