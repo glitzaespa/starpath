@@ -622,5 +622,53 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+        "CLYC_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) YOON CHAEWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) YOON CHAEWON",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007728886743847094/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLYC_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) YOON CHAEWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) YOON CHAEWON",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007728886357966949/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLYC_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) YOON CHAEWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) YOON CHAEWON",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007728886047580221/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLYC_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) YOON CHAEWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) YOON CHAEWON",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007728885665910864/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
