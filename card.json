@@ -286,5 +286,53 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+        "SONY_YW_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> <:MAKING:977670841716342866> **Soloist NAYEON** you want it",
+      "idol":"Soloist NAYEON",
+      "inv":"<:XP_:1006265669802799135> you want it",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007638867450527874/X.png",
+      "theme": "you want it", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "SONY_YW_X": [
+    {
+      "name":"<:X_:977668740290318426> <:MAKING:977670841716342866> **Soloist NAYEON** you want it",
+      "idol":"Soloist NAYEON",
+      "inv":"<:X_:977668740290318426> you want it",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007638866926243981/X.png",
+      "theme": "you want it", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "SONY_YW_R": [
+    {
+      "name":"<:R_:977668740281950318> <:MAKING:977670841716342866> **Soloist NAYEON** you want it",
+      "idol":"Soloist NAYEON",
+      "inv":"<:R_:977668740281950318> you want it",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007638866565529660/R.png",
+      "theme": "you want it", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "SONY_YW_C": [
+    {
+      "name":"<:C_:1006205504474845214> <:MAKING:977670841716342866> **Soloist NAYEON** you want it",
+      "idol":"Soloist NAYEON",
+      "inv":"<:C_:1006205504474845214> you want it",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1007638866280321024/C.png",
+      "theme": "you want it", 
+      "rarity": "<:MAKING:977670841716342866>",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
