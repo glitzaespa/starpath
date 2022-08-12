@@ -334,5 +334,293 @@
       "minimum": "0",
       "maximum": "100"
     }
+    ],
+        "CLHH_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) HONG HYEJU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) HONG HYEJU",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252698661834864/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLHH_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) HONG HYEJU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) HONG HYEJU",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252698301104309/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLHH_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) HONG HYEJU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) HONG HYEJU",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252697986535574/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLHH_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) HONG HYEJU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) HONG HYEJU",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252697630023710/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+        "CLKR_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM RIWON",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252737480110222/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLKR_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM RIWON",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "No image input.",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLKR_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM RIWON",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252737119404183/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLKR_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) KIM RIWON** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM RIWON",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252736750293123/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+        "CLKS_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM SEONYOU",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252754555125810/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLKS_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM SEONYOU",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252754055999561/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLKS_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM SEONYOU",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252753674326035/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLKS_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) KIM SEONYOU** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) KIM SEONYOU",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252753158410320/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+        "CLMH_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) MYUNG HYUNGSEO** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) MYUNG HYUNGSEO",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252784536014999/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLMH_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) MYUNG HYUNGSEO** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) MYUNG HYUNGSEO",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252784154320952/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLMH_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) MYUNG HYUNGSEO** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) MYUNG HYUNGSEO",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252783760048148/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLMH_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) MYUNG HYUNGSEO** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) MYUNG HYUNGSEO",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252783437099138/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+        "CLPB_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) PARK BOEUN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) PARK BOEUN",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252814487539744/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLPB_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) PARK BOEUN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) PARK BOEUN",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252814118428824/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLPB_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) PARK BOEUN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) PARK BOEUN",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252813736742932/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLPB_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) PARK BOEUN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) PARK BOEUN",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252813258604605/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
+    ],
+        "CLWJ_SS_XP": [
+    {
+      "name":"<:XP_:1006265669802799135> **CLASS:y (TeenageGirls) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) WON JIMIN",
+      "inv":"<:XP_:1006265669802799135> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842719395850/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "500",
+      "maximum": "1000"
+    }
+    ],
+    "CLWJ_SS_X": [
+    {
+      "name":"<:X_:977668740290318426> **CLASS:y (TeenageGirls) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) WON JIMIN",
+      "inv":"<:X_:977668740290318426> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252842316726352/X.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "250",
+      "maximum": "500"
+    }
+    ],
+    "CLWJ_SS_R": [
+    {
+      "name":"<:R_:977668740281950318> **CLASS:y (TeenageGirls) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) WON JIMIN",
+      "inv":"<:R_:977668740281950318> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841989582880/R.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "100",
+      "maximum": "250"
+    }
+    ],
+    "CLWJ_SS_C": [
+    {
+      "name":"<:C_:1006205504474845214> **CLASS:y (TeenageGirls) WON JIMIN** SAME SAME DIFFERENT",
+      "idol":"CLASS:y (TeenageGirls) WON JIMIN",
+      "inv":"<:C_:1006205504474845214> SAME SAME DIFFERENT",
+      "image": "https://cdn.discordapp.com/attachments/1002371613150416936/1006252841616281660/C.png",
+      "theme": "SAME SAME DIFFERENT", 
+      "rarity": "Normal",
+      "minimum": "0",
+      "maximum": "100"
+    }
     ]
           }
