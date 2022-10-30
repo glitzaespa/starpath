@@ -162,5 +162,60 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "CLST_YC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y YOON CHAEWON** So tell me",
+    "idol":"CLASS:y YOON CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> So tell me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717586038854/R.png",
+    "theme": "So tell me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLST_YC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y YOON CHAEWON** So tell me",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717955125278/S.png",
+      "theme": "So tell me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLST_YC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y YOON CHAEWON** So tell me",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373716591988736/A.png",
+      "theme": "So tell me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLST_YC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y YOON CHAEWON** So tell me",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373716919132320/B.png",
+      "theme": "So tell me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLST_YC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y YOON CHAEWON** So tell me",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717229502634/C.png",
+      "theme": "So tell me",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
