@@ -49,4 +49,15 @@
       "maximum": "600"
     }
     ],
+    "CLST_PB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/977671736558501938/1022866186284839022/C.png",
+      "theme": "So tell me",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ]
           }
