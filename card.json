@@ -383,7 +383,7 @@
       "maximum": "200"
     }
     ],
-  "RSVO_MA_R": [
+  "RSMA_VO_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **ROSALÍA Vocal** MALAMENTE",
     "idol":"ROSALÍA Vocal",
@@ -394,7 +394,7 @@
     "maximum": "2400"
   }
   ],
-    "RSVO_MA_S": [
+    "RSMA_VO_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **ROSALÍA Vocal** MALAMENTE",
       "idol":"ROSALÍA Vocal",
@@ -405,7 +405,7 @@
       "maximum": "1800"
     }
     ],
-    "RSVO_MA_A": [
+    "RSMA_VO_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **ROSALÍA Vocal** MALAMENTE",
       "idol":"ROSALÍA Vocal",
@@ -416,7 +416,7 @@
       "maximum": "1200"
     }
     ],
-    "RSVO_MA_B": [
+    "RSMA_VO_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **ROSALÍA Vocal** MALAMENTE",
       "idol":"ROSALÍA Vocal",
@@ -427,7 +427,7 @@
       "maximum": "600"
     }
     ],
-  "RSVO_MA_C": [
+  "RSMA_VO_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **ROSALÍA Vocal** MALAMENTE",
       "idol":"ROSALÍA Vocal",
@@ -438,7 +438,7 @@
       "maximum": "200"
     }
     ],
-  "RSDA_MA_R": [
+  "RSMA_DA_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **ROSALÍA Dance** MALAMENTE",
     "idol":"ROSALÍA Dance",
@@ -449,7 +449,7 @@
     "maximum": "2400"
   }
   ],
-    "RSDA_MA_S": [
+    "RSMA_DA_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **ROSALÍA Dance** MALAMENTE",
       "idol":"ROSALÍA Dance",
@@ -460,7 +460,7 @@
       "maximum": "1800"
     }
     ],
-    "RSDA_MA_A": [
+    "RSMA_DA_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **ROSALÍA Dance** MALAMENTE",
       "idol":"ROSALÍA Dance",
@@ -471,7 +471,7 @@
       "maximum": "1200"
     }
     ],
-    "RSDA_MA_B": [
+    "RSMA_DA_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **ROSALÍA Dance** MALAMENTE",
       "idol":"ROSALÍA Dance",
@@ -493,7 +493,7 @@
       "maximum": "200"
     }
     ],
-  "RSRH_MA_R": [
+  "RSMA_RH_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **ROSALÍA Rhythm** MALAMENTE",
     "idol":"ROSALÍA Rhythm",
@@ -504,7 +504,7 @@
     "maximum": "2400"
   }
   ],
-    "RSRH_MA_S": [
+    "RSMA_RH_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **ROSALÍA Rhythm** MALAMENTE",
       "idol":"ROSALÍA Rhythm",
@@ -515,7 +515,7 @@
       "maximum": "1800"
     }
     ],
-    "RSRH_MA_A": [
+    "RSMA_RH_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **ROSALÍA Rhythm** MALAMENTE",
       "idol":"ROSALÍA Rhythm",
@@ -526,7 +526,7 @@
       "maximum": "1200"
     }
     ],
-    "RSRH_MA_B": [
+    "RSMA_RH_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **ROSALÍA Rhythm** MALAMENTE",
       "idol":"ROSALÍA Rhythm",
@@ -537,13 +537,68 @@
       "maximum": "600"
     }
     ],
-  "RSRH_MA_C": [
+  "RSMA_RH_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **ROSALÍA Rhythm** MALAMENTE",
       "idol":"ROSALÍA Rhythm",
       "inv":"<:C_EMOTE:1036290969676546092> MALAMENTE",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381227025969203/C.png",
       "theme": "MALAMENTE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVNA_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** Narcissistic",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036397505744748634/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** Narcissistic",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036397506109648926/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** Narcissistic",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036397504784252958/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** Narcissistic",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036397505119793232/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVNA_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** Narcissistic",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036397505442746419/C.png",
+      "theme": "Narcissistic",
       "minimum": "0",
       "maximum": "200"
     }
