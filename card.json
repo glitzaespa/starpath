@@ -1,63 +1,52 @@
 {
 "random": [
   {
-    "drop":"CLMH_ST"
+    "drop":"CLST_PB"
   }
   ],
 {
-"CLSD_MH_R": [
+"CLST_PB_R": [
   {
-    "name":"<:R_EMOTE:1022863756734246932> **CLASS:y MYUNG HYUNGSEO** SHUT DOWN",
-    "idol":"CLASS:y MYUNG HYUNGSEO",
-    "inv":"<:R_EMOTE:1022863756734246932> SHUT DOWN",
-    "image": "https://cdn.discordapp.com/attachments/1025506970632978462/1025507025456734270/R.png",
-    "theme": "SHUT DOWN", 
-    "minimum": "200",
-    "maximum": "600"
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** So tell me",
+    "idol":"CLASS:y PARK BOEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> So tell me",
+    "image": "https://cdn.discordapp.com/attachments/977671736558501938/1022866186666516550/R.png",
+    "theme": "So tell me", 
+    "minimum": "1800",
+    "maximum": "2400"
   }
   ],
-    "CLSD_MH_S": [
+    "CLST_PB_S": [
     {
-      "name":"<:S_EMOTE:1022863758604902440> **CLASS:y MYUNG HYUNGSEO** SHUT DOWN",
-      "idol":"CLASS:y MYUNG HYUNGSEO",
-      "inv":"<:S_EMOTE:1022863758604902440> SHUT DOWN",
-      "image": "https://cdn.discordapp.com/attachments/1025506970632978462/1025507025842618388/S.png",
-      "theme": "SHUT DOWN", 
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/977671736558501938/1022866187048206397/S.png",
+      "theme": "So tell me", 
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
-    "CLSD_MH_A": [
+    "CLST_PB_A": [
     {
-      "name":"<:A_EMOTE:1022863760538488932> **CLASS:y MYUNG HYUNGSEO** SHUT DOWN",
-      "idol":"CLASS:y MYUNG HYUNGSEO",
-      "inv":"<:A_EMOTE:1022863760538488932> SHUT DOWN",
-      "image": "https://cdn.discordapp.com/attachments/1025506970632978462/1025507024286527488/A.png",
-      "theme": "SHUT DOWN", 
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/977671736558501938/1022866185605369856/A.png",
+      "theme": "So tell me", 
       "minimum": "600",
       "maximum": "1200"
     }
     ],
-    "CLSD_MH_B": [
+    "CLST_PB_B": [
     {
-      "name":"<:B_EMOTE:1022863762165862441> **CLASS:y MYUNG HYUNGSEO** SHUT DOWN",
-      "idol":"CLASS:y MYUNG HYUNGSEO",
-      "inv":"<:B_EMOTE:1022863762165862441> SHUT DOWN",
-      "image": "https://cdn.discordapp.com/attachments/1025506970632978462/1025507024684978348/B.png",
-      "theme": "SHUT DOWN", 
-      "minimum": "No min. input.",
-      "maximum": "No min. input."
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/977671736558501938/1022866185945104405/B.png",
+      "theme": "So tell me", 
+      "minimum": "200",
+      "maximum": "600"
     }
     ],
-    "CLSD_MH_C": [
-    {
-      "name":"<:C_EMOTE:1022863763944259715> **CLASS:y MYUNG HYUNGSEO** SHUT DOWN",
-      "idol":"CLASS:y MYUNG HYUNGSEO",
-      "inv":"<:C_EMOTE:1022863763944259715> SHUT DOWN",
-      "image": "https://cdn.discordapp.com/attachments/1025506970632978462/1025507025096036392/C.png",
-      "theme": "SHUT DOWN",
-      "minimum": "0",
-      "maximum": "200"
-    }
-    ]
           }
