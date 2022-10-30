@@ -115,8 +115,8 @@
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127850766508/R.png",
     "theme": "So tell me", 
-    "minimum": "No min. input.",
-    "maximum": "No min. input."
+    "minimum": "1800",
+    "maximum": "2400"
   }
   ],
     "CLST_WJ_S": [
@@ -126,8 +126,8 @@
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371128312148028/S.png",
       "theme": "So tell me", 
-      "minimum": "No min. input.",
-      "maximum": "No min. input."
+      "minimum": "1200",
+      "maximum": "1800"
     }
     ],
     "CLST_WJ_A": [
@@ -137,8 +137,8 @@
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371126865104926/A.png",
       "theme": "So tell me", 
-      "minimum": "No min. input.",
-      "maximum": "No min. input."
+      "minimum": "600",
+      "maximum": "1200"
     }
     ],
     "CLST_WJ_B": [
@@ -148,8 +148,8 @@
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127179685939/B.png",
       "theme": "So tell me", 
-      "minimum": "No min. input.",
-      "maximum": "No min. input."
+      "minimum": "200",
+      "maximum": "600"
     }
     ],
     "CLST_WJ_C": [
@@ -159,8 +159,8 @@
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127490072699/C.png",
       "theme": "So tell me",
-      "minimum": "No min. input.",
-      "maximum": "No min. input."
+      "minimum": "0",
+      "maximum": "200"
     }
     ]
           }
