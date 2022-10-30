@@ -492,5 +492,60 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "RSRH_MA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ROSALÍA Rhythm** MALAMENTE",
+    "idol":"ROSALÍA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> MALAMENTE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381227340550204/R.png",
+    "theme": "MALAMENTE", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RSRH_MA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ROSALÍA Rhythm** MALAMENTE",
+      "idol":"ROSALÍA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> MALAMENTE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381227667701791/S.png",
+      "theme": "MALAMENTE", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RSRH_MA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ROSALÍA Rhythm** MALAMENTE",
+      "idol":"ROSALÍA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> MALAMENTE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381226392637490/A.png",
+      "theme": "MALAMENTE", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RSRH_MA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ROSALÍA Rhythm** MALAMENTE",
+      "idol":"ROSALÍA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> MALAMENTE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381226728177734/B.png",
+      "theme": "MALAMENTE", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RSRH_MA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ROSALÍA Rhythm** MALAMENTE",
+      "idol":"ROSALÍA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> MALAMENTE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036381227025969203/C.png",
+      "theme": "MALAMENTE",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
