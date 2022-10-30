@@ -327,5 +327,60 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "CLST_HH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y HONG HYEJU** So tell me",
+    "idol":"CLASS:y HONG HYEJU",
+    "inv":"<:R_EMOTE:1036291037620097034> So tell me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648856834170/R.png",
+    "theme": "So tell me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLST_HH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y HONG HYEJU** So tell me",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:S_EMOTE:1036291020956115105> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377649163010188/S.png",
+      "theme": "So tell me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLST_HH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y HONG HYEJU** So tell me",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:A_EMOTE:1036291003348439102> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377647892144128/A.png",
+      "theme": "So tell me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLST_HH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y HONG HYEJU** So tell me",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:B_EMOTE:1036290987477180546> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648215097354/B.png",
+      "theme": "So tell me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLST_HH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y HONG HYEJU** So tell me",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:C_EMOTE:1036290969676546092> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648525492264/C.png",
+      "theme": "So tell me",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
