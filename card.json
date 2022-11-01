@@ -602,5 +602,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "IVNA_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** Narcissistic",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130695358808157/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** Narcissistic",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130697187528735/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** Narcissistic",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694234738838/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** Narcissistic",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694603833435/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVNA_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** Narcissistic",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694981324870/C.png",
+      "theme": "Narcissistic",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVNA_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** Narcissistic",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131172242788432/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** Narcissistic",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131172557373530/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** Narcissistic",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131171227766844/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** Narcissistic",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131171609460847/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVNA_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** Narcissistic",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131171890462812/C.png",
+      "theme": "Narcissistic",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVNA_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** Narcissistic",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131542868267028/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** Narcissistic",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131543547760690/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** Narcissistic",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131541555458120/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** Narcissistic",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131541979074581/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVNA_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** Narcissistic",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131542390124574/C.png",
+      "theme": "Narcissistic",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVNA_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** Narcissistic",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131995312050287/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** Narcissistic",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131995634995200/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** Narcissistic",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131994343145492/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** Narcissistic",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131994670305290/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+"IVNA_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** Narcissistic",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037131994993262692/C.png",
+      "theme": "Narcissistic",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVNA_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** Narcissistic",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037132355711807588/R.png",
+    "theme": "Narcissistic", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** Narcissistic",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037132356047347773/S.png",
+      "theme": "Narcissistic", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** Narcissistic",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037132354579345438/A.png",
+      "theme": "Narcissistic", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** Narcissistic",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037132355023937656/B.png",
+      "theme": "Narcissistic", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+"IVNA_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** Narcissistic",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037132355388854332/C.png",
+      "theme": "Narcissistic",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
