@@ -1,8 +1,20 @@
 {
 "DEFAULT_FREE": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** So tell me",
-    "wallpaper":"CLASS:y PARK BOEUN"
+    "name":"**\`Free\` EVERYSTAR** Wallpaper",
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038454754940026971/DEFAULT.png"
   }
-  ]
+  ],
+ "SG_FREE": [
+  {
+    "name":"**\`Free\` Selena Gomez** Wallpaper",
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451617030213663/Selena_Gomez.png"
+  }
+  ],
+  "RO_FREE": [
+  {
+    "name":"**\`Free\` ROSALÍA** Wallpaper",
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451616698880000/ROSALIA.png"
+  }
+  ],
  }
