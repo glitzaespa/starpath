@@ -1,1 +1,80 @@
-
+{
+"DEFAULT_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038454754940026971/DEFAULT.png",
+    "name":"**\`Free\` EVERYSTAR** Wallpaper",
+  }
+  ],
+ "SG_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451617030213663/Selena_Gomez.png",
+    "name":"**\`Free\` Selena Gomez** Wallpaper",
+  }
+  ],
+ "RO_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451616698880000/ROSALIA.png",
+    "name":"**\`Free\` ROSALÍA** Wallpaper",
+  }
+  ],
+ "GG_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451616317181992/OHGG.png",
+    "name":"**\`Free\` Girls' Generation - Oh!GG** Wallpaper",
+  }
+  ],
+ "LO_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451615969071154/LOONA.png",
+    "name":"**\`Free\` LOONA** Wallpaper",
+  }
+  ],
+ "IV_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451615578984549/IVE.png",
+    "name":"**\`Free\` IVE** Wallpaper",
+  }
+  ],
+ "HY_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451615218290708/HyunA.png",
+    "name":"**\`Free\` HyunA** Wallpaper",
+  }
+  ],
+   "D6_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451614916280400/DAY6EOD.png",
+    "name":"**\`Free\` DAY6 (Even of Day)** Wallpaper",
+  }
+  ],
+     "CL_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451614601711626/CLASS_y.png",
+    "name":"**\`Free\` CLASS:y** Wallpaper",
+  }
+  ],
+     "BP_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451614245212240/BLACKPINK.png",
+    "name":"**\`Free\` BLACKPINK** Wallpaper",
+  }
+  ],
+     "AT_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451613947396166/ATEEZ.png",
+    "name":"**\`Free\` ATEEZ** Wallpaper",
+  }
+  ],
+     "YE_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451600483696750/YENA.png",
+    "name":"**\`Free\` YENA** Wallpaper",
+  }
+  ],
+     "TW_FREE": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451600198475796/TWICE.png",
+    "name":"**\`Free\` TWICE** Wallpaper",
+  }
+  ]
+}
