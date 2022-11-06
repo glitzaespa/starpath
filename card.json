@@ -932,5 +932,280 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "IVLA_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** Launch",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Launch",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963331437961277/R.png",
+    "theme": "Launch", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVLA_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** Launch",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963331714781235/S.png",
+      "theme": "Launch", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVLA_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** Launch",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963330557157466/A.png",
+      "theme": "Launch", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVLA_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** Launch",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963330829783222/B.png",
+      "theme": "Launch", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVLA_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** Launch",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963331156951070/C.png",
+      "theme": "Launch",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVLA_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** Launch",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> Launch",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963365084663878/R.png",
+    "theme": "Launch", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVLA_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** Launch",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963365386649630/S.png",
+      "theme": "Launch", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVLA_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** Launch",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963364199665664/A.png",
+      "theme": "Launch", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVLA_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** Launch",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963364514234488/B.png",
+      "theme": "Launch", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVLA_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** Launch",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963364795269130/C.png",
+      "theme": "Launch",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVLA_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** Launch",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> Launch",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963412081844286/R.png",
+    "theme": "Launch", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVLA_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** Launch",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963412362874900/S.png",
+      "theme": "Launch", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVLA_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** Launch",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963411167486022/A.png",
+      "theme": "Launch", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVLA_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** Launch",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963411452710943/B.png",
+      "theme": "Launch", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVLA_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** Launch",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963411788238878/C.png",
+      "theme": "Launch",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVLA_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** Launch",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> Launch",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963432466153562/R.png",
+    "theme": "Launch", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVLA_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** Launch",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963432742985789/S.png",
+      "theme": "Launch", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVLA_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** Launch",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963431484686347/A.png",
+      "theme": "Launch", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVLA_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** Launch",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963431790878830/B.png",
+      "theme": "Launch", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVLA_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** Launch",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963432122237099/C.png",
+      "theme": "Launch",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVLA_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** Launch",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> Launch",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963454964404254/R.png",
+    "theme": "Launch", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVLA_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** Launch",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963455253819412/S.png",
+      "theme": "Launch", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVLA_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** Launch",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963454133932112/A.png",
+      "theme": "Launch", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVLA_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** Launch",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963454402375771/B.png",
+      "theme": "Launch", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVLA_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** Launch",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> Launch",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1038963454708555847/C.png",
+      "theme": "Launch",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
