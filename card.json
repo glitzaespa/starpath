@@ -1207,5 +1207,170 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "NYLC_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Vocal** LOVE COUNTDOWN",
+    "idol":"NAYEON Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE COUNTDOWN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572139603165184/R.png",
+    "theme": "LOVE COUNTDOWN", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYLC_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Vocal** LOVE COUNTDOWN",
+      "idol":"NAYEON Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572139930333294/S.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYLC_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Vocal** LOVE COUNTDOWN",
+      "idol":"NAYEON Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572138583957534/A.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYLC_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Vocal** LOVE COUNTDOWN",
+      "idol":"NAYEON Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572138932076584/B.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYLC_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Vocal** LOVE COUNTDOWN",
+      "idol":"NAYEON Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572139242467438/C.png",
+      "theme": "LOVE COUNTDOWN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NYLC_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Dance** LOVE COUNTDOWN",
+    "idol":"NAYEON Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE COUNTDOWN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572163607187548/R.png",
+    "theme": "LOVE COUNTDOWN", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYLC_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Dance** LOVE COUNTDOWN",
+      "idol":"NAYEON Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572164026609694/S.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYLC_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Dance** LOVE COUNTDOWN",
+      "idol":"NAYEON Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572162537639956/A.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYLC_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Dance** LOVE COUNTDOWN",
+      "idol":"NAYEON Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572162919313528/B.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYLC_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Dance** LOVE COUNTDOWN",
+      "idol":"NAYEON Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572163242262568/C.png",
+      "theme": "LOVE COUNTDOWN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+"NYLC_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Rhythm** LOVE COUNTDOWN",
+    "idol":"NAYEON Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE COUNTDOWN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572185065234572/R.png",
+    "theme": "LOVE COUNTDOWN", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYLC_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Rhythm** LOVE COUNTDOWN",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572185392382083/S.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYLC_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Rhythm** LOVE COUNTDOWN",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572183890821260/A.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYLC_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Rhythm** LOVE COUNTDOWN",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572184264126565/B.png",
+      "theme": "LOVE COUNTDOWN", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYLC_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Rhythm** LOVE COUNTDOWN",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE COUNTDOWN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1042572184775819274/C.png",
+      "theme": "LOVE COUNTDOWN",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
