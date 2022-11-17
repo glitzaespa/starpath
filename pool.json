@@ -1,5 +1,11 @@
 {
-"classy": [
+  "main": [
+  {
+    "pool_card":"CLST_PB;CLST_KS;CLST_WJ;CLST_YC;CLST_MH;CLST_KR;CLST_HH;RSMA_VO;RSMA_DA;RSMA_RH;IVNA_JWY;IVNA_RE;IVNA_AYJ;IVNA_LE;IVNA_LI;IVNA_GA",
+    "pool_grade":"C;C;C;C;C;C;C;C;C;C;C;C;C;C;C;C;C;C;B;B;B;B;B;B;B;B;A;A;S"
+  }
+  ],
+ "classy": [
   {
     "pool_member":"MH;PB;YC;KR;WJ;KS;HH",
     "pool_normal":"CLST"
