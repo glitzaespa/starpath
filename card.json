@@ -1372,5 +1372,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TYSP_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON Vocal** Spark",
+    "idol":"TAEYEON Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Spark",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775061300301874/R.png",
+    "theme": "Spark", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYSP_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON Vocal** Spark",
+      "idol":"TAEYEON Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775061661003826/S.png",
+      "theme": "Spark", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYSP_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON Vocal** Spark",
+      "idol":"TAEYEON Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775060075561051/A.png",
+      "theme": "Spark", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYSP_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON Vocal** Spark",
+      "idol":"TAEYEON Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775060578881566/B.png",
+      "theme": "Spark", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TYSP_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON Vocal** Spark",
+      "idol":"TAEYEON Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775060906029216/C.png",
+      "theme": "Spark",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TYSP_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON Dance** Spark",
+    "idol":"TAEYEON Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Spark",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775087384666212/R.png",
+    "theme": "Spark", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYSP_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON Dance** Spark",
+      "idol":"TAEYEON Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775087678259240/S.png",
+      "theme": "Spark", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYSP_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON Dance** Spark",
+      "idol":"TAEYEON Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775086378033262/A.png",
+      "theme": "Spark", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYSP_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON Dance** Spark",
+      "idol":"TAEYEON Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775086747123793/B.png",
+      "theme": "Spark", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TYSP_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON Dance** Spark",
+      "idol":"TAEYEON Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775087091060776/C.png",
+      "theme": "Spark",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TYSP_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON Rhythm** Spark",
+    "idol":"TAEYEON Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Spark",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775109174075402/R.png",
+    "theme": "Spark", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYSP_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON Rhythm** Spark",
+      "idol":"TAEYEON Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775109476069436/S.png",
+      "theme": "Spark", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYSP_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON Rhythm** Spark",
+      "idol":"TAEYEON Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775108301660281/A.png",
+      "theme": "Spark", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYSP_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON Rhythm** Spark",
+      "idol":"TAEYEON Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775108616237177/B.png",
+      "theme": "Spark", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+"TYSP_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON Rhythm** Spark",
+      "idol":"TAEYEON Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Spark",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1045775108914040842/C.png",
+      "theme": "Spark",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
