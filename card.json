@@ -1537,5 +1537,390 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "CLIS_YC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YOON CHAEWON** I'm super cool",
+    "idol":"YOON CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> CLASS:y I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603634877247508/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_YC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y YOON CHAEWON** I'm super cool",
+      "idol":"YOON CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603635317653555/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_YC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y YOON CHAEWON** I'm super cool",
+      "idol":"YOON CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603633958695002/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_YC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y YOON CHAEWON** I'm super cool",
+      "idol":"YOON CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603634269077604/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_YC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y YOON CHAEWON** I'm super cool",
+      "idol":"YOON CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603634554294303/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_PB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** I'm super cool",
+    "idol":"CLASS:y PARK BOEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603665202069554/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_PB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y PARK BOEUN** I'm super cool",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603665508257842/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_PB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y PARK BOEUN** I'm super cool",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603664145109072/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_PB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y PARK BOEUN** I'm super cool",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603664497414266/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_PB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y PARK BOEUN** I'm super cool",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603664866529372/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_KR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM RIWON** I'm super cool",
+    "idol":"CLASS:y KIM RIWON",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603700010582037/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_KR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM RIWON** I'm super cool",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603700501336145/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_KR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM RIWON** I'm super cool",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603698999754823/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_KR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM RIWON** I'm super cool",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603699318542346/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_KR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM RIWON** I'm super cool",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603699708596234/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_HH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y HONG HYEJU** I'm super cool",
+    "idol":"CLASS:y HONG HYEJU",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603731878916106/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_HH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y HONG HYEJU** I'm super cool",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603732231233636/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_HH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y HONG HYEJU** I'm super cool",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603730914226226/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_HH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y HONG HYEJU** I'm super cool",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603731274932264/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_HH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y HONG HYEJU** I'm super cool",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603731568525352/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_MH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y MYUNG HYUNGSEO** I'm super cool",
+    "idol":"CLASS:y MYUNG HYUNGSEO",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603764711927858/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_MH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y MYUNG HYUNGSEO** I'm super cool",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603765156528138/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_MH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y MYUNG HYUNGSEO** I'm super cool",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603763831124095/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_MH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y MYUNG HYUNGSEO** I'm super cool",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603764120535090/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_MH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y MYUNG HYUNGSEO** I'm super cool",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603764401537034/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_KS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM SEONYOU** I'm super cool",
+    "idol":"CLASS:y KIM SEONYOU",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603797473628312/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_KS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM SEONYOU** I'm super cool",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603797788209172/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_KS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM SEONYOU** I'm super cool",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603796399882240/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_KS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM SEONYOU** I'm super cool",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603796735438868/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_KS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM SEONYOU** I'm super cool",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603797024833686/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLIS_WJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y WON JIMIN** I'm super cool",
+    "idol":"CLASS:y WON JIMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm super cool",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603826661802024/R.png",
+    "theme": "I'm super cool", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLIS_WJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y WON JIMIN** I'm super cool",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603826972176508/S.png",
+      "theme": "I'm super cool", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLIS_WJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y WON JIMIN** I'm super cool",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603825814552606/A.png",
+      "theme": "I'm super cool", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLIS_WJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y WON JIMIN** I'm super cool",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603826108149780/B.png",
+      "theme": "I'm super cool", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLIS_WJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y WON JIMIN** I'm super cool",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm super cool",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047603826389159956/C.png",
+      "theme": "I'm super cool",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
