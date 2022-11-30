@@ -1923,7 +1923,7 @@
       "maximum": "200"
     }
     ],
-  "BPRS_PW_R": [
+  "BPPW_RS_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
     "idol":"BLACKPINK ROSÉ",
@@ -1934,7 +1934,7 @@
     "maximum": "2400"
   }
   ],
-    "BPRS_PW_S": [
+    "BPPW_RS_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
       "idol":"BLACKPINK ROSÉ",
@@ -1945,7 +1945,7 @@
       "maximum": "1800"
     }
     ],
-    "BPRS_PW_A": [
+    "BPPW_RS_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
       "idol":"BLACKPINK ROSÉ",
@@ -1956,7 +1956,7 @@
       "maximum": "1200"
     }
     ],
-    "BPRS_PW_B": [
+    "BPPW_RS_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
       "idol":"BLACKPINK ROSÉ",
@@ -1967,7 +1967,7 @@
       "maximum": "600"
     }
     ],
-  "BPRS_PW_C": [
+  "BPPW_RS_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
       "idol":"BLACKPINK ROSÉ",
@@ -1978,7 +1978,7 @@
       "maximum": "200"
     }
     ],
-  "BPJN_PW_R": [
+  "BPPW_JN_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JENNIE** PLAYING WITH FIRE",
     "idol":"BLACKPINK JENNIE",
@@ -1989,7 +1989,7 @@
     "maximum": "2400"
   }
   ],
-    "BPJN_PW_S": [
+    "BPPW_JN_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JENNIE** PLAYING WITH FIRE",
       "idol":"BLACKPINK JENNIE",
@@ -2000,7 +2000,7 @@
       "maximum": "1800"
     }
     ],
-    "BPJN_PW_A": [
+    "BPPW_JN_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JENNIE** PLAYING WITH FIRE",
       "idol":"BLACKPINK JENNIE",
@@ -2011,7 +2011,7 @@
       "maximum": "1200"
     }
     ],
-    "BPJN_PW_B": [
+    "BPPW_JN_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JENNIE** PLAYING WITH FIRE",
       "idol":"BLACKPINK JENNIE",
@@ -2022,7 +2022,7 @@
       "maximum": "600"
     }
     ],
-  "BPJN_PW_C": [
+  "BPPW_JN_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JENNIE** PLAYING WITH FIRE",
       "idol":"BLACKPINK JENNIE",
@@ -2033,7 +2033,7 @@
       "maximum": "200"
     }
     ],
-  "BPJS_PW_R": [
+  "BPPW_JS_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JISOO** PLAYING WITH FIRE",
     "idol":"BLACKPINK JISOO",
@@ -2044,7 +2044,7 @@
     "maximum": "2400"
   }
   ],
-    "BPJS_PW_S": [
+    "BPPW_JS_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JISOO** PLAYING WITH FIRE",
       "idol":"BLACKPINK JISOO",
@@ -2055,7 +2055,7 @@
       "maximum": "1800"
     }
     ],
-    "BPJS_PW_A": [
+    "BPPW_JS_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JISOO** PLAYING WITH FIRE",
       "idol":"BLACKPINK JISOO",
@@ -2066,7 +2066,7 @@
       "maximum": "1200"
     }
     ],
-    "BPJS_PW_B": [
+    "BPPW_JS_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JISOO** PLAYING WITH FIRE",
       "idol":"BLACKPINK JISOO",
@@ -2077,7 +2077,7 @@
       "maximum": "600"
     }
     ],
-  "BPJS_PW_C": [
+  "BPPW_JS_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JISOO** PLAYING WITH FIRE",
       "idol":"BLACKPINK JISOO",
@@ -2088,7 +2088,7 @@
       "maximum": "200"
     }
     ],
-  "BPLS_PW_R": [
+  "BPPW_LS_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK LISA** PLAYING WITH FIRE",
     "idol":"BLACKPINK LISA",
@@ -2099,7 +2099,7 @@
     "maximum": "2400"
   }
   ],
-    "BPLS_PW_S": [
+    "BPPW_LS_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK LISA** PLAYING WITH FIRE",
       "idol":"BLACKPINK LISA",
@@ -2110,7 +2110,7 @@
       "maximum": "1800"
     }
     ],
-    "BPLS_PW_A": [
+    "BPPW_LS_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK LISA** PLAYING WITH FIRE",
       "idol":"BLACKPINK LISA",
@@ -2121,7 +2121,7 @@
       "maximum": "1200"
     }
     ],
-    "BPLS_PW_B": [
+    "BPPW_LS_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK LISA** PLAYING WITH FIRE",
       "idol":"BLACKPINK LISA",
@@ -2132,7 +2132,7 @@
       "maximum": "600"
     }
     ],
-  "BPLS_PW_C": [
+  "BPPW_LS_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK LISA** PLAYING WITH FIRE",
       "idol":"BLACKPINK LISA",
