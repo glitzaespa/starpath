@@ -1922,5 +1922,225 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "BPRS_PW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
+    "idol":"BLACKPINK ROSÉ",
+    "inv":"<:R_EMOTE:1036291037620097034> PLAYING WITH FIRE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650119513813052/R.png",
+    "theme": "PLAYING WITH FIRE", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPRS_PW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:S_EMOTE:1036291020956115105> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650119807401984/S.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPRS_PW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:A_EMOTE:1036291003348439102> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650118628814928/A.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPRS_PW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:B_EMOTE:1036290987477180546> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650118922403941/B.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPRS_PW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK ROSÉ** PLAYING WITH FIRE",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:C_EMOTE:1036290969676546092> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650119199236297/C.png",
+      "theme": "PLAYING WITH FIRE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPJN_PW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JENNIE** PLAYING WITH FIRE",
+    "idol":"BLACKPINK JENNIE",
+    "inv":"<:R_EMOTE:1036291037620097034> PLAYING WITH FIRE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650027062968402/R.png",
+    "theme": "PLAYING WITH FIRE", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPJN_PW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JENNIE** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:S_EMOTE:1036291020956115105> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650027373330463/S.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPJN_PW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JENNIE** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:A_EMOTE:1036291003348439102> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650026001809428/A.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPJN_PW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JENNIE** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:B_EMOTE:1036290987477180546> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650026387669062/B.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPJN_PW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JENNIE** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:C_EMOTE:1036290969676546092> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650026756780062/C.png",
+      "theme": "PLAYING WITH FIRE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPJS_PW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JISOO** PLAYING WITH FIRE",
+    "idol":"BLACKPINK JISOO",
+    "inv":"<:R_EMOTE:1036291037620097034> PLAYING WITH FIRE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650053424173098/R.png",
+    "theme": "PLAYING WITH FIRE", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPJS_PW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JISOO** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:S_EMOTE:1036291020956115105> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650053738733568/S.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPJS_PW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JISOO** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:A_EMOTE:1036291003348439102> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650052434317363/A.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPJS_PW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JISOO** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:B_EMOTE:1036290987477180546> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650052782432276/B.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPJS_PW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JISOO** PLAYING WITH FIRE",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:C_EMOTE:1036290969676546092> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650053130555502/C.png",
+      "theme": "PLAYING WITH FIRE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPLS_PW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK LISA** PLAYING WITH FIRE",
+    "idol":"BLACKPINK LISA",
+    "inv":"<:R_EMOTE:1036291037620097034> PLAYING WITH FIRE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650084302630984/R.png",
+    "theme": "PLAYING WITH FIRE", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPLS_PW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK LISA** PLAYING WITH FIRE",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:S_EMOTE:1036291020956115105> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650084592029788/S.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPLS_PW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK LISA** PLAYING WITH FIRE",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:A_EMOTE:1036291003348439102> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650083426021438/A.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPLS_PW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK LISA** PLAYING WITH FIRE",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:B_EMOTE:1036290987477180546> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650083707031552/B.png",
+      "theme": "PLAYING WITH FIRE", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPLS_PW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK LISA** PLAYING WITH FIRE",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:C_EMOTE:1036290969676546092> PLAYING WITH FIRE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047650083988054090/C.png",
+      "theme": "PLAYING WITH FIRE",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
