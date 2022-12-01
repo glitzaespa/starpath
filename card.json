@@ -2142,5 +2142,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "ITTM_YN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YUNA** Trust Me (MIDZY)",
+    "idol":"ITZY YUNA",
+    "inv":"<:R_EMOTE:1036291037620097034> Trust Me (MIDZY)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997861633196123/R.png",
+    "theme": "Trust Me (MIDZY)", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITTM_YN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YUNA** Trust Me (MIDZY)",
+      "idol":"ITZY YUNA",
+      "inv":"<:S_EMOTE:1036291020956115105> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997861935190146/S.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITTM_YN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YUNA** Trust Me (MIDZY)",
+      "idol":"ITZY YUNA",
+      "inv":"<:A_EMOTE:1036291003348439102> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997860685283338/A.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITTM_YN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YUNA** Trust Me (MIDZY)",
+      "idol":"ITZY YUNA",
+      "inv":"<:B_EMOTE:1036290987477180546> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997861050191922/B.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITTM_YN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YUNA** Trust Me (MIDZY)",
+      "idol":"ITZY YUNA",
+      "inv":"<:C_EMOTE:1036290969676546092> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997861339602986/C.png",
+      "theme": "Trust Me (MIDZY)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITTM_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY CHAERYEONG** Trust Me (MIDZY)",
+    "idol":"ITZY CHAERYEONG",
+    "inv":"<:R_EMOTE:1036291037620097034> Trust Me (MIDZY)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997834995191948/R.png",
+    "theme": "Trust Me (MIDZY)", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITTM_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY CHAERYEONG** Trust Me (MIDZY)",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:S_EMOTE:1036291020956115105> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997835318132836/S.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITTM_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY CHAERYEONG** Trust Me (MIDZY)",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:A_EMOTE:1036291003348439102> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997834051473428/A.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITTM_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY CHAERYEONG** Trust Me (MIDZY)",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:B_EMOTE:1036290987477180546> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997834357637220/B.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITTM_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY CHAERYEONG** Trust Me (MIDZY)",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:C_EMOTE:1036290969676546092> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997834680606831/C.png",
+      "theme": "Trust Me (MIDZY)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITTM_RJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY RYUJIN** Trust Me (MIDZY)",
+    "idol":"ITZY RYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Trust Me (MIDZY)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997801398804600/R.png",
+    "theme": "Trust Me (MIDZY)", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITTM_RJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY RYUJIN** Trust Me (MIDZY)",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997801721757756/S.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITTM_RJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY RYUJIN** Trust Me (MIDZY)",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997800467668992/A.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITTM_RJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY RYUJIN** Trust Me (MIDZY)",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997800799010888/B.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITTM_RJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY RYUJIN** Trust Me (MIDZY)",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997801109409822/C.png",
+      "theme": "Trust Me (MIDZY)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITTM_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY LIA** Trust Me (MIDZY)",
+    "idol":"ITZY LIA",
+    "inv":"<:R_EMOTE:1036291037620097034> Trust Me (MIDZY)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997774853050469/R.png",
+    "theme": "Trust Me (MIDZY)", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITTM_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY LIA** Trust Me (MIDZY)",
+      "idol":"ITZY LIA",
+      "inv":"<:S_EMOTE:1036291020956115105> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997775134085171/S.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITTM_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY LIA** Trust Me (MIDZY)",
+      "idol":"ITZY LIA",
+      "inv":"<:A_EMOTE:1036291003348439102> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997774035161128/A.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITTM_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY LIA** Trust Me (MIDZY)",
+      "idol":"ITZY LIA",
+      "inv":"<:B_EMOTE:1036290987477180546> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997774303612978/B.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITTM_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY LIA** Trust Me (MIDZY)",
+      "idol":"ITZY LIA",
+      "inv":"<:C_EMOTE:1036290969676546092> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997774572040283/C.png",
+      "theme": "Trust Me (MIDZY)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITTM_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YEJI** Trust Me (MIDZY)",
+    "idol":"ITZY YEJI",
+    "inv":"<:R_EMOTE:1036291037620097034> Trust Me (MIDZY)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997753797640192/R.png",
+    "theme": "Trust Me (MIDZY)", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITTM_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YEJI** Trust Me (MIDZY)",
+      "idol":"ITZY YEJI",
+      "inv":"<:S_EMOTE:1036291020956115105> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997754103840858/S.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITTM_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YEJI** Trust Me (MIDZY)",
+      "idol":"ITZY YEJI",
+      "inv":"<:A_EMOTE:1036291003348439102> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997752862310400/A.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITTM_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YEJI** Trust Me (MIDZY)",
+      "idol":"ITZY YEJI",
+      "inv":"<:B_EMOTE:1036290987477180546> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997753160122588/B.png",
+      "theme": "Trust Me (MIDZY)", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITTM_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YEJI** Trust Me (MIDZY)",
+      "idol":"ITZY YEJI",
+      "inv":"<:C_EMOTE:1036290969676546092> Trust Me (MIDZY)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1047997753466298489/C.png",
+      "theme": "Trust Me (MIDZY)",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
