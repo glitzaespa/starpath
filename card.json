@@ -2692,5 +2692,281 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  
+ "OMDY_YB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL YUBIN** do you remember me",
+    "idol":"OH MY GIRL YUBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> do you remember me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697107101515776/R.png",
+    "theme": "do you remember me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "OMDY_YB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL YUBIN** do you remember me",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697107424485446/S.png",
+      "theme": "do you remember me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "OMDY_YB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL YUBIN** do you remember me",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697106111668244/A.png",
+      "theme": "do you remember me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "OMDY_YB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL YUBIN** do you remember me",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697106401067159/B.png",
+      "theme": "do you remember me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "OMDY_YB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL YUBIN** do you remember me",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697106728226916/C.png",
+      "theme": "do you remember me",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "OMDY_YO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL YOOA** do you remember me",
+    "idol":"OH MY GIRL YOOA",
+    "inv":"<:R_EMOTE:1036291037620097034> do you remember me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697074234966107/R.png",
+    "theme": "do you remember me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "OMDY_YO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL YOOA** do you remember me",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:S_EMOTE:1036291020956115105> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697074566311996/S.png",
+      "theme": "do you remember me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "OMDY_YO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL YOOA** do you remember me",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:A_EMOTE:1036291003348439102> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697073303830559/A.png",
+      "theme": "do you remember me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "OMDY_YO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL YOOA** do you remember me",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:B_EMOTE:1036290987477180546> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697073626787970/B.png",
+      "theme": "do you remember me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "OMDY_YO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL YOOA** do you remember me",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:C_EMOTE:1036290969676546092> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697073932959755/C.png",
+      "theme": "do you remember me",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "OMDY_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL SEUNGHEE** do you remember me",
+    "idol":"OH MY GIRL SEUNGHEE",
+    "inv":"<:R_EMOTE:1036291037620097034> do you remember me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697053628342292/R.png",
+    "theme": "do you remember me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "OMDY_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL SEUNGHEE** do you remember me",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:S_EMOTE:1036291020956115105> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697053951299634/S.png",
+      "theme": "do you remember me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "OMDY_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL SEUNGHEE** do you remember me",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:A_EMOTE:1036291003348439102> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697052630102016/A.png",
+      "theme": "do you remember me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "OMDY_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL SEUNGHEE** do you remember me",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:B_EMOTE:1036290987477180546> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697052982419456/B.png",
+      "theme": "do you remember me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "OMDY_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL SEUNGHEE** do you remember me",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:C_EMOTE:1036290969676546092> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697053338939483/C.png",
+      "theme": "do you remember me",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "OMDY_MM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL MIMI** do you remember me",
+    "idol":"OH MY GIRL MIMI",
+    "inv":"<:R_EMOTE:1036291037620097034> do you remember me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697023399997531/R.png",
+    "theme": "do you remember me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "OMDY_MM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL MIMI** do you remember me",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:S_EMOTE:1036291020956115105> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697023722954882/S.png",
+      "theme": "do you remember me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "OMDY_MM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL MIMI** do you remember me",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:A_EMOTE:1036291003348439102> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697022435307591/A.png",
+      "theme": "do you remember me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "OMDY_MM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL MIMI** do you remember me",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:B_EMOTE:1036290987477180546> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697022766645359/B.png",
+      "theme": "do you remember me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "OMDY_MM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL MIMI** do you remember me",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:C_EMOTE:1036290969676546092> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697023098003597/C.png",
+      "theme": "do you remember me",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "OMDY_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL HYOJUNG** do you remember me",
+    "idol":"OH MY GIRL HYOJUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> do you remember me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697012687736922/R.png",
+    "theme": "do you remember me", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "OMDY_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL HYOJUNG** do you remember me",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697012998111262/S.png",
+      "theme": "do you remember me", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "OMDY_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL HYOJUNG** do you remember me",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697011349753866/A.png",
+      "theme": "do you remember me", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "OMDY_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL HYOJUNG** do you remember me",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697011655934084/B.png",
+      "theme": "do you remember me", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "OMDY_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL HYOJUNG** do you remember me",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> do you remember me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048697011932778516/C.png",
+      "theme": "do you remember me",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
