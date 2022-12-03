@@ -2417,5 +2417,280 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "TXIK_HK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER HUENINGKAI** I Know I Love You",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "inv":"<:R_EMOTE:1036291037620097034> I Know I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421543417487370/R.png",
+    "theme": "I Know I Love You", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXIK_HK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER HUENINGKAI** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:S_EMOTE:1036291020956115105> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421543815954510/S.png",
+      "theme": "I Know I Love You", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXIK_HK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER HUENINGKAI** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:A_EMOTE:1036291003348439102> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421542335356928/A.png",
+      "theme": "I Know I Love You", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXIK_HK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER HUENINGKAI** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:B_EMOTE:1036290987477180546> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421542717046824/B.png",
+      "theme": "I Know I Love You", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXIK_HK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER HUENINGKAI** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:C_EMOTE:1036290969676546092> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421543077744721/C.png",
+      "theme": "I Know I Love You",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXIK_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER BEOMGYU** I Know I Love You",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> I Know I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421431794475008/R.png",
+    "theme": "I Know I Love You", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXIK_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER BEOMGYU** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421432142614538/S.png",
+      "theme": "I Know I Love You", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXIK_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER BEOMGYU** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421430800424970/A.png",
+      "theme": "I Know I Love You", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXIK_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER BEOMGYU** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421431190507600/B.png",
+      "theme": "I Know I Love You", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXIK_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER BEOMGYU** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421431505064027/C.png",
+      "theme": "I Know I Love You",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXIK_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER SOOBIN** I Know I Love You",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> I Know I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421456297607188/R.png",
+    "theme": "I Know I Love You", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXIK_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER SOOBIN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421456742207498/S.png",
+      "theme": "I Know I Love You", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXIK_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER SOOBIN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421455374860388/A.png",
+      "theme": "I Know I Love You", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXIK_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER SOOBIN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421455672651866/B.png",
+      "theme": "I Know I Love You", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXIK_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER SOOBIN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421455987232768/C.png",
+      "theme": "I Know I Love You",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXIK_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER TAEHYUN** I Know I Love You",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> I Know I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421480045740142/R.png",
+    "theme": "I Know I Love You", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXIK_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER TAEHYUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421480465178734/S.png",
+      "theme": "I Know I Love You", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXIK_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER TAEHYUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421478816809040/A.png",
+      "theme": "I Know I Love You", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXIK_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER TAEHYUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421479097835520/B.png",
+      "theme": "I Know I Love You", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXIK_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER TAEHYUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421479458553957/C.png",
+      "theme": "I Know I Love You",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXIK_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** I Know I Love You",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> I Know I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421505853292655/R.png",
+    "theme": "I Know I Love You", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXIK_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421506306297937/S.png",
+      "theme": "I Know I Love You", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXIK_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421504884408370/A.png",
+      "theme": "I Know I Love You", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXIK_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421505203195986/B.png",
+      "theme": "I Know I Love You", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXIK_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** I Know I Love You",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> I Know I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1048421505538728007/C.png",
+      "theme": "I Know I Love You",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
