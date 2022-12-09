@@ -2968,5 +2968,335 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "IVSP_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** space",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780283395379341/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** space",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780283722530876/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** space",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780282330026060/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** space",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780282661371934/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** space",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780283068231700/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVSP_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** space",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780313149788221/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** space",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780313778913361/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** space",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780312252207177/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** space",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780312575148092/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** space",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780312889729085/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVSP_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** space",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780336591732889/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** space",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780336881160244/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** space",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780335668985926/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** space",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780336038105118/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** space",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780336331702272/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVSP_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** space",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780362827124736/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** space",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780363095552072/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** space",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780361921155242/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** space",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780362227331173/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** space",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780362537697360/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVSP_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** space",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780387246342275/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** space",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780387544145950/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** space",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780386306818129/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** space",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780386621399040/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** space",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780386919190628/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IVSP_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** space",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> space",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780412642857031/R.png",
+    "theme": "space", 
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IVSP_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** space",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780412995182642/S.png",
+      "theme": "space", 
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IVSP_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** space",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780411720110161/A.png",
+      "theme": "space", 
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IVSP_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** space",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780412013715556/B.png",
+      "theme": "space", 
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IVSP_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** space",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> space",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1050780412328280154/C.png",
+      "theme": "space",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
