@@ -3298,5 +3298,610 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "BOBE_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Vocal** Better",
+    "idol":"BoA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137679506538576/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BOBE_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Vocal** Better",
+      "idol":"BoA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137679770783795/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BOBE_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Vocal** Better",
+      "idol":"BoA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137678646726737/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BOBE_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Vocal** Better",
+      "idol":"BoA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137678931918898/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BOBE_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Vocal** Better",
+      "idol":"BoA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137679191969882/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BOBE_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Dance** Better",
+    "idol":"BoA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137700419358720/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BOBE_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Dance** Better",
+      "idol":"BoA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137700738105354/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BOBE_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Dance** Better",
+      "idol":"BoA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137699463041135/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BOBE_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Dance** Better",
+      "idol":"BoA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137699811184710/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BOBE_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Dance** Better",
+      "idol":"BoA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137700087988244/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BOBE_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Rhythm** Better",
+    "idol":"BoA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137729188073492/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BOBE_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Rhythm** Better",
+      "idol":"BoA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137729473302609/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BOBE_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Rhythm** Better",
+      "idol":"BoA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137728307269793/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BOBE_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Rhythm** Better",
+      "idol":"BoA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137728617664552/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BOBE_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Rhythm** Better",
+      "idol":"BoA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051137728919650374/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_YH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ YUN HO** Better",
+    "idol":"ATEEZ YUN HO",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139063597514812/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_YH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ YUN HO** Better",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139063903682610/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_YH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ YUN HO** Better",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139062699933847/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_YH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ YUN HO** Better",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139062993518593/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_YH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ YUN HO** Better",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139063303901204/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_YS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ YEO SANG** Better",
+    "idol":"ATEEZ YEO SANG",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139042445627523/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_YS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ YEO SANG** Better",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139042927980716/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_YS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ YEO SANG** Better",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139041489326130/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_YS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ YEO SANG** Better",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139041795514408/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_YS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ YEO SANG** Better",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139042105896971/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_WY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ WOO YOUNG** Better",
+    "idol":"ATEEZ WOO YOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139018710069318/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_WY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ WOO YOUNG** Better",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139018978512917/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_WY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ WOO YOUNG** Better",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139017841848360/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_WY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ WOO YOUNG** Better",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139018127069184/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_WY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ WOO YOUNG** Better",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051139018387112036/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ SEONG HWA** Better",
+    "idol":"ATEEZ SEONG HWA",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138992281763941/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ SEONG HWA** Better",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138992600526888/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ SEONG HWA** Better",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138991375794236/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ SEONG HWA** Better",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138991644225606/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ SEONG HWA** Better",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138991950401648/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ SAN** Better",
+    "idol":"ATEEZ SAN",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138970928562278/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ SAN** Better",
+      "idol":"ATEEZ SAN",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138971243130960/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ SAN** Better",
+      "idol":"ATEEZ SAN",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138969980649492/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ SAN** Better",
+      "idol":"ATEEZ SAN",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138970253275187/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ SAN** Better",
+      "idol":"ATEEZ SAN",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138970626560112/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_MG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ MIN GI** Better",
+    "idol":"ATEEZ MIN GI",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138946484154458/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_MG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ MIN GI** Better",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138946798723103/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_MG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ MIN GI** Better",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138945469132862/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_MG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ MIN GI** Better",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138945771118723/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_MG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ MIN GI** Better",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138946106658887/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_JH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ JONG HO** Better",
+    "idol":"ATEEZ JONG HO",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138927941144576/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_JH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ JONG HO** Better",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138928259891252/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_JH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ JONG HO** Better",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138926989037569/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_JH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ JONG HO** Better",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138927345532958/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_JH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ JONG HO** Better",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138927630749706/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ATBE_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ HONG JOONG** Better",
+    "idol":"ATEEZ HONG JOONG",
+    "inv":"<:R_EMOTE:1036291037620097034> Better",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138905589694556/R.png",
+    "theme": "Better", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ATBE_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ HONG JOONG** Better",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:S_EMOTE:1036291020956115105> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138905853931600/S.png",
+      "theme": "Better", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ATBE_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ HONG JOONG** Better",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:A_EMOTE:1036291003348439102> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138904591450132/A.png",
+      "theme": "Better", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ATBE_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ HONG JOONG** Better",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:B_EMOTE:1036290987477180546> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138904922796113/B.png",
+      "theme": "Better", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ATBE_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ HONG JOONG** Better",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:C_EMOTE:1036290969676546092> Better",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051138905241559170/C.png",
+      "theme": "Better",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
