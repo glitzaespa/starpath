@@ -3903,5 +3903,61 @@
       "minimum": "0",
       "maximum": "200"
     }
-    ]
+    ],
+  "CLID_WJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y WON JIMIN** I don't wanna",
+    "idol":"CLASS:y WON JIMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> I don't wanna",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935662551111/R.png",
+    "theme": "I don't wanna", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLID_WJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y WON JIMIN** I don't wanna",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> I don't wanna",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929936010690580/S.png",
+      "theme": "I don't wanna", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLID_WJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y WON JIMIN** I don't wanna",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> I don't wanna",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929934681079918/A.png",
+      "theme": "I don't wanna", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLID_WJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y WON JIMIN** I don't wanna",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> I don't wanna",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935045988472/B.png",
+      "theme": "I don't wanna", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLID_WJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y WON JIMIN** I don't wanna",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> I don't wanna",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935352184923/C.png",
+      "theme": "I don't wanna",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  
           }
