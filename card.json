@@ -3904,60 +3904,169 @@
       "maximum": "200"
     }
     ],
-  "CLID_WJ_R": [
+  "HJVI_VO_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y WON JIMIN** I don't wanna",
-    "idol":"CLASS:y WON JIMIN",
-    "inv":"<:R_EMOTE:1036291037620097034> I don't wanna",
-    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935662551111/R.png",
-    "theme": "I don't wanna", 
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin Vocal** ViViD",
+    "idol":"LOONA HeeJin Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> ViViD",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398630532821072/R.png",
+    "theme": "ViViD", 
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
-    "CLID_WJ_S": [
+    "HJVI_VO_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y WON JIMIN** I don't wanna",
-      "idol":"CLASS:y WON JIMIN",
-      "inv":"<:S_EMOTE:1036291020956115105> I don't wanna",
-      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929936010690580/S.png",
-      "theme": "I don't wanna", 
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin Vocal** ViViD",
+      "idol":"LOONA HeeJin Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398630931267625/S.png",
+      "theme": "ViViD", 
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
-    "CLID_WJ_A": [
+    "HJVI_VO_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y WON JIMIN** I don't wanna",
-      "idol":"CLASS:y WON JIMIN",
-      "inv":"<:A_EMOTE:1036291003348439102> I don't wanna",
-      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929934681079918/A.png",
-      "theme": "I don't wanna", 
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin Vocal** ViViD",
+      "idol":"LOONA HeeJin Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398629521993778/A.png",
+      "theme": "ViViD", 
       "minimum": "600",
       "maximum": "1200"
     }
     ],
-    "CLID_WJ_B": [
+    "HJVI_VO_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y WON JIMIN** I don't wanna",
-      "idol":"CLASS:y WON JIMIN",
-      "inv":"<:B_EMOTE:1036290987477180546> I don't wanna",
-      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935045988472/B.png",
-      "theme": "I don't wanna", 
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin Vocal** ViViD",
+      "idol":"LOONA HeeJin Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398629853331536/B.png",
+      "theme": "ViViD", 
       "minimum": "200",
       "maximum": "600"
     }
     ],
-  "CLID_WJ_C": [
+  "HJVI_VO_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y WON JIMIN** I don't wanna",
-      "idol":"CLASS:y WON JIMIN",
-      "inv":"<:C_EMOTE:1036290969676546092> I don't wanna",
-      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1051929935352184923/C.png",
-      "theme": "I don't wanna",
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin Vocal** ViViD",
+      "idol":"LOONA HeeJin Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398630201475132/C.png",
+      "theme": "ViViD",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "HJVI_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin Dance** ViViD",
+    "idol":"LOONA HeeJin Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> ViViD",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398668302528543/R.png",
+    "theme": "ViViD", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "HJVI_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin Dance** ViViD",
+      "idol":"LOONA HeeJin Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398668659048588/S.png",
+      "theme": "ViViD", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "HJVI_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin Dance** ViViD",
+      "idol":"LOONA HeeJin Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398666972934214/A.png",
+      "theme": "ViViD", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "HJVI_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin Dance** ViViD",
+      "idol":"LOONA HeeJin Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398667295899678/B.png",
+      "theme": "ViViD", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "HJVI_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin Dance** ViViD",
+      "idol":"LOONA HeeJin Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398667992137868/C.png",
+      "theme": "ViViD",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "HJVI_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin Rhythm** ViViD",
+    "idol":"LOONA HeeJin Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> ViViD",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398696630861844/R.png",
+    "theme": "ViViD", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "HJVI_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin Rhythm** ViViD",
+      "idol":"LOONA HeeJin Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398697020915792/S.png",
+      "theme": "ViViD", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "HJVI_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin Rhythm** ViViD",
+      "idol":"LOONA HeeJin Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398695565508739/A.png",
+      "theme": "ViViD", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "HJVI_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin Rhythm** ViViD",
+      "idol":"LOONA HeeJin Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398695938793522/B.png",
+      "theme": "ViViD", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "HJVI_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin Rhythm** ViViD",
+      "idol":"LOONA HeeJin Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> ViViD",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052398696295301180/C.png",
+      "theme": "ViViD",
       "minimum": "0",
       "maximum": "200"
     }
     ]
-  
           }
