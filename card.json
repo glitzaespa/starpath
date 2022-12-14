@@ -4075,7 +4075,7 @@
     "idol":"LOONA HyunJin Vocal",
     "inv":"<:R_EMOTE:1036291037620097034> Around You",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657788133376/R.png",
-    "theme": "Around You", 
+    "theme": "Around You (다녀가요)",
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -4086,7 +4086,7 @@
       "idol":"LOONA HyunJin Vocal",
       "inv":"<:S_EMOTE:1036291020956115105> Around You",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636658144653372/S.png",
-      "theme": "Around You", 
+      "theme": "Around You (다녀가요)",
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -4097,7 +4097,7 @@
       "idol":"LOONA HyunJin Vocal",
       "inv":"<:A_EMOTE:1036291003348439102> Around You",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636656785694760/A.png",
-      "theme": "Around You", 
+      "theme": "Around You (다녀가요)",
       "minimum": "600",
       "maximum": "1200"
     }
@@ -4108,7 +4108,7 @@
       "idol":"LOONA HyunJin Vocal",
       "inv":"<:B_EMOTE:1036290987477180546> Around You",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657133826179/B.png",
-      "theme": "Around You", 
+      "theme": "Around You (다녀가요)",
       "minimum": "200",
       "maximum": "600"
     }
@@ -4119,7 +4119,117 @@
       "idol":"LOONA HyunJin Vocal",
       "inv":"<:C_EMOTE:1036290969676546092> Around You",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657465167984/C.png",
-      "theme": "Around You",
+      "theme": "Around You (다녀가요)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "HYAY_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HyunJin Dance** Around You",
+    "idol":"LOONA HyunJin Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Around You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636681641148486/R.png",
+    "theme": "Around You (다녀가요)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "HYAY_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HyunJin Dance** Around You",
+      "idol":"LOONA HyunJin Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636682006040677/S.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "HYAY_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HyunJin Dance** Around You",
+      "idol":"LOONA HyunJin Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636680651276388/A.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "HYAY_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HyunJin Dance** Around You",
+      "idol":"LOONA HyunJin Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636680978448394/B.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "HYAY_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HyunJin Dance** Around You",
+      "idol":"LOONA HyunJin Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636681309786173/C.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "HYAY_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HyunJin Rhythm** Around You",
+    "idol":"LOONA HyunJin Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Around You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636708396613774/R.png",
+    "theme": "Around You (다녀가요)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "HYAY_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HyunJin Rhythm** Around You",
+      "idol":"LOONA HyunJin Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636708761501760/S.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "HYAY_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HyunJin Rhythm** Around You",
+      "idol":"LOONA HyunJin Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636707373203556/A.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "HYAY_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HyunJin Rhythm** Around You",
+      "idol":"LOONA HyunJin Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636707679371274/B.png",
+      "theme": "Around You (다녀가요)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "HYAY_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HyunJin Rhythm** Around You",
+      "idol":"LOONA HyunJin Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636708023312404/C.png",
+      "theme": "Around You (다녀가요)",
       "minimum": "0",
       "maximum": "200"
     }
