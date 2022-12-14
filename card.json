@@ -5,7 +5,7 @@
     "idol":"CLASS:y PARK BOEUN",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297137325096970/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -16,7 +16,7 @@
       "idol":"CLASS:y PARK BOEUN",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297137744531557/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -27,7 +27,7 @@
       "idol":"CLASS:y PARK BOEUN",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297136112934912/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -38,7 +38,7 @@
       "idol":"CLASS:y PARK BOEUN",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297136607871146/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -49,7 +49,7 @@
       "idol":"CLASS:y PARK BOEUN",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297136947601538/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -60,7 +60,7 @@
     "idol":"CLASS:y KIM SEONYOU",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036318227967508580/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -71,7 +71,7 @@
       "idol":"CLASS:y KIM SEONYOU",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036318228252737566/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -82,7 +82,7 @@
       "idol":"CLASS:y KIM SEONYOU",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036318226994430003/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -93,7 +93,7 @@
       "idol":"CLASS:y KIM SEONYOU",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036318227346768082/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -103,7 +103,7 @@
       "idol":"CLASS:y KIM SEONYOU",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036318227673927740/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -114,7 +114,7 @@
     "idol":"CLASS:y WON JIMIN",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127850766508/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -125,7 +125,7 @@
       "idol":"CLASS:y WON JIMIN",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371128312148028/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -136,7 +136,7 @@
       "idol":"CLASS:y WON JIMIN",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371126865104926/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -147,7 +147,7 @@
       "idol":"CLASS:y WON JIMIN",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127179685939/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -158,7 +158,7 @@
       "idol":"CLASS:y WON JIMIN",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036371127490072699/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -169,7 +169,7 @@
     "idol":"CLASS:y YOON CHAEWON",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717586038854/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -180,7 +180,7 @@
       "idol":"CLASS:y YOON CHAEWON",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717955125278/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -191,7 +191,7 @@
       "idol":"CLASS:y YOON CHAEWON",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373716591988736/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -202,7 +202,7 @@
       "idol":"CLASS:y YOON CHAEWON",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373716919132320/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -213,7 +213,7 @@
       "idol":"CLASS:y YOON CHAEWON",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036373717229502634/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -224,7 +224,7 @@
     "idol":"CLASS:y MYUNG HYUNGSEO",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036375827979440278/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -235,7 +235,7 @@
       "idol":"CLASS:y MYUNG HYUNGSEO",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036375828688289872/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -246,7 +246,7 @@
       "idol":"CLASS:y MYUNG HYUNGSEO",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036375827002179606/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -257,7 +257,7 @@
       "idol":"CLASS:y MYUNG HYUNGSEO",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036375827346100404/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -268,7 +268,7 @@
       "idol":"CLASS:y MYUNG HYUNGSEO",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036375827681652806/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -279,7 +279,7 @@
     "idol":"CLASS:y KIM RIWON",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036376834587246633/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -290,7 +290,7 @@
       "idol":"CLASS:y KIM RIWON",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036376834922782810/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -301,7 +301,7 @@
       "idol":"CLASS:y KIM RIWON",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036376833597390848/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -312,7 +312,7 @@
       "idol":"CLASS:y KIM RIWON",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036376833886789723/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -323,7 +323,7 @@
       "idol":"CLASS:y KIM RIWON",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036376834218143794/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -334,7 +334,7 @@
     "idol":"CLASS:y HONG HYEJU",
     "inv":"<:R_EMOTE:1036291037620097034> So tell me",
     "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648856834170/R.png",
-    "theme": "So tell me", 
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -345,7 +345,7 @@
       "idol":"CLASS:y HONG HYEJU",
       "inv":"<:S_EMOTE:1036291020956115105> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377649163010188/S.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -356,7 +356,7 @@
       "idol":"CLASS:y HONG HYEJU",
       "inv":"<:A_EMOTE:1036291003348439102> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377647892144128/A.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "600",
       "maximum": "1200"
     }
@@ -367,7 +367,7 @@
       "idol":"CLASS:y HONG HYEJU",
       "inv":"<:B_EMOTE:1036290987477180546> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648215097354/B.png",
-      "theme": "So tell me", 
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
       "minimum": "200",
       "maximum": "600"
     }
@@ -378,7 +378,7 @@
       "idol":"CLASS:y HONG HYEJU",
       "inv":"<:C_EMOTE:1036290969676546092> So tell me",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036377648525492264/C.png",
-      "theme": "So tell me",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]",
       "minimum": "0",
       "maximum": "200"
     }
@@ -4068,5 +4068,61 @@
       "minimum": "0",
       "maximum": "200"
     }
-    ]
+    ],
+  "HYAY_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HyunJin Vocal** Around You",
+    "idol":"LOONA HyunJin Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Around You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657788133376/R.png",
+    "theme": "Around You", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "HYAY_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HyunJin Vocal** Around You",
+      "idol":"LOONA HyunJin Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636658144653372/S.png",
+      "theme": "Around You", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "HYAY_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HyunJin Vocal** Around You",
+      "idol":"LOONA HyunJin Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636656785694760/A.png",
+      "theme": "Around You", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "HYAY_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HyunJin Vocal** Around You",
+      "idol":"LOONA HyunJin Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657133826179/B.png",
+      "theme": "Around You", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "HYAY_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HyunJin Vocal** Around You",
+      "idol":"LOONA HyunJin Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Around You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1052636657465167984/C.png",
+      "theme": "Around You",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  
           }
