@@ -4233,5 +4233,610 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "BLME_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **blackbear Vocal** me & ur ghost",
+    "idol":"blackbear Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> me & ur ghost",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745210288504832/R.png",
+    "theme": "me & ur ghost",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BLME_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **blackbear Vocal** me & ur ghost",
+      "idol":"blackbear Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745210615681074/S.png",
+      "theme": "me & ur ghost",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BLME_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **blackbear Vocal** me & ur ghost",
+      "idol":"blackbear Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745209277677668/A.png",
+      "theme": "me & ur ghost",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BLME_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **blackbear Vocal** me & ur ghost",
+      "idol":"blackbear Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745209604853780/B.png",
+      "theme": "me & ur ghost",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BLME_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **blackbear Vocal** me & ur ghost",
+      "idol":"blackbear Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745209923612732/C.png",
+      "theme": "me & ur ghost",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BLME_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **blackbear Dance** me & ur ghost",
+    "idol":"blackbear Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> me & ur ghost",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745285467230258/R.png",
+    "theme": "me & ur ghost",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BLME_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **blackbear Dance** me & ur ghost",
+      "idol":"blackbear Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745285777592351/S.png",
+      "theme": "me & ur ghost",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BLME_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **blackbear Dance** me & ur ghost",
+      "idol":"blackbear Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745284615786657/A.png",
+      "theme": "me & ur ghost",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BLME_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **blackbear Dance** me & ur ghost",
+      "idol":"blackbear Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745284892594276/B.png",
+      "theme": "me & ur ghost",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BLME_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **blackbear Dance** me & ur ghost",
+      "idol":"blackbear Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745285186191471/C.png",
+      "theme": "me & ur ghost",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BLME_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **blackbear Rhythm** me & ur ghost",
+    "idol":"blackbear Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> me & ur ghost",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745315783647252/R.png",
+    "theme": "me & ur ghost",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BLME_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **blackbear Rhythm** me & ur ghost",
+      "idol":"blackbear Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745316085633054/S.png",
+      "theme": "me & ur ghost",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BLME_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **blackbear Rhythm** me & ur ghost",
+      "idol":"blackbear Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745314777014272/A.png",
+      "theme": "me & ur ghost",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BLME_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **blackbear Rhythm** me & ur ghost",
+      "idol":"blackbear Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745315146109008/B.png",
+      "theme": "me & ur ghost",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BLME_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **blackbear Rhythm** me & ur ghost",
+      "idol":"blackbear Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> me & ur ghost",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053745315431333979/C.png",
+      "theme": "me & ur ghost",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXSD_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER BEOMGYU** Sweet Dreams",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> Sweet Dreams",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686823257378916/R.png",
+    "theme": "Sweet Dreams",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXSD_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER BEOMGYU** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686823605510144/S.png",
+      "theme": "Sweet Dreams",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXSD_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER BEOMGYU** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686822078779422/A.png",
+      "theme": "Sweet Dreams",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXSD_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER BEOMGYU** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686822460465284/B.png",
+      "theme": "Sweet Dreams",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXSD_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER BEOMGYU** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686822821187664/C.png",
+      "theme": "Sweet Dreams",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXSD_HK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER HUENINGKAI** Sweet Dreams",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "inv":"<:R_EMOTE:1036291037620097034> Sweet Dreams",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686854555287552/R.png",
+    "theme": "Sweet Dreams",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXSD_HK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER HUENINGKAI** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:S_EMOTE:1036291020956115105> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686854895013909/S.png",
+      "theme": "Sweet Dreams",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXSD_HK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER HUENINGKAI** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:A_EMOTE:1036291003348439102> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686853645123694/A.png",
+      "theme": "Sweet Dreams",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXSD_HK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER HUENINGKAI** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:B_EMOTE:1036290987477180546> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686853955489792/B.png",
+      "theme": "Sweet Dreams",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXSD_HK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER HUENINGKAI** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:C_EMOTE:1036290969676546092> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686854261690398/C.png",
+      "theme": "Sweet Dreams",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXSD_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER SOOBIN** Sweet Dreams",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Sweet Dreams",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686882724220979/R.png",
+    "theme": "Sweet Dreams",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXSD_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER SOOBIN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686884162875402/S.png",
+      "theme": "Sweet Dreams",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXSD_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER SOOBIN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686881272987658/A.png",
+      "theme": "Sweet Dreams",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXSD_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER SOOBIN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686882053140500/B.png",
+      "theme": "Sweet Dreams",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXSD_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER SOOBIN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686882376089620/C.png",
+      "theme": "Sweet Dreams",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXSD_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER TAEHYUN** Sweet Dreams",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Sweet Dreams",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686917851516998/R.png",
+    "theme": "Sweet Dreams",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXSD_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER TAEHYUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686918111572078/S.png",
+      "theme": "Sweet Dreams",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXSD_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER TAEHYUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686916895215756/A.png",
+      "theme": "Sweet Dreams",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXSD_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER TAEHYUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686917331431534/B.png",
+      "theme": "Sweet Dreams",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXSD_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER TAEHYUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686917591466034/C.png",
+      "theme": "Sweet Dreams",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXSD_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** Sweet Dreams",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Sweet Dreams",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686951267536896/R.png",
+    "theme": "Sweet Dreams",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXSD_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686951544365096/S.png",
+      "theme": "Sweet Dreams",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXSD_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686950466424942/A.png",
+      "theme": "Sweet Dreams",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXSD_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686950739058698/B.png",
+      "theme": "Sweet Dreams",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXSD_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** Sweet Dreams",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Sweet Dreams",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053686951011700786/C.png",
+      "theme": "Sweet Dreams",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "HSLM_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul Vocal** Let Me In",
+    "idol":"LOONA HaSeul Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Let Me In",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053751939952812103/R.png",
+    "theme": "소년, 소녀 (Let Me In)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "HSLM_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul Vocal** Let Me In",
+      "idol":"LOONA HaSeul Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053751940221251644/S.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "HSLM_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul Vocal** Let Me In",
+      "idol":"LOONA HaSeul Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053751939034259496/A.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "HSLM_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul Vocal** Let Me In",
+      "idol":"LOONA HaSeul Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053751939323670618/B.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "HSLM_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul Vocal** Let Me In",
+      "idol":"LOONA HaSeul Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053751939621453934/C.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "HSLM_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul Dance** Let Me In",
+    "idol":"LOONA HaSeul Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Let Me In",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752010983346186/R.png",
+    "theme": "소년, 소녀 (Let Me In)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "HSLM_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul Dance** Let Me In",
+      "idol":"LOONA HaSeul Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752011251785728/S.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "HSLM_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul Dance** Let Me In",
+      "idol":"LOONA HaSeul Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752010052210739/A.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "HSLM_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul Dance** Let Me In",
+      "idol":"LOONA HaSeul Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752010375176314/B.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "HSLM_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul Dance** Let Me In",
+      "idol":"LOONA HaSeul Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752010668769381/C.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "HSLM_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul Rhythm** Let Me In",
+    "idol":"LOONA HaSeul Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Let Me In",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752035293544468/R.png",
+    "theme": "소년, 소녀 (Let Me In)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "HSLM_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul Rhythm** Let Me In",
+      "idol":"LOONA HaSeul Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752035582935050/S.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "HSLM_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul Rhythm** Let Me In",
+      "idol":"LOONA HaSeul Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752034328854570/A.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "HSLM_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul Rhythm** Let Me In",
+      "idol":"LOONA HaSeul Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752034714714242/B.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "HSLM_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul Rhythm** Let Me In",
+      "idol":"LOONA HaSeul Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Let Me In",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1053752035025100900/C.png",
+      "theme": "소년, 소녀 (Let Me In)",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
