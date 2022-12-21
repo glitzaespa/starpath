@@ -4838,5 +4838,170 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "YJKI_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Vocal** Kiss",
+    "idol":"LOONA YeoJin Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Kiss",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550189093961859/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YJKI_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Vocal** Kiss",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550189387550851/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YJKI_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Vocal** Kiss",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550188213157968/A.png",
+      "theme": "Kiss Later",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YJKI_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Vocal** Kiss",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550188523524246/B.png",
+      "theme": "Kiss Later",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YJKI_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Vocal** Kiss",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550188800352276/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YJKI_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Dance** Kiss",
+    "idol":"LOONA YeoJin Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Kiss",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054953206431629413/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YJKI_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Dance** Kiss",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054953206792327209/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YJKI_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Dance** Kiss",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054953205420802098/A.png",
+      "theme": "Kiss Later",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YJKI_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Dance** Kiss",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054953205802471564/B.png",
+      "theme": "Kiss Later",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YJKI_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Dance** Kiss",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054953206100271164/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YJKI_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Rhythm** Kiss",
+    "idol":"LOONA YeoJin Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Kiss",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550249823285298/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YJKI_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Rhythm** Kiss",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550250175610981/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YJKI_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Rhythm** Kiss",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550248820846592/A.png",
+      "theme": "Kiss Later",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YJKI_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Rhythm** Kiss",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550249164783636/B.png",
+      "theme": "Kiss Later",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YJKI_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Rhythm** Kiss",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Kiss",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054550249517093015/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
