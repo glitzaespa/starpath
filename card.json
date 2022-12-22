@@ -5003,5 +5003,1050 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "YJLA_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Vocal** Later",
+    "idol":"LOONA YeoJin Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Later",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554072528310443/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YJLA_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Vocal** Later",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554072859648040/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YJLA_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Vocal** Later",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554071664283738/A.png",
+      "theme": "Kiss Later",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YJLA_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Vocal** Later",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554071949484043/B.png",
+      "theme": "Kiss Later",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YJLA_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Vocal** Later",
+      "idol":"LOONA YeoJin Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554072259870800/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YJLA_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Dance** Later",
+    "idol":"LOONA YeoJin Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Later",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554095844434011/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YJLA_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Dance** Later",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554096146419842/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YJLA_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Dance** Later",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554094808440862/A.png",
+      "theme": "Kiss Later",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YJLA_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Dance** Later",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554095169146921/B.png",
+      "theme": "Kiss Later",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YJLA_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Dance** Later",
+      "idol":"LOONA YeoJin Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554095538262086/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YJLA_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin Rhythm** Later",
+    "idol":"LOONA YeoJin Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Later",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554120355958884/R.png",
+    "theme": "Kiss Later",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YJLA_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin Rhythm** Later",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554120733438043/S.png",
+      "theme": "Kiss Later",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YJLA_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin Rhythm** Later",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554119429017691/A.png",
+      "theme": "Kiss Later",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YJLA_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin Rhythm** Later",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554119718416414/B.png",
+      "theme": "Kiss Later",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YJLA_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin Rhythm** Later",
+      "idol":"LOONA YeoJin Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Later",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554120032985108/C.png",
+      "theme": "Kiss Later",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_BA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** COOL (Your rainbow)",
+    "idol":"NMIXX BAE",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554787254468648/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_BA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** COOL (Your rainbow)",
+      "idol":"NMIXX BAE",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554787556478976/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_BA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** COOL (Your rainbow)",
+      "idol":"NMIXX BAE",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554786302361630/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_BA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** COOL (Your rainbow)",
+      "idol":"NMIXX BAE",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554786646315059/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_BA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** COOL (Your rainbow)",
+      "idol":"NMIXX BAE",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554786981855363/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** COOL (Your rainbow)",
+    "idol":"NMIXX HAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554811900211321/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** COOL (Your rainbow)",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554812189610154/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** COOL (Your rainbow)",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554810713215036/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** COOL (Your rainbow)",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554811044573235/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+   "NMCO_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** COOL (Your rainbow)",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554811409481768/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JINNI** COOL (Your rainbow)",
+    "idol":"NMIXX JINNI",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554892376309840/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JINNI** COOL (Your rainbow)",
+      "idol":"NMIXX JINNI",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554892657348668/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JINNI** COOL (Your rainbow)",
+      "idol":"NMIXX JINNI",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554891466145852/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JINNI** COOL (Your rainbow)",
+      "idol":"NMIXX JINNI",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554891814293544/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JINNI** COOL (Your rainbow)",
+      "idol":"NMIXX JINNI",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554892091101194/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** COOL (Your rainbow)",
+    "idol":"NMIXX JIWOO",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554915260436570/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** COOL (Your rainbow)",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554915604365333/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** COOL (Your rainbow)",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554914337689690/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** COOL (Your rainbow)",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554914677424148/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** COOL (Your rainbow)",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554914958458970/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_KJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** COOL (Your rainbow)",
+    "idol":"NMIXX KYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554939683868692/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_KJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** COOL (Your rainbow)",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554939985854515/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_KJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** COOL (Your rainbow)",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554938694012939/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_KJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** COOL (Your rainbow)",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554939105050716/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_KJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** COOL (Your rainbow)",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554939373502534/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** COOL (Your rainbow)",
+    "idol":"NMIXX LILY",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554969169821796/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** COOL (Your rainbow)",
+      "idol":"NMIXX LILY",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554969505374268/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** COOL (Your rainbow)",
+      "idol":"NMIXX LILY",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554968079302717/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** COOL (Your rainbow)",
+      "idol":"NMIXX LILY",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554968389689344/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** COOL (Your rainbow)",
+      "idol":"NMIXX LILY",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554968846872776/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMCO_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** COOL (Your rainbow)",
+    "idol":"NMIXX SULLYOON",
+    "inv":"<:R_EMOTE:1036291037620097034> COOL (Your rainbow)",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554987490558013/R.png",
+    "theme": "COOL (Your rainbow)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMCO_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** COOL (Your rainbow)",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:S_EMOTE:1036291020956115105> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554987834474526/S.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMCO_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** COOL (Your rainbow)",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:A_EMOTE:1036291003348439102> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554986647502868/A.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMCO_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** COOL (Your rainbow)",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:B_EMOTE:1036290987477180546> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554986932699166/B.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMCO_SY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** COOL (Your rainbow)",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:C_EMOTE:1036290969676546092> COOL (Your rainbow)",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1055554987209527376/C.png",
+      "theme": "COOL (Your rainbow)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_BO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON BOBBY** LOVE SCENARIO",
+    "idol":"iKON BOBBY",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054949398649520148/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_BO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON BOBBY** LOVE SCENARIO",
+      "idol":"iKON BOBBY",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054949438638002316/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_BO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON BOBBY** LOVE SCENARIO",
+      "idol":"iKON BOBBY",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054949479926738984/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_BO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON BOBBY** LOVE SCENARIO",
+      "idol":"iKON BOBBY",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054949524143079564/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_BO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON BOBBY** LOVE SCENARIO",
+      "idol":"iKON BOBBY",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054949562864893972/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON CHAN** LOVE SCENARIO",
+    "idol":"iKON CHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054951340960383016/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON CHAN** LOVE SCENARIO",
+      "idol":"iKON CHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054951276741394494/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON CHAN** LOVE SCENARIO",
+      "idol":"iKON CHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054951240330653726/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON CHAN** LOVE SCENARIO",
+      "idol":"iKON CHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054951205580845076/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON CHAN** LOVE SCENARIO",
+      "idol":"iKON CHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054951154137706616/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_DK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON DK** LOVE SCENARIO",
+    "idol":"iKON DK",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952175274557461/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_DK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON DK** LOVE SCENARIO",
+      "idol":"iKON DK",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952133071487037/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_DK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON DK** LOVE SCENARIO",
+      "idol":"iKON DK",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952087915610202/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_DK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON DK** LOVE SCENARIO",
+      "idol":"iKON DK",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952051769094215/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_DK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON DK** LOVE SCENARIO",
+      "idol":"iKON DK",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952007208816750/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON JAY** LOVE SCENARIO",
+    "idol":"iKON JAY",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952820379496538/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON JAY** LOVE SCENARIO",
+      "idol":"iKON JAY",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952820056539227/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON JAY** LOVE SCENARIO",
+      "idol":"iKON JAY",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952819679055892/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON JAY** LOVE SCENARIO",
+      "idol":"iKON JAY",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952819033124864/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON JAY** LOVE SCENARIO",
+      "idol":"iKON JAY",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054952818689196042/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_JU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON JU-NE** LOVE SCENARIO",
+    "idol":"iKON JU-NE",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054953515803476018/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_JU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON JU-NE** LOVE SCENARIO",
+      "idol":"iKON JU-NE",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054953515438588024/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_JU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON JU-NE** LOVE SCENARIO",
+      "idol":"iKON JU-NE",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054953514998169660/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_JU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON JU-NE** LOVE SCENARIO",
+      "idol":"iKON JU-NE",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054953514553589760/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_JU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON JU-NE** LOVE SCENARIO",
+      "idol":"iKON JU-NE",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054953514142531584/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IKLS_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **iKON SONG** LOVE SCENARIO",
+    "idol":"iKON SONG",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE SCENARIO",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1054954124392800256/image.png",
+    "theme": "LOVE SCENARIO",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IKLS_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **iKON SONG** LOVE SCENARIO",
+      "idol":"iKON SONG",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054954124115988480/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IKLS_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **iKON SONG** LOVE SCENARIO",
+      "idol":"iKON SONG",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054954123860131890/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IKLS_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **iKON SONG** LOVE SCENARIO",
+      "idol":"iKON SONG",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054954123541356584/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IKLS_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **iKON SONG** LOVE SCENARIO",
+      "idol":"iKON SONG",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE SCENARIO",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1054954123256156170/image.png",
+      "theme": "LOVE SCENARIO",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YESM_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Vocal** SMARTPHONE",
+    "idol":"YENA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> SMARTPHONE",
+    "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341958274187315/YE_SM_VC_R.png",
+    "theme": "SMARTPHONE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YESM_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Vocal** SMARTPHONE",
+      "idol":"YENA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341958639104071/YE_SM_VC_S.png",
+      "theme": "SMARTPHONE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YESM_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Vocal** SMARTPHONE",
+      "idol":"YENA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341957242388591/YE_SM_VC_A.png",
+      "theme": "SMARTPHONE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YESM_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Vocal** SMARTPHONE",
+      "idol":"YENA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341957590528041/YE_SM_VC_B.png",
+      "theme": "SMARTPHONE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YESM_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Vocal** SMARTPHONE",
+      "idol":"YENA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341957942853742/YE_SM_VC_C.png",
+      "theme": "SMARTPHONE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YESM_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Dance** SMARTPHONE",
+    "idol":"YENA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> SMARTPHONE",
+    "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341913437098004/YE_SM_DN_R.png",
+    "theme": "SMARTPHONE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YESM_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Dance** SMARTPHONE",
+      "idol":"YENA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341913806188624/YE_SM_DN_S.png",
+      "theme": "SMARTPHONE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YESM_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Dance** SMARTPHONE",
+      "idol":"YENA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341911709044859/YE_SM_DN_A.png",
+      "theme": "SMARTPHONE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YESM_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Dance** SMARTPHONE",
+      "idol":"YENA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341912141049948/YE_SM_DN_B.png",
+      "theme": "SMARTPHONE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YESM_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Dance** SMARTPHONE",
+      "idol":"YENA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341913005064302/YE_SM_DN_C.png",
+      "theme": "SMARTPHONE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YESM_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Rhythm** SMARTPHONE",
+    "idol":"YENA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> SMARTPHONE",
+    "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341933083209818/YE_SM_RH_R.png",
+    "theme": "SMARTPHONE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YESM_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Rhythm** SMARTPHONE",
+      "idol":"YENA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341933460701315/YE_SM_RH_S.png",
+      "theme": "SMARTPHONE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YESM_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Rhythm** SMARTPHONE",
+      "idol":"YENA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341931996885043/YE_SM_RH_A.png",
+      "theme": "SMARTPHONE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YESM_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Rhythm** SMARTPHONE",
+      "idol":"YENA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341932336627813/YE_SM_RH_B.png",
+      "theme": "SMARTPHONE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YESM_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Rhythm** SMARTPHONE",
+      "idol":"YENA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> SMARTPHONE",
+      "image": "https://cdn.discordapp.com/attachments/1006180728616271903/1036341932709908480/YE_SM_RH_C.png",
+      "theme": "SMARTPHONE",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
