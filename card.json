@@ -6048,5 +6048,335 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "P1BO_IN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Intak** Bop",
+    "idol":"P1Harmony Intak",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549263956332565/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_IN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Intak** Bop",
+      "idol":"P1Harmony Intak",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549264237346826/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_IN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Intak** Bop",
+      "idol":"P1Harmony Intak",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549262878396426/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_IN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Intak** Bop",
+      "idol":"P1Harmony Intak",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549263281045565/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_IN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Intak** Bop",
+      "idol":"P1Harmony Intak",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549263624966294/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "P1BO_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Jiung** Bop",
+    "idol":"P1Harmony Jiung",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549298458677288/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Jiung** Bop",
+      "idol":"P1Harmony Jiung",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549298756456509/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Jiung** Bop",
+      "idol":"P1Harmony Jiung",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549296193744926/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Jiung** Bop",
+      "idol":"P1Harmony Jiung",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549296495743036/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Jiung** Bop",
+      "idol":"P1Harmony Jiung",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549296789327932/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "P1BO_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Jongseob** Bop",
+    "idol":"P1Harmony Jongseob",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549342167498792/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Jongseob** Bop",
+      "idol":"P1Harmony Jongseob",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549342469505024/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Jongseob** Bop",
+      "idol":"P1Harmony Jongseob",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549340716269668/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Jongseob** Bop",
+      "idol":"P1Harmony Jongseob",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549341538369657/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Jongseob** Bop",
+      "idol":"P1Harmony Jongseob",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549341836161034/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "P1BO_KE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Keeho** Bop",
+    "idol":"P1Harmony Keeho",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549452423176282/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_KE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Keeho** Bop",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549452712575006/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_KE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Keeho** Bop",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549451424931991/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_KE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Keeho** Bop",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549451781439518/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_KE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Keeho** Bop",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549452087627836/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "P1BO_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Soul** Bop",
+    "idol":"P1Harmony Soul",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549477429620796/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Soul** Bop",
+      "idol":"P1Harmony Soul",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549477769347212/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Soul** Bop",
+      "idol":"P1Harmony Soul",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549476498485319/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Soul** Bop",
+      "idol":"P1Harmony Soul",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549476825628722/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Soul** Bop",
+      "idol":"P1Harmony Soul",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549477127634944/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "P1BO_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Theo** Bop",
+    "idol":"P1Harmony Theo",
+    "inv":"<:R_EMOTE:1036291037620097034> Bop",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549515643916368/R.png",
+    "theme": "Bop",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "P1BO_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Theo** Bop",
+      "idol":"P1Harmony Theo",
+      "inv":"<:S_EMOTE:1036291020956115105> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549516000440340/S.png",
+      "theme": "Bop",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "P1BO_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Theo** Bop",
+      "idol":"P1Harmony Theo",
+      "inv":"<:A_EMOTE:1036291003348439102> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549514599538728/A.png",
+      "theme": "Bop",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "P1BO_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Theo** Bop",
+      "idol":"P1Harmony Theo",
+      "inv":"<:B_EMOTE:1036290987477180546> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549514993807370/B.png",
+      "theme": "Bop",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "P1BO_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Theo** Bop",
+      "idol":"P1Harmony Theo",
+      "inv":"<:C_EMOTE:1036290969676546092> Bop",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1054549515299987577/C.png",
+      "theme": "Bop",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
