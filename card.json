@@ -6378,5 +6378,170 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "D6WT_WO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 (Even of Day) WONPIL** Where the sea sleeps",
+    "idol":"DAY6 (Even of Day) WONPIL",
+    "inv":"<:R_EMOTE:1036291037620097034> Where the sea sleeps",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970025237495838/R.png",
+    "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "D6WT_WO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 (Even of Day) WONPIL** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) WONPIL",
+      "inv":"<:S_EMOTE:1036291020956115105> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970025606582292/S.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "D6WT_WO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 (Even of Day) WONPIL** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) WONPIL",
+      "inv":"<:A_EMOTE:1036291003348439102> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970024310554694/A.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "D6WT_WO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 (Even of Day) WONPIL** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) WONPIL",
+      "inv":"<:B_EMOTE:1036290987477180546> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970024658669599/B.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "D6WT_WO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 (Even of Day) WONPIL** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) WONPIL",
+      "inv":"<:C_EMOTE:1036290969676546092> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970024960667769/C.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "D6WT_DO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 (Even of Day) DOWOON** Where the sea sleeps",
+    "idol":"DAY6 (Even of Day) DOWOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Where the sea sleeps",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970285401776218/R.png",
+    "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "D6WT_DO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 (Even of Day) DOWOON** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) DOWOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970285716344882/S.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "D6WT_DO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 (Even of Day) DOWOON** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) DOWOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970284252536942/A.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "D6WT_DO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 (Even of Day) DOWOON** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) DOWOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970284567105596/B.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "D6WT_DO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 (Even of Day) DOWOON** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) DOWOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970285078822972/C.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "D6WT_YK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 (Even of Day) Young K** Where the sea sleeps",
+    "idol":"DAY6 (Even of Day) Young K",
+    "inv":"<:R_EMOTE:1036291037620097034> Where the sea sleeps",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970307916791868/R.png",
+    "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "D6WT_YK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 (Even of Day) Young K** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) Young K",
+      "inv":"<:S_EMOTE:1036291020956115105> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970308277522492/S.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "D6WT_YK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 (Even of Day) Young K** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) Young K",
+      "inv":"<:A_EMOTE:1036291003348439102> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970306885013566/A.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "D6WT_YK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 (Even of Day) Young K** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) Young K",
+      "inv":"<:B_EMOTE:1036290987477180546> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970307203760209/B.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "D6WT_YK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 (Even of Day) Young K** Where the sea sleeps",
+      "idol":"DAY6 (Even of Day) Young K",
+      "inv":"<:C_EMOTE:1036290969676546092> Where the sea sleeps",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1056970307564490752/C.png",
+      "theme": "Where the sea sleeps (파도가 끝나는 곳까지)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
