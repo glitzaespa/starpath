@@ -6543,5 +6543,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "RVPS_IR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet IRENE** Psycho",
+    "idol":"Red Velvet IRENE",
+    "inv":"<:R_EMOTE:1036291037620097034> Psycho",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312295170510998/image.png",
+    "theme": "Psycho",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVPS_IR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet IRENE** Psycho",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:S_EMOTE:1036291020956115105> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312251017076767/image.png",
+      "theme": "Psycho",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVPS_IR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet IRENE** Psycho",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:A_EMOTE:1036291003348439102> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312216661532693/image.png",
+      "theme": "Psycho",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVPS_IR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet IRENE** Psycho",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:B_EMOTE:1036290987477180546> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312174466846761/image.png",
+      "theme": "Psycho",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVPS_IR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet IRENE** Psycho",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:C_EMOTE:1036290969676546092> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312129600356362/image.png",
+      "theme": "Psycho",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVPS_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet SEULGI** Psycho",
+    "idol":"Red Velvet SEULGI",
+    "inv":"<:R_EMOTE:1036291037620097034> Psycho",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312512091529326/image.png",
+    "theme": "Psycho",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVPS_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet SEULGI** Psycho",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:S_EMOTE:1036291020956115105> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312477652094976/image.png",
+      "theme": "Psycho",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVPS_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet SEULGI** Psycho",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:A_EMOTE:1036291003348439102> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312445641183392/image.png",
+      "theme": "Psycho",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVPS_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet SEULGI** Psycho",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:B_EMOTE:1036290987477180546> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312412309037116/image.png",
+      "theme": "Psycho",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVPS_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet SEULGI** Psycho",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:C_EMOTE:1036290969676546092> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312382563045476/image.png",
+      "theme": "Psycho",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVPS_WE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet WENDY** Psycho",
+    "idol":"Red Velvet WENDY",
+    "inv":"<:R_EMOTE:1036291037620097034> Psycho",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312787288195152/image.png",
+    "theme": "Psycho",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVPS_WE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet WENDY** Psycho",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:S_EMOTE:1036291020956115105> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312731122290818/image.png",
+      "theme": "Psycho",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVPS_WE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet WENDY** Psycho",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:A_EMOTE:1036291003348439102> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312701556637816/image.png",
+      "theme": "Psycho",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVPS_WE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet WENDY** Psycho",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:B_EMOTE:1036290987477180546> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312665988935720/image.png",
+      "theme": "Psycho",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVPS_WE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet WENDY** Psycho",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:C_EMOTE:1036290969676546092> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312573164789822/image.png",
+      "theme": "Psycho",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVPS_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet JOY** Psycho",
+    "idol":"Red Velvet JOY",
+    "inv":"<:R_EMOTE:1036291037620097034> Psycho",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313067434168370/image.png",
+    "theme": "Psycho",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVPS_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet JOY** Psycho",
+      "idol":"Red Velvet JOY",
+      "inv":"<:S_EMOTE:1036291020956115105> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313028141928580/image.png",
+      "theme": "Psycho",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVPS_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet JOY** Psycho",
+      "idol":"Red Velvet JOY",
+      "inv":"<:A_EMOTE:1036291003348439102> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312988799348858/image.png",
+      "theme": "Psycho",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVPS_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet JOY** Psycho",
+      "idol":"Red Velvet JOY",
+      "inv":"<:B_EMOTE:1036290987477180546> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312938039890001/image.png",
+      "theme": "Psycho",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVPS_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet JOY** Psycho",
+      "idol":"Red Velvet JOY",
+      "inv":"<:C_EMOTE:1036290969676546092> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056312904565149928/image.png",
+      "theme": "Psycho",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVPS_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet YERI** Psycho",
+    "idol":"Red Velvet YERI",
+    "inv":"<:R_EMOTE:1036291037620097034> Psycho",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313707304583168/image.png",
+    "theme": "Psycho",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVPS_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet YERI** Psycho",
+      "idol":"Red Velvet YERI",
+      "inv":"<:S_EMOTE:1036291020956115105> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313676212228196/image.png",
+      "theme": "Psycho",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVPS_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet YERI** Psycho",
+      "idol":"Red Velvet YERI",
+      "inv":"<:A_EMOTE:1036291003348439102> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313648294928455/image.png",
+      "theme": "Psycho",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVPS_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet YERI** Psycho",
+      "idol":"Red Velvet YERI",
+      "inv":"<:B_EMOTE:1036290987477180546> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313616518877224/image.png",
+      "theme": "Psycho",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVPS_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet YERI** Psycho",
+      "idol":"Red Velvet YERI",
+      "inv":"<:C_EMOTE:1036290969676546092> Psycho",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1056313584243707914/image.png",
+      "theme": "Psycho",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
