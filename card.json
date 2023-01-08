@@ -6818,5 +6818,665 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "LGRO_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Vocal** Rain On Me",
+    "idol":"Lady Gaga Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Rain On Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349935138123889/R.png",
+    "theme": "Rain On Me (with Ariana Grande)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LGRO_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Vocal** Rain On Me",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349935444312155/S.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LGRO_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Vocal** Rain On Me",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349934131490818/A.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LGRO_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Vocal** Rain On Me",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349934399930459/B.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LGRO_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Vocal** Rain On Me",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349934689321060/C.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LGRO_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Dance** Rain On Me",
+    "idol":"Lady Gaga Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Rain On Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349958257123358/R.png",
+    "theme": "Rain On Me (with Ariana Grande)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LGRO_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Dance** Rain On Me",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349958613635183/S.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LGRO_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Dance** Rain On Me",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349957242093679/A.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LGRO_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Dance** Rain On Me",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349957577646151/B.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LGRO_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Dance** Rain On Me",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349957908992101/C.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+"LGRO_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Rhythm** Rain On Me",
+    "idol":"Lady Gaga Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Rain On Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349981141254194/R.png",
+    "theme": "Rain On Me (with Ariana Grande)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LGRO_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Rhythm** Rain On Me",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349981443227779/S.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LGRO_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Rhythm** Rain On Me",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349980025569321/A.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LGRO_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Rhythm** Rain On Me",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349980495314944/B.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LGRO_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Rhythm** Rain On Me",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Rain On Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1060349980830879804/C.png",
+      "theme": "Rain On Me (with Ariana Grande)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SGWO_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Selena Gomez Vocal** Wolves",
+    "idol":"Selena Gomez Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Wolves",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698554437058600/R.png",
+    "theme": "Wolves (with Marshmello)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SGWO_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Selena Gomez Vocal** Wolves",
+      "idol":"Selena Gomez Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698554760007720/S.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SGWO_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Selena Gomez Vocal** Wolves",
+      "idol":"Selena Gomez Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698553610780733/A.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SGWO_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Selena Gomez Vocal** Wolves",
+      "idol":"Selena Gomez Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698553908563968/B.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SGWO_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Selena Gomez Vocal** Wolves",
+      "idol":"Selena Gomez Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698554168606780/C.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SGWO_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Selena Gomez Dance** Wolves",
+    "idol":"Selena Gomez Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Wolves",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698587362328576/R.png",
+    "theme": "Wolves (with Marshmello)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SGWO_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Selena Gomez Dance** Wolves",
+      "idol":"Selena Gomez Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698587903414352/S.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SGWO_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Selena Gomez Dance** Wolves",
+      "idol":"Selena Gomez Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698586271809536/A.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SGWO_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Selena Gomez Dance** Wolves",
+      "idol":"Selena Gomez Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698586666094732/B.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SGWO_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Selena Gomez Dance** Wolves",
+      "idol":"Selena Gomez Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698587035193344/C.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SGWO_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Selena Gomez Rhythm** Wolves",
+    "idol":"Selena Gomez Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Wolves",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698610921738360/R.png",
+    "theme": "Wolves (with Marshmello)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SGWO_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Selena Gomez Rhythm** Wolves",
+      "idol":"Selena Gomez Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698611282464850/S.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SGWO_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Selena Gomez Rhythm** Wolves",
+      "idol":"Selena Gomez Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698610032545902/A.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SGWO_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Selena Gomez Rhythm** Wolves",
+      "idol":"Selena Gomez Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698610342940764/B.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SGWO_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Selena Gomez Rhythm** Wolves",
+      "idol":"Selena Gomez Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Wolves",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061698610632343692/C.png",
+      "theme": "Wolves (with Marshmello)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BEME_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Billie Eilish Vocal** make 'em bow",
+    "idol":"Billie Eilish Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> make 'em bow",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699607274459146/R.png",
+    "theme": "you should see me in a crown",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BEME_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Billie Eilish Vocal** make 'em bow",
+      "idol":"Billie Eilish Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699607576461442/S.png",
+      "theme": "you should see me in a crown",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BEME_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Billie Eilish Vocal** make 'em bow",
+      "idol":"Billie Eilish Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699606460764260/A.png",
+      "theme": "you should see me in a crown",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BEME_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Billie Eilish Vocal** make 'em bow",
+      "idol":"Billie Eilish Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699606725017610/B.png",
+      "theme": "you should see me in a crown",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BEME_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Billie Eilish Vocal** make 'em bow",
+      "idol":"Billie Eilish Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699606989262848/C.png",
+      "theme": "you should see me in a crown",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BEME_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Billie Eilish Dance** make 'em bow",
+    "idol":"Billie Eilish Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> make 'em bow",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699624143962153/R.png",
+    "theme": "you should see me in a crown",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BEME_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Billie Eilish Dance** make 'em bow",
+      "idol":"Billie Eilish Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699624420790344/S.png",
+      "theme": "you should see me in a crown",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BEME_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Billie Eilish Dance** make 'em bow",
+      "idol":"Billie Eilish Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699623204438118/A.png",
+      "theme": "you should see me in a crown",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BEME_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Billie Eilish Dance** make 'em bow",
+      "idol":"Billie Eilish Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699623565152326/B.png",
+      "theme": "you should see me in a crown",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BEME_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Billie Eilish Dance** make 'em bow",
+      "idol":"Billie Eilish Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699623879708672/C.png",
+      "theme": "you should see me in a crown",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BEME_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Billie Eilish Rhythm** make 'em bow",
+    "idol":"Billie Eilish Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> make 'em bow",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699651901857852/R.png",
+    "theme": "you should see me in a crown",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BEME_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Billie Eilish Rhythm** make 'em bow",
+      "idol":"Billie Eilish Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699652229005442/S.png",
+      "theme": "you should see me in a crown",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BEME_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Billie Eilish Rhythm** make 'em bow",
+      "idol":"Billie Eilish Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699650907799673/A.png",
+      "theme": "you should see me in a crown",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BEME_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Billie Eilish Rhythm** make 'em bow",
+      "idol":"Billie Eilish Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699651247546460/B.png",
+      "theme": "you should see me in a crown",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BEME_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Billie Eilish Rhythm** make 'em bow",
+      "idol":"Billie Eilish Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> make 'em bow",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061699651612446830/C.png",
+      "theme": "you should see me in a crown",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ORG4_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Olivia Rodrigo Vocal** good 4 u",
+    "idol":"Olivia Rodrigo Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> good 4 u",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700624888102952/R.png",
+    "theme": "good 4 u",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ORG4_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Olivia Rodrigo Vocal** good 4 u",
+      "idol":"Olivia Rodrigo Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700625164943400/S.png",
+      "theme": "good 4 u",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ORG4_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Olivia Rodrigo Vocal** good 4 u",
+      "idol":"Olivia Rodrigo Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700623977939065/A.png",
+      "theme": "good 4 u",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ORG4_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Olivia Rodrigo Vocal** good 4 u",
+      "idol":"Olivia Rodrigo Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700624258973856/B.png",
+      "theme": "good 4 u",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ORG4_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Olivia Rodrigo Vocal** good 4 u",
+      "idol":"Olivia Rodrigo Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700624577736744/C.png",
+      "theme": "good 4 u",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ORG4_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Olivia Rodrigo Dance** good 4 u",
+    "idol":"Olivia Rodrigo Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> good 4 u",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700647390560256/R.png",
+    "theme": "good 4 u",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ORG4_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Olivia Rodrigo Dance** good 4 u",
+      "idol":"Olivia Rodrigo Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700647709311067/S.png",
+      "theme": "good 4 u",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ORG4_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Olivia Rodrigo Dance** good 4 u",
+      "idol":"Olivia Rodrigo Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700646425870417/A.png",
+      "theme": "good 4 u",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ORG4_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Olivia Rodrigo Dance** good 4 u",
+      "idol":"Olivia Rodrigo Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700646748815450/B.png",
+      "theme": "good 4 u",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ORG4_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Olivia Rodrigo Dance** good 4 u",
+      "idol":"Olivia Rodrigo Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700647050809404/C.png",
+      "theme": "good 4 u",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ORG4_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Olivia Rodrigo Rhythm** good 4 u",
+    "idol":"Olivia Rodrigo Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> good 4 u",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700668575973506/R.png",
+    "theme": "good 4 u",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ORG4_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Olivia Rodrigo Rhythm** good 4 u",
+      "idol":"Olivia Rodrigo Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700668882173962/S.png",
+      "theme": "good 4 u",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ORG4_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Olivia Rodrigo Rhythm** good 4 u",
+      "idol":"Olivia Rodrigo Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700667531599914/A.png",
+      "theme": "good 4 u",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ORG4_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Olivia Rodrigo Rhythm** good 4 u",
+      "idol":"Olivia Rodrigo Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700667871330364/B.png",
+      "theme": "good 4 u",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ORG4_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Olivia Rodrigo Rhythm** good 4 u",
+      "idol":"Olivia Rodrigo Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> good 4 u",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1061700668215279677/C.png",
+      "theme": "good 4 u",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
