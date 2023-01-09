@@ -7478,5 +7478,555 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "AESO_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa KARINA** SYNK out",
+    "idol":"aespa KARINA",
+    "inv":"<:R_EMOTE:1036291037620097034> SYNK out",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097653908897913/R.png",
+    "theme": "Black Mamba [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AESO_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa KARINA** SYNK out",
+      "idol":"aespa KARINA",
+      "inv":"<:S_EMOTE:1036291020956115105> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097654252851302/S.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AESO_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa KARINA** SYNK out",
+      "idol":"aespa KARINA",
+      "inv":"<:A_EMOTE:1036291003348439102> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097652935835780/A.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AESO_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa KARINA** SYNK out",
+      "idol":"aespa KARINA",
+      "inv":"<:B_EMOTE:1036290987477180546> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097653225226280/B.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AESO_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa KARINA** SYNK out",
+      "idol":"aespa KARINA",
+      "inv":"<:C_EMOTE:1036290969676546092> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097653552402573/C.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AESO_GI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa GISELLE** SYNK out",
+    "idol":"aespa GISELLE",
+    "inv":"<:R_EMOTE:1036291037620097034> SYNK out",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097703389118484/R.png",
+    "theme": "Black Mamba [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AESO_GI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa GISELLE** SYNK out",
+      "idol":"aespa GISELLE",
+      "inv":"<:S_EMOTE:1036291020956115105> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097703749816420/S.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AESO_GI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa GISELLE** SYNK out",
+      "idol":"aespa GISELLE",
+      "inv":"<:A_EMOTE:1036291003348439102> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097702260846612/A.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AESO_GI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa GISELLE** SYNK out",
+      "idol":"aespa GISELLE",
+      "inv":"<:B_EMOTE:1036290987477180546> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097702659309568/B.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AESO_GI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa GISELLE** SYNK out",
+      "idol":"aespa GISELLE",
+      "inv":"<:C_EMOTE:1036290969676546092> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097703020007495/C.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AESO_WI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa WINTER** SYNK out",
+    "idol":"aespa WINTER",
+    "inv":"<:R_EMOTE:1036291037620097034> SYNK out",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097733617455165/R.png",
+    "theme": "Black Mamba [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AESO_WI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa WINTER** SYNK out",
+      "idol":"aespa WINTER",
+      "inv":"<:S_EMOTE:1036291020956115105> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097733898489856/S.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AESO_WI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa WINTER** SYNK out",
+      "idol":"aespa WINTER",
+      "inv":"<:A_EMOTE:1036291003348439102> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097732665348176/A.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AESO_WI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa WINTER** SYNK out",
+      "idol":"aespa WINTER",
+      "inv":"<:B_EMOTE:1036290987477180546> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097732958965830/B.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AESO_WI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa WINTER** SYNK out",
+      "idol":"aespa WINTER",
+      "inv":"<:C_EMOTE:1036290969676546092> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097733269332058/C.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AESO_NN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa NINGNING** SYNK out",
+    "idol":"aespa NINGNING",
+    "inv":"<:R_EMOTE:1036291037620097034> SYNK out",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097757394960547/R.png",
+    "theme": "Black Mamba [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AESO_NN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa NINGNING** SYNK out",
+      "idol":"aespa NINGNING",
+      "inv":"<:S_EMOTE:1036291020956115105> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097757780856852/S.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AESO_NN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa NINGNING** SYNK out",
+      "idol":"aespa NINGNING",
+      "inv":"<:A_EMOTE:1036291003348439102> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097756325417150/A.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AESO_NN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa NINGNING** SYNK out",
+      "idol":"aespa NINGNING",
+      "inv":"<:B_EMOTE:1036290987477180546> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097756686123151/B.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AESO_NN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa NINGNING** SYNK out",
+      "idol":"aespa NINGNING",
+      "inv":"<:C_EMOTE:1036290969676546092> SYNK out",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062097757038448670/C.png",
+      "theme": "Black Mamba [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIED_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Vocal** Everyday I Love You",
+    "idol":"LOONA ViVi Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Everyday I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035965276852264/R.png",
+    "theme": "Everyday I Love You (Feat. HaSeul)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIED_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Vocal** Everyday I Love You",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035965687910500/S.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIED_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Vocal** Everyday I Love You",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035964224077904/A.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIED_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Vocal** Everyday I Love You",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035964576403498/B.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIED_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Vocal** Everyday I Love You",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035964962275418/C.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIED_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Dance** Everyday I Love You",
+    "idol":"LOONA ViVi Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Everyday I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035985141088326/R.png",
+    "theme": "Everyday I Love You (Feat. HaSeul)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIED_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Dance** Everyday I Love You",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035985464041533/S.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIED_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Dance** Everyday I Love You",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035984168001626/A.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIED_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Dance** Everyday I Love You",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035984465805413/B.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIED_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Dance** Everyday I Love You",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062035984818118807/C.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIED_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Rhythm** Everyday I Love You",
+    "idol":"LOONA ViVi Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Everyday I Love You",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036010021699614/R.png",
+    "theme": "Everyday I Love You (Feat. HaSeul)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIED_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Rhythm** Everyday I Love You",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036010365624320/S.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIED_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Rhythm** Everyday I Love You",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036009031843920/A.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIED_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Rhythm** Everyday I Love You",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036009396740227/B.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIED_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Rhythm** Everyday I Love You",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Everyday I Love You",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036009690345592/C.png",
+      "theme": "Everyday I Love You (Feat. HaSeul)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KLEC_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip Vocal** Eclipse",
+    "idol":"LOONA Kim Lip Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Eclipse",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036047275491478/R.png",
+    "theme": "Eclipse",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KLEC_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip Vocal** Eclipse",
+      "idol":"LOONA Kim Lip Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036047564914709/S.png",
+      "theme": "Eclipse",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KLEC_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip Vocal** Eclipse",
+      "idol":"LOONA Kim Lip Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036046352744549/A.png",
+      "theme": "Eclipse",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KLEC_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip Vocal** Eclipse",
+      "idol":"LOONA Kim Lip Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036046654750760/B.png",
+      "theme": "Eclipse",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KLEC_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip Vocal** Eclipse",
+      "idol":"LOONA Kim Lip Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036046931570748/C.png",
+      "theme": "Eclipse",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KLEC_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip Dance** Eclipse",
+    "idol":"LOONA Kim Lip Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Eclipse",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036074609782854/R.png",
+    "theme": "Eclipse",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KLEC_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip Dance** Eclipse",
+      "idol":"LOONA Kim Lip Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036074949529710/S.png",
+      "theme": "Eclipse",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KLEC_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip Dance** Eclipse",
+      "idol":"LOONA Kim Lip Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036073603149934/A.png",
+      "theme": "Eclipse",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KLEC_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip Dance** Eclipse",
+      "idol":"LOONA Kim Lip Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036073900953630/B.png",
+      "theme": "Eclipse",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KLEC_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip Dance** Eclipse",
+      "idol":"LOONA Kim Lip Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036074223894658/C.png",
+      "theme": "Eclipse",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KLEC_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip Rhythm** Eclipse",
+    "idol":"LOONA Kim Lip Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Eclipse",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036098391478332/R.png",
+    "theme": "Eclipse",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KLEC_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip Rhythm** Eclipse",
+      "idol":"LOONA Kim Lip Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036098714447932/S.png",
+      "theme": "Eclipse",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KLEC_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip Rhythm** Eclipse",
+      "idol":"LOONA Kim Lip Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036097175146496/A.png",
+      "theme": "Eclipse",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KLEC_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip Rhythm** Eclipse",
+      "idol":"LOONA Kim Lip Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036097481314364/B.png",
+      "theme": "Eclipse",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KLEC_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip Rhythm** Eclipse",
+      "idol":"LOONA Kim Lip Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Eclipse",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062036097959473192/C.png",
+      "theme": "Eclipse",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
