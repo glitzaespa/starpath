@@ -8468,5 +8468,610 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "CHHA_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Chuu Vocal** Heart Attack",
+    "idol":"LOONA Chuu Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113832895107102/R.png",
+    "theme": "Heart Attack",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CHHA_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Chuu Vocal** Heart Attack",
+      "idol":"LOONA Chuu Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113833381642251/S.png",
+      "theme": "Heart Attack",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CHHA_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Chuu Vocal** Heart Attack",
+      "idol":"LOONA Chuu Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113831846527066/A.png",
+      "theme": "Heart Attack",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CHHA_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Chuu Vocal** Heart Attack",
+      "idol":"LOONA Chuu Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113832131743754/B.png",
+      "theme": "Heart Attack",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CHHA_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Chuu Vocal** Heart Attack",
+      "idol":"LOONA Chuu Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113832496644246/C.png",
+      "theme": "Heart Attack",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CHHA_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Chuu Dance** Heart Attack",
+    "idol":"LOONA Chuu Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113864293658635/R.png",
+    "theme": "Heart Attack",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CHHA_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Chuu Dance** Heart Attack",
+      "idol":"LOONA Chuu Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113864616624268/S.png",
+      "theme": "Heart Attack",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CHHA_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Chuu Dance** Heart Attack",
+      "idol":"LOONA Chuu Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113863337357352/A.png",
+      "theme": "Heart Attack",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CHHA_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Chuu Dance** Heart Attack",
+      "idol":"LOONA Chuu Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113863618367498/B.png",
+      "theme": "Heart Attack",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CHHA_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Chuu Dance** Heart Attack",
+      "idol":"LOONA Chuu Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113863937146910/C.png",
+      "theme": "Heart Attack",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CHHA_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Chuu Rhythm** Heart Attack",
+    "idol":"LOONA Chuu Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113944543268874/R.png",
+    "theme": "Heart Attack",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CHHA_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Chuu Rhythm** Heart Attack",
+      "idol":"LOONA Chuu Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113944849461308/S.png",
+      "theme": "Heart Attack",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CHHA_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Chuu Rhythm** Heart Attack",
+      "idol":"LOONA Chuu Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113943419195412/A.png",
+      "theme": "Heart Attack",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CHHA_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Chuu Rhythm** Heart Attack",
+      "idol":"LOONA Chuu Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113943779913728/B.png",
+      "theme": "Heart Attack",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CHHA_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Chuu Rhythm** Heart Attack",
+      "idol":"LOONA Chuu Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063113944237097142/C.png",
+      "theme": "Heart Attack",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YVNE_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Yves Vocal** new",
+    "idol":"LOONA Yves Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> new",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116237770600458/R.png",
+    "theme": "new",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YVNE_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Yves Vocal** new",
+      "idol":"LOONA Yves Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116238110347356/S.png",
+      "theme": "new",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YVNE_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Yves Vocal** new",
+      "idol":"LOONA Yves Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116236789133502/A.png",
+      "theme": "new",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YVNE_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Yves Vocal** new",
+      "idol":"LOONA Yves Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116237137268848/B.png",
+      "theme": "new",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YVNE_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Yves Vocal** new",
+      "idol":"LOONA Yves Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116237506347058/C.png",
+      "theme": "new",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YVNE_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Yves Dance** new",
+    "idol":"LOONA Yves Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> new",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116261820743700/R.png",
+    "theme": "new",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YVNE_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Yves Dance** new",
+      "idol":"LOONA Yves Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116262168866826/S.png",
+      "theme": "new",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YVNE_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Yves Dance** new",
+      "idol":"LOONA Yves Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116260457590884/A.png",
+      "theme": "new",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YVNE_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Yves Dance** new",
+      "idol":"LOONA Yves Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116260927357008/B.png",
+      "theme": "new",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YVNE_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Yves Dance** new",
+      "idol":"LOONA Yves Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116261409685664/C.png",
+      "theme": "new",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YVNE_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Yves Rhythm** new",
+    "idol":"LOONA Yves Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> new",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116282439938108/R.png",
+    "theme": "new",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YVNE_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Yves Rhythm** new",
+      "idol":"LOONA Yves Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116282817413210/S.png",
+      "theme": "new",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YVNE_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Yves Rhythm** new",
+      "idol":"LOONA Yves Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116281265541221/A.png",
+      "theme": "new",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YVNE_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Yves Rhythm** new",
+      "idol":"LOONA Yves Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116281693352007/B.png",
+      "theme": "new",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YVNE_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Yves Rhythm** new",
+      "idol":"LOONA Yves Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> new",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063116282079236226/C.png",
+      "theme": "new",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IDTB_MI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **(G)I-DLE MINNIE** TOMBOY",
+    "idol":"(G)I-DLE MINNIE",
+    "inv":"<:R_EMOTE:1036291037620097034> TOMBOY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119735581065287/R.png",
+    "theme": "TOMBOY",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IDTB_MI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **(G)I-DLE MINNIE** TOMBOY",
+      "idol":"(G)I-DLE MINNIE",
+      "inv":"<:S_EMOTE:1036291020956115105> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119735891427368/S.png",
+      "theme": "TOMBOY",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IDTB_MI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **(G)I-DLE MINNIE** TOMBOY",
+      "idol":"(G)I-DLE MINNIE",
+      "inv":"<:A_EMOTE:1036291003348439102> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119734519906354/A.png",
+      "theme": "TOMBOY",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IDTB_MI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **(G)I-DLE MINNIE** TOMBOY",
+      "idol":"(G)I-DLE MINNIE",
+      "inv":"<:B_EMOTE:1036290987477180546> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119734847045753/B.png",
+      "theme": "TOMBOY",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IDTB_MI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **(G)I-DLE MINNIE** TOMBOY",
+      "idol":"(G)I-DLE MINNIE",
+      "inv":"<:C_EMOTE:1036290969676546092> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119735211962441/C.png",
+      "theme": "TOMBOY",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IDTB_MY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **(G)I-DLE MIYEON** TOMBOY",
+    "idol":"(G)I-DLE MIYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> TOMBOY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119765469671444/R.png",
+    "theme": "TOMBOY",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IDTB_MY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **(G)I-DLE MIYEON** TOMBOY",
+      "idol":"(G)I-DLE MIYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119765796814940/S.png",
+      "theme": "TOMBOY",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IDTB_MY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **(G)I-DLE MIYEON** TOMBOY",
+      "idol":"(G)I-DLE MIYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119764374958210/A.png",
+      "theme": "TOMBOY",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IDTB_MY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **(G)I-DLE MIYEON** TOMBOY",
+      "idol":"(G)I-DLE MIYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119764723073044/B.png",
+      "theme": "TOMBOY",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IDTB_MY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **(G)I-DLE MIYEON** TOMBOY",
+      "idol":"(G)I-DLE MIYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119765062828042/C.png",
+      "theme": "TOMBOY",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IDTB_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **(G)I-DLE SHUHUA** TOMBOY",
+    "idol":"(G)I-DLE SHUHUA",
+    "inv":"<:R_EMOTE:1036291037620097034> TOMBOY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119788102127738/R.png",
+    "theme": "TOMBOY",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IDTB_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **(G)I-DLE SHUHUA** TOMBOY",
+      "idol":"(G)I-DLE SHUHUA",
+      "inv":"<:S_EMOTE:1036291020956115105> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119788420911114/S.png",
+      "theme": "TOMBOY",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IDTB_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **(G)I-DLE SHUHUA** TOMBOY",
+      "idol":"(G)I-DLE SHUHUA",
+      "inv":"<:A_EMOTE:1036291003348439102> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119787091300352/A.png",
+      "theme": "TOMBOY",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IDTB_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **(G)I-DLE SHUHUA** TOMBOY",
+      "idol":"(G)I-DLE SHUHUA",
+      "inv":"<:B_EMOTE:1036290987477180546> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119787443638353/B.png",
+      "theme": "TOMBOY",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IDTB_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **(G)I-DLE SHUHUA** TOMBOY",
+      "idol":"(G)I-DLE SHUHUA",
+      "inv":"<:C_EMOTE:1036290969676546092> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119787741429871/C.png",
+      "theme": "TOMBOY",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IDTB_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **(G)I-DLE SOYEON** TOMBOY",
+    "idol":"(G)I-DLE SOYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> TOMBOY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119808771661834/R.png",
+    "theme": "TOMBOY",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IDTB_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **(G)I-DLE SOYEON** TOMBOY",
+      "idol":"(G)I-DLE SOYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119809140768819/S.png",
+      "theme": "TOMBOY",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IDTB_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **(G)I-DLE SOYEON** TOMBOY",
+      "idol":"(G)I-DLE SOYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119807546933368/A.png",
+      "theme": "TOMBOY",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IDTB_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **(G)I-DLE SOYEON** TOMBOY",
+      "idol":"(G)I-DLE SOYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119807945379901/B.png",
+      "theme": "TOMBOY",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IDTB_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **(G)I-DLE SOYEON** TOMBOY",
+      "idol":"(G)I-DLE SOYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119808381599844/C.png",
+      "theme": "TOMBOY",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IDTB_YU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **(G)I-DLE YUQI** TOMBOY",
+    "idol":"(G)I-DLE YUQI",
+    "inv":"<:R_EMOTE:1036291037620097034> TOMBOY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119833740361799/R.png",
+    "theme": "TOMBOY",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IDTB_YU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **(G)I-DLE YUQI** TOMBOY",
+      "idol":"(G)I-DLE YUQI",
+      "inv":"<:S_EMOTE:1036291020956115105> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119834084286564/S.png",
+      "theme": "TOMBOY",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IDTB_YU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **(G)I-DLE YUQI** TOMBOY",
+      "idol":"(G)I-DLE YUQI",
+      "inv":"<:A_EMOTE:1036291003348439102> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119832775671838/A.png",
+      "theme": "TOMBOY",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IDTB_YU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **(G)I-DLE YUQI** TOMBOY",
+      "idol":"(G)I-DLE YUQI",
+      "inv":"<:B_EMOTE:1036290987477180546> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119833090236466/B.png",
+      "theme": "TOMBOY",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IDTB_YU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **(G)I-DLE YUQI** TOMBOY",
+      "idol":"(G)I-DLE YUQI",
+      "inv":"<:C_EMOTE:1036290969676546092> TOMBOY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063119833425784953/C.png",
+      "theme": "TOMBOY",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
