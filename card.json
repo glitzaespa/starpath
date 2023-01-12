@@ -8028,5 +8028,445 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "LSAN_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "idol":"LE SSERAFIM SAKURA",
+    "inv":"<:R_EMOTE:1036291037620097034> ANTIFRAGILE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878967822045256/R.png",
+    "theme": "ANTIFRAGILE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSAN_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:S_EMOTE:1036291020956115105> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878968241455226/S.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSAN_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:A_EMOTE:1036291003348439102> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878966635044954/A.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSAN_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:B_EMOTE:1036290987477180546> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878966995767326/B.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSAN_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:C_EMOTE:1036290969676546092> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878967457120386/C.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSAN_KC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> ANTIFRAGILE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878992652324934/R.png",
+    "theme": "ANTIFRAGILE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSAN_KC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878993050767360/S.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSAN_KC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878991473725500/A.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSAN_KC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878991905730651/B.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSAN_KC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062878992228683846/C.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSAN_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> ANTIFRAGILE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879018908655626/R.png",
+    "theme": "ANTIFRAGILE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSAN_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879019260989530/S.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSAN_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879017914605598/A.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSAN_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879018258550875/B.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSAN_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879018581495808/C.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSAN_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "idol":"LE SSERAFIM KAZUHA",
+    "inv":"<:R_EMOTE:1036291037620097034> ANTIFRAGILE",
+    "image": "https://cdn.discordapp.com/attachments/1062879137980756099/1062879246055387166/R.png",
+    "theme": "ANTIFRAGILE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSAN_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:S_EMOTE:1036291020956115105> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1062879137980756099/1062879246399307806/S.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSAN_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:A_EMOTE:1036291003348439102> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1062879137980756099/1062879244939702422/A.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSAN_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:B_EMOTE:1036290987477180546> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1062879137980756099/1062879245304594533/B.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSAN_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:C_EMOTE:1036290969676546092> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1062879137980756099/1062879245627560049/C.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSAN_HE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "inv":"<:R_EMOTE:1036291037620097034> ANTIFRAGILE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879097337950218/R.png",
+    "theme": "ANTIFRAGILE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSAN_HE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:S_EMOTE:1036291020956115105> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879097656721488/S.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSAN_HE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:A_EMOTE:1036291003348439102> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879096419397642/A.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSAN_HE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:B_EMOTE:1036290987477180546> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879096692031559/B.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSAN_HE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:C_EMOTE:1036290969676546092> ANTIFRAGILE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879097035952230/C.png",
+      "theme": "ANTIFRAGILE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSST_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Vocal** Singing In The Rain",
+    "idol":"LOONA JinSoul Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Singing In The Rain",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879993300004874/R.png",
+    "theme": "Singing In The Rain",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSST_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Vocal** Singing In The Rain",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879993614581871/S.png",
+      "theme": "Singing In The Rain",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSST_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Vocal** Singing In The Rain",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879992377258115/A.png",
+      "theme": "Singing In The Rain",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSST_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Vocal** Singing In The Rain",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879992691834900/B.png",
+      "theme": "Singing In The Rain",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSST_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Vocal** Singing In The Rain",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062879993018994738/C.png",
+      "theme": "Singing In The Rain",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSST_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Dance** Singing In The Rain",
+    "idol":"LOONA JinSoul Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Singing In The Rain",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880013671735316/R.png",
+    "theme": "Singing In The Rain",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSST_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Dance** Singing In The Rain",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880013994688532/S.png",
+      "theme": "Singing In The Rain",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSST_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Dance** Singing In The Rain",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880012677685278/A.png",
+      "theme": "Singing In The Rain",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSST_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Dance** Singing In The Rain",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880013000638464/B.png",
+      "theme": "Singing In The Rain",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSST_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Dance** Singing In The Rain",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880013319422012/C.png",
+      "theme": "Singing In The Rain",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSST_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Rhythm** Singing In The Rain",
+    "idol":"LOONA JinSoul Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Singing In The Rain",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880036962709524/R.png",
+    "theme": "Singing In The Rain",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSST_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Rhythm** Singing In The Rain",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880037281468447/S.png",
+      "theme": "Singing In The Rain",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSST_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Rhythm** Singing In The Rain",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880035805081671/A.png",
+      "theme": "Singing In The Rain",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSST_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Rhythm** Singing In The Rain",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880036132229120/B.png",
+      "theme": "Singing In The Rain",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSST_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Rhythm** Singing In The Rain",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Singing In The Rain",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1062880036631355534/C.png",
+      "theme": "Singing In The Rain",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
