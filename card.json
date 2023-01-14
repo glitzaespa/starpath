@@ -10558,5 +10558,434 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "ITKD_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YEJI** KIDDING ME",
+    "idol":"ITZY YEJI",
+    "inv":"<:R_EMOTE:1036291037620097034> KIDDING ME",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063846980201218069/R.png",
+    "theme": "KIDDING ME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ITKD_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YEJI** KIDDING ME",
+      "idol":"ITZY YEJI",
+      "inv":"<:S_EMOTE:1036291020956115105> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063846980419325992/S.png",
+      "theme": "KIDDING ME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ITKD_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YEJI** KIDDING ME",
+      "idol":"ITZY YEJI",
+      "inv":"<:A_EMOTE:1036291003348439102> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063846979500769350/A.png",
+      "theme": "KIDDING ME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ITKD_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YEJI** KIDDING ME",
+      "idol":"ITZY YEJI",
+      "inv":"<:B_EMOTE:1036290987477180546> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063846979756642404/B.png",
+      "theme": "KIDDING ME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ITKD_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YEJI** KIDDING ME",
+      "idol":"ITZY YEJI",
+      "inv":"<:C_EMOTE:1036290969676546092> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063846979962146887/C.png",
+      "theme": "KIDDING ME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ITKD_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY LIA** KIDDING ME",
+    "idol":"ITZY LIA",
+    "inv":"<:R_EMOTE:1036291037620097034> KIDDING ME",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847231205167244/R.png",
+    "theme": "KIDDING ME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ITKD_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY LIA** KIDDING ME",
+      "idol":"ITZY LIA",
+      "inv":"<:S_EMOTE:1036291020956115105> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847231444230175/S.png",
+      "theme": "KIDDING ME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ITKD_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY LIA** KIDDING ME",
+      "idol":"ITZY LIA",
+      "inv":"<:A_EMOTE:1036291003348439102> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847230492135424/A.png",
+      "theme": "KIDDING ME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ITKD_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY LIA** KIDDING ME",
+      "idol":"ITZY LIA",
+      "inv":"<:B_EMOTE:1036290987477180546> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847230760558693/B.png",
+      "theme": "KIDDING ME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ITKD_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY LIA** KIDDING ME",
+      "idol":"ITZY LIA",
+      "inv":"<:C_EMOTE:1036290969676546092> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847230999638068/C.png",
+      "theme": "KIDDING ME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ITKD_RJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY RYUJIN** KIDDING ME",
+    "idol":"ITZY RYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> KIDDING ME",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847256396148786/R.png",
+    "theme": "KIDDING ME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ITKD_RJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY RYUJIN** KIDDING ME",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847256765235220/S.png",
+      "theme": "KIDDING ME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ITKD_RJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY RYUJIN** KIDDING ME",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847255599230976/A.png",
+      "theme": "KIDDING ME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ITKD_RJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY RYUJIN** KIDDING ME",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847255846682665/B.png",
+      "theme": "KIDDING ME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ITKD_RJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY RYUJIN** KIDDING ME",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847256123527248/C.png",
+      "theme": "KIDDING ME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ITKD_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY CHAERYEONG** KIDDING ME",
+    "idol":"ITZY CHAERYEONG",
+    "inv":"<:R_EMOTE:1036291037620097034> KIDDING ME",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847279729066055/R.png",
+    "theme": "KIDDING ME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ITKD_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY CHAERYEONG** KIDDING ME",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:S_EMOTE:1036291020956115105> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847279980720128/S.png",
+      "theme": "KIDDING ME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ITKD_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY CHAERYEONG** KIDDING ME",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:A_EMOTE:1036291003348439102> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847278969897031/A.png",
+      "theme": "KIDDING ME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ITKD_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY CHAERYEONG** KIDDING ME",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:B_EMOTE:1036290987477180546> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847279221551194/B.png",
+      "theme": "KIDDING ME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ITKD_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY CHAERYEONG** KIDDING ME",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:C_EMOTE:1036290969676546092> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847279456424026/C.png",
+      "theme": "KIDDING ME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ITKD_YN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YUNA** KIDDING ME",
+    "idol":"ITZY YUNA",
+    "inv":"<:R_EMOTE:1036291037620097034> KIDDING ME",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847301484904488/R.png",
+    "theme": "KIDDING ME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ITKD_YN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YUNA** KIDDING ME",
+      "idol":"ITZY YUNA",
+      "inv":"<:S_EMOTE:1036291020956115105> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847301757554688/S.png",
+      "theme": "KIDDING ME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ITKD_YN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YUNA** KIDDING ME",
+      "idol":"ITZY YUNA",
+      "inv":"<:A_EMOTE:1036291003348439102> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847300675411978/A.png",
+      "theme": "KIDDING ME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ITKD_YN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YUNA** KIDDING ME",
+      "idol":"ITZY YUNA",
+      "inv":"<:B_EMOTE:1036290987477180546> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847300956422284/B.png",
+      "theme": "KIDDING ME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ITKD_YN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YUNA** KIDDING ME",
+      "idol":"ITZY YUNA",
+      "inv":"<:C_EMOTE:1036290969676546092> KIDDING ME",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063847301203906590/C.png",
+      "theme": "KIDDING ME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CRLC_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Choerry Vocal** Love Cherry Motion",
+    "idol":"LOONA Choerry Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Cherry Motion",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848678646894612/R.png",
+    "theme": "Love Cherry Motion",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CRLC_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Choerry Vocal** Love Cherry Motion",
+      "idol":"LOONA Choerry Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848678864986253/S.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CRLC_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Choerry Vocal** Love Cherry Motion",
+      "idol":"LOONA Choerry Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848678021943396/A.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CRLC_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Choerry Vocal** Love Cherry Motion",
+      "idol":"LOONA Choerry Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848678210674708/B.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CRLC_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Choerry Vocal** Love Cherry Motion",
+      "idol":"LOONA Choerry Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848678420394016/C.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CRLC_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Choerry Dance** Love Cherry Motion",
+    "idol":"LOONA Choerry Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Cherry Motion",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848696766287973/R.png",
+    "theme": "Love Cherry Motion",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CRLC_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Choerry Dance** Love Cherry Motion",
+      "idol":"LOONA Choerry Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848696942428200/S.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CRLC_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Choerry Dance** Love Cherry Motion",
+      "idol":"LOONA Choerry Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848696032284692/A.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CRLC_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Choerry Dance** Love Cherry Motion",
+      "idol":"LOONA Choerry Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848696304894013/B.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CRLC_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Choerry Dance** Love Cherry Motion",
+      "idol":"LOONA Choerry Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848696552370196/C.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CRLC_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Choerry Rhythm** Love Cherry Motion",
+    "idol":"LOONA Choerry Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Cherry Motion",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848716747948092/R.png",
+    "theme": "Love Cherry Motion",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CRLC_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Choerry Rhythm** Love Cherry Motion",
+      "idol":"LOONA Choerry Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848716970233856/S.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CRLC_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Choerry Rhythm** Love Cherry Motion",
+      "idol":"LOONA Choerry Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848716139773963/A.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CRLC_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Choerry Rhythm** Love Cherry Motion",
+      "idol":"LOONA Choerry Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Cherry Motion",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063848716328505384/B.png",
+      "theme": "Love Cherry Motion",
+      "minimum": "200",
+      "maximum": "600"
+    }
     ]
           }
