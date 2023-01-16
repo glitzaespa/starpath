@@ -11273,5 +11273,500 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "SFSB_YB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Young Bin** Summer Breeze",
+    "idol":"SF9 Young Bin",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060166754678087740/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_YB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Young Bin** Summer Breeze",
+      "idol":"SF9 Young Bin",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060166754254454874/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_YB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Young Bin** Summer Breeze",
+      "idol":"SF9 Young Bin",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060166753776324699/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_YB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Young Bin** Summer Breeze",
+      "idol":"SF9 Young Bin",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060166753457537024/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_YB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Young Bin** Summer Breeze",
+      "idol":"SF9 Young Bin",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060166753025544192/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_IS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 In Seong** Summer Breeze",
+    "idol":"SF9 In Seong",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060167239850004571/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_IS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 In Seong** Summer Breeze",
+      "idol":"SF9 In Seong",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060167239485116457/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_IS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 In Seong** Summer Breeze",
+      "idol":"SF9 In Seong",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060167238809817098/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_IS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 In Seong** Summer Breeze",
+      "idol":"SF9 In Seong",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060167238809817098/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_IS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 In Seong** Summer Breeze",
+      "idol":"SF9 In Seong",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060167238335877261/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_JY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Jae Yoon** Summer Breeze",
+    "idol":"SF9 Jae Yoon",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168178317152347/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_JY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Jae Yoon** Summer Breeze",
+      "idol":"SF9 Jae Yoon",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177994186802/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_JY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Jae Yoon** Summer Breeze",
+      "idol":"SF9 Jae Yoon",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177524416572/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_JY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Jae Yoon** Summer Breeze",
+      "idol":"SF9 Jae Yoon",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177205661726/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_JY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Jae Yoon** Summer Breeze",
+      "idol":"SF9 Jae Yoon",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168176865918977/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Da Won** Summer Breeze",
+    "idol":"SF9 Da Won",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168178317152347/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Da Won** Summer Breeze",
+      "idol":"SF9 Da Won",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177994186802/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Da Won** Summer Breeze",
+      "idol":"SF9 Da Won",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177524416572/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Da Won** Summer Breeze",
+      "idol":"SF9 Da Won",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168177205661726/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Da Won** Summer Breeze",
+      "idol":"SF9 Da Won",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168176865918977/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_RO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Ro Woon** Summer Breeze",
+    "idol":"SF9 Ro Woon",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168500745883700/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_RO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Ro Woon** Summer Breeze",
+      "idol":"SF9 Ro Woon",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168500456468540/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_RO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Ro Woon** Summer Breeze",
+      "idol":"SF9 Ro Woon",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168500175442041/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_RO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Ro Woon** Summer Breeze",
+      "idol":"SF9 Ro Woon",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168499844100106/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_RO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Ro Woon** Summer Breeze",
+      "idol":"SF9 Ro Woon",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168499458215967/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_ZU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Zu Ho** Summer Breeze",
+    "idol":"SF9 Zu Ho",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168913272442910/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_ZU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Zu Ho** Summer Breeze",
+      "idol":"SF9 Zu Ho",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168912924323870/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_ZU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Zu Ho** Summer Breeze",
+      "idol":"SF9 Zu Ho",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168912509095976/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_ZU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Zu Ho** Summer Breeze",
+      "idol":"SF9 Zu Ho",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168912181923881/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_ZU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Zu Ho** Summer Breeze",
+      "idol":"SF9 Zu Ho",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060168911913496596/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_YTY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Yoo Tae Yang** Summer Breeze",
+    "idol":"SF9 Yoo Tae Yang",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169388260589718/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_YTY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Yoo Tae Yang** Summer Breeze",
+      "idol":"SF9 Yoo Tae Yang",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169387941834763/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_YTY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Yoo Tae Yang** Summer Breeze",
+      "idol":"SF9 Yoo Tae Yang",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169387656630292/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_YTY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Yoo Tae Yang** Summer Breeze",
+      "idol":"SF9 Yoo Tae Yang",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169387337842779/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_YTY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Yoo Tae Yang** Summer Breeze",
+      "idol":"SF9 Yoo Tae Yang",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169386989727774/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_HW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Hwi Young** Summer Breeze",
+    "idol":"SF9 Hwi Young",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169811499433984/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_HW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Hwi Young** Summer Breeze",
+      "idol":"SF9 Hwi Young",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169811163873350/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_HW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Hwi Young** Summer Breeze",
+      "idol":"SF9 Hwi Young",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169810815762432/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_HW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Hwi Young** Summer Breeze",
+      "idol":"SF9 Hwi Young",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169810413092894/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_HW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Hwi Young** Summer Breeze",
+      "idol":"SF9 Hwi Young",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060169810056589332/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SFSB_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SF9 Cha Ni** Summer Breeze",
+    "idol":"SF9 Cha Ni",
+    "inv":"<:R_EMOTE:1036291037620097034> Summer Breeze",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1060170240442499072/image.png",
+    "theme": "Summer Breeze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SFSB_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SF9 Cha Ni** Summer Breeze",
+      "idol":"SF9 Cha Ni",
+      "inv":"<:S_EMOTE:1036291020956115105> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060170240123736074/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SFSB_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SF9 Cha Ni** Summer Breeze",
+      "idol":"SF9 Cha Ni",
+      "inv":"<:A_EMOTE:1036291003348439102> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060170239804977246/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SFSB_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SF9 Cha Ni** Summer Breeze",
+      "idol":"SF9 Cha Ni",
+      "inv":"<:B_EMOTE:1036290987477180546> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060170239519752222/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SFSB_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SF9 Cha Ni** Summer Breeze",
+      "idol":"SF9 Cha Ni",
+      "inv":"<:C_EMOTE:1036290969676546092> Summer Breeze",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1060170239209377822/image.png",
+      "theme": "Summer Breeze",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
