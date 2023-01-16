@@ -11768,5 +11768,390 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "NCUBS_TA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U TAEYONG** Birthday Song",
+    "idol":"NCT U TAEYONG",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661088408436876/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_TA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U TAEYONG** Birthday Song",
+      "idol":"NCT U TAEYONG",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661088618156153/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_TA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U TAEYONG** Birthday Song",
+      "idol":"NCT U TAEYONG",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661087687016498/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_TA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U TAEYONG** Birthday Song",
+      "idol":"NCT U TAEYONG",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661087938678825/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_TA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U TAEYONG** Birthday Song",
+      "idol":"NCT U TAEYONG",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661088194535484/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_DO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U DOYOUNG** Birthday Song",
+    "idol":"NCT U DOYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064660988655317073/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_DO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U DOYOUNG** Birthday Song",
+      "idol":"NCT U DOYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064660988944728074/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_DO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U DOYOUNG** Birthday Song",
+      "idol":"NCT U DOYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064660987787096134/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_DO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U DOYOUNG** Birthday Song",
+      "idol":"NCT U DOYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064660988093284413/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_DO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U DOYOUNG** Birthday Song",
+      "idol":"NCT U DOYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064660988365897818/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U JAEHYUN** Birthday Song",
+    "idol":"NCT U JAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661005856145538/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U JAEHYUN** Birthday Song",
+      "idol":"NCT U JAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661006057476146/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U JAEHYUN** Birthday Song",
+      "idol":"NCT U JAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661004610437183/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U JAEHYUN** Birthday Song",
+      "idol":"NCT U JAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661005180866560/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U JAEHYUN** Birthday Song",
+      "idol":"NCT U JAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661005663219742/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_JM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U JAEMIN** Birthday Song",
+    "idol":"NCT U JAEMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661027993694228/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_JM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U JAEMIN** Birthday Song",
+      "idol":"NCT U JAEMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661028232777758/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_JM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U JAEMIN** Birthday Song",
+      "idol":"NCT U JAEMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661027272274031/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_JM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U JAEMIN** Birthday Song",
+      "idol":"NCT U JAEMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661027498774670/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_JM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U JAEMIN** Birthday Song",
+      "idol":"NCT U JAEMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661027758800958/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_LU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U LUCAS** Birthday Song",
+    "idol":"NCT U LUCAS",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661042577281154/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_LU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U LUCAS** Birthday Song",
+      "idol":"NCT U LUCAS",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661042795397120/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_LU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U LUCAS** Birthday Song",
+      "idol":"NCT U LUCAS",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661041935552542/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_LU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U LUCAS** Birthday Song",
+      "idol":"NCT U LUCAS",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661042149474405/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_LU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U LUCAS** Birthday Song",
+      "idol":"NCT U LUCAS",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661042367582279/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U SHOTARO** Birthday Song",
+    "idol":"NCT U SHOTARO",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661061749452860/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U SHOTARO** Birthday Song",
+      "idol":"NCT U SHOTARO",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661061996920882/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U SHOTARO** Birthday Song",
+      "idol":"NCT U SHOTARO",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661061044797501/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U SHOTARO** Birthday Song",
+      "idol":"NCT U SHOTARO",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661061292273716/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U SHOTARO** Birthday Song",
+      "idol":"NCT U SHOTARO",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661061527142420/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NCUBS_XI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT U XIAOJUN** Birthday Song",
+    "idol":"NCT U XIAOJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Birthday Song",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661122445234246/R.png",
+    "theme": "Make A Wish (Birthday Song)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NCUBS_XI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT U XIAOJUN** Birthday Song",
+      "idol":"NCT U XIAOJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661122680107078/S.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NCUBS_XI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT U XIAOJUN** Birthday Song",
+      "idol":"NCT U XIAOJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661121589596190/A.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NCUBS_XI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT U XIAOJUN** Birthday Song",
+      "idol":"NCT U XIAOJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661121853829150/B.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NCUBS_XI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT U XIAOJUN** Birthday Song",
+      "idol":"NCT U XIAOJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Birthday Song",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064661122139045940/C.png",
+      "theme": "Make A Wish (Birthday Song)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
