@@ -10998,5 +10998,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "IT36_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YEJI** 365 [230116]",
+    "idol":"ITZY YEJI",
+    "inv":"<:R_EMOTE:1036291037620097034> 365 [230116]",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334406925439037/R.png",
+    "theme": "365",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IT36_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YEJI** 365 [230116]",
+      "idol":"ITZY YEJI",
+      "inv":"<:S_EMOTE:1036291020956115105> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334407093194802/S.png",
+      "theme": "365",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IT36_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YEJI** 365 [230116]",
+      "idol":"ITZY YEJI",
+      "inv":"<:A_EMOTE:1036291003348439102> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334406375985173/A.png",
+      "theme": "365",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IT36_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YEJI** 365 [230116]",
+      "idol":"ITZY YEJI",
+      "inv":"<:B_EMOTE:1036290987477180546> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334406539546664/B.png",
+      "theme": "365",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IT36_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YEJI** 365 [230116]",
+      "idol":"ITZY YEJI",
+      "inv":"<:C_EMOTE:1036290969676546092> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334406736687214/C.png",
+      "theme": "365",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IT36_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY LIA** 365 [230116]",
+    "idol":"ITZY LIA",
+    "inv":"<:R_EMOTE:1036291037620097034> 365 [230116]",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334447379488899/R.png",
+    "theme": "365",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IT36_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY LIA** 365 [230116]",
+      "idol":"ITZY LIA",
+      "inv":"<:S_EMOTE:1036291020956115105> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334447559852042/S.png",
+      "theme": "365",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IT36_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY LIA** 365 [230116]",
+      "idol":"ITZY LIA",
+      "inv":"<:A_EMOTE:1036291003348439102> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334446737760346/A.png",
+      "theme": "365",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IT36_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY LIA** 365 [230116]",
+      "idol":"ITZY LIA",
+      "inv":"<:B_EMOTE:1036290987477180546> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334446951678032/B.png",
+      "theme": "365",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IT36_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY LIA** 365 [230116]",
+      "idol":"ITZY LIA",
+      "inv":"<:C_EMOTE:1036290969676546092> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334447173959792/C.png",
+      "theme": "365",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IT36_RJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY RYUJIN** 365 [230116]",
+    "idol":"ITZY RYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> 365 [230116]",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334475665887305/R.png",
+    "theme": "365",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IT36_RJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY RYUJIN** 365 [230116]",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334475883970690/S.png",
+      "theme": "365",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IT36_RJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY RYUJIN** 365 [230116]",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334475040935956/A.png",
+      "theme": "365",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IT36_RJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY RYUJIN** 365 [230116]",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334475254824970/B.png",
+      "theme": "365",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IT36_RJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY RYUJIN** 365 [230116]",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334475468738640/C.png",
+      "theme": "365",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IT36_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY CHAERYEONG** 365 [230116]",
+    "idol":"ITZY CHAERYEONG",
+    "inv":"<:R_EMOTE:1036291037620097034> 365 [230116]",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334517743136800/R.png",
+    "theme": "365",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IT36_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY CHAERYEONG** 365 [230116]",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:S_EMOTE:1036291020956115105> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334518003175507/S.png",
+      "theme": "365",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IT36_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY CHAERYEONG** 365 [230116]",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:A_EMOTE:1036291003348439102> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334517093019658/A.png",
+      "theme": "365",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IT36_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY CHAERYEONG** 365 [230116]",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:B_EMOTE:1036290987477180546> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334517302726708/B.png",
+      "theme": "365",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IT36_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY CHAERYEONG** 365 [230116]",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:C_EMOTE:1036290969676546092> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334517499871254/C.png",
+      "theme": "365",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "IT36_YN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YUNA** 365 [230116]",
+    "idol":"ITZY YUNA",
+    "inv":"<:R_EMOTE:1036291037620097034> 365 [230116]",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334544444076032/R.png",
+    "theme": "365",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "IT36_YN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YUNA** 365 [230116]",
+      "idol":"ITZY YUNA",
+      "inv":"<:S_EMOTE:1036291020956115105> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334544691548160/S.png",
+      "theme": "365",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "IT36_YN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YUNA** 365 [230116]",
+      "idol":"ITZY YUNA",
+      "inv":"<:A_EMOTE:1036291003348439102> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334543731044372/A.png",
+      "theme": "365",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "IT36_YN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YUNA** 365 [230116]",
+      "idol":"ITZY YUNA",
+      "inv":"<:B_EMOTE:1036290987477180546> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334543961739324/B.png",
+      "theme": "365",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "IT36_YN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YUNA** 365 [230116]",
+      "idol":"ITZY YUNA",
+      "inv":"<:C_EMOTE:1036290969676546092> 365 [230116]",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064334544196599838/C.png",
+      "theme": "365",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
