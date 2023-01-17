@@ -39,6 +39,11 @@
     "pool_card":"TXIK_HK;TXIK_YJ;TXIK_SB;TXIK_TH;TXIK_BG"
   }
   ],
+   "newcard": [
+  {
+    "pool_card":"NCUBS_JA;NCUBS_JM;NCUBS_SH;NCUBS_TA;NCUBS_XI;NCUBS_DO"
+  }
+  ],
        "space": [
   {
     "pool_card":"IVSP_JWY;IVSP_AYJ;IVSP_RE;IVSP_LE;IVSP_LI;IVSP_GA"
