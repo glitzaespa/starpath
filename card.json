@@ -12153,5 +12153,775 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "AEID_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa KARINA** I'm doing me",
+    "idol":"aespa KARINA",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm doing me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990371190407248/R.png",
+    "theme": "Life's Too Short (English Ver.) [Verse 2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEID_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa KARINA** I'm doing me",
+      "idol":"aespa KARINA",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990371400130670/S.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEID_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa KARINA** I'm doing me",
+      "idol":"aespa KARINA",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990370519318548/A.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEID_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa KARINA** I'm doing me",
+      "idol":"aespa KARINA",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990370737430648/B.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEID_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa KARINA** I'm doing me",
+      "idol":"aespa KARINA",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990370963935304/C.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "AEID_GI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa GISELLE** I'm doing me",
+    "idol":"aespa GISELLE",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm doing me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990454686416948/R.png",
+    "theme": "Life's Too Short (English Ver.) [Verse 2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEID_GI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa GISELLE** I'm doing me",
+      "idol":"aespa GISELLE",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990454925500457/S.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEID_GI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa GISELLE** I'm doing me",
+      "idol":"aespa GISELLE",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990453415542948/A.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEID_GI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa GISELLE** I'm doing me",
+      "idol":"aespa GISELLE",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990454212468796/B.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEID_GI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa GISELLE** I'm doing me",
+      "idol":"aespa GISELLE",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990454459940985/C.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "AEID_WI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa WINTER** I'm doing me",
+    "idol":"aespa WINTER",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm doing me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990401183887460/R.png",
+    "theme": "Life's Too Short (English Ver.) [Verse 2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEID_WI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa WINTER** I'm doing me",
+      "idol":"aespa WINTER",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990401435549816/S.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEID_WI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa WINTER** I'm doing me",
+      "idol":"aespa WINTER",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990400500215808/A.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEID_WI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa WINTER** I'm doing me",
+      "idol":"aespa WINTER",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990400730906705/B.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEID_WI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa WINTER** I'm doing me",
+      "idol":"aespa WINTER",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990400965791905/C.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "AEID_NN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa NINGNING** I'm doing me",
+    "idol":"aespa NINGNING",
+    "inv":"<:R_EMOTE:1036291037620097034> I'm doing me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990481286705284/R.png",
+    "theme": "Life's Too Short (English Ver.) [Verse 2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEID_NN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa NINGNING** I'm doing me",
+      "idol":"aespa NINGNING",
+      "inv":"<:S_EMOTE:1036291020956115105> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990481471242410/S.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEID_NN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa NINGNING** I'm doing me",
+      "idol":"aespa NINGNING",
+      "inv":"<:A_EMOTE:1036291003348439102> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990480628199475/A.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEID_NN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa NINGNING** I'm doing me",
+      "idol":"aespa NINGNING",
+      "inv":"<:B_EMOTE:1036290987477180546> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990480854679582/B.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEID_NN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa NINGNING** I'm doing me",
+      "idol":"aespa NINGNING",
+      "inv":"<:C_EMOTE:1036290969676546092> I'm doing me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064990481047638077/C.png",
+      "theme": "Life's Too Short (English Ver.) [Verse 2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "GGLA_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Girls' Generation-Oh!GG HYOYEON** Lalalalala",
+    "idol":"Girls' Generation-Oh!GG HYOYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> Lalalalala",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771669916397708/R.png",
+    "theme": "Lil' Touch [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "GGLA_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Girls' Generation-Oh!GG HYOYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG HYOYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771670096756736/S.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "GGLA_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Girls' Generation-Oh!GG HYOYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG HYOYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771669354360832/A.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "GGLA_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Girls' Generation-Oh!GG HYOYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG HYOYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771669538914384/B.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "GGLA_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Girls' Generation-Oh!GG HYOYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG HYOYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771669761196072/C.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "GGLA_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Girls' Generation-Oh!GG SUNNY** Lalalalala",
+    "idol":"Girls' Generation-Oh!GG SUNNY",
+    "inv":"<:R_EMOTE:1036291037620097034> Lalalalala",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771698173423636/R.png",
+    "theme": "Lil' Touch [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "GGLA_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Girls' Generation-Oh!GG SUNNY** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG SUNNY",
+      "inv":"<:S_EMOTE:1036291020956115105> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771698370543626/S.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "GGLA_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Girls' Generation-Oh!GG SUNNY** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG SUNNY",
+      "inv":"<:A_EMOTE:1036291003348439102> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771697653329980/A.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "GGLA_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Girls' Generation-Oh!GG SUNNY** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG SUNNY",
+      "inv":"<:B_EMOTE:1036290987477180546> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771697833672744/B.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "GGLA_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Girls' Generation-Oh!GG SUNNY** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG SUNNY",
+      "inv":"<:C_EMOTE:1036290969676546092> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771698009849916/C.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "GGLA_TA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Girls' Generation-Oh!GG TAEYEON** Lalalalala",
+    "idol":"Girls' Generation-Oh!GG TAEYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> Lalalalala",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771765093539860/R.png",
+    "theme": "Lil' Touch [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "GGLA_TA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Girls' Generation-Oh!GG TAEYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG TAEYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771765328412683/S.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "GGLA_TA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Girls' Generation-Oh!GG TAEYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG TAEYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771764430839850/A.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "GGLA_TA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Girls' Generation-Oh!GG TAEYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG TAEYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771764661534720/B.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "GGLA_TA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Girls' Generation-Oh!GG TAEYEON** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG TAEYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771764879642684/C.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "GGLA_YO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Girls' Generation-Oh!GG YOONA** Lalalalala",
+    "idol":"Girls' Generation-Oh!GG YOONA",
+    "inv":"<:R_EMOTE:1036291037620097034> Lalalalala",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771776732745848/R.png",
+    "theme": "Lil' Touch [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "GGLA_YO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Girls' Generation-Oh!GG YOONA** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YOONA",
+      "inv":"<:S_EMOTE:1036291020956115105> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771776917274725/S.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "GGLA_YO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Girls' Generation-Oh!GG YOONA** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YOONA",
+      "inv":"<:A_EMOTE:1036291003348439102> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771776149737533/A.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "GGLA_YO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Girls' Generation-Oh!GG YOONA** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YOONA",
+      "inv":"<:B_EMOTE:1036290987477180546> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771776330072074/B.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "GGLA_YO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Girls' Generation-Oh!GG YOONA** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YOONA",
+      "inv":"<:C_EMOTE:1036290969676546092> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771776523026494/C.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "GGLA_YU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Girls' Generation-Oh!GG YURI** Lalalalala",
+    "idol":"Girls' Generation-Oh!GG YURI",
+    "inv":"<:R_EMOTE:1036291037620097034> Lalalalala",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771782101446757/R.png",
+    "theme": "Lil' Touch [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "GGLA_YU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Girls' Generation-Oh!GG YURI** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YURI",
+      "inv":"<:S_EMOTE:1036291020956115105> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771782269227008/S.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "GGLA_YU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Girls' Generation-Oh!GG YURI** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YURI",
+      "inv":"<:A_EMOTE:1036291003348439102> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771781409386496/A.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "GGLA_YU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Girls' Generation-Oh!GG YURI** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YURI",
+      "inv":"<:B_EMOTE:1036290987477180546> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771781648470056/B.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "GGLA_YU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Girls' Generation-Oh!GG YURI** Lalalalala",
+      "idol":"Girls' Generation-Oh!GG YURI",
+      "inv":"<:C_EMOTE:1036290969676546092> Lalalalala",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771781858164776/C.png",
+      "theme": "Lil' Touch [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVKN_IR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet IRENE** Knock On Wood",
+    "idol":"Red Velvet IRENE",
+    "inv":"<:R_EMOTE:1036291037620097034> Knock On Wood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771948279763035/R.png",
+    "theme": "Knock On Wood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVKN_IR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet IRENE** Knock On Wood",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:S_EMOTE:1036291020956115105> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771948476891256/S.png",
+      "theme": "Knock On Wood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVKN_IR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet IRENE** Knock On Wood",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:A_EMOTE:1036291003348439102> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771947596091482/A.png",
+      "theme": "Knock On Wood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVKN_IR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet IRENE** Knock On Wood",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:B_EMOTE:1036290987477180546> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771947801608232/B.png",
+      "theme": "Knock On Wood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVKN_IR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet IRENE** Knock On Wood",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:C_EMOTE:1036290969676546092> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771948044894248/C.png",
+      "theme": "Knock On Wood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVKN_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet SEULGI** Knock On Wood",
+    "idol":"Red Velvet SEULGI",
+    "inv":"<:R_EMOTE:1036291037620097034> Knock On Wood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771990906486896/R.png",
+    "theme": "Knock On Wood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVKN_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet SEULGI** Knock On Wood",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:S_EMOTE:1036291020956115105> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771991103623168/S.png",
+      "theme": "Knock On Wood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVKN_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet SEULGI** Knock On Wood",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:A_EMOTE:1036291003348439102> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771990340255755/A.png",
+      "theme": "Knock On Wood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVKN_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet SEULGI** Knock On Wood",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:B_EMOTE:1036290987477180546> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771990516420628/B.png",
+      "theme": "Knock On Wood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVKN_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet SEULGI** Knock On Wood",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:C_EMOTE:1036290969676546092> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064771990734504036/C.png",
+      "theme": "Knock On Wood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVKN_WE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet WENDY** Knock On Wood",
+    "idol":"Red Velvet WENDY",
+    "inv":"<:R_EMOTE:1036291037620097034> Knock On Wood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772009013280768/R.png",
+    "theme": "Knock On Wood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVKN_WE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet WENDY** Knock On Wood",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:S_EMOTE:1036291020956115105> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772009197834250/S.png",
+      "theme": "Knock On Wood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVKN_WE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet WENDY** Knock On Wood",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:A_EMOTE:1036291003348439102> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772008367357972/A.png",
+      "theme": "Knock On Wood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVKN_WE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet WENDY** Knock On Wood",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:B_EMOTE:1036290987477180546> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772008581271622/B.png",
+      "theme": "Knock On Wood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVKN_WE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet WENDY** Knock On Wood",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:C_EMOTE:1036290969676546092> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772008774225920/C.png",
+      "theme": "Knock On Wood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVKN_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet JOY** Knock On Wood",
+    "idol":"Red Velvet JOY",
+    "inv":"<:R_EMOTE:1036291037620097034> Knock On Wood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772035731017778/R.png",
+    "theme": "Knock On Wood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVKN_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet JOY** Knock On Wood",
+      "idol":"Red Velvet JOY",
+      "inv":"<:S_EMOTE:1036291020956115105> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772035957497917/S.png",
+      "theme": "Knock On Wood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVKN_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet JOY** Knock On Wood",
+      "idol":"Red Velvet JOY",
+      "inv":"<:A_EMOTE:1036291003348439102> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772035005403186/A.png",
+      "theme": "Knock On Wood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVKN_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet JOY** Knock On Wood",
+      "idol":"Red Velvet JOY",
+      "inv":"<:B_EMOTE:1036290987477180546> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772035261243412/B.png",
+      "theme": "Knock On Wood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVKN_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet JOY** Knock On Wood",
+      "idol":"Red Velvet JOY",
+      "inv":"<:C_EMOTE:1036290969676546092> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772035550654527/C.png",
+      "theme": "Knock On Wood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVKN_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet YERI** Knock On Wood",
+    "idol":"Red Velvet YERI",
+    "inv":"<:R_EMOTE:1036291037620097034> Knock On Wood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772061211406456/R.png",
+    "theme": "Knock On Wood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVKN_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet YERI** Knock On Wood",
+      "idol":"Red Velvet YERI",
+      "inv":"<:S_EMOTE:1036291020956115105> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772061429502043/S.png",
+      "theme": "Knock On Wood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVKN_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet YERI** Knock On Wood",
+      "idol":"Red Velvet YERI",
+      "inv":"<:A_EMOTE:1036291003348439102> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772060607426621/A.png",
+      "theme": "Knock On Wood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVKN_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet YERI** Knock On Wood",
+      "idol":"Red Velvet YERI",
+      "inv":"<:B_EMOTE:1036290987477180546> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772060842311720/B.png",
+      "theme": "Knock On Wood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVKN_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet YERI** Knock On Wood",
+      "idol":"Red Velvet YERI",
+      "inv":"<:C_EMOTE:1036290969676546092> Knock On Wood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1064772061031043082/C.png",
+      "theme": "Knock On Wood",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
