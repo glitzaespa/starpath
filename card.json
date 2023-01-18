@@ -12978,5 +12978,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "YOMD_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YooA Vocal** Melody",
+    "idol":"YooA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Melody",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354892593606656/R.png",
+    "theme": "Melody",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YOMD_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YooA Vocal** Melody",
+      "idol":"YooA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354892807524392/S.png",
+      "theme": "Melody",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YOMD_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YooA Vocal** Melody",
+      "idol":"YooA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354891284975616/A.png",
+      "theme": "Melody",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YOMD_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YooA Vocal** Melody",
+      "idol":"YooA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354892128034867/B.png",
+      "theme": "Melody",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YOMD_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YooA Vocal** Melody",
+      "idol":"YooA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354892396462160/C.png",
+      "theme": "Melody",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YOMD_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YooA Dance** Melody",
+    "idol":"YooA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Melody",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354927955771575/R.png",
+    "theme": "Melody",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YOMD_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YooA Dance** Melody",
+      "idol":"YooA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354928182284461/S.png",
+      "theme": "Melody",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YOMD_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YooA Dance** Melody",
+      "idol":"YooA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354926995275806/A.png",
+      "theme": "Melody",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YOMD_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YooA Dance** Melody",
+      "idol":"YooA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354927569915944/B.png",
+      "theme": "Melody",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YOMD_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YooA Dance** Melody",
+      "idol":"YooA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354927771226263/C.png",
+      "theme": "Melody",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YOMD_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YooA Rhythm** Melody",
+    "idol":"YooA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Melody",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354965578678443/R.png",
+    "theme": "Melody",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YOMD_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YooA Rhythm** Melody",
+      "idol":"YooA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354965796798514/S.png",
+      "theme": "Melody",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YOMD_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YooA Rhythm** Melody",
+      "idol":"YooA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354964114870313/A.png",
+      "theme": "Melody",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YOMD_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YooA Rhythm** Melody",
+      "idol":"YooA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354965138292826/B.png",
+      "theme": "Melody",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YOMD_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YooA Rhythm** Melody",
+      "idol":"YooA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Melody",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065354965322846259/C.png",
+      "theme": "Melody",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
