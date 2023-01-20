@@ -13364,6 +13364,61 @@
       "maximum": "200"
     }
     ],
+  "SN1O_TA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SHINee TAEMIN** 1 of 1",
+    "idol":"SHINee TAEMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> 1 of 1",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1065598981100552272/image.png",
+    "theme": "1 of 1",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SN1O_TA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SHINee TAEMIN** 1 of 1",
+      "idol":"SHINee TAEMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> 1 of 1",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1065598980886638672/image.png",
+      "theme": "1 of 1",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SN1O_TA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SHINee TAEMIN** 1 of 1",
+      "idol":"SHINee TAEMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> 1 of 1",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1065598980685320273/image.png",
+      "theme": "1 of 1",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SN1O_TA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SHINee TAEMIN** 1 of 1",
+      "idol":"SHINee TAEMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> 1 of 1",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1065598980488183908/image.png",
+      "theme": "1 of 1",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SN1O_TA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SHINee TAEMIN** 1 of 1",
+      "idol":"SHINee TAEMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> 1 of 1",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1065598980282658847/image.png",
+      "theme": "1 of 1",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
   "VILO_UM_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **VIVIZ UMJI** LOVEADE",
