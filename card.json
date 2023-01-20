@@ -14353,5 +14353,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "KAMH_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Vocal** Mmmh",
+    "idol":"KAI Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Mmmh",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804421734334564/R.png",
+    "theme": "Mmmh",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "KAMH_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Vocal** Mmmh",
+      "idol":"KAI Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804421923082301/S.png",
+      "theme": "Mmmh",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "KAMH_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Vocal** Mmmh",
+      "idol":"KAI Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804421172297828/A.png",
+      "theme": "Mmmh",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "KAMH_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Vocal** Mmmh",
+      "idol":"KAI Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804421390405742/B.png",
+      "theme": "Mmmh",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "KAMH_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Vocal** Mmmh",
+      "idol":"KAI Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804421553987584/C.png",
+      "theme": "Mmmh",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "KAMH_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Dance** Mmmh",
+    "idol":"KAI Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Mmmh",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804445453140018/R.png",
+    "theme": "Mmmh",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "KAMH_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Dance** Mmmh",
+      "idol":"KAI Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804445830631445/S.png",
+      "theme": "Mmmh",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "KAMH_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Dance** Mmmh",
+      "idol":"KAI Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804444685565963/A.png",
+      "theme": "Mmmh",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "KAMH_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Dance** Mmmh",
+      "idol":"KAI Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804444983378001/B.png",
+      "theme": "Mmmh",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "KAMH_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Dance** Mmmh",
+      "idol":"KAI Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804445184708688/C.png",
+      "theme": "Mmmh",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "KAMH_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Rhythm** Mmmh",
+    "idol":"KAI Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Mmmh",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804473752092722/R.png",
+    "theme": "Mmmh",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "KAMH_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Rhythm** Mmmh",
+      "idol":"KAI Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804473953423391/S.png",
+      "theme": "Mmmh",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "KAMH_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Rhythm** Mmmh",
+      "idol":"KAI Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804473030672496/A.png",
+      "theme": "Mmmh",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "KAMH_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Rhythm** Mmmh",
+      "idol":"KAI Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804473265557515/B.png",
+      "theme": "Mmmh",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "KAMH_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Rhythm** Mmmh",
+      "idol":"KAI Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Mmmh",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1065804473508835439/C.png",
+      "theme": "Mmmh",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
