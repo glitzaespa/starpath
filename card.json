@@ -15783,5 +15783,610 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "LSSG_HE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HONG EUNCHAE** Sour Grapes",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "inv":"<:R_EMOTE:1036291037620097034> Sour Grapes",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357748020826113/Untitled578_20230121184938.png",
+    "theme": "Sour Grapes",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LSSG_HE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HONG EUNCHAE** Sour Grapes",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:S_EMOTE:1036291020956115105> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357728466964590/Untitled578_20230121184922.png",
+      "theme": "Sour Grapes",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LSSG_HE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HONG EUNCHAE** Sour Grapes",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:A_EMOTE:1036291003348439102> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357708183322624/Untitled578_20230121184917.png",
+      "theme": "Sour Grapes",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LSSG_HE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HONG EUNCHAE** Sour Grapes",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:B_EMOTE:1036290987477180546> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357690311393280/Untitled578_20230121184845.png",
+      "theme": "Sour Grapes",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LSSG_HE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HONG EUNCHAE** Sour Grapes",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
+      "inv":"<:C_EMOTE:1036290969676546092> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357674217852959/Untitled578_20230121184836.png",
+      "theme": "Sour Grapes",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LSSG_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KAZUHA** Sour Grapes",
+    "idol":"LE SSERAFIM KAZUHA",
+    "inv":"<:R_EMOTE:1036291037620097034> Sour Grapes",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357464565551174/Untitled578_20230121184503.png",
+    "theme": "Sour Grapes",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LSSG_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KAZUHA** Sour Grapes",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:S_EMOTE:1036291020956115105> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357449319251978/Untitled578_20230121184442.png",
+      "theme": "Sour Grapes",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LSSG_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KAZUHA** Sour Grapes",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:A_EMOTE:1036291003348439102> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357433993265213/Untitled578_20230121184436.png",
+      "theme": "Sour Grapes",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LSSG_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KAZUHA** Sour Grapes",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:B_EMOTE:1036290987477180546> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357419019599922/Untitled578_20230121184429.png",
+      "theme": "Sour Grapes",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LSSG_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KAZUHA** Sour Grapes",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:C_EMOTE:1036290969676546092> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357402917666816/Untitled578_20230121184423.png",
+      "theme": "Sour Grapes",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LSSG_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HUH YUNJIN** Sour Grapes",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Sour Grapes",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357163422924840/Untitled578_20230121184354.png",
+    "theme": "Sour Grapes",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LSSG_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HUH YUNJIN** Sour Grapes",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357147601993768/Untitled578_20230121184344.png",
+      "theme": "Sour Grapes",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LSSG_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HUH YUNJIN** Sour Grapes",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357131181301771/Untitled578_20230121184339.png",
+      "theme": "Sour Grapes",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LSSG_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HUH YUNJIN** Sour Grapes",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357113636540528/Untitled578_20230121184335.png",
+      "theme": "Sour Grapes",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LSSG_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HUH YUNJIN** Sour Grapes",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066357097513623622/Untitled578_20230121184329.png",
+      "theme": "Sour Grapes",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LSSG_KC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KIM CHAEWON** Sour Grapes",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Sour Grapes",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356815866122240/Untitled578_20230121182531.png",
+    "theme": "Sour Grapes",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LSSG_KC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KIM CHAEWON** Sour Grapes",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356792403169310/Untitled578_20230121182523.png",
+      "theme": "Sour Grapes",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LSSG_KC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KIM CHAEWON** Sour Grapes",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356767648387082/Untitled578_20230121182520.png",
+      "theme": "Sour Grapes",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LSSG_KC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KIM CHAEWON** Sour Grapes",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356748136484924/Untitled578_20230121182517.png",
+      "theme": "Sour Grapes",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LSSG_KC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KIM CHAEWON** Sour Grapes",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356731464134656/Untitled578_20230121182513.png",
+      "theme": "Sour Grapes",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LSSG_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM SAKURA** Sour Grapes",
+    "idol":"LE SSERAFIM SAKURA",
+    "inv":"<:R_EMOTE:1036291037620097034> Sour Grapes",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356470536478811/Untitled578_20230121182432.png",
+    "theme": "Sour Grapes",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LSSG_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM SAKURA** Sour Grapes",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:S_EMOTE:1036291020956115105> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356450873577502/Untitled578_20230121182420.png",
+      "theme": "Sour Grapes",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LSSG_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM SAKURA** Sour Grapes",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:A_EMOTE:1036291003348439102> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356435774079016/Untitled578_20230121182415.png",
+      "theme": "Sour Grapes",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LSSG_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM SAKURA** Sour Grapes",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:B_EMOTE:1036290987477180546> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356419173023795/Untitled578_20230121182410.png",
+      "theme": "Sour Grapes",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LSSG_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM SAKURA** Sour Grapes",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:C_EMOTE:1036290969676546092> Sour Grapes",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1066356404430045324/Untitled578_20230121182405.png",
+      "theme": "Sour Grapes",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL HYOJUNG** Cupid",
+    "idol":"OH MY GIRL HYOJUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241638235648010/R.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL HYOJUNG** Cupid",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241638499885137/s.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL HYOJUNG** Cupid",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241637442928690/a.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL HYOJUNG** Cupid",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241637698773104/b.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL HYOJUNG** Cupid",
+      "idol":"OH MY GIRL HYOJUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241638017548378/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_MI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL MIMI** Cupid",
+    "idol":"OH MY GIRL MIMI",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241658108264518/R.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_MI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL MIMI** Cupid",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241657919508540/MIMI.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_MI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL MIMI** Cupid",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241657261002822/A.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_MI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL MIMI** Cupid",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241657487507496/B.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_MI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL MIMI** Cupid",
+      "idol":"OH MY GIRL MIMI",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241657722392586/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_YO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL YOOA** Cupid",
+    "idol":"OH MY GIRL YOOA",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241691163570226/r.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_YO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL YOOA** Cupid",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241691490717787/S.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_YO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL YOOA** Cupid",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241690425372713/A.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_YO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL YOOA** Cupid",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241690689605763/B.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_YO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL YOOA** Cupid",
+      "idol":"OH MY GIRL YOOA",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241690924490762/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL SEUNGHEE** Cupid",
+    "idol":"OH MY GIRL SEUNGHEE",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066239474117394432/r.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL SEUNGHEE** Cupid",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066239474352263218/s.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL SEUNGHEE** Cupid",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066239473446305822/a.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL SEUNGHEE** Cupid",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066239473651814410/b.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL SEUNGHEE** Cupid",
+      "idol":"OH MY GIRL SEUNGHEE",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066239473848950834/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_YU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL YUBIN** Cupid",
+    "idol":"OH MY GIRL YUBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241713020088400/r.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_YU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL YUBIN** Cupid",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241713296920606/s.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_YU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL YUBIN** Cupid",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241712302862486/a.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_YU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL YUBIN** Cupid",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241712504197211/b.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_YU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL YUBIN** Cupid",
+      "idol":"OH MY GIRL YUBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241712789405767/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "OMCU_AR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **OH MY GIRL ARIN** Cupid",
+    "idol":"OH MY GIRL ARIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241617817768016/r.png",
+    "theme": "Cupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "OMCU_AR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **OH MY GIRL ARIN** Cupid",
+      "idol":"OH MY GIRL ARIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241618048458812/s.png",
+      "theme": "Cupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "OMCU_AR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **OH MY GIRL ARIN** Cupid",
+      "idol":"OH MY GIRL ARIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241616970518528/a.png",
+      "theme": "Cupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "OMCU_AR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **OH MY GIRL ARIN** Cupid",
+      "idol":"OH MY GIRL ARIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241617176043541/b.png",
+      "theme": "Cupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "OMCU_AR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **OH MY GIRL ARIN** Cupid",
+      "idol":"OH MY GIRL ARIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1066241617524183100/c.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
