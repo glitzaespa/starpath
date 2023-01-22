@@ -49,9 +49,10 @@
     "pool_card":"IVSP_JWY;IVSP_AYJ;IVSP_RE;IVSP_LE;IVSP_LI;IVSP_GA"
   }
    ],
-       "twentyjan": [
+       "twentyonejan": [
   {
-    "hip":"MMHI_HW;MMHI_MO;MMHI_WH;MMHI_SO"
+    "sour":"LSSG_SA;LSSG_KC;LSSG_KA;LSSG_HY;LSSG_HE",
+    "cupid":"OMCU_AR;OMCU_YO;OMCU_MI;OMCU_SE;OMCU_YU;OMCU_HY"
   }
   ],
         "bop": [
