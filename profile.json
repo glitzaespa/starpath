@@ -2,8 +2,11 @@
         "limited": [
   {
     "JUSTASECOND_V":"https://cdn.discordapp.com/attachments/1036296996966907924/1067173115412623402/p_justasecond_v.png",
+               "JUSTASECOND_V_NAME":"**HYO Vocal** Just a second",
     "JUSTASECOND_D":"https://cdn.discordapp.com/attachments/1036296996966907924/1067173115190329374/p_justasecond_d.png",
-    "JUSTASECOND_R":"https://cdn.discordapp.com/attachments/1036296996966907924/1067173114972213439/p_justasecond_r.png"
+               "JUSTASECOND_D_NAME":"**HYO Dance** Just a second",
+    "JUSTASECOND_R":"https://cdn.discordapp.com/attachments/1036296996966907924/1067173114972213439/p_justasecond_r.png",
+              "JUSTASECOND_R_NAME":"**HYO Rhythm** Just a second"
   }
   ]
 }
