@@ -20337,5 +20337,445 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "SKCL_BC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids BANG CHAN** CHILL",
+    "idol":"Stray Kids BANG CHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876084370124951/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_BC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids BANG CHAN** CHILL",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876084596621312/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_BC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids BANG CHAN** CHILL",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876083615150110/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_BC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids BANG CHAN** CHILL",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876083871010866/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_BC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids BANG CHAN** CHILL",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876084122664970/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_CB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids CHANGBIN** CHILL",
+    "idol":"Stray Kids CHANGBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876104871882752/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_CB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids CHANGBIN** CHILL",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876105148698664/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_CB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids CHANGBIN** CHILL",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876104184016988/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_CB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids CHANGBIN** CHILL",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876104406306892/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_CB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids CHANGBIN** CHILL",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876104645386320/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_FE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids FELIX** CHILL",
+    "idol":"Stray Kids FELIX",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876127164596324/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_FE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids FELIX** CHILL",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876127370133575/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_FE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids FELIX** CHILL",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876126464147596/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_FE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids FELIX** CHILL",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876126678073404/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_FE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids FELIX** CHILL",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876126912950322/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HAN** CHILL",
+    "idol":"Stray Kids HAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876210287329310/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HAN** CHILL",
+      "idol":"Stray Kids HAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876210501230714/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HAN** CHILL",
+      "idol":"Stray Kids HAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876209633017926/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HAN** CHILL",
+      "idol":"Stray Kids HAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876209834336276/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HAN** CHILL",
+      "idol":"Stray Kids HAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876210039848961/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HYUNJIN** CHILL",
+    "idol":"Stray Kids HYUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876233024643143/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HYUNJIN** CHILL",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876233267925062/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HYUNJIN** CHILL",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876232286445760/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HYUNJIN** CHILL",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876232567476304/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HYUNJIN** CHILL",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876232810725437/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_IN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids I.N** CHILL",
+    "idol":"Stray Kids I.N",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876255082487918/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_IN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids I.N** CHILL",
+      "idol":"Stray Kids I.N",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876255267029002/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_IN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids I.N** CHILL",
+      "idol":"Stray Kids I.N",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876254264598628/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_IN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids I.N** CHILL",
+      "idol":"Stray Kids I.N",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876254570774682/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_IN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids I.N** CHILL",
+      "idol":"Stray Kids I.N",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876254797279292/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_LK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids LEE KNOW** CHILL",
+    "idol":"Stray Kids LEE KNOW",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876279543676969/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_LK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids LEE KNOW** CHILL",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876279803715614/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_LK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids LEE KNOW** CHILL",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876278826438728/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_LK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids LEE KNOW** CHILL",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876279078109184/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_LK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids LEE KNOW** CHILL",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876279296204830/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SKCL_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids SEUNGMIN** CHILL",
+    "idol":"Stray Kids SEUNGMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CHILL",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876300229984437/R.png",
+    "theme": "CHILL",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "SKCL_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids SEUNGMIN** CHILL",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876300473245886/S.png",
+      "theme": "CHILL",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "SKCL_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids SEUNGMIN** CHILL",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876299554701484/A.png",
+      "theme": "CHILL",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "SKCL_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids SEUNGMIN** CHILL",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876299756019732/B.png",
+      "theme": "CHILL",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "SKCL_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids SEUNGMIN** CHILL",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CHILL",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067876300011876353/C.png",
+      "theme": "CHILL",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
