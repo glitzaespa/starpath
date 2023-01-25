@@ -17488,5 +17488,1050 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "MMSN_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAMAMOO SOLAR** Starry Night",
+    "idol":"MAMAMOO SOLAR",
+    "inv":"<:R_EMOTE:1036291037620097034> Starry Night",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284200744554576/image.png",
+    "theme": "Starry Night",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MMSN_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAMAMOO SOLAR** Starry Night",
+      "idol":"MAMAMOO SOLAR",
+      "inv":"<:S_EMOTE:1036291020956115105> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284200518078514/image.png",
+      "theme": "Starry Night",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MMSN_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAMAMOO SOLAR** Starry Night",
+      "idol":"MAMAMOO SOLAR",
+      "inv":"<:A_EMOTE:1036291003348439102> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284200320933938/image.png",
+      "theme": "Starry Night",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MMSN_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAMAMOO SOLAR** Starry Night",
+      "idol":"MAMAMOO SOLAR",
+      "inv":"<:B_EMOTE:1036290987477180546> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284200069271582/image.png",
+      "theme": "Starry Night",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MMSN_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAMAMOO SOLAR** Starry Night",
+      "idol":"MAMAMOO SOLAR",
+      "inv":"<:C_EMOTE:1036290969676546092> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284197120692334/image.png",
+      "theme": "Starry Night",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MMSN_MO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAMAMOO MOONBYUL** Starry Night",
+    "idol":"MAMAMOO MOONBYUL",
+    "inv":"<:R_EMOTE:1036291037620097034> Starry Night",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284349344559156/image.png",
+    "theme": "Starry Night",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MMSN_MO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAMAMOO MOONBYUL** Starry Night",
+      "idol":"MAMAMOO MOONBYUL",
+      "inv":"<:S_EMOTE:1036291020956115105> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284349113864202/image.png",
+      "theme": "Starry Night",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MMSN_MO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAMAMOO MOONBYUL** Starry Night",
+      "idol":"MAMAMOO MOONBYUL",
+      "inv":"<:A_EMOTE:1036291003348439102> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284348899971162/image.png",
+      "theme": "Starry Night",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MMSN_MO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAMAMOO MOONBYUL** Starry Night",
+      "idol":"MAMAMOO MOONBYUL",
+      "inv":"<:B_EMOTE:1036290987477180546> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284348690247832/image.png",
+      "theme": "Starry Night",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MMSN_MO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAMAMOO MOONBYUL** Starry Night",
+      "idol":"MAMAMOO MOONBYUL",
+      "inv":"<:C_EMOTE:1036290969676546092> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284348509884446/image.png",
+      "theme": "Starry Night",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MMSN_WH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAMAMOO WHEEIN** Starry Night",
+    "idol":"MAMAMOO WHEEIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Starry Night",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285233927467088/image.png",
+    "theme": "Starry Night",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MMSN_WH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAMAMOO WHEEIN** Starry Night",
+      "idol":"MAMAMOO WHEEIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285198204575804/image.png",
+      "theme": "Starry Night",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MMSN_WH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAMAMOO WHEEIN** Starry Night",
+      "idol":"MAMAMOO WHEEIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285160002846770/image.png",
+      "theme": "Starry Night",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MMSN_WH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAMAMOO WHEEIN** Starry Night",
+      "idol":"MAMAMOO WHEEIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284709677207582/image.png",
+      "theme": "Starry Night",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MMSN_WH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAMAMOO WHEEIN** Starry Night",
+      "idol":"MAMAMOO WHEEIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067284676252811335/image.png",
+      "theme": "Starry Night",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MMSN_HW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAMAMOO HWASA** Starry Night",
+    "idol":"MAMAMOO HWASA",
+    "inv":"<:R_EMOTE:1036291037620097034> Starry Night",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285404262346854/image.png",
+    "theme": "Starry Night",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MMSN_HW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAMAMOO HWASA** Starry Night",
+      "idol":"MAMAMOO HWASA",
+      "inv":"<:S_EMOTE:1036291020956115105> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285403993919558/image.png",
+      "theme": "Starry Night",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MMSN_HW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAMAMOO HWASA** Starry Night",
+      "idol":"MAMAMOO HWASA",
+      "inv":"<:A_EMOTE:1036291003348439102> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285403486400603/image.png",
+      "theme": "Starry Night",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MMSN_HW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAMAMOO HWASA** Starry Night",
+      "idol":"MAMAMOO HWASA",
+      "inv":"<:B_EMOTE:1036290987477180546> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285403486400603/image.png",
+      "theme": "Starry Night",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MMSN_HW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAMAMOO HWASA** Starry Night",
+      "idol":"MAMAMOO HWASA",
+      "inv":"<:C_EMOTE:1036290969676546092> Starry Night",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1067285296783294564/image.png",
+      "theme": "Starry Night",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_BC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids BANG CHAN** CASE 143",
+    "idol":"Stray Kids BANG CHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067290394653630465/STRAYKIDZCASE143_20230124114437.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_BC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids BANG CHAN** CASE 143",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067290394431340584/STRAYKIDZCASE143_20230124114433.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_BC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids BANG CHAN** CASE 143",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067290394225807380/STRAYKIDZCASE143_20230124114428.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_BC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids BANG CHAN** CASE 143",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067290394016096358/STRAYKIDZCASE143_20230124114425.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_BC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids BANG CHAN** CASE 143",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067290393793806446/STRAYKIDZCASE143_20230124114419.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_LK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids LEE KNOW** CASE 143",
+    "idol":"Stray Kids LEE KNOW",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291150718881792/STRAYKIDZCASE143_20230124114502.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_LK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids LEE KNOW** CASE 143",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291150429462578/STRAYKIDZCASE143_20230124114458.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_LK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids LEE KNOW** CASE 143",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291150161023016/STRAYKIDZCASE143_20230124114456.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_LK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids LEE KNOW** CASE 143",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291149800329287/STRAYKIDZCASE143_20230124114453.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_LK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids LEE KNOW** CASE 143",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291149515100240/STRAYKIDZCASE143_20230124114449.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_CB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids CHANGBIN** CASE 143",
+    "idol":"Stray Kids CHANGBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291941722673162/STRAYKIDZCASE143_20230124114528.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_CB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids CHANGBIN** CASE 143",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291941470998610/STRAYKIDZCASE143_20230124114525.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_CB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids CHANGBIN** CASE 143",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291941269676052/STRAYKIDZCASE143_20230124114522.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_CB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids CHANGBIN** CASE 143",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291941047390208/STRAYKIDZCASE143_20230124114519.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_CB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids CHANGBIN** CASE 143",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067291940787327047/STRAYKIDZCASE143_20230124114515.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HYUNJIN** CASE 143",
+    "idol":"Stray Kids HYUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067292592536035328/STRAYKIDZCASE143_20230124114557.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HYUNJIN** CASE 143",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067292592275996742/STRAYKIDZCASE143_20230124114553.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HYUNJIN** CASE 143",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067292591881715812/STRAYKIDZCASE143_20230124114551.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HYUNJIN** CASE 143",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067292591332278382/STRAYKIDZCASE143_20230124114548.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HYUNJIN** CASE 143",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067292590925414451/STRAYKIDZCASE143_20230124114545.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_FE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids FELIX** CASE 143",
+    "idol":"Stray Kids FELIX",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293538489991259/STRAYKIDZCASE143_20230124114644.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_FE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids FELIX** CASE 143",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293538234142830/STRAYKIDZCASE143_20230124114642.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_FE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids FELIX** CASE 143",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293537961517086/STRAYKIDZCASE143_20230124114639.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_FE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids FELIX** CASE 143",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293537722433537/STRAYKIDZCASE143_20230124114636.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_FE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids FELIX** CASE 143",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293537529499668/STRAYKIDZCASE143_20230124114632.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids SEUNGMIN** CASE 143",
+    "idol":"Stray Kids SEUNGMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293987779645530/STRAYKIDZCASE143_20230124114710.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids SEUNGMIN** CASE 143",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293987427332146/STRAYKIDZCASE143_20230124114708.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids SEUNGMIN** CASE 143",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293987133726760/STRAYKIDZCASE143_20230124114704.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids SEUNGMIN** CASE 143",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293986814955630/STRAYKIDZCASE143_20230124114701.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids SEUNGMIN** CASE 143",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067293986538139658/STRAYKIDZCASE143_20230124114658.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_IN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids I.N** CASE 143",
+    "idol":"Stray Kids I.N",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067294636533620846/STRAYKIDZCASE143_20230124114732.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_IN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids I.N** CASE 143",
+      "idol":"Stray Kids I.N",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067294636219056200/STRAYKIDZCASE143_20230124114728.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_IN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids I.N** CASE 143",
+      "idol":"Stray Kids I.N",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067294635958992917/STRAYKIDZCASE143_20230124114725.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_IN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids I.N** CASE 143",
+      "idol":"Stray Kids I.N",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067294635724120154/STRAYKIDZCASE143_20230124114722.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_IN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids I.N** CASE 143",
+      "idol":"Stray Kids I.N",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067294635468275753/STRAYKIDZCASE143_20230124114719.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKC1_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HAN** CASE 143",
+    "idol":"Stray Kids HAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CASE 143",
+    "image": "https://media.discordapp.net/attachments/1013820456144482366/1067452975569711125/STRAYKIDZCASE143_20230124223611.png",
+    "theme": "CASE 143",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKC1_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HAN** CASE 143",
+      "idol":"Stray Kids HAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067452975255142430/STRAYKIDZCASE143_20230124223608.png",
+      "theme": "CASE 143",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKC1_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HAN** CASE 143",
+      "idol":"Stray Kids HAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067452975037042738/STRAYKIDZCASE143_20230124223605.png",
+      "theme": "CASE 143",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKC1_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HAN** CASE 143",
+      "idol":"Stray Kids HAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067452974760210502/STRAYKIDZCASE143_20230124223602.png",
+      "theme": "CASE 143",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKC1_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HAN** CASE 143",
+      "idol":"Stray Kids HAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CASE 143",
+      "image": "https://media.discordapp.net/attachments/1013820456144482366/1067452974546305147/STRAYKIDZCASE143_20230124223558.png",
+      "theme": "CASE 143",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet HAEYOON** Love In Space",
+    "idol":"Cherry Bullet HAEYOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452757730132018/Untitled207_20230124192620.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet HAEYOON** Love In Space",
+      "idol":"Cherry Bullet HAEYOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452740927770725/Untitled207_20230124192616.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet HAEYOON** Love In Space",
+      "idol":"Cherry Bullet HAEYOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452723412344992/Untitled207_20230124192611.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet HAEYOON** Love In Space",
+      "idol":"Cherry Bullet HAEYOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452703615242250/Untitled207_20230124192607.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet HAEYOON** Love In Space",
+      "idol":"Cherry Bullet HAEYOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452685546168340/Untitled207_20230124192601.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet YUJU** Love In Space",
+    "idol":"Cherry Bullet YUJU",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452850453631046/Untitled207_20230124192850.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet YUJU** Love In Space",
+      "idol":"Cherry Bullet YUJU",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452833194065960/Untitled207_20230124192846.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet YUJU** Love In Space",
+      "idol":"Cherry Bullet YUJU",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452816022589653/Untitled207_20230124192842.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet YUJU** Love In Space",
+      "idol":"Cherry Bullet YUJU",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452799132115005/Untitled207_20230124192837.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet YUJU** Love In Space",
+      "idol":"Cherry Bullet YUJU",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452778777161868/Untitled207_20230124192833.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_BO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet BORA** Love In Space",
+    "idol":"Cherry Bullet BORA",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452934490693713/Untitled207_20230124193004.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_BO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet BORA** Love In Space",
+      "idol":"Cherry Bullet BORA",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452919869349990/Untitled207_20230124193000.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_BO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet BORA** Love In Space",
+      "idol":"Cherry Bullet BORA",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452902156804196/Untitled207_20230124192957.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_BO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet BORA** Love In Space",
+      "idol":"Cherry Bullet BORA",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452885870317640/Untitled207_20230124192954.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_BO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet BORA** Love In Space",
+      "idol":"Cherry Bullet BORA",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452868765954098/Untitled207_20230124192949.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet JIWON** Love In Space",
+    "idol":"Cherry Bullet JIWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453020331323492/Untitled207_20230124193050.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet JIWON** Love In Space",
+      "idol":"Cherry Bullet JIWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452988542681238/Untitled207_20230124193046.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet JIWON** Love In Space",
+      "idol":"Cherry Bullet JIWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452988265869372/Untitled207_20230124193042.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet JIWON** Love In Space",
+      "idol":"Cherry Bullet JIWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452969810935848/Untitled207_20230124193039.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet JIWON** Love In Space",
+      "idol":"Cherry Bullet JIWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067452954069696584/Untitled207_20230124193036.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet REMI** Love In Space",
+    "idol":"Cherry Bullet REMI",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453103525347348/Untitled207_20230124193129.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet REMI** Love In Space",
+      "idol":"Cherry Bullet REMI",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453085984772167/Untitled207_20230124193126.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet REMI** Love In Space",
+      "idol":"Cherry Bullet REMI",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453069794758666/Untitled207_20230124193123.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet REMI** Love In Space",
+      "idol":"Cherry Bullet REMI",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453053231444049/Untitled207_20230124193120.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet REMI** Love In Space",
+      "idol":"Cherry Bullet REMI",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453036772986901/Untitled207_20230124193117.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet CHAERIN** Love In Space",
+    "idol":"Cherry Bullet CHAERIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453188061540483/Untitled207_20230124193222.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet CHAERIN** Love In Space",
+      "idol":"Cherry Bullet CHAERIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453170990718976/Untitled207_20230124193219.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet CHAERIN** Love In Space",
+      "idol":"Cherry Bullet CHAERIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453154880401469/Untitled207_20230124193213.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet CHAERIN** Love In Space",
+      "idol":"Cherry Bullet CHAERIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453135704047716/Untitled207_20230124193209.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet CHAERIN** Love In Space",
+      "idol":"Cherry Bullet CHAERIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453119266554000/Untitled207_20230124193206.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CBLS_MA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Cherry Bullet MAY** Love In Space",
+    "idol":"Cherry Bullet MAY",
+    "inv":"<:R_EMOTE:1036291037620097034> Love In Space",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453271196827789/Untitled207_20230124193302.png",
+    "theme": "Love In Space",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CBLS_MA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Cherry Bullet MAY** Love In Space",
+      "idol":"Cherry Bullet MAY",
+      "inv":"<:S_EMOTE:1036291020956115105> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453256198017085/Untitled207_20230124193258.png",
+      "theme": "Love In Space",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CBLS_MA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Cherry Bullet MAY** Love In Space",
+      "idol":"Cherry Bullet MAY",
+      "inv":"<:A_EMOTE:1036291003348439102> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453236388298822/Untitled207_20230124193256.png",
+      "theme": "Love In Space",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CBLS_MA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Cherry Bullet MAY** Love In Space",
+      "idol":"Cherry Bullet MAY",
+      "inv":"<:B_EMOTE:1036290987477180546> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453221599199232/Untitled207_20230124193251.png",
+      "theme": "Love In Space",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CBLS_MA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Cherry Bullet MAY** Love In Space",
+      "idol":"Cherry Bullet MAY",
+      "inv":"<:C_EMOTE:1036290969676546092> Love In Space",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1067453205312704632/Untitled207_20230124193247.png",
+      "theme": "Love In Space",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
