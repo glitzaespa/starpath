@@ -19842,5 +19842,500 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "LNMO_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lil Nas X Vocal** MONTERO",
+    "idol":"Lil Nas X Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> MONTERO",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873959242125352/R.png",
+    "theme": "MONTERO (Call Me By Your Name)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LNMO_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lil Nas X Vocal** MONTERO",
+      "idol":"Lil Nas X Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873959489572994/S.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LNMO_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lil Nas X Vocal** MONTERO",
+      "idol":"Lil Nas X Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873958394875976/A.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LNMO_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lil Nas X Vocal** MONTERO",
+      "idol":"Lil Nas X Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873958709432491/B.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LNMO_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lil Nas X Vocal** MONTERO",
+      "idol":"Lil Nas X Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873958982066277/C.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LNMO_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lil Nas X Dance** MONTERO",
+    "idol":"Lil Nas X Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> MONTERO",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873980897317047/R.png",
+    "theme": "MONTERO (Call Me By Your Name)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LNMO_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lil Nas X Dance** MONTERO",
+      "idol":"Lil Nas X Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873981161545749/S.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LNMO_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lil Nas X Dance** MONTERO",
+      "idol":"Lil Nas X Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873980087816242/A.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LNMO_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lil Nas X Dance** MONTERO",
+      "idol":"Lil Nas X Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873980431736852/B.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LNMO_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lil Nas X Dance** MONTERO",
+      "idol":"Lil Nas X Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873980654043187/C.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LNMO_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lil Nas X Rhythm** MONTERO",
+    "idol":"Lil Nas X Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> MONTERO",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067874003231973406/R.png",
+    "theme": "MONTERO (Call Me By Your Name)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LNMO_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lil Nas X Rhythm** MONTERO",
+      "idol":"Lil Nas X Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067874003441680395/S.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LNMO_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lil Nas X Rhythm** MONTERO",
+      "idol":"Lil Nas X Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067874002493767800/A.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LNMO_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lil Nas X Rhythm** MONTERO",
+      "idol":"Lil Nas X Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067874002758025226/B.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LNMO_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lil Nas X Rhythm** MONTERO",
+      "idol":"Lil Nas X Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> MONTERO",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067874002942558310/C.png",
+      "theme": "MONTERO (Call Me By Your Name)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "EGLM_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ellie Goulding Vocal** Love Me Like You Do",
+    "idol":"Ellie Goulding Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like You Do",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873702320025700/R.png",
+    "theme": "Love Me Like You Do",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "EGLM_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ellie Goulding Vocal** Love Me Like You Do",
+      "idol":"Ellie Goulding Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873702584275034/S.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "EGLM_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ellie Goulding Vocal** Love Me Like You Do",
+      "idol":"Ellie Goulding Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873701602799727/A.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "EGLM_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ellie Goulding Vocal** Love Me Like You Do",
+      "idol":"Ellie Goulding Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873701825105950/B.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "EGLM_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ellie Goulding Vocal** Love Me Like You Do",
+      "idol":"Ellie Goulding Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873702076760074/C.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "EGLM_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ellie Goulding Dance** Love Me Like You Do",
+    "idol":"Ellie Goulding Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like You Do",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873722473664532/R.png",
+    "theme": "Love Me Like You Do",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "EGLM_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ellie Goulding Dance** Love Me Like You Do",
+      "idol":"Ellie Goulding Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873722716930048/S.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "EGLM_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ellie Goulding Dance** Love Me Like You Do",
+      "idol":"Ellie Goulding Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873721798381648/A.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "EGLM_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ellie Goulding Dance** Love Me Like You Do",
+      "idol":"Ellie Goulding DaNCE",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873722016481310/B.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "EGLM_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ellie Goulding Dance** Love Me Like You Do",
+      "idol":"Ellie Goulding Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873722226188362/C.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "EGLM_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ellie Goulding Rhythm** Love Me Like You Do",
+    "idol":"Ellie Goulding Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like You Do",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873744426647734/R.png",
+    "theme": "Love Me Like You Do",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "EGLM_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ellie Goulding Rhythm** Love Me Like You Do",
+      "idol":"Ellie Goulding Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873744653135942/S.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "EGLM_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ellie Goulding Rhythm** Love Me Like You Do",
+      "idol":"Ellie Goulding Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873743596175410/A.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "EGLM_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ellie Goulding Rhythm** Love Me Like You Do",
+      "idol":"Ellie Goulding Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873743881384018/B.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "EGLM_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ellie Goulding Rhythm** Love Me Like You Do",
+      "idol":"Ellie Goulding Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like You Do",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873744179187892/C.png",
+      "theme": "Love Me Like You Do",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TKST_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **The Kid LAROI Vocal** STAY",
+    "idol":"The Kid LAROI Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> STAY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873534153592862/R.png",
+    "theme": "STAY (with Justin Bieber)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TKST_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **The Kid LAROI Vocal** STAY",
+      "idol":"The Kid LAROI Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873535042793493/S.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TKST_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **The Kid LAROI Vocal** STAY",
+      "idol":"The Kid LAROI Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873532425551872/A.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TKST_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **The Kid LAROI Vocal** STAY",
+      "idol":"The Kid LAROI Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873532647837737/B.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TKST_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **The Kid LAROI Vocal** STAY",
+      "idol":"The Kid LAROI Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873532853366834/C.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TKST_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **The Kid LAROI Dance** STAY",
+    "idol":"The Kid LAROI Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> STAY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873551547383848/R.png",
+    "theme": "STAY (with Justin Bieber)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TKST_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **The Kid LAROI Dance** STAY",
+      "idol":"The Kid LAROI Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873551761276998/S.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TKST_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **The Kid LAROI Dance** STAY",
+      "idol":"The Kid LAROI Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873550763049030/A.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TKST_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **The Kid LAROI Dance** STAY",
+      "idol":"The Kid LAROI Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873550985330729/B.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TKST_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **The Kid LAROI Dance** STAY",
+      "idol":"The Kid LAROI Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873551266357349/C.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TKST_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **The Kid LAROI Rhythm** STAY",
+    "idol":"The Kid LAROI Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> STAY",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873576679637082/R.png",
+    "theme": "STAY (with Justin Bieber)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TKST_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **The Kid LAROI Rhythm** STAY",
+      "idol":"The Kid LAROI Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873576977444925/S.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TKST_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **The Kid LAROI Rhythm** STAY",
+      "idol":"The Kid LAROI Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873575769473095/A.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TKST_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **The Kid LAROI Rhythm** STAY",
+      "idol":"The Kid LAROI Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873576054698105/B.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TKST_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **The Kid LAROI Rhythm** STAY",
+      "idol":"The Kid LAROI Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> STAY",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1067873576419598377/C.png",
+      "theme": "STAY (with Justin Bieber)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
