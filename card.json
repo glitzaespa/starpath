@@ -18536,8 +18536,8 @@
     ],
   "WMPC_SY_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki SUYEON** Picky Picky",
-    "idol":"Weki Meki SUYEON",
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Ji Suyeon** Picky Picky",
+    "idol":"Weki Meki Ji Suyeon",
     "inv":"<:R_EMOTE:1036291037620097034> Picky Picky",
     "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572589444223056/Suyeon_R.png",
     "theme": "Picky Picky",
@@ -18547,8 +18547,8 @@
   ],
     "WMPC_SY_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki SUYEON** Picky Picky",
-      "idol":"Weki Meki SUYEON",
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Ji Suyeon** Picky Picky",
+      "idol":"Weki Meki Ji Suyeon",
       "inv":"<:S_EMOTE:1036291020956115105> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572589674889267/SUYEON_S.png",
       "theme": "Picky Picky",
@@ -18558,8 +18558,8 @@
     ],
     "WMPC_SY_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki SUYEON** Picky Picky",
-      "idol":"Weki Meki SUYEON",
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Ji Suyeon** Picky Picky",
+      "idol":"Weki Meki Ji Suyeon",
       "inv":"<:A_EMOTE:1036291003348439102> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572588739580074/SUYEON_A.png",
       "theme": "Picky Picky",
@@ -18569,8 +18569,8 @@
     ],
     "WMPC_SY_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki SUYEON** Picky Picky",
-      "idol":"Weki Meki SUYEON",
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Ji Suyeon** Picky Picky",
+      "idol":"Weki Meki Ji Suyeon",
       "inv":"<:B_EMOTE:1036290987477180546> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572588991217794/SUYEON_B.png",
       "theme": "Picky Picky",
@@ -18635,8 +18635,8 @@
     ],
   "WMPC_YJ_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki YOOJUNG** Picky Picky",
-    "idol":"Weki Meki YOOJUNG",
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Choi Yoojung** Picky Picky",
+    "idol":"Weki Meki Choi Yoojung",
     "inv":"<:R_EMOTE:1036291037620097034> Picky Picky",
     "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572605990731836/Yoojung_R.png",
     "theme": "Picky Picky",
@@ -18646,8 +18646,8 @@
   ],
     "WMPC_YJ_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki YOOJUNG** Picky Picky",
-      "idol":"Weki Meki YOOJUNG",
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Choi Yoojung** Picky Picky",
+      "idol":"Weki Meki Choi Yoojung",
       "inv":"<:S_EMOTE:1036291020956115105> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572606259183687/YOOJUNG_S.png",
       "theme": "Picky Picky",
@@ -18657,8 +18657,8 @@
     ],
     "WMPC_YJ_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki YOOJUNG** Picky Picky",
-      "idol":"Weki Meki YOOJUNG",
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Choi Yoojung** Picky Picky",
+      "idol":"Weki Meki Choi Yoojung",
       "inv":"<:A_EMOTE:1036291003348439102> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572589951721582/YOOJUNG_A.png",
       "theme": "Picky Picky",
@@ -18668,8 +18668,8 @@
     ],
     "WMPC_YJ_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki YOOJUNG** Picky Picky",
-      "idol":"Weki Meki YOOJUNG",
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Choi Yoojung** Picky Picky",
+      "idol":"Weki Meki Choi Yoojung",
       "inv":"<:B_EMOTE:1036290987477180546> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572590408892446/YOOJUNG_B.png",
       "theme": "Picky Picky",
@@ -18679,8 +18679,8 @@
     ],
   "WMPC_YJ_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki YOOJUNG** Picky Picky",
-      "idol":"Weki Meki YOOJUNG",
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Choi Yoojung** Picky Picky",
+      "idol":"Weki Meki Choi Yoojung",
       "inv":"<:C_EMOTE:1036290969676546092> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572605747466290/YOOJUNG_C.png",
       "theme": "Picky Picky",
@@ -18690,8 +18690,8 @@
     ],
   "WMPC_DY_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki DOYEON** Picky Picky",
-    "idol":"Weki Meki DOYEON",
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Kim Doyeon** Picky Picky",
+    "idol":"Weki Meki Kim Doyeon",
     "inv":"<:R_EMOTE:1036291037620097034> Picky Picky",
     "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572444749107231/Doyeon_R.png",
     "theme": "Picky Picky",
@@ -18701,8 +18701,8 @@
   ],
     "WMPC_DY_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki DOYEON** Picky Picky",
-      "idol":"Weki Meki DOYEON",
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Kim Doyeon** Picky Picky",
+      "idol":"Weki Meki Kim Doyeon",
       "inv":"<:S_EMOTE:1036291020956115105> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572444996575372/DOYEON_S.png",
       "theme": "Picky Picky",
@@ -18712,8 +18712,8 @@
     ],
     "WMPC_DY_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki DOYEON** Picky Picky",
-      "idol":"Weki Meki DOYEON",
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Kim Doyeon** Picky Picky",
+      "idol":"Weki Meki Kim Doyeon",
       "inv":"<:A_EMOTE:1036291003348439102> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572444052852766/DOYEON_A.png",
       "theme": "Picky Picky",
@@ -18723,8 +18723,8 @@
     ],
     "WMPC_DY_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki DOYEON** Picky Picky",
-      "idol":"Weki Meki DOYEON",
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Kim Doyeon** Picky Picky",
+      "idol":"Weki Meki Kim Doyeon",
       "inv":"<:B_EMOTE:1036290987477180546> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572444304515323/DOYEON_B.png",
       "theme": "Picky Picky",
@@ -18734,8 +18734,8 @@
     ],
   "WMPC_DY_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki DOYEON** Picky Picky",
-      "idol":"Weki Meki DOYEON",
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Kim Doyeon** Picky Picky",
+      "idol":"Weki Meki Kim Doyeon",
       "inv":"<:C_EMOTE:1036290969676546092> Picky Picky",
       "image": "https://cdn.discordapp.com/attachments/1022377258641535036/1067572444543602688/doyeon_c.png",
       "theme": "Picky Picky",
