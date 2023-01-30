@@ -22372,5 +22372,500 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "VD23_HC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT DREAM HAECHAN** VALENTINE'S DAY 2023",
+    "idol":"NCT DREAM HAECHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716554599649410/R.png",
+    "theme": "BOOM",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_HC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT DREAM HAECHAN** VALENTINE'S DAY 2023",
+      "idol":"NCT DREAM HAECHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716554826137661/S.png",
+      "theme": "BOOM",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_HC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT DREAM HAECHAN** VALENTINE'S DAY 2023",
+      "idol":"NCT DREAM HAECHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716553899188254/A.png",
+      "theme": "BOOM",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_HC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT DREAM HAECHAN** VALENTINE'S DAY 2023",
+      "idol":"NCT DREAM HAECHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716554092138617/B.png",
+      "theme": "BOOM",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_HC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT DREAM HAECHAN** VALENTINE'S DAY 2023",
+      "idol":"NCT DREAM HAECHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716554343792641/C.png",
+      "theme": "BOOM",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** VALENTINE'S DAY 2023",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716574472245439/R.png",
+    "theme": "After LIKE",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** VALENTINE'S DAY 2023",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716574799396975/S.png",
+      "theme": "After LIKE",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** VALENTINE'S DAY 2023",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716573792768050/A.png",
+      "theme": "After LIKE",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** VALENTINE'S DAY 2023",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716574065393886/B.png",
+      "theme": "After LIKE",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** VALENTINE'S DAY 2023",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716574283505705/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_KE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **P1Harmony Keeho** VALENTINE'S DAY 2023",
+    "idol":"P1Harmony Keeho",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716600132993034/R.png",
+    "theme": "Do It Like This",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_KE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **P1Harmony Keeho** VALENTINE'S DAY 2023",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716600363683960/S.png",
+      "theme": "Do It Like This",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_KE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **P1Harmony Keeho** VALENTINE'S DAY 2023",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716599386406982/A.png",
+      "theme": "Do It Like This",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_KE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **P1Harmony Keeho** VALENTINE'S DAY 2023",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716599700983888/B.png",
+      "theme": "Do It Like This",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_KE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **P1Harmony Keeho** VALENTINE'S DAY 2023",
+      "idol":"P1Harmony Keeho",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716599919104070/C.png",
+      "theme": "Do It Like This",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_KEB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Solo KWON EUN BI** VALENTINE'S DAY 2023",
+    "idol":"Solo KWON EUN BI",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716624711622829/R.png",
+    "theme": "Glitch",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_KEB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Solo KWON EUN BI** VALENTINE'S DAY 2023",
+      "idol":"Solo KWON EUN BI",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716624954888222/S.png",
+      "theme": "Glitch",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_KEB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Solo KWON EUN BI** VALENTINE'S DAY 2023",
+      "idol":"Solo KWON EUN BI",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716624023761088/A.png",
+      "theme": "Glitch",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_KEB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Solo KWON EUN BI** VALENTINE'S DAY 2023",
+      "idol":"Solo KWON EUN BI",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716624262832148/B.png",
+      "theme": "Glitch",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_KEB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Solo KWON EUN BI** VALENTINE'S DAY 2023",
+      "idol":"Solo KWON EUN BI",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716624527077426/C.png",
+      "theme": "Glitch",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** VALENTINE'S DAY 2023",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716642147336242/R.png",
+    "theme": "LOVE DIVE",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** VALENTINE'S DAY 2023",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716642361253988/S.png",
+      "theme": "LOVE DIVE",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** VALENTINE'S DAY 2023",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716641547550790/A.png",
+      "theme": "LOVE DIVE",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** VALENTINE'S DAY 2023",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716641761468556/B.png",
+      "theme": "LOVE DIVE",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** VALENTINE'S DAY 2023",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716641950208000/C.png",
+      "theme": "LOVE DIVE",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_MM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE MOMO** VALENTINE'S DAY 2023",
+    "idol":"TWICE MOMO",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716664150663228/R.png",
+    "theme": "SCIENTIST",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_MM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE MOMO** VALENTINE'S DAY 2023",
+      "idol":"TWICE MOMO",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716664381345842/S.png",
+      "theme": "SCIENTIST",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_MM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE MOMO** VALENTINE'S DAY 2023",
+      "idol":"TWICE MOMO",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716663366328391/A.png",
+      "theme": "SCIENTIST",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_MM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE MOMO** VALENTINE'S DAY 2023",
+      "idol":"TWICE MOMO",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716663647342602/B.png",
+      "theme": "SCIENTIST",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_MM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE MOMO** VALENTINE'S DAY 2023",
+      "idol":"TWICE MOMO",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716663869653032/C.png",
+      "theme": "SCIENTIST",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_WH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Solo WONHO** VALENTINE'S DAY 2023",
+    "idol":"Solo WONHO",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716689480065055/R.png",
+    "theme": "CRAZY",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_WH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Solo WONHO** VALENTINE'S DAY 2023",
+      "idol":"Solo WONHO",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716689685581915/S.png",
+      "theme": "CRAZY",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_WH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Solo WONHO** VALENTINE'S DAY 2023",
+      "idol":"Solo WONHO",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716688817365042/A.png",
+      "theme": "CRAZY",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_WH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Solo WONHO** VALENTINE'S DAY 2023",
+      "idol":"Solo WONHO",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716689048047626/B.png",
+      "theme": "CRAZY",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_WH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Solo WONHO** VALENTINE'S DAY 2023",
+      "idol":"Solo WONHO",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716689245196288/C.png",
+      "theme": "CRAZY",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** VALENTINE'S DAY 2023",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716713232404560/R.png",
+    "theme": "Good Boy Gone Bad",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** VALENTINE'S DAY 2023",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716713450512394/S.png",
+      "theme": "Good Boy Gone Bad",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** VALENTINE'S DAY 2023",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716712628424744/A.png",
+      "theme": "Good Boy Gone Bad",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** VALENTINE'S DAY 2023",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716712829755402/B.png",
+      "theme": "Good Boy Gone Bad",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** VALENTINE'S DAY 2023",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716713026891816/C.png",
+      "theme": "Good Boy Gone Bad",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "VD23_CW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y YOON CHAEWON** VALENTINE'S DAY 2023",
+    "idol":"CLASS:y YOON CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> VALENTINE'S DAY 2023",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716745490813008/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "VD23_CW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y YOON CHAEWON** VALENTINE'S DAY 2023",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716745683730473/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "VD23_CW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y YOON CHAEWON** VALENTINE'S DAY 2023",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716744886833293/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "VD23_CW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y YOON CHAEWON** VALENTINE'S DAY 2023",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716745075556524/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "VD23_CW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y YOON CHAEWON** VALENTINE'S DAY 2023",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> VALENTINE'S DAY 2023",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069716745281089547/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "300"
+    }
     ]
           }
