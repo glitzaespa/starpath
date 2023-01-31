@@ -22867,5 +22867,555 @@
       "minimum": "0",
       "maximum": "300"
     }
+    ],
+  "CLZL_HH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y HONG HYEJU** ZEALOUS",
+    "idol":"CLASS:y HONG HYEJU",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984461044842596/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_HH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y HONG HYEJU** ZEALOUS",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984461283930152/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_HH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y HONG HYEJU** ZEALOUS",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984460256313375/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_HH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y HONG HYEJU** ZEALOUS",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984460528955525/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_HH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y HONG HYEJU** ZEALOUS",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984460809969694/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_KR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM RIWON** ZEALOUS",
+    "idol":"CLASS:y KIM RIWON",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984477784309780/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_KR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM RIWON** ZEALOUS",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984477977264168/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_KR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM RIWON** ZEALOUS",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984476983197856/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_KR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM RIWON** ZEALOUS",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984477285204052/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_KR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM RIWON** ZEALOUS",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984477536854026/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_KS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM SEONYOU** ZEALOUS",
+    "idol":"CLASS:y KIM SEONYOU",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984501041741834/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_KS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM SEONYOU** ZEALOUS",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984501259837570/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_KS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM SEONYOU** ZEALOUS",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984500253212783/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_KS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM SEONYOU** ZEALOUS",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984500471308359/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_KS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM SEONYOU** ZEALOUS",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984500739735622/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_MH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y MYUNG HYUNGSEO** ZEALOUS",
+    "idol":"CLASS:y MYUNG HYUNGSEO",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984532725502045/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_MH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y MYUNG HYUNGSEO** ZEALOUS",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984532939419689/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_MH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y MYUNG HYUNGSEO** ZEALOUS",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984532050219038/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_MH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y MYUNG HYUNGSEO** ZEALOUS",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984532268331110/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_MH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y MYUNG HYUNGSEO** ZEALOUS",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984532511608842/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_PB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** ZEALOUS",
+    "idol":"CLASS:y PARK BOEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984554238091274/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_PB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y PARK BOEUN** ZEALOUS",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984554519122020/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_PB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y PARK BOEUN** ZEALOUS",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984553441173614/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_PB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y PARK BOEUN** ZEALOUS",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984553705427034/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_PB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y PARK BOEUN** ZEALOUS",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984553919328256/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_WJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y WON JIMIN** ZEALOUS",
+    "idol":"CLASS:y WON JIMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984581064871966/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_WJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y WON JIMIN** ZEALOUS",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984581257805855/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_WJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y WON JIMIN** ZEALOUS",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984580301492224/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_WJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y WON JIMIN** ZEALOUS",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984580578332722/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_WJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y WON JIMIN** ZEALOUS",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984580821586031/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLZL_YC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y YOON CHAEWON** ZEALOUS",
+    "idol":"CLASS:y YOON CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> ZEALOUS",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984606356525096/R.png",
+    "theme": "ZEALOUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLZL_YC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y YOON CHAEWON** ZEALOUS",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984606620749894/S.png",
+      "theme": "ZEALOUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLZL_YC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y YOON CHAEWON** ZEALOUS",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984605572190298/A.png",
+      "theme": "ZEALOUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLZL_YC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y YOON CHAEWON** ZEALOUS",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984605878358089/B.png",
+      "theme": "ZEALOUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLZL_YC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y YOON CHAEWON** ZEALOUS",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> ZEALOUS",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1069984606113247322/C.png",
+      "theme": "ZEALOUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BOWM_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Vocal** Woman",
+    "idol":"BoA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Woman",
+    "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413280253448202/EVERYSTAR_LimitedTheme_20230122013849.png",
+    "theme": "Woman",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BOWM_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Vocal** Woman",
+      "idol":"BoA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413280022773931/EVERYSTAR_LimitedTheme_20230122013859.png",
+      "theme": "Woman",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BOWM_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Vocal** Woman",
+      "idol":"BoA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413279825645608/EVERYSTAR_LimitedTheme_20230122013903.png",
+      "theme": "Woman",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BOWM_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Vocal** Woman",
+      "idol":"BoA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413279519457320/EVERYSTAR_LimitedTheme_20230122013914.png",
+      "theme": "Woman",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BOWM_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Vocal** Woman",
+      "idol":"BoA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413279225860136/EVERYSTAR_LimitedTheme_20230122013918.png",
+      "theme": "Woman",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BOWM_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Dance** Woman",
+    "idol":"BoA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Woman",
+    "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413319189188629/EVERYSTAR_LimitedTheme_20230122014020.png",
+    "theme": "Woman",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BOWM_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Dance** Woman",
+      "idol":"BoA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413318878789682/EVERYSTAR_LimitedTheme_20230122014025.png",
+      "theme": "Woman",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BOWM_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Dance** Woman",
+      "idol":"BoA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413318488723497/EVERYSTAR_LimitedTheme_20230122014030.png",
+      "theme": "Woman",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BOWM_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Dance** Woman",
+      "idol":"BoA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413318052511834/EVERYSTAR_LimitedTheme_20230122014039.png",
+      "theme": "Woman",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BOWM_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Dance** Woman",
+      "idol":"BoA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413317356261406/EVERYSTAR_LimitedTheme_20230122014043.png",
+      "theme": "Woman",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BOWM_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BoA Rhythm** Woman",
+    "idol":"BoA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Woman",
+    "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413380811898900/EVERYSTAR_LimitedTheme_20230122014121.png",
+    "theme": "Woman",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BOWM_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BoA Rhythm** Woman",
+      "idol":"BoA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413380593791107/EVERYSTAR_LimitedTheme_20230122014126.png",
+      "theme": "Woman",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BOWM_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BoA Rhythm** Woman",
+      "idol":"BoA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413380363096264/EVERYSTAR_LimitedTheme_20230122014129.png",
+      "theme": "Woman",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BOWM_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BoA Rhythm** Woman",
+      "idol":"BoA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413379117400194/EVERYSTAR_LimitedTheme_20230122014139.png",
+      "theme": "Woman",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BOWM_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BoA Rhythm** Woman",
+      "idol":"BoA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Woman",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1066413378840571964/EVERYSTAR_LimitedTheme_20230122014146.png",
+      "theme": "Woman",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
