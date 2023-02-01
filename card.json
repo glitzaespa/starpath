@@ -23417,5 +23417,60 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "ESDF_ES_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **EVERYSTAR Default** STAR",
+    "idol":"EVERYSTAR Default",
+    "inv":"<:R_EMOTE:1036291037620097034> STAR",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1070422671126450247/EVERYSTAR_PLACEHOLDER.png",
+    "theme": "EVERYSTAR",
+    "minimum": "0",
+    "maximum": "0"
+  }
+  ],
+    "ESDF_ES_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **EVERYSTAR Default** STAR",
+      "idol":"EVERYSTAR Default",
+      "inv":"<:S_EMOTE:1036291020956115105> STAR",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1070422671126450247/EVERYSTAR_PLACEHOLDER.png",
+      "theme": "EVERYSTAR",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+    "ESDF_ES_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **EVERYSTAR Default** STAR",
+      "idol":"EVERYSTAR Default",
+      "inv":"<:A_EMOTE:1036291003348439102> STAR",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1070422671126450247/EVERYSTAR_PLACEHOLDER.png",
+      "theme": "EVERYSTAR",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+    "ESDF_ES_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **EVERYSTAR Default** STAR",
+      "idol":"EVERYSTAR Default",
+      "inv":"<:B_EMOTE:1036290987477180546> STAR",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1070422671126450247/EVERYSTAR_PLACEHOLDER.png",
+      "theme": "EVERYSTAR",
+      "minimum": "0",
+      "maximum": "0"
+    }
+    ],
+  "ESDF_ES_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **EVERYSTAR Default** STAR",
+      "idol":"EVERYSTAR Default",
+      "inv":"<:C_EMOTE:1036290969676546092> STAR",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1070422671126450247/EVERYSTAR_PLACEHOLDER.png",
+      "theme": "EVERYSTAR",
+      "minimum": "0",
+      "maximum": "0"
+    }
     ]
           }
