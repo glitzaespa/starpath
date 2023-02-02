@@ -56,7 +56,27 @@
     "WM_DA":"https://cdn.discordapp.com/attachments/1036296996966907924/1069996920090656768/VM_DA.png",
               "WM_DA_NAME":"**BoA Dance** Woman",
     "WM_RH":"https://cdn.discordapp.com/attachments/1036296996966907924/1069996920283602984/WM_VO.png",
-              "WM_RH_NAME":"**BoA Rhythm** Woman"
+              "WM_RH_NAME":"**BoA Rhythm** Woman",
+     "QU_WJ":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748753054662666/QU_WJ.png",
+              "QU_WJ_NAME":"**CLASS:y WON JIMIN** QUEEN",
+    "QU_KS":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748752832372796/QU_KS.png",
+              "QU_KS_NAME":"**CLASS:y KIM SEONYOU** QUEEN",
+    "QU_MH":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748752622669895/QU_MH.png",
+              "QU_MH_NAME":"**CLASS:y MYUNG HYUNGSEO** QUEEN",
+    "QU_HH":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748752333242449/QU_HH.png",
+              "QU_HH_NAME":"**CLASS:y HONG HYEJU** QUEEN",
+    "QU_KR":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748751993512027/QU_KR.png",
+              "QU_KR_NAME":"**CLASS:y KIM RIWON** QUEEN",
+    "QU_PB":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748751616036994/QU_PB.png",
+              "QU_PB_NAME":"**CLASS:y PARK BOEUN** QUEEN",
+    "QU_YC":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748751389523988/QU_YC.png",
+              "QU_YC_NAME":"**CLASS:y YOON CHAEWON** QUEEN",
+    "BP_UM":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748764823896104/BP_UM.png",
+              "BP_UM_NAME":"**VIVIZ UMJI** BOP BOP!",
+    "BP_EU":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748765046177943/BP_EU.png",
+              "BP_EU_NAME":"**VIVIZ EUNHA** BOP BOP!",
+    "BP_SI":"https://cdn.discordapp.com/attachments/1036296996966907924/1070748765293662269/BP_SI.png",
+              "BP_SI_NAME":"**VIVIZ SINB** BOP BOP!"
   }
   ]
 }
