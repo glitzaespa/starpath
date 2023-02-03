@@ -24077,5 +24077,885 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "BPAI_JN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JENNIE** As If It's Your Last",
+    "idol":"BLACKPINK JENNIE",
+    "inv":"<:R_EMOTE:1036291037620097034> As If It's Your Last",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143091093901332/R.png",
+    "theme": "AS IF IT'S YOUR LAST",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPAI_JN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JENNIE** As If It's Your Last",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:S_EMOTE:1036291020956115105> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143091446231091/S.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPAI_JN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JENNIE** As If It's Your Last",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:A_EMOTE:1036291003348439102> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143090242457630/A.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPAI_JN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JENNIE** As If It's Your Last",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:B_EMOTE:1036290987477180546> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143090540261449/B.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPAI_JN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JENNIE** As If It's Your Last",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:C_EMOTE:1036290969676546092> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143090842255410/C.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPAI_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JISOO** As If It's Your Last",
+    "idol":"BLACKPINK JISOO",
+    "inv":"<:R_EMOTE:1036291037620097034> As If It's Your Last",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143115320201236/R.png",
+    "theme": "AS IF IT'S YOUR LAST",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPAI_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JISOO** As If It's Your Last",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:S_EMOTE:1036291020956115105> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143115550896128/S.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPAI_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JISOO** As If It's Your Last",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:A_EMOTE:1036291003348439102> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143114577809498/A.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPAI_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JISOO** As If It's Your Last",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:B_EMOTE:1036290987477180546> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143114833670265/B.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPAI_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JISOO** As If It's Your Last",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:C_EMOTE:1036290969676546092> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143115093713047/C.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPAI_LS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK LISA** As If It's Your Last",
+    "idol":"BLACKPINK LISA",
+    "inv":"<:R_EMOTE:1036291037620097034> As If It's Your Last",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143131770269726/R.png",
+    "theme": "AS IF IT'S YOUR LAST",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPAI_LS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK LISA** As If It's Your Last",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:S_EMOTE:1036291020956115105> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143132009349160/S.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPAI_LS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK LISA** As If It's Your Last",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:A_EMOTE:1036291003348439102> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143131094986752/A.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPAI_LS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK LISA** As If It's Your Last",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:B_EMOTE:1036290987477180546> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143131296317522/B.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPAI_LS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK LISA** As If It's Your Last",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:C_EMOTE:1036290969676546092> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143131510210730/C.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPAI_RS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK ROSÉ** As If It's Your Last",
+    "idol":"BLACKPINK ROSÉ",
+    "inv":"<:R_EMOTE:1036291037620097034> As If It's Your Last",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143152615964732/R.png",
+    "theme": "AS IF IT'S YOUR LAST",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPAI_RS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK ROSÉ** As If It's Your Last",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:S_EMOTE:1036291020956115105> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143152913756260/S.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPAI_RS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK ROSÉ** As If It's Your Last",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:A_EMOTE:1036291003348439102> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143150984380508/A.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPAI_RS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK ROSÉ** As If It's Your Last",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:B_EMOTE:1036290987477180546> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143151621910689/B.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPAI_RS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK ROSÉ** As If It's Your Last",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:C_EMOTE:1036290969676546092> As If It's Your Last",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143152389464104/C.png",
+      "theme": "AS IF IT'S YOUR LAST",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NYSN_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Vocal** SUNSET",
+    "idol":"NAYEON Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> SUNSET",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143257351925840/R.png",
+    "theme": "SUNSET",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYSN_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Vocal** SUNSET",
+      "idol":"NAYEON Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143257620357160/S.png",
+      "theme": "SUNSET",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYSN_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Vocal** SUNSET",
+      "idol":"NAYEON Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143256596951100/A.png",
+      "theme": "SUNSET",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYSN_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Vocal** SUNSET",
+      "idol":"NAYEON Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143256848605225/B.png",
+      "theme": "SUNSET",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYSN_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Vocal** SUNSET",
+      "idol":"NAYEON Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143257100271667/C.png",
+      "theme": "SUNSET",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NYSN_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Dance** SUNSET",
+    "idol":"NAYEON Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> SUNSET",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143215685701653/R.png",
+    "theme": "SUNSET",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYSN_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Dance** SUNSET",
+      "idol":"NAYEON Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143216012853248/S.png",
+      "theme": "SUNSET",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYSN_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Dance** SUNSET",
+      "idol":"NAYEON Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143214951698493/A.png",
+      "theme": "SUNSET",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYSN_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Dance** SUNSET",
+      "idol":"NAYEON Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143215224324097/B.png",
+      "theme": "SUNSET",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYSN_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Dance** SUNSET",
+      "idol":"NAYEON Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143215488577639/C.png",
+      "theme": "SUNSET",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NYSN_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NAYEON Rhythm** SUNSET",
+    "idol":"NAYEON Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> SUNSET",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143238871818311/R.png",
+    "theme": "SUNSET",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NYSN_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NAYEON Rhythm** SUNSET",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143239157035169/S.png",
+      "theme": "SUNSET",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NYSN_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NAYEON Rhythm** SUNSET",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143238209118289/A.png",
+      "theme": "SUNSET",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NYSN_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NAYEON Rhythm** SUNSET",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143238452392016/B.png",
+      "theme": "SUNSET",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NYSN_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NAYEON Rhythm** SUNSET",
+      "idol":"NAYEON Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> SUNSET",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143238653710367/C.png",
+      "theme": "SUNSET",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIIL_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Dance** I love you, I need you",
+    "idol":"LOONA ViVi Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> I love you, I need you",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143336787841034/R.png",
+    "theme": "Everyday I Love You [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIIL_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Dance** I love you, I need you",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143337127583754/S.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIIL_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Dance** I love you, I need you",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143335986729070/A.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIIL_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Dance** I love you, I need you",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143336263557140/B.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIIL_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Dance** I love you, I need you",
+      "idol":"LOONA ViVi Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143336552972288/C.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIIL_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Rhythm** I love you, I need you",
+    "idol":"LOONA ViVi Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> I love you, I need you",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143367817310268/R.png",
+    "theme": "Everyday I Love You [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIIL_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Rhythm** I love you, I need you",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143368215760946/S.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIIL_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Rhythm** I love you, I need you",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143366974255164/A.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIIL_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Rhythm** I love you, I need you",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143367276236851/B.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIIL_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Rhythm** I love you, I need you",
+      "idol":"LOONA ViVi Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143367481761902/C.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "VIIL_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi Vocal** I love you, I need you",
+    "idol":"LOONA ViVi Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> I love you, I need you",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143391863250984/R.png",
+    "theme": "Everyday I Love You [Verse 2]",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "VIIL_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi Vocal** I love you, I need you",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143392102330439/S.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "VIIL_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi Vocal** I love you, I need you",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143391125053522/A.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "VIIL_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi Vocal** I love you, I need you",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143391364132985/B.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "VIIL_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi Vocal** I love you, I need you",
+      "idol":"LOONA ViVi Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> I love you, I need you",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071143391594811412/C.png",
+      "theme": "Everyday I Love You [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SUMIN** BEAUTIFUL MONSTER",
+    "idol":"STAYC SUMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939723146735637/Untitled207_20230203101651.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SUMIN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SUMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939705010565130/Untitled207_20230203101648.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SUMIN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SUMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939686241054820/Untitled207_20230203101645.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SUMIN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SUMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939666427150376/Untitled207_20230203101643.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SUMIN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SUMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939642116964362/Untitled207_20230203101638.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_SI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SIEUN** BEAUTIFUL MONSTER",
+    "idol":"STAYC SIEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939825517109328/Untitled207_20230203101735.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_SI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SIEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SIEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939802276466708/Untitled207_20230203101731.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_SI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SIEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SIEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939781573378138/Untitled207_20230203101728.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_SI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SIEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SIEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939762774519891/Untitled207_20230203101725.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_SI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SIEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SIEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939742188875876/Untitled207_20230203101721.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_IS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC ISA** BEAUTIFUL MONSTER",
+    "idol":"STAYC ISA",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939928915099648/Untitled207_20230203101844.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_IS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC ISA** BEAUTIFUL MONSTER",
+      "idol":"STAYC ISA",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939910112018452/Untitled207_20230203101840.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_IS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC ISA** BEAUTIFUL MONSTER",
+      "idol":"STAYC ISA",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939890780471378/Untitled207_20230203101838.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_IS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC ISA** BEAUTIFUL MONSTER",
+      "idol":"STAYC ISA",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939871159525386/Untitled207_20230203101836.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_IS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC ISA** BEAUTIFUL MONSTER",
+      "idol":"STAYC ISA",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939850989121576/Untitled207_20230203101833.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SEEUN** BEAUTIFUL MONSTER",
+    "idol":"STAYC SEEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940026420068392/Untitled207_20230203101926.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SEEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SEEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940005310144553/Untitled207_20230203101923.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SEEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SEEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939985362046996/Untitled207_20230203101920.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SEEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SEEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939965837541426/Untitled207_20230203101917.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SEEUN** BEAUTIFUL MONSTER",
+      "idol":"STAYC SEEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070939946690543676/Untitled207_20230203101914.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_YO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC YOON** BEAUTIFUL MONSTER",
+    "idol":"STAYC YOON",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940144556838962/Untitled207_20230203102006.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_YO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC YOON** BEAUTIFUL MONSTER",
+      "idol":"STAYC YOON",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940125904773190/Untitled207_20230203102003.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_YO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC YOON** BEAUTIFUL MONSTER",
+      "idol":"STAYC YOON",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940101565222922/Untitled207_20230203101959.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_YO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC YOON** BEAUTIFUL MONSTER",
+      "idol":"STAYC YOON",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940074222551071/Untitled207_20230203101955.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_YO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC YOON** BEAUTIFUL MONSTER",
+      "idol":"STAYC YOON",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940047404183604/Untitled207_20230203101952.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STBM_J_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC J** BEAUTIFUL MONSTER",
+    "idol":"STAYC J",
+    "inv":"<:R_EMOTE:1036291037620097034> BEAUTIFUL MONSTER",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940246734274560/Untitled207_20230203102054.png",
+    "theme": "BEAUTIFUL MONSTER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STBM_J_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC J** BEAUTIFUL MONSTER",
+      "idol":"STAYC J",
+      "inv":"<:S_EMOTE:1036291020956115105> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940224118587422/Untitled207_20230203102051.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STBM_J_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC J** BEAUTIFUL MONSTER",
+      "idol":"STAYC J",
+      "inv":"<:A_EMOTE:1036291003348439102> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940205852405770/Untitled207_20230203102049.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STBM_J_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC J** BEAUTIFUL MONSTER",
+      "idol":"STAYC J",
+      "inv":"<:B_EMOTE:1036290987477180546> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940182540460102/Untitled207_20230203102046.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STBM_J_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC J** BEAUTIFUL MONSTER",
+      "idol":"STAYC J",
+      "inv":"<:C_EMOTE:1036290969676546092> BEAUTIFUL MONSTER",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1070940164983115776/Untitled207_20230203102043.png",
+      "theme": "BEAUTIFUL MONSTER",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
