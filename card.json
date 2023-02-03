@@ -24022,5 +24022,60 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+    "IVNA_HUH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE huh** Narcissistic",
+    "idol":"IVE huh",
+    "inv":"<:R_EMOTE:1036291037620097034> Narcissistic",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130695358808157/R.png",
+    "theme": "LOVE DIVE [Verse 2]", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVNA_HUH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE huh** Narcissistic",
+      "idol":"IVE huh",
+      "inv":"<:S_EMOTE:1036291020956115105> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130697187528735/S.png",
+      "theme": "LOVE DIVE [Verse 2]", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVNA_HUH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE huh** Narcissistic",
+      "idol":"IVE huh",
+      "inv":"<:A_EMOTE:1036291003348439102> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694234738838/A.png",
+      "theme": "LOVE DIVE [Verse 2]", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVNA_HUH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE huh** Narcissistic",
+      "idol":"IVE huh",
+      "inv":"<:B_EMOTE:1036290987477180546> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694603833435/B.png",
+      "theme": "LOVE DIVE [Verse 2]", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVNA_HUH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE huh** Narcissistic",
+      "idol":"IVE huh",
+      "inv":"<:C_EMOTE:1036290969676546092> Narcissistic",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1037130694981324870/C.png",
+      "theme": "LOVE DIVE [Verse 2]",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
