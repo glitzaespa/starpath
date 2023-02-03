@@ -86,10 +86,10 @@
        "febthird": [
   {
     "monster":"STBM_SI;STBM_SE;STBM_SU;STBM_IS;STBM_YO;STBM_J",
-    "inyily":"VIIN_VO;VIIN_DA;VIIN_RH",
+    "inyily":"VIIL_VO;VIIL_DA;VIIL_RH",
     "aiiyl":"BPAI_JS;BPAI_JN;BPAI_RS;BPAI_LS",
     "sunset":"NYSN_VO;NYSN_DA;NYSN_RH",
-    "vivi":"VIIN_VO;VIIN_DA;VIIN_RH;VIED_VO;VIED_DA;VIED_RH",
+    "vivi":"VIIL_VO;VIIL_DA;VIIL_RH;VIED_VO;VIED_DA;VIED_RH",
     "blackpink":"BPAI_JS;BPAI_JN;BPAI_RS;BPAI_LS;BPPW_JS;BPPW_JN;BPPW_RS;BPPW_LS",
     "nayeon":"NYSN_VO;NYSN_DA;NYSN_RH;NYLC_VO;NYLC_DA;NYLC_RH"
  }
