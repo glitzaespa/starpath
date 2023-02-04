@@ -24957,5 +24957,285 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "ITWS_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YEJI** Why so curious?",
+    "idol":"ITZY YEJI",
+    "inv":"<:R_EMOTE:1036291037620097034> Why so curious?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484472106688522/R.png",
+    "gif": "https://imgur.com/cuTuBF5",
+    "theme": "Cheshire [Full]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITWS_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YEJI** Why so curious?",
+      "idol":"ITZY YEJI",
+      "inv":"<:S_EMOTE:1036291020956115105> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484472433836212/S.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITWS_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YEJI** Why so curious?",
+      "idol":"ITZY YEJI",
+      "inv":"<:A_EMOTE:1036291003348439102> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484471209107487/A.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITWS_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YEJI** Why so curious?",
+      "idol":"ITZY YEJI",
+      "inv":"<:B_EMOTE:1036290987477180546> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484471431397506/B.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITWS_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YEJI** Why so curious?",
+      "idol":"ITZY YEJI",
+      "inv":"<:C_EMOTE:1036290969676546092> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484471662100551/C.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITWS_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY LIA** Why so curious?",
+    "idol":"ITZY LIA",
+    "inv":"<:R_EMOTE:1036291037620097034> Why so curious?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484498216235089/R.png",
+    "gif": "https://imgur.com/a/jAwIxBU",
+    "theme": "Cheshire [Full]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITWS_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY LIA** Why so curious?",
+      "idol":"ITZY LIA",
+      "inv":"<:S_EMOTE:1036291020956115105> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484498425954325/S.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITWS_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY LIA** Why so curious?",
+      "idol":"ITZY LIA",
+      "inv":"<:A_EMOTE:1036291003348439102> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484497461260419/A.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITWS_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY LIA** Why so curious?",
+      "idol":"ITZY LIA",
+      "inv":"<:B_EMOTE:1036290987477180546> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484497679368232/B.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITWS_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY LIA** Why so curious?",
+      "idol":"ITZY LIA",
+      "inv":"<:C_EMOTE:1036290969676546092> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484497989734431/C.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITWS_RJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY RYUJIN** Why so curious?",
+    "idol":"ITZY RYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Why so curious?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484529396691115/R.png",
+    "gif": "https://imgur.com/J5RBF2F",
+    "theme": "Cheshire [Full]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITWS_RJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY RYUJIN** Why so curious?",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484529598013450/S.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITWS_RJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY RYUJIN** Why so curious?",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484528629133333/A.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITWS_RJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY RYUJIN** Why so curious?",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484528889176074/B.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITWS_RJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY RYUJIN** Why so curious?",
+      "idol":"ITZY RYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484529178579004/C.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITWS_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY CHAERYEONG** Why so curious?",
+    "idol":"ITZY CHAERYEONG",
+    "inv":"<:R_EMOTE:1036291037620097034> Why so curious?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484581708038365/R.png",
+    "gif": "https://imgur.com/Y0haF7R",
+    "theme": "Cheshire [Full]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITWS_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY CHAERYEONG** Why so curious?",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:S_EMOTE:1036291020956115105> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484581993263235/S.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITWS_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY CHAERYEONG** Why so curious?",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:A_EMOTE:1036291003348439102> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484580810457208/A.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITWS_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY CHAERYEONG** Why so curious?",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:B_EMOTE:1036290987477180546> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484581196345344/B.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITWS_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY CHAERYEONG** Why so curious?",
+      "idol":"ITZY CHAERYEONG",
+      "inv":"<:C_EMOTE:1036290969676546092> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484581447999588/C.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ITWS_YN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ITZY YUNA** Why so curious?",
+    "idol":"ITZY YUNA",
+    "inv":"<:R_EMOTE:1036291037620097034> Why so curious?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484606257307769/R.png",
+    "gif": "https://imgur.com/dMmuncO",
+    "theme": "Cheshire [Full]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ITWS_YN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ITZY YUNA** Why so curious?",
+      "idol":"ITZY YUNA",
+      "inv":"<:S_EMOTE:1036291020956115105> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484606475419789/S.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ITWS_YN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ITZY YUNA** Why so curious?",
+      "idol":"ITZY YUNA",
+      "inv":"<:A_EMOTE:1036291003348439102> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484605544275998/A.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ITWS_YN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ITZY YUNA** Why so curious?",
+      "idol":"ITZY YUNA",
+      "inv":"<:B_EMOTE:1036290987477180546> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484605766582396/B.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ITWS_YN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ITZY YUNA** Why so curious?",
+      "idol":"ITZY YUNA",
+      "inv":"<:C_EMOTE:1036290969676546092> Why so curious?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1071484606039195748/C.png",
+      "theme": "Cheshire [Full]",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
