@@ -26062,5 +26062,995 @@
       "minimum": "0",
       "maximum": "300"
     }
+    ],
+  "YXL4_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA/yyxy Chuu** love4eva",
+    "idol":"LOONA/yyxy Chuu",
+    "inv":"<:R_EMOTE:1036291037620097034> love4eva",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756443528298516/R.png",
+    "theme": "love4eva (feat. Grimes)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXL4_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA/yyxy Chuu** love4eva",
+      "idol":"LOONA/yyxy Chuu",
+      "inv":"<:S_EMOTE:1036291020956115105> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756443758989372/S.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXL4_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA/yyxy Chuu** love4eva",
+      "idol":"LOONA/yyxy Chuu",
+      "inv":"<:A_EMOTE:1036291003348439102> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756442848821328/A.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXL4_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA/yyxy Chuu** love4eva",
+      "idol":"LOONA/yyxy Chuu",
+      "inv":"<:B_EMOTE:1036290987477180546> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756443058540644/B.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXL4_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA/yyxy Chuu** love4eva",
+      "idol":"LOONA/yyxy Chuu",
+      "inv":"<:C_EMOTE:1036290969676546092> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756443276660766/C.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXL4_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA/yyx Go Won** love4eva",
+    "idol":"LOONA/yyx Go Won",
+    "inv":"<:R_EMOTE:1036291037620097034> love4eva",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756478890479677/R.png",
+    "theme": "love4eva (feat. Grimes)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXL4_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA/yyx Go Won** love4eva",
+      "idol":"LOONA/yyx Go Won",
+      "inv":"<:S_EMOTE:1036291020956115105> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756479154716782/S.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXL4_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA/yyx Go Won** love4eva",
+      "idol":"LOONA/yyx Go Won",
+      "inv":"<:A_EMOTE:1036291003348439102> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756478261334088/A.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXL4_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA/yyx Go Won** love4eva",
+      "idol":"LOONA/yyx Go Won",
+      "inv":"<:B_EMOTE:1036290987477180546> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756478479433840/B.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXL4_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA/yyx Go Won** love4eva",
+      "idol":"LOONA/yyx Go Won",
+      "inv":"<:C_EMOTE:1036290969676546092> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756478693351505/C.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXL4_OL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA/yyxy Olivia Hye** love4eva",
+    "idol":"LOONA/yyxy Olivia Hye",
+    "inv":"<:R_EMOTE:1036291037620097034> love4eva",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756516391759922/R.png",
+    "theme": "love4eva (feat. Grimes)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXL4_OL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA/yyxy Olivia Hye** love4eva",
+      "idol":"LOONA/yyxy Olivia Hye",
+      "inv":"<:S_EMOTE:1036291020956115105> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756516618256394/S.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXL4_OL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA/yyxy Olivia Hye** love4eva",
+      "idol":"LOONA/yyxy Olivia Hye",
+      "inv":"<:A_EMOTE:1036291003348439102> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756515771002880/A.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXL4_OL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA/yyxy Olivia Hye** love4eva",
+      "idol":"LOONA/yyxy Olivia Hye",
+      "inv":"<:B_EMOTE:1036290987477180546> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756515963944960/B.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXL4_OL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA/yyxy Olivia Hye** love4eva",
+      "idol":"LOONA/yyxy Olivia Hye",
+      "inv":"<:C_EMOTE:1036290969676546092> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756516198830080/C.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXL4_YV_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA/yyxy Yves** love4eva",
+    "idol":"LOONA/yyxy Yves",
+    "inv":"<:R_EMOTE:1036291037620097034> love4eva",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756551707803658/R.png",
+    "theme": "love4eva (feat. Grimes)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXL4_YV_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA/yyxy Yves** love4eva",
+      "idol":"LOONA/yyxy Yves",
+      "inv":"<:S_EMOTE:1036291020956115105> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756551972032583/S.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXL4_YV_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA/yyxy Yves** love4eva",
+      "idol":"LOONA/yyxy Yves",
+      "inv":"<:A_EMOTE:1036291003348439102> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756551099629628/A.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXL4_YV_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA/yyxy Yves** love4eva",
+      "idol":"LOONA/yyxy Yves",
+      "inv":"<:B_EMOTE:1036290987477180546> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756551313526875/B.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXL4_YV_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA/yyxy Yves** love4eva",
+      "idol":"LOONA/yyxy Yves",
+      "inv":"<:C_EMOTE:1036290969676546092> love4eva",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072756551481303130/C.png",
+      "theme": "love4eva (feat. Grimes)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMOO_BA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** O.O",
+    "idol":"NMIXX BAE",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515853276413983/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_BA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** O.O",
+      "idol":"NMIXX BAE",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515853519700018/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_BA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** O.O",
+      "idol":"NMIXX BAE",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515852437553202/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_BA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** O.O",
+      "idol":"NMIXX BAE",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515852726976623/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_BA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** O.O",
+      "idol":"NMIXX BAE",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515853024759918/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** O.O",
+    "idol":"NMIXX HAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515880933654538/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** O.O",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515881206300703/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** O.O",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515880161902723/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** O.O",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515880426160248/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** O.O",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515880723947673/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JINNI** O.O",
+    "idol":"NMIXX JINNI",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515902874067114/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JINNI** O.O",
+      "idol":"NMIXX JINNI",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515903050240082/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JINNI** O.O",
+      "idol":"NMIXX JINNI",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515902194589856/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JINNI** O.O",
+      "idol":"NMIXX JINNI",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515902400122951/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JINNI** O.O",
+      "idol":"NMIXX JINNI",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515902634983474/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** O.O",
+    "idol":"NMIXX JIWOO",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515923317108766/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** O.O",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515923585531975/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** O.O",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515922549551174/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** O.O",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515922780225629/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** O.O",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515923036098591/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_KY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** O.O",
+    "idol":"NMIXX KYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515953335730206/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_KY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** O.O",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515953641926726/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_KY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** O.O",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515952522035310/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_KY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** O.O",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515952714985543/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_KY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** O.O",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515953025355806/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** O.O",
+    "idol":"NMIXX LILY",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515980695191593/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** O.O",
+      "idol":"NMIXX LILY",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515980909088798/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** O.O",
+      "idol":"NMIXX LILY",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515980066046022/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** O.O",
+      "idol":"NMIXX LILY",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515980284137522/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** O.O",
+      "idol":"NMIXX LILY",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072515980485480508/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMOO_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** O.O",
+    "idol":"NMIXX SULLYOON",
+    "inv":"<:R_EMOTE:1036291037620097034> O.O",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072516015851839578/R.png",
+    "theme": "O.O",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMOO_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** O.O",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:S_EMOTE:1036291020956115105> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072516016195776645/S.png",
+      "theme": "O.O",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMOO_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** O.O",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:A_EMOTE:1036291003348439102> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072516015059120169/A.png",
+      "theme": "O.O",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMOO_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** O.O",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:B_EMOTE:1036290987477180546> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072516015352717403/B.png",
+      "theme": "O.O",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMOO_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** O.O",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:C_EMOTE:1036290969676546092> O.O",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1072516015600185424/C.png",
+      "theme": "O.O",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_MA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream MARK** Glitch Mode",
+    "idol":"NCT Dream MARK",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072272499796095098/1072272713000960010/r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_MA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream MARK** Glitch Mode",
+      "idol":"NCT Dream MARK",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272499796095098/1072272712657014784/s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_MA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream MARK** Glitch Mode",
+      "idol":"NCT Dream MARK",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272499796095098/1072272712384389140/a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_MA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream MARK** Glitch Mode",
+      "idol":"NCT Dream MARK",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272499796095098/1072272712040464454/b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_MA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream MARK** Glitch Mode",
+      "idol":"NCT Dream MARK",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272499796095098/1072272711667159040/c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_RJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream RENJUN** Glitch Mode",
+    "idol":"NCT Dream RENJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072272846698586142/1072272981113450538/renjun_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_RJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream RENJUN** Glitch Mode",
+      "idol":"NCT Dream RENJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272846698586142/1072272980685635747/renjun_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_RJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream RENJUN** Glitch Mode",
+      "idol":"NCT Dream RENJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272846698586142/1072272980396224613/renjun_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_RJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream RENJUN** Glitch Mode",
+      "idol":"NCT Dream RENJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272846698586142/1072272980115202139/renjun_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_RJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream RENJUN** Glitch Mode",
+      "idol":"NCT Dream RENJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072272846698586142/1072272979829997598/renjun_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_JN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream JENO** Glitch Mode",
+    "idol":"NCT Dream JENO",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072273038017568809/1072273152501108776/jeno_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_JN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream JENO** Glitch Mode",
+      "idol":"NCT Dream JENO",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273038017568809/1072273152253636628/jeno_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_JN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream JENO** Glitch Mode",
+      "idol":"NCT Dream JENO",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273038017568809/1072273151976804373/jeno_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_JN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream JENO** Glitch Mode",
+      "idol":"NCT Dream JENO",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273038017568809/1072273151637082233/jeno_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_JN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream JENO** Glitch Mode",
+      "idol":"NCT Dream JENO",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273038017568809/1072273151326695475/jeno_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_HC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream HAECHAN** Glitch Mode",
+    "idol":"NCT Dream HAECHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072273192036614194/1072273288207810683/haechan_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_HC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream HAECHAN** Glitch Mode",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273192036614194/1072273287926775848/haechan_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_HC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream HAECHAN** Glitch Mode",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273192036614194/1072273287666741428/haechan_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_HC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream HAECHAN** Glitch Mode",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273192036614194/1072273287402504292/haechan_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_HC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream HAECHAN** Glitch Mode",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273192036614194/1072273287163412580/haechan_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_JM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream JAEMIN** Glitch Mode",
+    "idol":"NCT Dream JAEMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072273319979663501/1072273405040136222/jaemin_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_JM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream JAEMIN** Glitch Mode",
+      "idol":"NCT Dream JAEMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273319979663501/1072273404792668300/jaemin_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_JM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream JAEMIN** Glitch Mode",
+      "idol":"NCT Dream JAEMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273319979663501/1072273404536832060/jaemin_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_JM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream JAEMIN** Glitch Mode",
+      "idol":"NCT Dream JAEMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273319979663501/1072273404247412756/jaemin_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_JM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream JAEMIN** Glitch Mode",
+      "idol":"NCT Dream JAEMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273319979663501/1072273403945418913/jaemin_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_CL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream CHENLE** Glitch Mode",
+    "idol":"NCT Dream CHENLE",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072273439165005914/1072273563740033034/chenle_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_CL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream CHENLE** Glitch Mode",
+      "idol":"NCT Dream CHENLE",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273439165005914/1072273563421245440/chenle_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_CL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream CHENLE** Glitch Mode",
+      "idol":"NCT Dream CHENLE",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273439165005914/1072273563098304612/chenle_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_CL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream CHENLE** Glitch Mode",
+      "idol":"NCT Dream CHENLE",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273439165005914/1072273562758561792/chenle_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_CL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream CHENLE** Glitch Mode",
+      "idol":"NCT Dream CHENLE",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273439165005914/1072273562339115028/chenle_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NDGM_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream JISUNG** Glitch Mode",
+    "idol":"NCT Dream JISUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Glitch Mode",
+    "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273683969757256/jisung_r.png",
+    "theme": "Glitch Mode",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NDGM_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream JISUNG** Glitch Mode",
+      "idol":"NCT Dream JISUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273683604836442/jisung_s.png",
+      "theme": "Glitch Mode",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NDGM_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream JISUNG** Glitch Mode",
+      "idol":"NCT Dream JISUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273683290280058/jisung_a.png",
+      "theme": "Glitch Mode",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NDGM_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream JISUNG** Glitch Mode",
+      "idol":"NCT Dream JISUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273682975690853/jisung_b.png",
+      "theme": "Glitch Mode",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NDGM_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream JISUNG** Glitch Mode",
+      "idol":"NCT Dream JISUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Glitch Mode",
+      "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273682669523054/jisung_c.png",
+      "theme": "Glitch Mode",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
