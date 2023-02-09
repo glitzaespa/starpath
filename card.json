@@ -27218,7 +27218,7 @@
       "maximum": "200"
     }
     ],
-  "WCHM_DY_R": [
+  "WCHM_DA_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **WJSN CHOCOME DAYOUNG** HMPH!",
     "idol":"WJSN CHOCOME DAYOUNG",
@@ -27229,7 +27229,7 @@
     "maximum": "2400"
   }
   ],
-    "WCHM_DY_S": [
+    "WCHM_DA_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **WJSN CHOCOME DAYOUNG** HMPH!",
       "idol":"WJSN CHOCOME DAYOUNG",
@@ -27240,7 +27240,7 @@
       "maximum": "1800"
     }
     ],
-    "WCHM_DY_A": [
+    "WCHM_DA_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **WJSN CHOCOME DAYOUNG** HMPH!",
       "idol":"WJSN CHOCOME DAYOUNG",
@@ -27251,7 +27251,7 @@
       "maximum": "1200"
     }
     ],
-    "WCHM_DY_B": [
+    "WCHM_DA_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **WJSN CHOCOME DAYOUNG** HMPH!",
       "idol":"WJSN CHOCOME DAYOUNG",
@@ -27262,7 +27262,7 @@
       "maximum": "600"
     }
     ],
-  "WCHM_DY_C": [
+  "WCHM_DA_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **WJSN CHOCOME DAYOUNG** HMPH!",
       "idol":"WJSN CHOCOME DAYOUNG",
