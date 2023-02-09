@@ -27052,5 +27052,1490 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "WCHM_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **WJSN CHOCOME SOOBIN** HMPH!",
+    "idol":"WJSN CHOCOME SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> HMPH!",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505575805554768/Untitled207_20230206223355.png",
+    "theme": "HMPH!",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WCHM_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **WJSN CHOCOME SOOBIN** HMPH!",
+      "idol":"WJSN CHOCOME SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505561494605864/Untitled207_20230206223353.png",
+      "theme": "HMPH!",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WCHM_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **WJSN CHOCOME SOOBIN** HMPH!",
+      "idol":"WJSN CHOCOME SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505547238150205/Untitled207_20230206223350.png",
+      "theme": "HMPH!",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WCHM_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **WJSN CHOCOME SOOBIN** HMPH!",
+      "idol":"WJSN CHOCOME SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505532688126083/Untitled207_20230206223347.png",
+      "theme": "HMPH!",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WCHM_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **WJSN CHOCOME SOOBIN** HMPH!",
+      "idol":"WJSN CHOCOME SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505518175825970/Untitled207_20230206223342.png",
+      "theme": "HMPH!",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WCHM_LU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **WJSN CHOCOME LUDA** HMPH!",
+    "idol":"WJSN CHOCOME LUDA",
+    "inv":"<:R_EMOTE:1036291037620097034> HMPH!",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505651353366558/Untitled207_20230206223429.png",
+    "theme": "HMPH!",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WCHM_LU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **WJSN CHOCOME LUDA** HMPH!",
+      "idol":"WJSN CHOCOME LUDA",
+      "inv":"<:S_EMOTE:1036291020956115105> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505636979474504/Untitled207_20230206223426.png",
+      "theme": "HMPH!",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WCHM_LU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **WJSN CHOCOME LUDA** HMPH!",
+      "idol":"WJSN CHOCOME LUDA",
+      "inv":"<:A_EMOTE:1036291003348439102> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505622890811543/Untitled207_20230206223423.png",
+      "theme": "HMPH!",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WCHM_LU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **WJSN CHOCOME LUDA** HMPH!",
+      "idol":"WJSN CHOCOME LUDA",
+      "inv":"<:B_EMOTE:1036290987477180546> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505606163931247/Untitled207_20230206223421.png",
+      "theme": "HMPH!",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WCHM_LU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **WJSN CHOCOME LUDA** HMPH!",
+      "idol":"WJSN CHOCOME LUDA",
+      "inv":"<:C_EMOTE:1036290969676546092> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505589910999112/Untitled207_20230206223419.png",
+      "theme": "HMPH!",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WCHM_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **WJSN CHOCOME YEOREUM** HMPH!",
+    "idol":"WJSN CHOCOME YEOREUM",
+    "inv":"<:R_EMOTE:1036291037620097034> HMPH!",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505730583756870/Untitled207_20230206223458.png",
+    "theme": "HMPH!",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WCHM_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **WJSN CHOCOME YEOREUM** HMPH!",
+      "idol":"WJSN CHOCOME YEOREUM",
+      "inv":"<:S_EMOTE:1036291020956115105> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505709100552243/Untitled207_20230206223455.png",
+      "theme": "HMPH!",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WCHM_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **WJSN CHOCOME YEOREUM** HMPH!",
+      "idol":"WJSN CHOCOME YEOREUM",
+      "inv":"<:A_EMOTE:1036291003348439102> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505694797967390/Untitled207_20230206223453.png",
+      "theme": "HMPH!",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WCHM_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **WJSN CHOCOME YEOREUM** HMPH!",
+      "idol":"WJSN CHOCOME YEOREUM",
+      "inv":"<:B_EMOTE:1036290987477180546> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505679744602143/Untitled207_20230206223450.png",
+      "theme": "HMPH!",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WCHM_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **WJSN CHOCOME YEOREUM** HMPH!",
+      "idol":"WJSN CHOCOME YEOREUM",
+      "inv":"<:C_EMOTE:1036290969676546092> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505665249083472/Untitled207_20230206223448.png",
+      "theme": "HMPH!",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WCHM_DY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **WJSN CHOCOME DAYOUNG** HMPH!",
+    "idol":"WJSN CHOCOME DAYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> HMPH!",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505822686478447/Untitled207_20230206223700.png",
+    "theme": "HMPH!",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WCHM_DY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **WJSN CHOCOME DAYOUNG** HMPH!",
+      "idol":"WJSN CHOCOME DAYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505802742571099/Untitled207_20230206223657.png",
+      "theme": "HMPH!",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WCHM_DY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **WJSN CHOCOME DAYOUNG** HMPH!",
+      "idol":"WJSN CHOCOME DAYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505784849682513/Untitled207_20230206223628.png",
+      "theme": "HMPH!",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WCHM_DY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **WJSN CHOCOME DAYOUNG** HMPH!",
+      "idol":"WJSN CHOCOME DAYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505765824319619/Untitled207_20230206223625.png",
+      "theme": "HMPH!",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WCHM_DY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **WJSN CHOCOME DAYOUNG** HMPH!",
+      "idol":"WJSN CHOCOME DAYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> HMPH!",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1072505747327438908/Untitled207_20230206223525.png",
+      "theme": "HMPH!",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_TY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 TAEYONG** Ay-Yo",
+    "idol":"NCT 127 TAEYONG",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626244086136983/taeyong_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_TY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 TAEYONG** Ay-Yo",
+      "idol":"NCT 127 TAEYONG",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626243746410516/taeyong_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_TY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 TAEYONG** Ay-Yo",
+      "idol":"NCT 127 TAEYONG",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626243427651584/taeyong_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_TY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 TAEYONG** Ay-Yo",
+      "idol":"NCT 127 TAEYONG",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626243134029935/taeyong_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_TY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 TAEYONG** Ay-Yo",
+      "idol":"NCT 127 TAEYONG",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626242672668762/taeyong_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_TA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 TAEIL** Ay-Yo",
+    "idol":"NCT 127 TAEIL",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626385081864192/taeil_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_TA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 TAEIL** Ay-Yo",
+      "idol":"NCT 127 TAEIL",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626384687616001/taeil_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_TA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 TAEIL** Ay-Yo",
+      "idol":"NCT 127 TAEIL",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626384406577273/taeil_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_TA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 TAEIL** Ay-Yo",
+      "idol":"NCT 127 TAEIL",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626384054276146/taeil_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_TA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 TAEIL** Ay-Yo",
+      "idol":"NCT 127 TAEIL",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626383769042964/taeil_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 JOHNNY** Ay-Yo",
+    "idol":"NCT 127 JOHNNY",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626438798315540/johnny_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 JOHNNY** Ay-Yo",
+      "idol":"NCT 127 JOHNNY",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626438362112061/johnny_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 JOHNNY** Ay-Yo",
+      "idol":"NCT 127 JOHNNY",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626438039162961/johnny_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 JOHNNY** Ay-Yo",
+      "idol":"NCT 127 JOHNNY",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626437695213718/johnny_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 JOHNNY** Ay-Yo",
+      "idol":"NCT 127 JOHNNY",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072626437305147522/johnny_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_YU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 YUTA** Ay-Yo",
+    "idol":"NCT 127 YUTA",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628205745348738/yuta_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_YU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 YUTA** Ay-Yo",
+      "idol":"NCT 127 YUTA",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628205426585690/yuta_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_YU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 YUTA** Ay-Yo",
+      "idol":"NCT 127 YUTA",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628205040697396/yuta_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_YU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 YUTA** Ay-Yo",
+      "idol":"NCT 127 YUTA",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628204696772678/yuta_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_YU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 YUTA** Ay-Yo",
+      "idol":"NCT 127 YUTA",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628204390592522/yuta_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_DO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 DOYOUNG** Ay-Yo",
+    "idol":"NCT 127 DOYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628282446594098/doyoung_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_DO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 DOYOUNG** Ay-Yo",
+      "idol":"NCT 127 DOYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628282115235930/doyoung_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_DO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 DOYOUNG** Ay-Yo",
+      "idol":"NCT 127 DOYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628281733550110/doyoung_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_DO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 DOYOUNG** Ay-Yo",
+      "idol":"NCT 127 DOYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628281393823834/doyoung_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_DO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 DOYOUNG** Ay-Yo",
+      "idol":"NCT 127 DOYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628280911470723/doyoung_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 JAEHYUN** Ay-Yo",
+    "idol":"NCT 127 JAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628370220777573/jaehyun_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 JAEHYUN** Ay-Yo",
+      "idol":"NCT 127 JAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628369902026852/jaehyun_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 JAEHYUN** Ay-Yo",
+      "idol":"NCT 127 JAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628366445903994/jaehyun_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 JAEHYUN** Ay-Yo",
+      "idol":"NCT 127 JAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628366085214348/jaehyun_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 JAEHYUN** Ay-Yo",
+      "idol":"NCT 127 JAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628365745471618/jaehyun_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_JU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 JUNGWOO** Ay-Yo",
+    "idol":"NCT 127 JUNGWOO",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628427380760576/jungwoo_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_JU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 JUNGWOO** Ay-Yo",
+      "idol":"NCT 127 JUNGWOO",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628427082969148/jungwoo_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_JU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 JUNGWOO** Ay-Yo",
+      "idol":"NCT 127 JUNGWOO",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628426831319130/jungwoo_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_JU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 JUNGWOO** Ay-Yo",
+      "idol":"NCT 127 JUNGWOO",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628426567065672/jungwoo_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_JU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 JUNGWOO** Ay-Yo",
+      "idol":"NCT 127 JUNGWOO",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628426273468457/jungwoo_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_MA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 MARK** Ay-Yo",
+    "idol":"NCT 127 MARK",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628506237878384/mark_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_MA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 MARK** Ay-Yo",
+      "idol":"NCT 127 MARK",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628505839403038/mark_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_MA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 MARK** Ay-Yo",
+      "idol":"NCT 127 MARK",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628505529045074/mark_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_MA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 MARK** Ay-Yo",
+      "idol":"NCT 127 MARK",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628505159942284/mark_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_MA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 MARK** Ay-Yo",
+      "idol":"NCT 127 MARK",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628504870518875/mark_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "N1AY_HC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT 127 HAECHAN** Ay-Yo",
+    "idol":"NCT 127 HAECHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> Ay-Yo",
+    "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628598835519659/haechan_r.png",
+    "theme": "Ay-Yo",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "N1AY_HC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT 127 HAECHAN** Ay-Yo",
+      "idol":"NCT 127 HAECHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628598592254072/haechan_s.png",
+      "theme": "Ay-Yo",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "N1AY_HC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT 127 HAECHAN** Ay-Yo",
+      "idol":"NCT 127 HAECHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628598265102446/haechan_a.png",
+      "theme": "Ay-Yo",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "N1AY_HC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT 127 HAECHAN** Ay-Yo",
+      "idol":"NCT 127 HAECHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628597933744128/haechan_b.png",
+      "theme": "Ay-Yo",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "N1AY_HC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT 127 HAECHAN** Ay-Yo",
+      "idol":"NCT 127 HAECHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> Ay-Yo",
+      "image": "https://cdn.discordapp.com/attachments/1072626007942643773/1072628597644341258/haechan_c.png",
+      "theme": "Ay-Yo",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JUNGWON** Drunk-Dazed",
+    "idol":"ENHYPEN JUNGWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072940962319446016/jungwon_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JUNGWON** Drunk-Dazed",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072940961853870161/jungwon_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JUNGWON** Drunk-Dazed",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072940961375727686/jungwon_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JUNGWON** Drunk-Dazed",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072940961094717511/jungwon_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JUNGWON** Drunk-Dazed",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072940960767553576/jungwon_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_HS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN HEESEUNG** Drunk-Dazed",
+    "idol":"ENHYPEN HEESEUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941116229423154/heeseung_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_HS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN HEESEUNG** Drunk-Dazed",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941115948417075/heeseung_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_HS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN HEESEUNG** Drunk-Dazed",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941115608666162/heeseung_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_HS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN HEESEUNG** Drunk-Dazed",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941115193442314/heeseung_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_HS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN HEESEUNG** Drunk-Dazed",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941114828525669/heeseung_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JAY** Drunk-Dazed",
+    "idol":"ENHYPEN JAY",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941150475931711/jay_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JAY** Drunk-Dazed",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941150148755596/jay_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JAY** Drunk-Dazed",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941149834186893/jay_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JAY** Drunk-Dazed",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941149267972236/jay_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JAY** Drunk-Dazed",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941148957573181/jay_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_JK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JAKE** Drunk-Dazed",
+    "idol":"ENHYPEN JAKE",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941185959723089/jake_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_JK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JAKE** Drunk-Dazed",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941185636769882/jake_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_JK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JAKE** Drunk-Dazed",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941185376735302/jake_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_JK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JAKE** Drunk-Dazed",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941185049559110/jake_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_JK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JAKE** Drunk-Dazed",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941184755978340/jake_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN SUNGHOON** Drunk-Dazed",
+    "idol":"ENHYPEN SUNGHOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941237591625789/sunghoon_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN SUNGHOON** Drunk-Dazed",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941237331574884/sunghoon_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN SUNGHOON** Drunk-Dazed",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941237058932807/sunghoon_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN SUNGHOON** Drunk-Dazed",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941236773736558/sunghoon_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN SUNGHOON** Drunk-Dazed",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941236459159553/sunghoon_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_SN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN SUNOO** Drunk-Dazed",
+    "idol":"ENHYPEN SUNOO",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941273767481354/sunoo_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_SN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN SUNOO** Drunk-Dazed",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941273473875998/sunoo_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_SN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN SUNOO** Drunk-Dazed",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941273176088617/sunoo_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_SN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN SUNOO** Drunk-Dazed",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941272848928890/sunoo_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_SN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN SUNOO** Drunk-Dazed",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941272446271549/sunoo_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENDD_NK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN NI-KI** Drunk-Dazed",
+    "idol":"ENHYPEN NI-KI",
+    "inv":"<:R_EMOTE:1036291037620097034> Drunk-Dazed",
+    "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941307779088394/ni-ki_r.png",
+    "theme": "Drunk-Dazed",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ENDD_NK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN NI-KI** Drunk-Dazed",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:S_EMOTE:1036291020956115105> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941307460337785/ni-ki_s.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ENDD_NK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN NI-KI** Drunk-Dazed",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:A_EMOTE:1036291003348439102> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941307095437393/ni-ki_a.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ENDD_NK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN NI-KI** Drunk-Dazed",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:B_EMOTE:1036290987477180546> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941306776649789/ni-ki_b.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ENDD_NK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN NI-KI** Drunk-Dazed",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:C_EMOTE:1036290969676546092> Drunk-Dazed",
+      "image": "https://cdn.discordapp.com/attachments/1072940601814831175/1072941306466287707/ni-ki_c.png",
+      "theme": "Drunk-Dazed",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ENCA_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JUNGWON** Carnival",
+    "idol":"ENHYPEN JUNGWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084347965517864/jungwon_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JUNGWON** Carnival",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084347617398784/jungwon_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JUNGWON** Carnival",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084347244089354/jungwon_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JUNGWON** Carnival",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084346908553296/jungwon_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JUNGWON** Carnival",
+      "idol":"ENHYPEN JUNGWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084346552045568/jungwon_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_HS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN HEESEUNG** Carnival",
+    "idol":"ENHYPEN HEESEUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084446548439060/heeseung_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_HS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN HEESEUNG** Carnival",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084446309367838/heeseung_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_HS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN HEESEUNG** Carnival",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084445969633410/heeseung_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_HS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN HEESEUNG** Carnival",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084445663445012/heeseung_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_HS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN HEESEUNG** Carnival",
+      "idol":"ENHYPEN HEESEUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084445298544690/heeseung_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JAY** Carnival",
+    "idol":"ENHYPEN JAY",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084576177590313/jay_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JAY** Carnival",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084575867207711/jay_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JAY** Carnival",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084575540068372/jay_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JAY** Carnival",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084575233872014/jay_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JAY** Carnival",
+      "idol":"ENHYPEN JAY",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084574982209566/jay_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_JK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN JAKE** Carnival",
+    "idol":"ENHYPEN JAKE",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084643571662848/jake_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_JK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN JAKE** Carnival",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084643320021072/jake_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_JK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN JAKE** Carnival",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084643030609961/jake_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_JK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN JAKE** Carnival",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084642728624128/jake_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_JK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN JAKE** Carnival",
+      "idol":"ENHYPEN JAKE",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084642455990363/jake_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN SUNGHOON** Carnival",
+    "idol":"ENHYPEN SUNGHOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084777244151888/sunghoon_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN SUNGHOON** Carnival",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084776975695902/sunghoon_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN SUNGHOON** Carnival",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084776669528064/sunghoon_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN SUNGHOON** Carnival",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084776359153686/sunghoon_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN SUNGHOON** Carnival",
+      "idol":"ENHYPEN SUNGHOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084776073920552/sunghoon_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_SN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN SUNOO** Carnival",
+    "idol":"ENHYPEN SUNOO",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084881879437422/sunoo_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_SN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN SUNOO** Carnival",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084881611006012/sunoo_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_SN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN SUNOO** Carnival",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084881346760714/sunoo_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_SN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN SUNOO** Carnival",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084881027997696/sunoo_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_SN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN SUNOO** Carnival",
+      "idol":"ENHYPEN SUNOO",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084880730214531/sunoo_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "ENCA_NK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ENHYPEN NI-KI** Carnival",
+    "idol":"ENHYPEN NI-KI",
+    "inv":"<:R_EMOTE:1036291037620097034> Carnival",
+    "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084938754216046/ni-ki_r.png",
+    "theme": "Carnival",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "ENCA_NK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ENHYPEN NI-KI** Carnival",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:S_EMOTE:1036291020956115105> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084938418655252/ni-ki_s.png",
+      "theme": "Carnival",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "ENCA_NK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ENHYPEN NI-KI** Carnival",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:A_EMOTE:1036291003348439102> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084937911148585/ni-ki_a.png",
+      "theme": "Carnival",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "ENCA_NK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ENHYPEN NI-KI** Carnival",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:B_EMOTE:1036290987477180546> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084937529479168/ni-ki_b.png",
+      "theme": "Carnival",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "ENCA_NK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ENHYPEN NI-KI** Carnival",
+      "idol":"ENHYPEN NI-KI",
+      "inv":"<:C_EMOTE:1036290969676546092> Carnival",
+      "image": "https://cdn.discordapp.com/attachments/1073084228339761193/1073084937231667250/ni-ki_c.png",
+      "theme": "Carnival",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
