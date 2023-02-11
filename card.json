@@ -28537,5 +28537,390 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "DCMS_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER JIU** MAISON",
+    "idol":"DREAMCATCHER JIU",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685823226982511/Untitled207_20230205113307.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER JIU** MAISON",
+      "idol":"DREAMCATCHER JIU",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685804017062009/Untitled207_20230205113304.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER JIU** MAISON",
+      "idol":"DREAMCATCHER JIU",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685780361203712/Untitled207_20230205113302.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER JIU** MAISON",
+      "idol":"DREAMCATCHER JIU",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685762875150416/Untitled207_20230205113258.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER JIU** MAISON",
+      "idol":"DREAMCATCHER JIU",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685738967609394/Untitled207_20230205113255.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER SUA** MAISON",
+    "idol":"DREAMCATCHER SUA",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685917170999336/Untitled207_20230205113339.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER SUA** MAISON",
+      "idol":"DREAMCATCHER SUA",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685898678308884/Untitled207_20230205113336.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER SUA** MAISON",
+      "idol":"DREAMCATCHER SUA",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685880424706118/Untitled207_20230205113334.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER SUA** MAISON",
+      "idol":"DREAMCATCHER SUA",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685859801313300/Untitled207_20230205113330.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER SUA** MAISON",
+      "idol":"DREAMCATCHER SUA",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685841153437808/Untitled207_20230205113327.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER SIYEON** MAISON",
+    "idol":"DREAMCATCHER SIYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686019960815676/Untitled207_20230205113620.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER SIYEON** MAISON",
+      "idol":"DREAMCATCHER SIYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686000708952104/Untitled207_20230205113616.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER SIYEON** MAISON",
+      "idol":"DREAMCATCHER SIYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685981389992087/Untitled207_20230205113613.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER SIYEON** MAISON",
+      "idol":"DREAMCATCHER SIYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685958400999434/Untitled207_20230205113607.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_SY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER SIYEON** MAISON",
+      "idol":"DREAMCATCHER SIYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071685940008984606/Untitled207_20230205113604.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_HD_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER HANDONG** MAISON",
+    "idol":"DREAMCATCHER HANDONG",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686128903667783/Untitled207_20230205113648.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_HD_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER HANDONG** MAISON",
+      "idol":"DREAMCATCHER HANDONG",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686109165269012/Untitled207_20230205113646.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_HD_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER HANDONG** MAISON",
+      "idol":"DREAMCATCHER HANDONG",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686089879863326/Untitled207_20230205113644.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_HD_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER HANDONG** MAISON",
+      "idol":"DREAMCATCHER HANDONG",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686066173648966/Untitled207_20230205113641.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_HD_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER HANDONG** MAISON",
+      "idol":"DREAMCATCHER HANDONG",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686044568789072/Untitled207_20230205113639.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_YH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER YOOHYEON** MAISON",
+    "idol":"DREAMCATCHER YOOHYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686231538270268/Untitled207_20230205114110.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_YH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER YOOHYEON** MAISON",
+      "idol":"DREAMCATCHER YOOHYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686212823306280/Untitled207_20230205114107.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_YH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER YOOHYEON** MAISON",
+      "idol":"DREAMCATCHER YOOHYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686190337626192/Untitled207_20230205114105.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_YH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER YOOHYEON** MAISON",
+      "idol":"DREAMCATCHER YOOHYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686169592606750/Untitled207_20230205114101.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_YH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER YOOHYEON** MAISON",
+      "idol":"DREAMCATCHER YOOHYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686147123712020/Untitled207_20230205114057.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_DM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER DAMI** MAISON",
+    "idol":"DREAMCATCHER DAMI",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686331836678224/Untitled207_20230205114141.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_DM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER DAMI** MAISON",
+      "idol":"DREAMCATCHER DAMI",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686312438013982/Untitled207_20230205114139.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_DM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER DAMI** MAISON",
+      "idol":"DREAMCATCHER DAMI",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686289511948358/Untitled207_20230205114137.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_DM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER DAMI** MAISON",
+      "idol":"DREAMCATCHER DAMI",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686267676414013/Untitled207_20230205114135.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_DM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER DAMI** MAISON",
+      "idol":"DREAMCATCHER DAMI",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686250588811334/Untitled207_20230205114132.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DCMS_GH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DREAMCATCHER GAHYEON** MAISON",
+    "idol":"DREAMCATCHER GAHYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> MAISON",
+    "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686434332889148/Untitled207_20230205114234.png",
+    "theme": "MAISON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DCMS_GH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DREAMCATCHER GAHYEON** MAISON",
+      "idol":"DREAMCATCHER GAHYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686416268009543/Untitled207_20230205114232.png",
+      "theme": "MAISON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DCMS_GH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DREAMCATCHER GAHYEON** MAISON",
+      "idol":"DREAMCATCHER GAHYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686394650579045/Untitled207_20230205114228.png",
+      "theme": "MAISON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DCMS_GH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DREAMCATCHER GAHYEON** MAISON",
+      "idol":"DREAMCATCHER GAHYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686375461621882/Untitled207_20230205114225.png",
+      "theme": "MAISON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DCMS_GH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DREAMCATCHER GAHYEON** MAISON",
+      "idol":"DREAMCATCHER GAHYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> MAISON",
+      "image": "https://media.discordapp.net/attachments/1050707177758801952/1071686352388759572/Untitled207_20230205114223.png",
+      "theme": "MAISON",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
