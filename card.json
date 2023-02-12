@@ -28922,5 +28922,500 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "IVAL_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** After LIKE",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174220721999872/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** After LIKE",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174220931702814/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** After LIKE",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174220046716999/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** After LIKE",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174220264808508/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** After LIKE",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174220482908291/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVAL_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** After LIKE",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174243492855860/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** After LIKE",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174243723546634/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** After LIKE",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174242679160952/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** After LIKE",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174242972766208/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** After LIKE",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174243232829480/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVAL_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** After LIKE",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174267807240252/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** After LIKE",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174268025360395/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** After LIKE",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174267035488336/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** After LIKE",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174267257802792/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** After LIKE",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174267501052036/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVAL_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** After LIKE",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174289928007730/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** After LIKE",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174290137718785/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** After LIKE",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174289210789978/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** After LIKE",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174289428885524/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** After LIKE",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174289651191878/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVAL_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** After LIKE",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174311268634664/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** After LIKE",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174311495114782/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** After LIKE",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174310559793272/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** After LIKE",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174310815649882/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** After LIKE",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174311046332587/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SIMH_BO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SISTAR BORA** my holiday",
+    "idol":"SISTAR BORA",
+    "inv":"<:R_EMOTE:1036291037620097034> my holiday",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174378650107964/R.png",
+    "theme": "my holiday",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SIMH_BO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SISTAR BORA** my holiday",
+      "idol":"SISTAR BORA",
+      "inv":"<:S_EMOTE:1036291020956115105> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174378985664532/S.png",
+      "theme": "my holiday",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SIMH_BO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SISTAR BORA** my holiday",
+      "idol":"SISTAR BORA",
+      "inv":"<:A_EMOTE:1036291003348439102> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174377916113027/A.png",
+      "theme": "my holiday",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SIMH_BO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SISTAR BORA** my holiday",
+      "idol":"SISTAR BORA",
+      "inv":"<:B_EMOTE:1036290987477180546> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174378159386644/B.png",
+      "theme": "my holiday",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SIMH_BO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SISTAR BORA** my holiday",
+      "idol":"SISTAR BORA",
+      "inv":"<:C_EMOTE:1036290969676546092> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174378373292123/C.png",
+      "theme": "my holiday",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SIMH_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SISTAR DASOM** my holiday",
+    "idol":"SISTAR DASOM",
+    "inv":"<:R_EMOTE:1036291037620097034> my holiday",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174402767372318/R.png",
+    "theme": "my holiday",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SIMH_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SISTAR DASOM** my holiday",
+      "idol":"SISTAR DASOM",
+      "inv":"<:S_EMOTE:1036291020956115105> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174403014832138/S.png",
+      "theme": "my holiday",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SIMH_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SISTAR DASOM** my holiday",
+      "idol":"SISTAR DASOM",
+      "inv":"<:A_EMOTE:1036291003348439102> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174402024980551/A.png",
+      "theme": "my holiday",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SIMH_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SISTAR DASOM** my holiday",
+      "idol":"SISTAR DASOM",
+      "inv":"<:B_EMOTE:1036290987477180546> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174402297606184/B.png",
+      "theme": "my holiday",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SIMH_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SISTAR DASOM** my holiday",
+      "idol":"SISTAR DASOM",
+      "inv":"<:C_EMOTE:1036290969676546092> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174402532479086/C.png",
+      "theme": "my holiday",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SIMH_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SISTAR HYOLYN** my holiday",
+    "idol":"SISTAR HYOLYN",
+    "inv":"<:R_EMOTE:1036291037620097034> my holiday",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174419120967803/R.png",
+    "theme": "my holiday",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SIMH_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SISTAR HYOLYN** my holiday",
+      "idol":"SISTAR HYOLYN",
+      "inv":"<:S_EMOTE:1036291020956115105> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174419343245413/S.png",
+      "theme": "my holiday",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SIMH_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SISTAR HYOLYN** my holiday",
+      "idol":"SISTAR HYOLYN",
+      "inv":"<:A_EMOTE:1036291003348439102> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174418303078511/A.png",
+      "theme": "my holiday",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SIMH_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SISTAR HYOLYN** my holiday",
+      "idol":"SISTAR HYOLYN",
+      "inv":"<:B_EMOTE:1036290987477180546> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174418621825104/B.png",
+      "theme": "my holiday",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SIMH_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SISTAR HYOLYN** my holiday",
+      "idol":"SISTAR HYOLYN",
+      "inv":"<:C_EMOTE:1036290969676546092> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174418886078554/C.png",
+      "theme": "my holiday",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SIMH_SO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SISTAR SOYOU** my holiday",
+    "idol":"SISTAR SOYOU",
+    "inv":"<:R_EMOTE:1036291037620097034> my holiday",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174437282304042/R.png",
+    "theme": "my holiday",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SIMH_SO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SISTAR SOYOU** my holiday",
+      "idol":"SISTAR SOYOU",
+      "inv":"<:S_EMOTE:1036291020956115105> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174437529763994/S.png",
+      "theme": "my holiday",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SIMH_SO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SISTAR SOYOU** my holiday",
+      "idol":"SISTAR SOYOU",
+      "inv":"<:A_EMOTE:1036291003348439102> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174436456026212/A.png",
+      "theme": "my holiday",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SIMH_SO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SISTAR SOYOU** my holiday",
+      "idol":"SISTAR SOYOU",
+      "inv":"<:B_EMOTE:1036290987477180546> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174436770594886/B.png",
+      "theme": "my holiday",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SIMH_SO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SISTAR SOYOU** my holiday",
+      "idol":"SISTAR SOYOU",
+      "inv":"<:C_EMOTE:1036290969676546092> my holiday",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174437026439279/C.png",
+      "theme": "my holiday",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
