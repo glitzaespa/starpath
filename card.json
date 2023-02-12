@@ -27025,7 +27025,8 @@
       "name":"<:A_EMOTE:1036291003348439102> **NCT Dream JISUNG** Glitch Mode",
       "idol":"NCT Dream JISUNG",
       "inv":"<:A_EMOTE:1036291003348439102> Glitch Mode",
-      "image": "https://cdn.discordapp.com/attachments/1072273594769477762/1072273683290280058/jisung_a.png",
+      "image":
+      "https://cdn.discordapp.com/attachments/1072273594769477762/1072273683290280058/jisung_a.png",
       "theme": "Glitch Mode",
       "minimum": "600",
       "maximum": "1200"
@@ -29193,6 +29194,61 @@
       "idol":"IVE LIZ",
       "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
       "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174311046332587/C.png",
+      "theme": "After LIKE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVAL_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** After LIKE",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> After LIKE",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174340100280400/R.png",
+    "theme": "After LIKE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVAL_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** After LIKE",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174340343529502/S.png",
+      "theme": "After LIKE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVAL_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** After LIKE",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174339383054407/A.png",
+      "theme": "After LIKE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVAL_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** After LIKE",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174339689218098/B.png",
+      "theme": "After LIKE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVAL_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** After LIKE",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> After LIKE",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1074174339886362764/C.png",
       "theme": "After LIKE",
       "minimum": "0",
       "maximum": "200"
