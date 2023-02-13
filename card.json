@@ -29473,5 +29473,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "MXCR_MH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MONSTA X MINHYUK** Crescendo",
+    "idol":"MONSTA X MINHYUK",
+    "inv":"<:R_EMOTE:1036291037620097034> Crescendo",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1074453698165604485/image.png",
+    "theme": "Crescendo",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "MXCR_MH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MONSTA X MINHYUK** Crescendo",
+      "idol":"MONSTA X MINHYUK",
+      "inv":"<:S_EMOTE:1036291020956115105> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074453697960087622/image.png",
+      "theme": "Crescendo",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "MXCR_MH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MONSTA X MINHYUK** Crescendo",
+      "idol":"MONSTA X MINHYUK",
+      "inv":"<:A_EMOTE:1036291003348439102> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074453697490342009/image.png",
+      "theme": "Crescendo",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "MXCR_MH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MONSTA X MINHYUK** Crescendo",
+      "idol":"MONSTA X MINHYUK",
+      "inv":"<:B_EMOTE:1036290987477180546> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074453697221886145/image.png",
+      "theme": "Crescendo",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "MXCR_MH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MONSTA X MINHYUK** Crescendo",
+      "idol":"MONSTA X MINHYUK",
+      "inv":"<:C_EMOTE:1036290969676546092> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074453696957665390/image.png",
+      "theme": "Crescendo",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "MXCR_KH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MONSTA X KIHYUN** Crescendo",
+    "idol":"MONSTA X KIHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Crescendo",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454162819006494/image.png",
+    "theme": "Crescendo",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "MXCR_KH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MONSTA X KIHYUN** Crescendo",
+      "idol":"MONSTA X KIHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454162479251477/image.png",
+      "theme": "Crescendo",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "MXCR_KH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MONSTA X KIHYUN** Crescendo",
+      "idol":"MONSTA X KIHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454162231803934/image.png",
+      "theme": "Crescendo",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "MXCR_KH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MONSTA X KIHYUN** Crescendo",
+      "idol":"MONSTA X KIHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454161984331836/image.png",
+      "theme": "Crescendo",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "MXCR_KH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MONSTA X KIHYUN** Crescendo",
+      "idol":"MONSTA X KIHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454161720082552/image.png",
+      "theme": "Crescendo",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "MXCR_HW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MONSTA X HYUNGWON** Crescendo",
+    "idol":"MONSTA X HYUNGWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Crescendo",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454556953555046/image.png",
+    "theme": "Crescendo",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "MXCR_HW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MONSTA X HYUNGWON** Crescendo",
+      "idol":"MONSTA X HYUNGWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454556622196786/image.png",
+      "theme": "Crescendo",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "MXCR_HW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MONSTA X HYUNGWON** Crescendo",
+      "idol":"MONSTA X HYUNGWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454556404101302/image.png",
+      "theme": "Crescendo",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "MXCR_HW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MONSTA X HYUNGWON** Crescendo",
+      "idol":"MONSTA X HYUNGWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454556169216113/image.png",
+      "theme": "Crescendo",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "MXCR_HW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MONSTA X HYUNGWON** Crescendo",
+      "idol":"MONSTA X HYUNGWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454555930136656/image.png",
+      "theme": "Crescendo",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "MXCR_JH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MONSTA X JOOHONEY** Crescendo",
+    "idol":"MONSTA X JOOHONEY",
+    "inv":"<:R_EMOTE:1036291037620097034> Crescendo",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454851712450570/image.png",
+    "theme": "Crescendo",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "MXCR_JH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MONSTA X JOOHONEY** Crescendo",
+      "idol":"MONSTA X JOOHONEY",
+      "inv":"<:S_EMOTE:1036291020956115105> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454851435630702/image.png",
+      "theme": "Crescendo",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "MXCR_JH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MONSTA X JOOHONEY** Crescendo",
+      "idol":"MONSTA X JOOHONEY",
+      "inv":"<:A_EMOTE:1036291003348439102> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454851154616382/image.png",
+      "theme": "Crescendo",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "MXCR_JH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MONSTA X JOOHONEY** Crescendo",
+      "idol":"MONSTA X JOOHONEY",
+      "inv":"<:B_EMOTE:1036290987477180546> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454850902949898/image.png",
+      "theme": "Crescendo",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "MXCR_JH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MONSTA X JOOHONEY** Crescendo",
+      "idol":"MONSTA X JOOHONEY",
+      "inv":"<:C_EMOTE:1036290969676546092> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074454850567413770/image.png",
+      "theme": "Crescendo",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "MXCR_IM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MONSTA X I.M** Crescendo",
+    "idol":"MONSTA X I.M",
+    "inv":"<:R_EMOTE:1036291037620097034> Crescendo",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1074456522605731890/image.png",
+    "theme": "Crescendo",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "MXCR_IM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MONSTA X I.M** Crescendo",
+      "idol":"MONSTA X I.M",
+      "inv":"<:S_EMOTE:1036291020956115105> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074456522375036978/image.png",
+      "theme": "Crescendo",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "MXCR_IM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MONSTA X I.M** Crescendo",
+      "idol":"MONSTA X I.M",
+      "inv":"<:A_EMOTE:1036291003348439102> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074456522173722654/image.png",
+      "theme": "Crescendo",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "MXCR_IM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MONSTA X I.M** Crescendo",
+      "idol":"MONSTA X I.M",
+      "inv":"<:B_EMOTE:1036290987477180546> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074456521934643343/image.png",
+      "theme": "Crescendo",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "MXCR_IM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MONSTA X I.M** Crescendo",
+      "idol":"MONSTA X I.M",
+      "inv":"<:C_EMOTE:1036290969676546092> Crescendo",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1074456521603285163/image.png",
+      "theme": "Crescendo",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
