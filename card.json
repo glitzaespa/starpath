@@ -29748,5 +29748,335 @@
       "minimum": "0",
       "maximum": "250"
     }
-    ]
+    ],
+    "STWN_IS_R": [
+      {
+        "name":"<:R_EMOTE:1036291037620097034> **STAYC ISA** WE NEED LOVE",
+        "idol":"STAYC ISA",
+        "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+        "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632713698979932/EVERYSTAR_LimitedTheme4_20230210233044.png",
+        "theme": "I LIKE IT",
+        "minimum": "1850",
+        "maximum": "2450"
+      }
+      ],
+        "STWN_IS_S": [
+        {
+          "name":"<:S_EMOTE:1036291020956115105> **STAYC ISA** WE NEED LOVE",
+          "idol":"STAYC ISA",
+          "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+          "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632713396994178/EVERYSTAR_LimitedTheme4_20230210233052.png",
+          "theme": "I LIKE IT",
+          "minimum": "1250",
+          "maximum": "1850"
+        }
+        ],
+        "STWN_IS_A": [
+        {
+          "name":"<:A_EMOTE:1036291003348439102> **STAYC ISA** WE NEED LOVE",
+          "idol":"STAYC ISA",
+          "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+          "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632713153728552/EVERYSTAR_LimitedTheme4_20230210233120.png",
+          "theme": "I LIKE IT",
+          "minimum": "650",
+          "maximum": "1250"
+        }
+        ],
+        "STWN_IS_B": [
+        {
+          "name":"<:B_EMOTE:1036290987477180546> **STAYC ISA** WE NEED LOVE",
+          "idol":"STAYC ISA",
+          "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+          "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632712776232980/EVERYSTAR_LimitedTheme4_20230210233126.png",
+          "theme": "I LIKE IT",
+          "minimum": "250",
+          "maximum": "650"
+        }
+        ],
+        "STWN_IS_C": [
+          {
+            "name":"<:C_EMOTE:1036290969676546092> **STAYC ISA** WE NEED LOVE",
+            "idol":"STAYC ISA",
+            "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+            "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632712470053006/EVERYSTAR_LimitedTheme4_20230210233131.png",
+            "theme": "I LIKE IT",
+            "minimum": "0",
+            "maximum": "250"
+          }
+          ],
+          "STWN_SU_R": [
+            {
+              "name":"<:R_EMOTE:1036291037620097034> **STAYC SUMIN** WE NEED LOVE",
+              "idol":"STAYC SUMIN",
+              "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+              "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632765582524486/EVERYSTAR_LimitedTheme4_20230210233336.png",
+              "theme": "I LIKE IT",
+              "minimum": "1850",
+              "maximum": "2450"
+            }
+            ],
+              "STWN_SU_S": [
+              {
+                "name":"<:S_EMOTE:1036291020956115105> **STAYC SUMIN** WE NEED LOVE",
+                "idol":"STAYC SUMIN",
+                "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+                "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632765259546714/EVERYSTAR_LimitedTheme4_20230210233343.png",
+                "theme": "I LIKE IT",
+                "minimum": "1250",
+                "maximum": "1850"
+              }
+              ],
+              "STWN_SU_A": [
+              {
+                "name":"<:A_EMOTE:1036291003348439102> **STAYC SUMIN** WE NEED LOVE",
+                "idol":"STAYC SUMIN",
+                "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+                "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632764953378826/EVERYSTAR_LimitedTheme4_20230210233349.png",
+                "theme": "I LIKE IT",
+                "minimum": "650",
+                "maximum": "1250"
+              }
+              ],
+              "STWN_SU_B": [
+              {
+                "name":"<:B_EMOTE:1036290987477180546> **STAYC SUMIN** WE NEED LOVE",
+                "idol":"STAYC SUMIN",
+                "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+                "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632764705898710/EVERYSTAR_LimitedTheme4_20230210233356.png",
+                "theme": "I LIKE IT",
+                "minimum": "250",
+                "maximum": "650"
+              }
+            ],
+            "STWN_SU_C": [
+              {
+                "name":"<:C_EMOTE:1036290969676546092> **STAYC SUMIN** WE NEED LOVE",
+                "idol":"STAYC SUMIN",
+                "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+                "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632764324237332/EVERYSTAR_LimitedTheme4_20230210233359.png",
+                "theme": "I LIKE IT",
+                "minimum": "0",
+                "maximum": "250"
+              }
+            ],
+            "STWN_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SEEUN** WE NEED LOVE",
+    "idol":"STAYC SEEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+    "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632813045264414/EVERYSTAR_LimitedTheme4_20230210233538.png",
+    "theme": "I LIKE IT",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "STWN_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SEEUN** WE NEED LOVE",
+      "idol":"STAYC SEEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632812822958151/EVERYSTAR_LimitedTheme4_20230210233545.png",
+      "theme": "I LIKE IT",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "STWN_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SEEUN** WE NEED LOVE",
+      "idol":"STAYC SEEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632812609052703/EVERYSTAR_LimitedTheme4_20230210233553.png",
+      "theme": "I LIKE IT",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "STWN_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SEEUN** WE NEED LOVE",
+      "idol":"STAYC SEEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632812399341630/EVERYSTAR_LimitedTheme4_20230210233558.png",
+      "theme": "I LIKE IT",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+    "STWN_SE_C": [
+      {
+        "name":"<:C_EMOTE:1036290969676546092> **STAYC SEEUN** WE NEED LOVE",
+        "idol":"STAYC SEEUN",
+        "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+        "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632812072177765/EVERYSTAR_LimitedTheme4_20230210233604.png",
+        "theme": "I LIKE IT",
+        "minimum": "0",
+        "maximum": "250"
+      }
+      ],
+      "STWN_YO_R": [
+        {
+          "name":"<:R_EMOTE:1036291037620097034> **STAYC YOON** WE NEED LOVE",
+          "idol":"STAYC YOON",
+          "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+          "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632876375068672/EVERYSTAR_LimitedTheme4_20230210233722.png",
+          "theme": "I LIKE IT",
+          "minimum": "1850",
+          "maximum": "2450"
+        }
+        ],
+          "STWN_YO_S": [
+          {
+            "name":"<:S_EMOTE:1036291020956115105> **STAYC YOON** WE NEED LOVE",
+            "idol":"STAYC YOON",
+            "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+            "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632876005961738/EVERYSTAR_LimitedTheme4_20230210233727.png",
+            "theme": "I LIKE IT",
+            "minimum": "1250",
+            "maximum": "1850"
+          }
+          ],
+          "STWN_YO_A": [
+          {
+            "name":"<:A_EMOTE:1036291003348439102> **STAYC YOON** WE NEED LOVE",
+            "idol":"STAYC YOON",
+            "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+            "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632875636871278/EVERYSTAR_LimitedTheme4_20230210233732.png",
+            "theme": "I LIKE IT",
+            "minimum": "650",
+            "maximum": "1250"
+          }
+          ],
+          "STWN_YO_B": [
+          {
+            "name":"<:B_EMOTE:1036290987477180546> **STAYC YOON** WE NEED LOVE",
+            "idol":"STAYC YOON",
+            "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+            "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632875217428564/EVERYSTAR_LimitedTheme4_20230210233736.png",
+            "theme": "I LIKE IT",
+            "minimum": "250",
+            "maximum": "650"
+          }
+          ],
+          "STWN_YO_C": [
+            {
+              "name":"<:C_EMOTE:1036290969676546092> **STAYC YOON** WE NEED LOVE",
+              "idol":"STAYC YOON",
+              "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+              "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632874823176262/EVERYSTAR_LimitedTheme4_20230210233739.png",
+              "theme": "I LIKE IT",
+              "minimum": "0",
+              "maximum": "250"
+            }
+            ],
+            "STWN_J_R": [
+              {
+                "name":"<:R_EMOTE:1036291037620097034> **STAYC J** WE NEED LOVE",
+                "idol":"STAYC J",
+                "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+                "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632933195300905/EVERYSTAR_LimitedTheme4_20230210233843.png",
+                "theme": "I LIKE IT",
+                "minimum": "1850",
+                "maximum": "2450"
+              }
+              ],
+                "STWN_J_S": [
+                {
+                  "name":"<:S_EMOTE:1036291020956115105> **STAYC J** WE NEED LOVE",
+                  "idol":"STAYC J",
+                  "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+                  "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632932947841144/EVERYSTAR_LimitedTheme4_20230210233849.png",
+                  "theme": "I LIKE IT",
+                  "minimum": "1250",
+                  "maximum": "1850"
+                }
+                ],
+                "STWN_J_A": [
+                {
+                  "name":"<:A_EMOTE:1036291003348439102> **STAYC J** WE NEED LOVE",
+                  "idol":"STAYC J",
+                  "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+                  "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632932687782019/EVERYSTAR_LimitedTheme4_20230210233853.png",
+                  "theme": "I LIKE IT",
+                  "minimum": "650",
+                  "maximum": "1250"
+                }
+                ],
+                "STWN_J_B": [
+                {
+                  "name":"<:B_EMOTE:1036290987477180546> **STAYC J** WE NEED LOVE",
+                  "idol":"STAYC J",
+                  "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+                  "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632932469686323/EVERYSTAR_LimitedTheme4_20230210233857.png",
+                  "theme": "I LIKE IT",
+                  "minimum": "250",
+                  "maximum": "650"
+                }
+                ],
+                "STWN_J_C": [
+                  {
+                    "name":"<:C_EMOTE:1036290969676546092> **STAYC J** WE NEED LOVE",
+                    "idol":"STAYC J",
+                    "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+                    "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632932255780874/EVERYSTAR_LimitedTheme4_20230210233901.png",
+                    "theme": "I LIKE IT",
+                    "minimum": "0",
+                    "maximum": "250"
+                  }
+                  ],
+                  "STWN_SI_R": [
+                    {
+                      "name":"<:R_EMOTE:1036291037620097034> **STAYC SIEUN** WE NEED LOVE",
+                      "idol":"STAYC SIEUN",
+                      "inv":"<:R_EMOTE:1036291037620097034> WE NEED LOVE",
+                      "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632975482257499/EVERYSTAR_LimitedTheme4_20230210234007.png",
+                      "theme": "I LIKE IT",
+                      "minimum": "1850",
+                      "maximum": "2450"
+                    }
+                    ],
+                      "STWN_SI_S": [
+                      {
+                        "name":"<:S_EMOTE:1036291020956115105> **STAYC SIEUN** WE NEED LOVE",
+                        "idol":"STAYC SIEUN",
+                        "inv":"<:S_EMOTE:1036291020956115105> WE NEED LOVE",
+                        "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632975121555516/EVERYSTAR_LimitedTheme4_20230210234013.png",
+                        "theme": "I LIKE IT",
+                        "minimum": "1250",
+                        "maximum": "1850"
+                      }
+                      ],
+                      "STWN_SI_A": [
+                      {
+                        "name":"<:A_EMOTE:1036291003348439102> **STAYC SIEUN** WE NEED LOVE",
+                        "idol":"STAYC SIEUN",
+                        "inv":"<:A_EMOTE:1036291003348439102> WE NEED LOVE",
+                        "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632974802800752/EVERYSTAR_LimitedTheme4_20230210234018.png",
+                        "theme": "I LIKE IT",
+                        "minimum": "650",
+                        "maximum": "1250"
+                      }
+                      ],
+                      "STWN_SI_B": [
+                      {
+                        "name":"<:B_EMOTE:1036290987477180546> **STAYC SIEUN** WE NEED LOVE",
+                        "idol":"STAYC SIEUN",
+                        "inv":"<:B_EMOTE:1036290987477180546> WE NEED LOVE",
+                        "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632974546935918/EVERYSTAR_LimitedTheme4_20230210234023.png",
+                        "theme": "I LIKE IT",
+                        "minimum": "250",
+                        "maximum": "650"
+                      }
+                      ],
+                      "STWN_SI_C": [
+                        {
+                          "name":"<:C_EMOTE:1036290969676546092> **STAYC SIEUN** WE NEED LOVE",
+                          "idol":"STAYC SIEUN",
+                          "inv":"<:C_EMOTE:1036290969676546092> WE NEED LOVE",
+                          "image": "https://cdn.discordapp.com/attachments/758201394678726710/1073632974295289936/EVERYSTAR_LimitedTheme4_20230210234027.png",
+                          "theme": "I LIKE IT",
+                          "minimum": "0",
+                          "maximum": "250"
+                        }
+                        ]              
           }
