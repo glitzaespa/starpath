@@ -33158,5 +33158,225 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "RSON_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ROSÉ Rhythm** On The Ground",
+    "idol":"ROSÉ Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> On The Ground",
+    "image": "https://media.discordapp.net/attachments/1074854316495622206/1075418906442858587/RoseONTHEGROUNDLe_20230215215104.png",
+    "theme": "On The Ground",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RSON_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ROSÉ Rhythm** On The Ground",
+      "idol":"ROSÉ Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> On The Ground",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075418906161844294/RoseONTHEGROUNDLe_20230215215107.png",
+      "theme": "On The Ground",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RSON_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ROSÉ Rhythm** On The Ground",
+      "idol":"ROSÉ Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> On The Ground",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075418905926975539/RoseONTHEGROUNDLe_20230215215110.png",
+      "theme": "On The Ground",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RSON_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ROSÉ Rhythm** On The Ground",
+      "idol":"ROSÉ Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> On The Ground",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075418905721438248/RoseONTHEGROUNDLe_20230215215113.png",
+      "theme": "On The Ground",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RSON_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ROSÉ Rhythm** On The Ground",
+      "idol":"ROSÉ Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> On The Ground",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075418905444618290/RoseONTHEGROUNDLe_20230215215116.png",
+      "theme": "On The Ground",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LCHR_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Vocal** Hush Rush",
+    "idol":"LEE CHAEYEON Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Hush Rush",
+    "image": "https://media.discordapp.net/attachments/1074854316495622206/1075827636217053194/dontdontdontleechaeyeonLe_20230217010405.png",
+    "theme": "Hush Rush",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LCHR_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Vocal** Hush Rush",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075827635965399050/dontdontdontleechaeyeonLe_20230217010402.png",
+      "theme": "Hush Rush",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LCHR_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Vocal** Hush Rush",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075827635692781599/dontdontdontleechaeyeonLe_20230217010400.png",
+      "theme": "Hush Rush",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LCHR_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Vocal** Hush Rush",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075827635466272879/dontdontdontleechaeyeonLe_20230217010357.png",
+      "theme": "Hush Rush",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LCHR_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Vocal** Hush Rush",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075827634988126280/dontdontdontleechaeyeonLe_20230217010352.png",
+      "theme": "Hush Rush",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LCHR_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Dance** Hush Rush",
+    "idol":"LEE CHAEYEON Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Hush Rush",
+    "image": "https://media.discordapp.net/attachments/1074854316495622206/1075828864271532092/dontdontdontleechaeyeonLe_20230217010435.png",
+    "theme": "Hush Rush",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LCHR_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Dance** Hush Rush",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075828863948558427/dontdontdontleechaeyeonLe_20230217010431.png",
+      "theme": "Hush Rush",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LCHR_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Dance** Hush Rush",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075828863617204234/dontdontdontleechaeyeonLe_20230217010429.png",
+      "theme": "Hush Rush",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LCHR_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Dance** Hush Rush",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075828862862233600/dontdontdontleechaeyeonLe_20230217010425.png",
+      "theme": "Hush Rush",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LCHR_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Dance** Hush Rush",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075828862459576340/dontdontdontleechaeyeonLe_20230217010420.png",
+      "theme": "Hush Rush",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LCHR_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Rhythm** Hush Rush",
+    "idol":"LEE CHAEYEON Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Hush Rush",
+    "image": "https://media.discordapp.net/attachments/1074854316495622206/1075829604859777076/dontdontdontleechaeyeonLe_20230217010531.png",
+    "theme": "Hush Rush",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LCHR_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Rhythm** Hush Rush",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075829604591353886/dontdontdontleechaeyeonLe_20230217010527.png",
+      "theme": "Hush Rush",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LCHR_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Rhythm** Hush Rush",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075829604356464751/dontdontdontleechaeyeonLe_20230217010525.png",
+      "theme": "Hush Rush",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LCHR_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Rhythm** Hush Rush",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075829604088025109/dontdontdontleechaeyeonLe_20230217010520.png",
+      "theme": "Hush Rush",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LCHR_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Rhythm** Hush Rush",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Hush Rush",
+      "image": "https://media.discordapp.net/attachments/1074854316495622206/1075829603869933588/dontdontdontleechaeyeonLe_20230217010515.png",
+      "theme": "Hush Rush",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
