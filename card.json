@@ -33378,5 +33378,170 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "ISIH_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ice Spice Vocal** in ha mood",
+    "idol":"Ice Spice Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> in ha mood",
+    "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276801153802280/ice_spice_vocal_r.png",
+    "theme": "in ha mood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ISIH_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ice Spice Vocal** in ha mood",
+      "idol":"Ice Spice Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276800868601876/ice_spice_vocal_s.png",
+      "theme": "in ha mood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ISIH_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ice Spice Vocal** in ha mood",
+      "idol":"Ice Spice Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276800587563118/ice_spice_vocal_a.png",
+      "theme": "in ha mood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ISIH_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ice Spice Vocal** in ha mood",
+      "idol":"Ice Spice Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276800218472548/ice_spice_vocal_b.png",
+      "theme": "in ha mood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ISIH_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ice Spice Vocal** in ha mood",
+      "idol":"Ice Spice Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276799958437949/ice_spice_vocal_c.png",
+      "theme": "in ha mood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ISIH_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ice Spice Dance** in ha mood",
+    "idol":"Ice Spice Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> in ha mood",
+    "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276838818648114/ice_spice_dance_r.png",
+    "theme": "in ha mood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ISIH_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ice Spice Dance** in ha mood",
+      "idol":"Ice Spice Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276838541836368/ice_spice_dance_s.png",
+      "theme": "in ha mood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ISIH_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ice Spice Dance** in ha mood",
+      "idol":"Ice Spice Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276838273404978/ice_spice_dance_a.png",
+      "theme": "in ha mood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ISIH_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ice Spice Dance** in ha mood",
+      "idol":"Ice Spice Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276838021730474/ice_spice_dance_b.png",
+      "theme": "in ha mood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ISIH_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ice Spice Dance** in ha mood",
+      "idol":"Ice Spice Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276837526814901/ice_spice_dance_c.png",
+      "theme": "in ha mood",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "ISIH_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ice Spice Rhythm** in ha mood",
+    "idol":"Ice Spice Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> in ha mood",
+    "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276872570228836/ice_spice_rhythm_r.png",
+    "theme": "in ha mood",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "ISIH_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ice Spice Rhythm** in ha mood",
+      "idol":"Ice Spice Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276872196923432/ice_spice_rhythm_s.png",
+      "theme": "in ha mood",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "ISIH_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ice Spice Rhythm** in ha mood",
+      "idol":"Ice Spice Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276871924285480/ice_spice_rhythm_a.png",
+      "theme": "in ha mood",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "ISIH_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ice Spice Rhythm** in ha mood",
+      "idol":"Ice Spice Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276871643275374/ice_spice_rhythm_b.png",
+      "theme": "in ha mood",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "ISIH_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ice Spice Rhythm** in ha mood",
+      "idol":"Ice Spice Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> in ha mood",
+      "image": "https://cdn.discordapp.com/attachments/1076276704856772769/1076276871274168392/ice_spice_rhythm_c.png",
+      "theme": "in ha mood",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
