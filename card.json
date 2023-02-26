@@ -33818,5 +33818,225 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "BPWH_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JISOO** whip it",
+    "idol":"BLACKPINK JISOO",
+    "inv":"<:R_EMOTE:1036291037620097034> whip it",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880525248364625/R.png",
+    "theme": "whip it", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPWH_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JISOO** whip it",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:S_EMOTE:1036291020956115105> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880525630046330/S.png",
+      "theme": "whip it", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPWH_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JISOO** whip it",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:A_EMOTE:1036291003348439102> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880524413718579/A.png",
+      "theme": "whip it", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPWH_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JISOO** whip it",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:B_EMOTE:1036290987477180546> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880524682145893/B.png",
+      "theme": "whip it", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPWH_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JISOO** whip it",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:C_EMOTE:1036290969676546092> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880524992532500/C.png",
+      "theme": "whip it",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPWH_JN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JENNIW** whip it",
+    "idol":"BLACKPINK JENNIW",
+    "inv":"<:R_EMOTE:1036291037620097034> whip it",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880549466296441/R.png",
+    "theme": "whip it", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPWH_JN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JENNIW** whip it",
+      "idol":"BLACKPINK JENNIW",
+      "inv":"<:S_EMOTE:1036291020956115105> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880549717942342/S.png",
+      "theme": "whip it", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPWH_JN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JENNIW** whip it",
+      "idol":"BLACKPINK JENNIW",
+      "inv":"<:A_EMOTE:1036291003348439102> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880548686143589/A.png",
+      "theme": "whip it", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPWH_JN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JENNIW** whip it",
+      "idol":"BLACKPINK JENNIW",
+      "inv":"<:B_EMOTE:1036290987477180546> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880548958785616/B.png",
+      "theme": "whip it", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPWH_JN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JENNIW** whip it",
+      "idol":"BLACKPINK JENNIW",
+      "inv":"<:C_EMOTE:1036290969676546092> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880549206237184/C.png",
+      "theme": "whip it",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPWH_RS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK ROSÉ** whip it",
+    "idol":"BLACKPINK ROSÉ",
+    "inv":"<:R_EMOTE:1036291037620097034> whip it",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880594718634025/R.png",
+    "theme": "whip it", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPWH_RS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK ROSÉ** whip it",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:S_EMOTE:1036291020956115105> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880594936729620/S.png",
+      "theme": "whip it", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPWH_RS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK ROSÉ** whip it",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:A_EMOTE:1036291003348439102> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880593879773265/A.png",
+      "theme": "whip it", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPWH_RS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK ROSÉ** whip it",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:B_EMOTE:1036290987477180546> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880594127229078/B.png",
+      "theme": "whip it", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPWH_RS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK ROSÉ** whip it",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:C_EMOTE:1036290969676546092> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880594374697030/C.png",
+      "theme": "whip it",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "BPWH_LS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK LISA** whip it",
+    "idol":"BLACKPINK LISA",
+    "inv":"<:R_EMOTE:1036291037620097034> whip it",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880628788961400/R.png",
+    "theme": "whip it", 
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "BPWH_LS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK LISA** whip it",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:S_EMOTE:1036291020956115105> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880629019643914/S.png",
+      "theme": "whip it", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "BPWH_LS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK LISA** whip it",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:A_EMOTE:1036291003348439102> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880628075929620/A.png",
+      "theme": "whip it", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "BPWH_LS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK LISA** whip it",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:B_EMOTE:1036290987477180546> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880628285640814/B.png",
+      "theme": "whip it", 
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "BPWH_LS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK LISA** whip it",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:C_EMOTE:1036290969676546092> whip it",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1078880628545695825/C.png",
+      "theme": "whip it",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
