@@ -33543,5 +33543,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TXTM_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER SOOBIN** TEMPTATION",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> TEMPTATION",
+    "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363916713656391/soobin_r.png",
+    "theme": "Sugar Rush Ride",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXTM_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER SOOBIN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363916503949432/soobin_s.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXTM_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER SOOBIN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363916231331860/soobin_a.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXTM_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER SOOBIN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363915971264543/soobin_b.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXTM_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER SOOBIN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363915707031582/soobin_c.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXTM_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** TEMPTATION",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> TEMPTATION",
+    "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363961299128451/yeonjun_r.png",
+    "theme": "Sugar Rush Ride",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXTM_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363960963567697/yeonjun_s.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXTM_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363960699342948/yeonjun_a.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXTM_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363960363782224/yeonjun_b.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXTM_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076363959914999808/yeonjun_c.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXTM_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER BEOMGYU** TEMPTATION",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> TEMPTATION",
+    "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364003636432896/beomgyu_r.png",
+    "theme": "Sugar Rush Ride",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXTM_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER BEOMGYU** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364003355406436/beomgyu_s.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXTM_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER BEOMGYU** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364003091161128/beomgyu_a.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXTM_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER BEOMGYU** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364002852098128/beomgyu_b.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXTM_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER BEOMGYU** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364002575265903/beomgyu_c.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXTM_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER TAEHYUN** TEMPTATION",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> TEMPTATION",
+    "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364063426215936/taehyun_r.png",
+    "theme": "Sugar Rush Ride",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXTM_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER TAEHYUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364063212327012/taehyun_s.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXTM_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER TAEHYUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364062948069396/taehyun_a.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXTM_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER TAEHYUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364062692212747/taehyun_b.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXTM_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER TAEHYUN** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364062398631966/taehyun_c.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TXTM_HK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER HUENINGKAI** TEMPTATION",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "inv":"<:R_EMOTE:1036291037620097034> TEMPTATION",
+    "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364088520744990/huening_kai_r.png",
+    "theme": "Sugar Rush Ride",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TXTM_HK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER HUENINGKAI** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:S_EMOTE:1036291020956115105> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364088256516198/huening_kai_s.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TXTM_HK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER HUENINGKAI** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:A_EMOTE:1036291003348439102> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364087946117210/huening_kai_a.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TXTM_HK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER HUENINGKAI** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:B_EMOTE:1036290987477180546> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364087639941190/huening_kai_b.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TXTM_HK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER HUENINGKAI** TEMPTATION",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:C_EMOTE:1036290969676546092> TEMPTATION",
+      "image": "https://cdn.discordapp.com/attachments/1076363844370317373/1076364087388295188/huening_kai_c.png",
+      "theme": "Sugar Rush Ride",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
