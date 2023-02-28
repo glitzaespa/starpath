@@ -240,7 +240,17 @@
             "CA_SH":"https://cdn.discordapp.com/attachments/1036296996966907924/1073313548912033862/sh.1.png",
               "CA_SH_NAME":"**ENHYPEN SUNGHOON** Carnival",
           "HBD_WH":"https://cdn.discordapp.com/attachments/1036296996966907924/1080162127869923328/p_hwd_wonho.png",
-              "HBD_WH_NAME":"**WONHO** HAPPYWONHODAY"
+              "HBD_WH_NAME":"**WONHO** HAPPYBIRTHDAY",
+          "HBD_YE":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224343197495376/p_hbd_yeri.png",
+              "HBD_YE_NAME":"**YERI** HAPPYBIRTHDAY",
+          "HBD_BO":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224343633694750/p_hbd_bo_ra.png",
+              "HBD_BO_NAME":"**Bo Ra** HAPPYBIRTHDAY",
+          "HBD_YU":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224343407218839/p_hbd_yu_ju.png",
+              "HBD_YU_NAME":"**Yu Ju** HAPPYBIRTHDAY",
+          "HBD_LU":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224343004545025/p_hld_luda.png",
+              "HBD_LU_NAME":"**LUDA** HAPPYBIRTHDAY",
+          "HBD_DA":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224342778073140/p_hdd_dami.png",
+              "HBD_DA_NAME":"**DAMI** HAPPYBIRTHDAY"
   }
   ]
 }
