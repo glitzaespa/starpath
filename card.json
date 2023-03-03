@@ -34038,5 +34038,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "DLST_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Vocal** Still Alive",
+    "idol":"Demi Lovato Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Still Alive",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005913806209104/R.png",
+    "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLST_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Vocal** Still Alive",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005914062082088/S.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLST_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Vocal** Still Alive",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005913080594463/A.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLST_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Vocal** Still Alive",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005913332273182/B.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLST_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Vocal** Still Alive",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005913571344425/C.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLST_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Dance** Still Alive",
+    "idol":"Demi Lovato Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Still Alive",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005939710238800/R.png",
+    "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLST_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Dance** Still Alive",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005939953520792/S.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLST_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Dance** Still Alive",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005939005595738/A.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLST_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Dance** Still Alive",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005939215323216/B.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLST_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Dance** Still Alive",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005939462778991/C.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLST_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Rhythm** Still Alive",
+    "idol":"Demi Lovato Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Still Alive",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005959977107496/R.png",
+    "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLST_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Rhythm** Still Alive",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005960203608124/S.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLST_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Rhythm** Still Alive",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005959297630269/A.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLST_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Rhythm** Still Alive",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005959553490964/B.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLST_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Rhythm** Still Alive",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Still Alive",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1081005959746424952/C.png",
+      "theme": "Still Alive (From the Original Motion Picture Scream VI)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
