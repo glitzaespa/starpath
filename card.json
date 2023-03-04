@@ -34203,5 +34203,1435 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "KDAD_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Vocal** Adulthood",
+    "idol":"KANGDANIEL Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Adulthood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916996679540766/R.png",
+    "theme": "Adulthood",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "KDAD_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Vocal** Adulthood",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916996876677190/S.png",
+      "theme": "Adulthood",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "KDAD_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Vocal** Adulthood",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916996050395207/A.png",
+      "theme": "Adulthood",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "KDAD_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Vocal** Adulthood",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916996247523448/B.png",
+      "theme": "Adulthood",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "KDAD_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Vocal** Adulthood",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916996494995627/C.png",
+      "theme": "Adulthood",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "KDAD_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Dance** Adulthood",
+    "idol":"KANGDANIEL Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Adulthood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917020071166022/R.png",
+    "theme": "Adulthood",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "KDAD_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Dance** Adulthood",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917020293468221/S.png",
+      "theme": "Adulthood",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "KDAD_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Dance** Adulthood",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917019400093796/A.png",
+      "theme": "Adulthood",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "KDAD_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Dance** Adulthood",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917019651739678/B.png",
+      "theme": "Adulthood",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "KDAD_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Dance** Adulthood",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917019886632970/C.png",
+      "theme": "Adulthood",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "KDAD_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Rhythm** Adulthood",
+    "idol":"KANGDANIEL Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Adulthood",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917045618683964/R.png",
+    "theme": "Adulthood",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "KDAD_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Rhythm** Adulthood",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917045840990228/S.png",
+      "theme": "Adulthood",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "KDAD_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Rhythm** Adulthood",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917044960178207/A.png",
+      "theme": "Adulthood",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "KDAD_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Rhythm** Adulthood",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917045161512980/B.png",
+      "theme": "Adulthood",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "KDAD_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Rhythm** Adulthood",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Adulthood",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917045375402105/C.png",
+      "theme": "Adulthood",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "D6YM_YK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 Young K** You make Me",
+    "idol":"DAY6 Young K",
+    "inv":"<:R_EMOTE:1036291037620097034> You make Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916972797186108/R.png",
+    "theme": "You make Me",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "D6YM_YK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 Young K** You make Me",
+      "idol":"DAY6 Young K",
+      "inv":"<:S_EMOTE:1036291020956115105> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916973023670292/S.png",
+      "theme": "You make Me",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "D6YM_YK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 Young K** You make Me",
+      "idol":"DAY6 Young K",
+      "inv":"<:A_EMOTE:1036291003348439102> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916971492741140/A.png",
+      "theme": "You make Me",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "D6YM_YK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 Young K** You make Me",
+      "idol":"DAY6 Young K",
+      "inv":"<:B_EMOTE:1036290987477180546> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916972289675285/B.png",
+      "theme": "You make Me",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "D6YM_YK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 Young K** You make Me",
+      "idol":"DAY6 Young K",
+      "inv":"<:C_EMOTE:1036290969676546092> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916972553908284/C.png",
+      "theme": "You make Me",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "D6YM_WO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 WONPIL** You make Me",
+    "idol":"DAY6 WONPIL",
+    "inv":"<:R_EMOTE:1036291037620097034> You make Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916941834821744/R.png",
+    "theme": "You make Me",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "D6YM_WO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 WONPIL** You make Me",
+      "idol":"DAY6 WONPIL",
+      "inv":"<:S_EMOTE:1036291020956115105> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916942061322310/S.png",
+      "theme": "You make Me",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "D6YM_WO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 WONPIL** You make Me",
+      "idol":"DAY6 WONPIL",
+      "inv":"<:A_EMOTE:1036291003348439102> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916941134372974/A.png",
+      "theme": "You make Me",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "D6YM_WO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 WONPIL** You make Me",
+      "idol":"DAY6 WONPIL",
+      "inv":"<:B_EMOTE:1036290987477180546> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916941344096276/B.png",
+      "theme": "You make Me",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "D6YM_WO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 WONPIL** You make Me",
+      "idol":"DAY6 WONPIL",
+      "inv":"<:C_EMOTE:1036290969676546092> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916941574778981/C.png",
+      "theme": "You make Me",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "D6YM_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 SUNGJIN** You make Me",
+    "idol":"DAY6 SUNGJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> You make Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916925246341190/R.png",
+    "theme": "You make Me",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "D6YM_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 SUNGJIN** You make Me",
+      "idol":"DAY6 SUNGJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916925527375973/S.png",
+      "theme": "You make Me",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "D6YM_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 SUNGJIN** You make Me",
+      "idol":"DAY6 SUNGJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916924554280961/A.png",
+      "theme": "You make Me",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "D6YM_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 SUNGJIN** You make Me",
+      "idol":"DAY6 SUNGJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916924810150049/B.png",
+      "theme": "You make Me",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "D6YM_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 SUNGJIN** You make Me",
+      "idol":"DAY6 SUNGJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916925057617940/C.png",
+      "theme": "You make Me",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "D6YM_DO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **DAY6 DOWOON** You make Me",
+    "idol":"DAY6 DOWOON",
+    "inv":"<:R_EMOTE:1036291037620097034> You make Me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916907563163811/R.png",
+    "theme": "You make Me",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "D6YM_DO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **DAY6 DOWOON** You make Me",
+      "idol":"DAY6 DOWOON",
+      "inv":"<:S_EMOTE:1036291020956115105> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916907798057010/S.png",
+      "theme": "You make Me",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "D6YM_DO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **DAY6 DOWOON** You make Me",
+      "idol":"DAY6 DOWOON",
+      "inv":"<:A_EMOTE:1036291003348439102> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916906799800450/A.png",
+      "theme": "You make Me",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "D6YM_DO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **DAY6 DOWOON** You make Me",
+      "idol":"DAY6 DOWOON",
+      "inv":"<:B_EMOTE:1036290987477180546> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916907017895946/B.png",
+      "theme": "You make Me",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "D6YM_DO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **DAY6 DOWOON** You make Me",
+      "idol":"DAY6 DOWOON",
+      "inv":"<:C_EMOTE:1036290969676546092> You make Me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916907336683672/C.png",
+      "theme": "You make Me",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LSLA_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LISA Vocal** LALISA",
+    "idol":"LISA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> LALISA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917072810352750/R.png",
+    "theme": "LALISA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LSLA_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LISA Vocal** LALISA",
+      "idol":"LISA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917073045225559/S.png",
+      "theme": "LALISA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LSLA_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LISA Vocal** LALISA",
+      "idol":"LISA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917071942131803/A.png",
+      "theme": "LALISA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LSLA_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LISA Vocal** LALISA",
+      "idol":"LISA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917072202190868/B.png",
+      "theme": "LALISA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LSLA_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LISA Vocal** LALISA",
+      "idol":"LISA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917072462217256/C.png",
+      "theme": "LALISA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LSLA_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LISA Dance** LALISA",
+    "idol":"LISA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> LALISA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917090652921856/R.png",
+    "theme": "LALISA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LSLA_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LISA Dance** LALISA",
+      "idol":"LISA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917090883604481/S.png",
+      "theme": "LALISA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LSLA_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LISA Dance** LALISA",
+      "idol":"LISA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917089994416199/A.png",
+      "theme": "LALISA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LSLA_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LISA Dance** LALISA",
+      "idol":"LISA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917090195738654/B.png",
+      "theme": "LALISA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LSLA_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LISA Dance** LALISA",
+      "idol":"LISA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917090430615562/C.png",
+      "theme": "LALISA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LSLA_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LISA Rhythm** LALISA",
+    "idol":"LISA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> LALISA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917117148336158/R.png",
+    "theme": "LALISA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LSLA_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LISA Rhythm** LALISA",
+      "idol":"LISA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917117353865296/S.png",
+      "theme": "LALISA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LSLA_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LISA Rhythm** LALISA",
+      "idol":"LISA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917116435304468/A.png",
+      "theme": "LALISA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LSLA_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LISA Rhythm** LALISA",
+      "idol":"LISA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917116649222286/B.png",
+      "theme": "LALISA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LSLA_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LISA Rhythm** LALISA",
+      "idol":"LISA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> LALISA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917116896690176/C.png",
+      "theme": "LALISA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_JYI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Jeong Ye In** Twinkle",
+    "idol":"Lovelyz Jeong Ye In",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917156402843699/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_JYI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Jeong Ye In** Twinkle",
+      "idol":"Lovelyz Jeong Ye In",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917156620943530/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_JYI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Jeong Ye In** Twinkle",
+      "idol":"Lovelyz Jeong Ye In",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917155681423470/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_JYI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Jeong Ye In** Twinkle",
+      "idol":"Lovelyz Jeong Ye In",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917155937271929/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_JYI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Jeong Ye In** Twinkle",
+      "idol":"Lovelyz Jeong Ye In",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917156193116232/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz JIN** Twinkle",
+    "idol":"Lovelyz JIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917176489365566/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz JIN** Twinkle",
+      "idol":"Lovelyz JIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917176707465347/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz JIN** Twinkle",
+      "idol":"Lovelyz JIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917175847637003/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz JIN** Twinkle",
+      "idol":"Lovelyz JIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917176048959589/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz JIN** Twinkle",
+      "idol":"Lovelyz JIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917176279629955/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_KE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Kei** Twinkle",
+    "idol":"Lovelyz Kei",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917192360611920/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_KE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Kei** Twinkle",
+      "idol":"Lovelyz Kei",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917192549343284/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_KE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Kei** Twinkle",
+      "idol":"Lovelyz Kei",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917191739854898/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_KE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Kei** Twinkle",
+      "idol":"Lovelyz Kei",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917191945363598/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_KE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Kei** Twinkle",
+      "idol":"Lovelyz Kei",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917192167665684/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_LMJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Lee Mi Joo** Twinkle",
+    "idol":"Lovelyz Lee Mi Joo",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917212686192700/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_LMJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Lee Mi Joo** Twinkle",
+      "idol":"Lovelyz Lee Mi Joo",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917212908507276/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_LMJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Lee Mi Joo** Twinkle",
+      "idol":"Lovelyz Lee Mi Joo",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917211687948411/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_LMJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Lee Mi Joo** Twinkle",
+      "idol":"Lovelyz Lee Mi Joo",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917212031897620/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_LMJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Lee Mi Joo** Twinkle",
+      "idol":"Lovelyz Lee Mi Joo",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917212220637275/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_LSJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Lee Su Jeong (Baby Soul)** Twinkle",
+    "idol":"Lovelyz Lee Su Jeong (Baby Soul)",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917231485063198/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_LSJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Lee Su Jeong (Baby Soul)** Twinkle",
+      "idol":"Lovelyz Lee Su Jeong (Baby Soul)",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917231749320754/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_LSJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Lee Su Jeong (Baby Soul)** Twinkle",
+      "idol":"Lovelyz Lee Su Jeong (Baby Soul)",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917230671376444/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_LSJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Lee Su Jeong (Baby Soul)** Twinkle",
+      "idol":"Lovelyz Lee Su Jeong (Baby Soul)",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917230981746860/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_LSJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Lee Su Jeong (Baby Soul)** Twinkle",
+      "idol":"Lovelyz Lee Su Jeong (Baby Soul)",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917231216644236/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_RSJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Ryu Su Jeong** Twinkle",
+    "idol":"Lovelyz Ryu Su Jeong",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917257326170202/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_RSJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Ryu Su Jeong** Twinkle",
+      "idol":"Lovelyz Ryu Su Jeong",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917257556860989/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_RSJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Ryu Su Jeong** Twinkle",
+      "idol":"Lovelyz Ryu Su Jeong",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917256638304427/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_RSJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Ryu Su Jeong** Twinkle",
+      "idol":"Lovelyz Ryu Su Jeong",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917256843829278/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_RSJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Ryu Su Jeong** Twinkle",
+      "idol":"Lovelyz Ryu Su Jeong",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917257070325851/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_SJS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Seo Ji Soo** Twinkle",
+    "idol":"Lovelyz Seo Ji Soo",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917279576957059/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_SJS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Seo Ji Soo** Twinkle",
+      "idol":"Lovelyz Seo Ji Soo",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917279837016146/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_SJS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Seo Ji Soo** Twinkle",
+      "idol":"Lovelyz Seo Ji Soo",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917278670987315/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_SJS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Seo Ji Soo** Twinkle",
+      "idol":"Lovelyz Seo Ji Soo",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917279161733231/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_SJS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Seo Ji Soo** Twinkle",
+      "idol":"Lovelyz Seo Ji Soo",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917279367237683/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "LVTW_YJA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lovelyz Yoo Ji Ae** Twinkle",
+    "idol":"Lovelyz Yoo Ji Ae",
+    "inv":"<:R_EMOTE:1036291037620097034> Twinkle",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917299466346557/R.png",
+    "theme": "Twinkle",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "LVTW_YJA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lovelyz Yoo Ji Ae** Twinkle",
+      "idol":"Lovelyz Yoo Ji Ae",
+      "inv":"<:S_EMOTE:1036291020956115105> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917299671871599/S.png",
+      "theme": "Twinkle",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "LVTW_YJA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lovelyz Yoo Ji Ae** Twinkle",
+      "idol":"Lovelyz Yoo Ji Ae",
+      "inv":"<:A_EMOTE:1036291003348439102> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917298799452210/A.png",
+      "theme": "Twinkle",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "LVTW_YJA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lovelyz Yoo Ji Ae** Twinkle",
+      "idol":"Lovelyz Yoo Ji Ae",
+      "inv":"<:B_EMOTE:1036290987477180546> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917299038531604/B.png",
+      "theme": "Twinkle",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "LVTW_YJA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lovelyz Yoo Ji Ae** Twinkle",
+      "idol":"Lovelyz Yoo Ji Ae",
+      "inv":"<:C_EMOTE:1036290969676546092> Twinkle",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080917299248234519/C.png",
+      "theme": "Twinkle",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ HONG JOONG** HALAZIA",
+    "idol":"ATEEZ HONG JOONG",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916747844059260/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ HONG JOONG** HALAZIA",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916748133478542/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ HONG JOONG** HALAZIA",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916747097473136/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ HONG JOONG** HALAZIA",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916747332366346/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ HONG JOONG** HALAZIA",
+      "idol":"ATEEZ HONG JOONG",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916747550466188/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_JH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ JONG HO** HALAZIA",
+    "idol":"ATEEZ JONG HO",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916762251501690/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_JH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ JONG HO** HALAZIA",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916762473811978/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_JH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ JONG HO** HALAZIA",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916761525891162/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_JH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ JONG HO** HALAZIA",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916761815294133/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_JH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ JONG HO** HALAZIA",
+      "idol":"ATEEZ JONG HO",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916762025021522/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_MG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ MIN GI** HALAZIA",
+    "idol":"ATEEZ MIN GI",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916787501219980/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_MG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ MIN GI** HALAZIA",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916787752882326/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_MG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ MIN GI** HALAZIA",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916786716889128/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_MG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ MIN GI** HALAZIA",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916787035652187/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_MG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ MIN GI** HALAZIA",
+      "idol":"ATEEZ MIN GI",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916787257954374/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ SAN** HALAZIA",
+    "idol":"ATEEZ SAN",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916803305361438/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ SAN** HALAZIA",
+      "idol":"ATEEZ SAN",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916803510874202/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ SAN** HALAZIA",
+      "idol":"ATEEZ SAN",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916802638467112/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ SAN** HALAZIA",
+      "idol":"ATEEZ SAN",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916802869145671/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ SAN** HALAZIA",
+      "idol":"ATEEZ SAN",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916803074670652/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_SH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ SEONG HWA** HALAZIA",
+    "idol":"ATEEZ SEONG HWA",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916820258734202/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_SH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ SEONG HWA** HALAZIA",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916820522963067/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_SH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ SEONG HWA** HALAZIA",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916819583451147/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_SH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ SEONG HWA** HALAZIA",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916819797348434/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_SH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ SEONG HWA** HALAZIA",
+      "idol":"ATEEZ SEONG HWA",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916820053196810/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_WY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ WOO YOUNG** HALAZIA",
+    "idol":"ATEEZ WOO YOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916837778333736/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_WY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ WOO YOUNG** HALAZIA",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916838059360346/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_WY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ WOO YOUNG** HALAZIA",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916836910112878/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_WY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ WOO YOUNG** HALAZIA",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916837325357167/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_WY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ WOO YOUNG** HALAZIA",
+      "idol":"ATEEZ WOO YOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916837539250336/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_YS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ YEO SANG** HALAZIA",
+    "idol":"ATEEZ YEO SANG",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916855457329192/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_YS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ YEO SANG** HALAZIA",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916855667036252/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_YS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ YEO SANG** HALAZIA",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916854794629231/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_YS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ YEO SANG** HALAZIA",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916855004336218/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_YS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ YEO SANG** HALAZIA",
+      "idol":"ATEEZ YEO SANG",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916855235039242/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "ATHA_YH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **ATEEZ YUN HO** HALAZIA",
+    "idol":"ATEEZ YUN HO",
+    "inv":"<:R_EMOTE:1036291037620097034> HALAZIA",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916878920261792/R.png",
+    "theme": "HALAZIA",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "ATHA_YH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **ATEEZ YUN HO** HALAZIA",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:S_EMOTE:1036291020956115105> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916879142551552/S.png",
+      "theme": "HALAZIA",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "ATHA_YH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **ATEEZ YUN HO** HALAZIA",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:A_EMOTE:1036291003348439102> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916878320476221/A.png",
+      "theme": "HALAZIA",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "ATHA_YH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **ATEEZ YUN HO** HALAZIA",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:B_EMOTE:1036290987477180546> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916878530183238/B.png",
+      "theme": "HALAZIA",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "ATHA_YH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **ATEEZ YUN HO** HALAZIA",
+      "idol":"ATEEZ YUN HO",
+      "inv":"<:C_EMOTE:1036290969676546092> HALAZIA",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1080916878727327834/C.png",
+      "theme": "HALAZIA",
+      "minimum": "0",
+      "maximum": "600"
+    }
     ]
           }
