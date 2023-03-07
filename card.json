@@ -35633,5 +35633,170 @@
       "minimum": "0",
       "maximum": "600"
     }
+    ],
+  "DLHF_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Vocal** HOLY FVCK Tour",
+    "idol":"Demi Lovato Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> HOLY FVCK Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086348661473420/R.png",
+    "theme": "29",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHF_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Vocal** HOLY FVCK Tour",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086348921503754/S.png",
+      "theme": "29",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHF_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Vocal** HOLY FVCK Tour",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086347935858738/A.png",
+      "theme": "29",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHF_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Vocal** HOLY FVCK Tour",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086348158144572/B.png",
+      "theme": "29",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHF_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Vocal** HOLY FVCK Tour",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086348426575943/C.png",
+      "theme": "29",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHF_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Dance** HOLY FVCK Tour",
+    "idol":"Demi Lovato Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> HOLY FVCK Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086369310032003/R.png",
+    "theme": "29",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHF_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Dance** HOLY FVCK Tour",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086369532334121/S.png",
+      "theme": "29",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHF_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Dance** HOLY FVCK Tour",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086368542474350/A.png",
+      "theme": "29",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHF_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Dance** HOLY FVCK Tour",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086368852856972/B.png",
+      "theme": "29",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHF_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Dance** HOLY FVCK Tour",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086369079337060/C.png",
+      "theme": "29",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHF_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Rhythm** HOLY FVCK Tour",
+    "idol":"Demi Lovato Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> HOLY FVCK Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086390625484830/R.png",
+    "theme": "29",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHF_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Rhythm** HOLY FVCK Tour",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086390814212136/S.png",
+      "theme": "29",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHF_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Rhythm** HOLY FVCK Tour",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086389950201916/A.png",
+      "theme": "29",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHF_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Rhythm** HOLY FVCK Tour",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086390155706488/B.png",
+      "theme": "29",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHF_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Rhythm** HOLY FVCK Tour",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> HOLY FVCK Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086390428344340/C.png",
+      "theme": "29",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
