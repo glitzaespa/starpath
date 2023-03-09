@@ -35798,5 +35798,665 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "LOSW_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin** Slow With the Bass",
+    "idol":"LOONA HeeJin",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030653419335761/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin** Slow With the Bass",
+      "idol":"LOONA HeeJin",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030653142503574/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin** Slow With the Bass",
+      "idol":"LOONA HeeJin",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030652882464919/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin** Slow With the Bass",
+      "idol":"LOONA HeeJin",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030652542717982/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin** Slow With the Bass",
+      "idol":"LOONA HeeJin",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030652274290748/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HyunJin** Slow With the Bass",
+    "idol":"LOONA HyunJin",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030858977972244/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HyunJin** Slow With the Bass",
+      "idol":"LOONA HyunJin",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030858646626374/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HyunJin** Slow With the Bass",
+      "idol":"LOONA HyunJin",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030858378186812/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HyunJin** Slow With the Bass",
+      "idol":"LOONA HyunJin",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030858088783935/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HyunJin** Slow With the Bass",
+      "idol":"LOONA HyunJin",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077030857849716746/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_HS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul** Slow With the Bass",
+    "idol":"LOONA HaSeul",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031023067545701/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_HS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul** Slow With the Bass",
+      "idol":"LOONA HaSeul",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031022853619762/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_HS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul** Slow With the Bass",
+      "idol":"LOONA HaSeul",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031022614548480/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_HS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul** Slow With the Bass",
+      "idol":"LOONA HaSeul",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031022392262817/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_HS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul** Slow With the Bass",
+      "idol":"LOONA HaSeul",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031022178336798/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin** Slow With the Bass",
+    "idol":"LOONA YeoJin",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031226629693500/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin** Slow With the Bass",
+      "idol":"LOONA YeoJin",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031226365444166/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin** Slow With the Bass",
+      "idol":"LOONA YeoJin",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031226097012786/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin** Slow With the Bass",
+      "idol":"LOONA YeoJin",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031225769861171/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin** Slow With the Bass",
+      "idol":"LOONA YeoJin",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031225522389112/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_VI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi** Slow With the Bass",
+    "idol":"LOONA ViVi",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031826633269319/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_VI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi** Slow With the Bass",
+      "idol":"LOONA ViVi",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031826201264178/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_VI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi** Slow With the Bass",
+      "idol":"LOONA ViVi",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031825651802273/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_VI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi** Slow With the Bass",
+      "idol":"LOONA ViVi",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031825333043201/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_VI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi** Slow With the Bass",
+      "idol":"LOONA ViVi",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077031825056202873/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_KL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip** Slow With the Bass",
+    "idol":"LOONA Kim Lip",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032008116604928/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_KL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip** Slow With the Bass",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032007835582604/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_KL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip** Slow With the Bass",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032007571353640/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_KL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip** Slow With the Bass",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032007189663854/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_KL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip** Slow With the Bass",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032006707327047/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul** Slow With the Bass",
+    "idol":"LOONA JinSoul",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032179818831942/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul** Slow With the Bass",
+      "idol":"LOONA JinSoul",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032179600719902/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul** Slow With the Bass",
+      "idol":"LOONA JinSoul",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032179386826752/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul** Slow With the Bass",
+      "idol":"LOONA JinSoul",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032179089023047/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul** Slow With the Bass",
+      "idol":"LOONA JinSoul",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032178879299665/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Choerry** Slow With the Bass",
+    "idol":"LOONA Choerry",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032367396487249/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Choerry** Slow With the Bass",
+      "idol":"LOONA Choerry",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032367149035773/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Choerry** Slow With the Bass",
+      "idol":"LOONA Choerry",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032366888996954/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Choerry** Slow With the Bass",
+      "idol":"LOONA Choerry",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032366662484068/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Choerry** Slow With the Bass",
+      "idol":"LOONA Choerry",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032366436003950/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_YV_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Yves** Slow With the Bass",
+    "idol":"LOONA Yves",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032539996307486/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_YV_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Yves** Slow With the Bass",
+      "idol":"LOONA Yves",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032539740442754/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_YV_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Yves** Slow With the Bass",
+      "idol":"LOONA Yves",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032539421679636/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_YV_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Yves** Slow With the Bass",
+      "idol":"LOONA Yves",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032539144863885/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_YV_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Yves** Slow With the Bass",
+      "idol":"LOONA Yves",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032538935136438/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Chuu** Slow With the Bass",
+    "idol":"LOONA Chuu",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032737535434812/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Chuu** Slow With the Bass",
+      "idol":"LOONA Chuu",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032737329909781/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Chuu** Slow With the Bass",
+      "idol":"LOONA Chuu",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032737086656633/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Chuu** Slow With the Bass",
+      "idol":"LOONA Chuu",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032736843374592/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Chuu** Slow With the Bass",
+      "idol":"LOONA Chuu",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032736642043975/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Go Won** Slow With the Bass",
+    "idol":"LOONA Go Won",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032921266917456/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Go Won** Slow With the Bass",
+      "idol":"LOONA Go Won",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032920927182928/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Go Won** Slow With the Bass",
+      "idol":"LOONA Go Won",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032920440635432/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Go Won** Slow With the Bass",
+      "idol":"LOONA Go Won",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032919933128734/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Go Won** Slow With the Bass",
+      "idol":"LOONA Go Won",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077032919719223396/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LOSW_OL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Olivia Hye** Slow With the Bass",
+    "idol":"LOONA Olivia Hye",
+    "inv":"<:R_EMOTE:1036291037620097034> Slow With the Bass",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1077033104750952529/image.png",
+    "theme": "Flip That [Verse2]",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOSW_OL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Olivia Hye** Slow With the Bass",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:S_EMOTE:1036291020956115105> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077033104503472168/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOSW_OL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Olivia Hye** Slow With the Bass",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:A_EMOTE:1036291003348439102> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077033104214077531/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOSW_OL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Olivia Hye** Slow With the Bass",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:B_EMOTE:1036290987477180546> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077033103832399872/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOSW_OL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Olivia Hye** Slow With the Bass",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:C_EMOTE:1036290969676546092> Slow With the Bass",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1077033103505240114/image.png",
+      "theme": "Flip That [Verse2]",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
