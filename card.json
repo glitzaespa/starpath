@@ -35799,7 +35799,7 @@
       "maximum": "200"
     }
     ],
-  "LOSW_HJ_R": [
+  "LOSW_HE_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin** Slow With the Bass",
     "idol":"LOONA HeeJin",
@@ -35810,7 +35810,7 @@
     "maximum": "2450"
   }
   ],
-    "LOSW_HJ_S": [
+    "LOSW_HE_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin** Slow With the Bass",
       "idol":"LOONA HeeJin",
@@ -35821,7 +35821,7 @@
       "maximum": "1850"
     }
     ],
-    "LOSW_HJ_A": [
+    "LOSW_HE_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin** Slow With the Bass",
       "idol":"LOONA HeeJin",
@@ -35832,7 +35832,7 @@
       "maximum": "1250"
     }
     ],
-    "LOSW_HJ_B": [
+    "LOSW_HE_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin** Slow With the Bass",
       "idol":"LOONA HeeJin",
@@ -35843,7 +35843,7 @@
       "maximum": "650"
     }
     ],
-  "LOSW_HJ_C": [
+  "LOSW_HE_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin** Slow With the Bass",
       "idol":"LOONA HeeJin",
@@ -35909,7 +35909,7 @@
       "maximum": "250"
     }
     ],
-  "LOSW_HS_R": [
+  "LOSW_HA_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul** Slow With the Bass",
     "idol":"LOONA HaSeul",
@@ -35920,7 +35920,7 @@
     "maximum": "2450"
   }
   ],
-    "LOSW_HS_S": [
+    "LOSW_HA_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul** Slow With the Bass",
       "idol":"LOONA HaSeul",
@@ -35931,7 +35931,7 @@
       "maximum": "1850"
     }
     ],
-    "LOSW_HS_A": [
+    "LOSW_HA_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul** Slow With the Bass",
       "idol":"LOONA HaSeul",
@@ -35942,7 +35942,7 @@
       "maximum": "1250"
     }
     ],
-    "LOSW_HS_B": [
+    "LOSW_HA_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul** Slow With the Bass",
       "idol":"LOONA HaSeul",
@@ -35953,7 +35953,7 @@
       "maximum": "650"
     }
     ],
-  "LOSW_HS_C": [
+  "LOSW_HA_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul** Slow With the Bass",
       "idol":"LOONA HaSeul",
@@ -35964,7 +35964,7 @@
       "maximum": "250"
     }
     ],
-  "LOSW_YJ_R": [
+  "LOSW_YE_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin** Slow With the Bass",
     "idol":"LOONA YeoJin",
@@ -35975,7 +35975,7 @@
     "maximum": "2450"
   }
   ],
-    "LOSW_YJ_S": [
+    "LOSW_YE_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin** Slow With the Bass",
       "idol":"LOONA YeoJin",
@@ -35986,7 +35986,7 @@
       "maximum": "1850"
     }
     ],
-    "LOSW_YJ_A": [
+    "LOSW_YE_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin** Slow With the Bass",
       "idol":"LOONA YeoJin",
@@ -35997,7 +35997,7 @@
       "maximum": "1250"
     }
     ],
-    "LOSW_YJ_B": [
+    "LOSW_YE_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin** Slow With the Bass",
       "idol":"LOONA YeoJin",
@@ -36008,7 +36008,7 @@
       "maximum": "650"
     }
     ],
-  "LOSW_YJ_C": [
+  "LOSW_YE_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin** Slow With the Bass",
       "idol":"LOONA YeoJin",
@@ -36074,7 +36074,7 @@
       "maximum": "250"
     }
     ],
-  "LOSW_KL_R": [
+  "LOSW_KI_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip** Slow With the Bass",
     "idol":"LOONA Kim Lip",
@@ -36085,7 +36085,7 @@
     "maximum": "2450"
   }
   ],
-    "LOSW_KL_S": [
+    "LOSW_KI_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip** Slow With the Bass",
       "idol":"LOONA Kim Lip",
@@ -36096,7 +36096,7 @@
       "maximum": "1850"
     }
     ],
-    "LOSW_KL_A": [
+    "LOSW_KI_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip** Slow With the Bass",
       "idol":"LOONA Kim Lip",
@@ -36107,7 +36107,7 @@
       "maximum": "1250"
     }
     ],
-    "LOSW_KL_B": [
+    "LOSW_KI_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip** Slow With the Bass",
       "idol":"LOONA Kim Lip",
@@ -36118,7 +36118,7 @@
       "maximum": "650"
     }
     ],
-  "LOSW_KL_C": [
+  "LOSW_KI_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip** Slow With the Bass",
       "idol":"LOONA Kim Lip",
@@ -36129,7 +36129,7 @@
       "maximum": "250"
     }
     ],
-  "LOSW_JS_R": [
+  "LOSW_JI_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul** Slow With the Bass",
     "idol":"LOONA JinSoul",
@@ -36140,7 +36140,7 @@
     "maximum": "2450"
   }
   ],
-    "LOSW_JS_S": [
+    "LOSW_JI_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul** Slow With the Bass",
       "idol":"LOONA JinSoul",
@@ -36151,7 +36151,7 @@
       "maximum": "1850"
     }
     ],
-    "LOSW_JS_A": [
+    "LOSW_JI_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul** Slow With the Bass",
       "idol":"LOONA JinSoul",
@@ -36162,7 +36162,7 @@
       "maximum": "1250"
     }
     ],
-    "LOSW_JS_B": [
+    "LOSW_JI_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul** Slow With the Bass",
       "idol":"LOONA JinSoul",
@@ -36173,7 +36173,7 @@
       "maximum": "650"
     }
     ],
-  "LOSW_JS_C": [
+  "LOSW_JI_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul** Slow With the Bass",
       "idol":"LOONA JinSoul",
