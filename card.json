@@ -36458,5 +36458,225 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "RPDR_LNL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Luxx Noir London** RuPaul's Drag Race Season 15",
+    "idol":"Luxx Noir London",
+    "inv":"<:R_EMOTE:1036291037620097034> RuPaul's Drag Race Season 15",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001246030692463/R.png",
+    "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "RPDR_LNL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Luxx Noir London** RuPaul's Drag Race Season 15",
+      "idol":"Luxx Noir London",
+      "inv":"<:S_EMOTE:1036291020956115105> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001246240428153/S.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "RPDR_LNL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Luxx Noir London** RuPaul's Drag Race Season 15",
+      "idol":"Luxx Noir London",
+      "inv":"<:A_EMOTE:1036291003348439102> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001245175054387/A.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "RPDR_LNL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Luxx Noir London** RuPaul's Drag Race Season 15",
+      "idol":"Luxx Noir London",
+      "inv":"<:B_EMOTE:1036290987477180546> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001245556756610/B.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "RPDR_LNL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Luxx Noir London** RuPaul's Drag Race Season 15",
+      "idol":"Luxx Noir London",
+      "inv":"<:C_EMOTE:1036290969676546092> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001245816791140/C.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "RPDR_MMM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Marcia Marcia Marcia** RuPaul's Drag Race Season 15",
+    "idol":"Marcia Marcia Marcia",
+    "inv":"<:R_EMOTE:1036291037620097034> RuPaul's Drag Race Season 15",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001275667656774/R.png",
+    "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "RPDR_MMM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Marcia Marcia Marcia** RuPaul's Drag Race Season 15",
+      "idol":"Marcia Marcia Marcia",
+      "inv":"<:S_EMOTE:1036291020956115105> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001275906723850/S.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "RPDR_MMM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Marcia Marcia Marcia** RuPaul's Drag Race Season 15",
+      "idol":"Marcia Marcia Marcia",
+      "inv":"<:A_EMOTE:1036291003348439102> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001274908487690/A.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "RPDR_MMM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Marcia Marcia Marcia** RuPaul's Drag Race Season 15",
+      "idol":"Marcia Marcia Marcia",
+      "inv":"<:B_EMOTE:1036290987477180546> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001275193692190/B.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "RPDR_MMM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Marcia Marcia Marcia** RuPaul's Drag Race Season 15",
+      "idol":"Marcia Marcia Marcia",
+      "inv":"<:C_EMOTE:1036290969676546092> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001275436974121/C.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "RPDR_SG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Sugar** RuPaul's Drag Race Season 15",
+    "idol":"Sugar",
+    "inv":"<:R_EMOTE:1036291037620097034> RuPaul's Drag Race Season 15",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001344408109107/R.png",
+    "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "RPDR_SG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Sugar** RuPaul's Drag Race Season 15",
+      "idol":"Sugar",
+      "inv":"<:S_EMOTE:1036291020956115105> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001344676536320/S.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "RPDR_SG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Sugar** RuPaul's Drag Race Season 15",
+      "idol":"Sugar",
+      "inv":"<:A_EMOTE:1036291003348439102> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001343565054114/A.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "RPDR_SG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Sugar** RuPaul's Drag Race Season 15",
+      "idol":"Sugar",
+      "inv":"<:B_EMOTE:1036290987477180546> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001343854452736/B.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "RPDR_SG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Sugar** RuPaul's Drag Race Season 15",
+      "idol":"Sugar",
+      "inv":"<:C_EMOTE:1036290969676546092> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001344122900580/C.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "0",
+      "maximum": "300"
+    }
+    ],
+  "RPDR_SP_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Spice** RuPaul's Drag Race Season 15",
+    "idol":"Spice",
+    "inv":"<:R_EMOTE:1036291037620097034> RuPaul's Drag Race Season 15",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001296651755622/R.png",
+    "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+    "minimum": "1900",
+    "maximum": "2500"
+  }
+  ],
+    "RPDR_SP_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Spice** RuPaul's Drag Race Season 15",
+      "idol":"Spice",
+      "inv":"<:S_EMOTE:1036291020956115105> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001296903417926/S.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "1300",
+      "maximum": "1900"
+    }
+    ],
+    "RPDR_SP_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Spice** RuPaul's Drag Race Season 15",
+      "idol":"Spice",
+      "inv":"<:A_EMOTE:1036291003348439102> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001295800311818/A.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "700",
+      "maximum": "1300"
+    }
+    ],
+    "RPDR_SP_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Spice** RuPaul's Drag Race Season 15",
+      "idol":"Spice",
+      "inv":"<:B_EMOTE:1036290987477180546> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001296064557106/B.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "300",
+      "maximum": "700"
+    }
+    ],
+  "RPDR_SP_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Spice** RuPaul's Drag Race Season 15",
+      "idol":"Spice",
+      "inv":"<:C_EMOTE:1036290969676546092> RuPaul's Drag Race Season 15",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1085001296349757440/C.png",
+      "theme": "A.S.M.R Lover (feat. Skeltal Ki)",
+      "minimum": "0",
+      "maximum": "300"
+    }
     ]
           }
