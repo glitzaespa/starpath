@@ -36678,5 +36678,171 @@
       "minimum": "0",
       "maximum": "300"
     }
+    ],
+  
+  "RSFR_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Rina Sawayama Vocal** Frankenstein",
+    "idol":"Rina Sawayama Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Frankenstein",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143794859020449/R.png",
+    "theme": "Frankenstein",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RSFR_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Rina Sawayama Vocal** Frankenstein",
+      "idol":"Rina Sawayama Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143795098091541/S.png",
+      "theme": "Frankenstein",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RSFR_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Rina Sawayama Vocal** Frankenstein",
+      "idol":"Rina Sawayama Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143794108239913/A.png",
+      "theme": "Frankenstein",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RSFR_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Rina Sawayama Vocal** Frankenstein",
+      "idol":"Rina Sawayama Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143794385059971/B.png",
+      "theme": "Frankenstein",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RSFR_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Rina Sawayama Vocal** Frankenstein",
+      "idol":"Rina Sawayama Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143794645123132/C.png",
+      "theme": "Frankenstein",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RSFR_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Rina Sawayama Dance** Frankenstein",
+    "idol":"Rina Sawayama Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Frankenstein",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143817550221433/R.png",
+    "theme": "Frankenstein",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RSFR_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Rina Sawayama Dance** Frankenstein",
+      "idol":"Rina Sawayama Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143817734754364/S.png",
+      "theme": "Frankenstein",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RSFR_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Rina Sawayama Dance** Frankenstein",
+      "idol":"Rina Sawayama Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143816921075852/A.png",
+      "theme": "Frankenstein",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RSFR_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Rina Sawayama Dance** Frankenstein",
+      "idol":"Rina Sawayama Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143817113997383/B.png",
+      "theme": "Frankenstein",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RSFR_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Rina Sawayama Dance** Frankenstein",
+      "idol":"Rina Sawayama Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143817336303686/C.png",
+      "theme": "Frankenstein",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RSFR_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Rina Sawayama Rhythm** Frankenstein",
+    "idol":"Rina Sawayama Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Frankenstein",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143867407900722/R.png",
+    "theme": "Frankenstein",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RSFR_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Rina Sawayama Rhythm** Frankenstein",
+      "idol":"Rina Sawayama Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143867626008688/S.png",
+      "theme": "Frankenstein",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RSFR_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Rina Sawayama Rhythm** Frankenstein",
+      "idol":"Rina Sawayama Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143866682286190/A.png",
+      "theme": "Frankenstein",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RSFR_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Rina Sawayama Rhythm** Frankenstein",
+      "idol":"Rina Sawayama Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143866975891526/B.png",
+      "theme": "Frankenstein",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RSFR_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Rina Sawayama Rhythm** Frankenstein",
+      "idol":"Rina Sawayama Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Frankenstein",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084143867181416569/C.png",
+      "theme": "Frankenstein",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
