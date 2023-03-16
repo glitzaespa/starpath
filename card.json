@@ -36844,5 +36844,830 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "BPHY_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JISOO** How You LIke That",
+    "idol":"BLACKPINK JISOO",
+    "inv":"<:R_EMOTE:1036291037620097034> How You LIke That",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101700006203423/R.png",
+    "theme": "How You Like That",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPHY_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JISOO** How You LIke That",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:S_EMOTE:1036291020956115105> How You LIke That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101700262051860/S.png",
+      "theme": "How You Like That",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPHY_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JISOO** How You LIke That",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:A_EMOTE:1036291003348439102> How You LIke That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101699234451506/A.png",
+      "theme": "How You Like That",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPHY_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JISOO** How You LIke That",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:B_EMOTE:1036290987477180546> How You LIke That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101699456745563/B.png",
+      "theme": "How You Like That",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPHY_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JISOO** How You LIke That",
+      "idol":"BLACKPINK JISOO",
+      "inv":"<:C_EMOTE:1036290969676546092> How You LIke That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101699750334514/C.png",
+      "theme": "How You Like That",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPHY_JN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK JENNIE** How You Like That",
+    "idol":"BLACKPINK JENNIE",
+    "inv":"<:R_EMOTE:1036291037620097034> How You Like That",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101663788388462/R.png",
+    "theme": "How You Like That",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPHY_JN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:S_EMOTE:1036291020956115105> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101664002281572/S.png",
+      "theme": "How You Like That",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPHY_JN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:A_EMOTE:1036291003348439102> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101663045996624/A.png",
+      "theme": "How You Like That",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPHY_JN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:B_EMOTE:1036290987477180546> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101663352164412/B.png",
+      "theme": "How You Like That",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPHY_JN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK JENNIE** How You Like That",
+      "idol":"BLACKPINK JENNIE",
+      "inv":"<:C_EMOTE:1036290969676546092> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101663553486858/C.png",
+      "theme": "How You Like That",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPHY_RS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK ROSÉ** How You Like That",
+    "idol":"BLACKPINK ROSÉ",
+    "inv":"<:R_EMOTE:1036291037620097034> How You Like That",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101761209483354/R.png",
+    "theme": "How You Like That",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPHY_RS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:S_EMOTE:1036291020956115105> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101761406611527/S.png",
+      "theme": "How You Like That",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPHY_RS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:A_EMOTE:1036291003348439102> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101760550977536/A.png",
+      "theme": "How You Like That",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPHY_RS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:B_EMOTE:1036290987477180546> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101760836186112/B.png",
+      "theme": "How You Like That",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPHY_RS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK ROSÉ** How You Like That",
+      "idol":"BLACKPINK ROSÉ",
+      "inv":"<:C_EMOTE:1036290969676546092> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101761029120090/C.png",
+      "theme": "How You Like That",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "BPHY_LS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **BLACKPINK LISA** How You Like That",
+    "idol":"BLACKPINK LISA",
+    "inv":"<:R_EMOTE:1036291037620097034> How You Like That",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101730431684769/R.png",
+    "theme": "How You Like That",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "BPHY_LS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:S_EMOTE:1036291020956115105> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101730658160712/S.png",
+      "theme": "How You Like That",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "BPHY_LS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:A_EMOTE:1036291003348439102> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101729706070086/A.png",
+      "theme": "How You Like That",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "BPHY_LS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:B_EMOTE:1036290987477180546> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101729940934826/B.png",
+      "theme": "How You Like That",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "BPHY_LS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **BLACKPINK LISA** How You Like That",
+      "idol":"BLACKPINK LISA",
+      "inv":"<:C_EMOTE:1036290969676546092> How You Like That",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1084101730171629649/C.png",
+      "theme": "How You Like That",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LGHM_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Vocal** Hold My Hand",
+    "idol":"Lady Gaga Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold My Hand",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004419335831613/R.png",
+    "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LGHM_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Vocal** Hold My Hand",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004419532951673/S.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LGHM_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Vocal** Hold My Hand",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004418694103160/A.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LGHM_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Vocal** Hold My Hand",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004418887028766/B.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LGHM_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Vocal** Hold My Hand",
+      "idol":"Lady Gaga Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004419092557995/C.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LGHM_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Dance** Hold My Hand",
+    "idol":"Lady Gaga Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold My Hand",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004437371322438/R.png",
+    "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LGHM_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Dance** Hold My Hand",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004437547503627/S.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LGHM_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Dance** Hold My Hand",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004436746371081/A.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LGHM_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Dance** Hold My Hand",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004436922552340/B.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LGHM_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Dance** Hold My Hand",
+      "idol":"Lady Gaga Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004437149028482/C.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LGHM_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Lady Gaga Rhythm** Hold My Hand",
+    "idol":"Lady Gaga Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold My Hand",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004459550801981/R.png",
+    "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LGHM_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Lady Gaga Rhythm** Hold My Hand",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004459756339310/S.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LGHM_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Lady Gaga Rhythm** Hold My Hand",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004458808418455/A.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LGHM_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Lady Gaga Rhythm** Hold My Hand",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004459072651274/B.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LGHM_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Lady Gaga Rhythm** Hold My Hand",
+      "idol":"Lady Gaga Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold My Hand",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086004459332706344/C.png",
+      "theme": "Hold My Hand (From “Top Gun: Maverick”)",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXRD_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA yyxy Chuu** rendezvous",
+    "idol":"LOONA yyxy Chuu",
+    "inv":"<:R_EMOTE:1036291037620097034> rendezvous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006439266484386/R.png",
+    "theme": "rendezvous 18.6y",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXRD_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA yyxy Chuu** rendezvous",
+      "idol":"LOONA yyxy Chuu",
+      "inv":"<:S_EMOTE:1036291020956115105> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006439497179136/S.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXRD_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA yyxy Chuu** rendezvous",
+      "idol":"LOONA yyxy Chuu",
+      "inv":"<:A_EMOTE:1036291003348439102> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006438549258431/A.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXRD_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA yyxy Chuu** rendezvous",
+      "idol":"LOONA yyxy Chuu",
+      "inv":"<:B_EMOTE:1036290987477180546> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006438788341882/B.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXRD_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA yyxy Chuu** rendezvous",
+      "idol":"LOONA yyxy Chuu",
+      "inv":"<:C_EMOTE:1036290969676546092> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006439040012288/C.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXRD_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA yyxy Go Won** rendezvous",
+    "idol":"LOONA yyxy Go Won",
+    "inv":"<:R_EMOTE:1036291037620097034> rendezvous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006452214305001/R.png",
+    "theme": "rendezvous 18.6y",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXRD_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA yyxy Go Won** rendezvous",
+      "idol":"LOONA yyxy Go Won",
+      "inv":"<:S_EMOTE:1036291020956115105> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006452411449384/S.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXRD_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA yyxy Go Won** rendezvous",
+      "idol":"LOONA yyxy Go Won",
+      "inv":"<:A_EMOTE:1036291003348439102> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006451555799142/A.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXRD_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA yyxy Go Won** rendezvous",
+      "idol":"LOONA yyxy Go Won",
+      "inv":"<:B_EMOTE:1036290987477180546> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006451799081131/B.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXRD_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA yyxy Go Won** rendezvous",
+      "idol":"LOONA yyxy Go Won",
+      "inv":"<:C_EMOTE:1036290969676546092> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006452004597820/C.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXRD_OL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA yyxy Olivia Hye** rendezvous",
+    "idol":"LOONA yyxy Olivia Hye",
+    "inv":"<:R_EMOTE:1036291037620097034> rendezvous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006475681452204/R.png",
+    "theme": "rendezvous 18.6y",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXRD_OL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA yyxy Olivia Hye** rendezvous",
+      "idol":"LOONA yyxy Olivia Hye",
+      "inv":"<:S_EMOTE:1036291020956115105> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006475878580294/S.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXRD_OL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA yyxy Olivia Hye** rendezvous",
+      "idol":"LOONA yyxy Olivia Hye",
+      "inv":"<:A_EMOTE:1036291003348439102> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006475035529236/A.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXRD_OL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA yyxy Olivia Hye** rendezvous",
+      "idol":"LOONA yyxy Olivia Hye",
+      "inv":"<:B_EMOTE:1036290987477180546> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006475224268810/B.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXRD_OL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA yyxy Olivia Hye** rendezvous",
+      "idol":"LOONA yyxy Olivia Hye",
+      "inv":"<:C_EMOTE:1036290969676546092> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006475433971915/C.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "YXRD_YV_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA yyxy Yves** rendezvous",
+    "idol":"LOONA yyxy Yves",
+    "inv":"<:R_EMOTE:1036291037620097034> rendezvous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006495767961720/R.png",
+    "theme": "rendezvous 18.6y",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "YXRD_YV_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA yyxy Yves** rendezvous",
+      "idol":"LOONA yyxy Yves",
+      "inv":"<:S_EMOTE:1036291020956115105> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006496040587334/S.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "YXRD_YV_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA yyxy Yves** rendezvous",
+      "idol":"LOONA yyxy Yves",
+      "inv":"<:A_EMOTE:1036291003348439102> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006495038144613/A.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "YXRD_YV_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA yyxy Yves** rendezvous",
+      "idol":"LOONA yyxy Yves",
+      "inv":"<:B_EMOTE:1036290987477180546> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006495268835429/B.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "YXRD_YV_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA yyxy Yves** rendezvous",
+      "idol":"LOONA yyxy Yves",
+      "inv":"<:C_EMOTE:1036290969676546092> rendezvous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086006495549866064/C.png",
+      "theme": "rendezvous 18.6y",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "KDPS_AH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **K/DA Ahri** POP/STARS",
+    "idol":"K/DA Ahri",
+    "inv":"<:R_EMOTE:1036291037620097034> POP/STARS",
+    "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394425061748776/ahri_r.png",
+    "theme": "POP/STARS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDPS_AH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **K/DA Ahri** POP/STARS",
+      "idol":"K/DA Ahri",
+      "inv":"<:S_EMOTE:1036291020956115105> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394424797495396/ahri_s.png",
+      "theme": "POP/STARS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDPS_AH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **K/DA Ahri** POP/STARS",
+      "idol":"K/DA Ahri",
+      "inv":"<:A_EMOTE:1036291003348439102> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394424503910490/ahri_a.png",
+      "theme": "POP/STARS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDPS_AH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **K/DA Ahri** POP/STARS",
+      "idol":"K/DA Ahri",
+      "inv":"<:B_EMOTE:1036290987477180546> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394424113836082/ahri_b.png",
+      "theme": "POP/STARS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDPS_AH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **K/DA Ahri** POP/STARS",
+      "idol":"K/DA Ahri",
+      "inv":"<:C_EMOTE:1036290969676546092> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394423878942740/ahri_c.png",
+      "theme": "POP/STARS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDPS_AK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **K/DA Akali** POP/STARS",
+    "idol":"K/DA Akali",
+    "inv":"<:R_EMOTE:1036291037620097034> POP/STARS",
+    "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394453125832744/akali_r.png",
+    "theme": "POP/STARS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDPS_AK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **K/DA Akali** POP/STARS",
+      "idol":"K/DA Akali",
+      "inv":"<:S_EMOTE:1036291020956115105> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394452832223302/akali_s.png",
+      "theme": "POP/STARS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDPS_AK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **K/DA Akali** POP/STARS",
+      "idol":"K/DA Akali",
+      "inv":"<:A_EMOTE:1036291003348439102> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394452597354517/akali_a.png",
+      "theme": "POP/STARS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDPS_AK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **K/DA Akali** POP/STARS",
+      "idol":"K/DA Akali",
+      "inv":"<:B_EMOTE:1036290987477180546> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394452345692280/akali_b.png",
+      "theme": "POP/STARS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDPS_AK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **K/DA Akali** POP/STARS",
+      "idol":"K/DA Akali",
+      "inv":"<:C_EMOTE:1036290969676546092> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394452085637140/akali_c.png",
+      "theme": "POP/STARS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDPS_EV_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **K/DA Evelynn** POP/STARS",
+    "idol":"K/DA Evelynn",
+    "inv":"<:R_EMOTE:1036291037620097034> POP/STARS",
+    "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394482314002453/evelynn_r.png",
+    "theme": "POP/STARS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDPS_EV_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **K/DA Evelynn** POP/STARS",
+      "idol":"K/DA Evelynn",
+      "inv":"<:S_EMOTE:1036291020956115105> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394482041368596/evelynn_s.png",
+      "theme": "POP/STARS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDPS_EV_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **K/DA Evelynn** POP/STARS",
+      "idol":"K/DA Evelynn",
+      "inv":"<:A_EMOTE:1036291003348439102> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394481726799951/evelynn_a.png",
+      "theme": "POP/STARS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDPS_EV_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **K/DA Evelynn** POP/STARS",
+      "idol":"K/DA Evelynn",
+      "inv":"<:B_EMOTE:1036290987477180546> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394481458360370/evelynn_b.png",
+      "theme": "POP/STARS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDPS_EV_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **K/DA Evelynn** POP/STARS",
+      "idol":"K/DA Evelynn",
+      "inv":"<:C_EMOTE:1036290969676546092> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394481227665450/evelynn_c.png",
+      "theme": "POP/STARS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDPS_KS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **K/DA Kai'Sa** POP/STARS",
+    "idol":"K/DA Kai'Sa",
+    "inv":"<:R_EMOTE:1036291037620097034> POP/STARS",
+    "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394511112085514/kaisa_r.png",
+    "theme": "POP/STARS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDPS_KS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **K/DA Kai'Sa** POP/STARS",
+      "idol":"K/DA Kai'Sa",
+      "inv":"<:S_EMOTE:1036291020956115105> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394510675873902/kaisa_s.png",
+      "theme": "POP/STARS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDPS_KS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **K/DA Kai'Sa** POP/STARS",
+      "idol":"K/DA Kai'Sa",
+      "inv":"<:A_EMOTE:1036291003348439102> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394510319362058/kaisa_a.png",
+      "theme": "POP/STARS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDPS_KS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **K/DA Kai'Sa** POP/STARS",
+      "idol":"K/DA Kai'Sa",
+      "inv":"<:B_EMOTE:1036290987477180546> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394509941886996/kaisa_b.png",
+      "theme": "POP/STARS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDPS_KS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **K/DA Kai'Sa** POP/STARS",
+      "idol":"K/DA Kai'Sa",
+      "inv":"<:C_EMOTE:1036290969676546092> POP/STARS",
+      "image": "https://cdn.discordapp.com/attachments/1076394294769877022/1076394509618909206/kaisa_c.png",
+      "theme": "POP/STARS",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
