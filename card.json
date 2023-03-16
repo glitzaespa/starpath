@@ -38552,5 +38552,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TSTE_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Vocal** The Eras Tour",
+    "idol":"Taylor Swift Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> The Eras Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050091019804773/R.png",
+    "theme": "Lavender Haze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TSTE_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Vocal** The Eras Tour",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050091254681651/S.png",
+      "theme": "Lavender Haze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TSTE_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Vocal** The Eras Tour",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050090214498494/A.png",
+      "theme": "Lavender Haze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TSTE_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Vocal** The Eras Tour",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050090470346922/B.png",
+      "theme": "Lavender Haze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TSTE_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Vocal** The Eras Tour",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050090776547399/C.png",
+      "theme": "Lavender Haze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TSTE_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Dance** The Eras Tour",
+    "idol":"Taylor Swift Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> The Eras Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050105909596160/R.png",
+    "theme": "Lavender Haze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TSTE_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Dance** The Eras Tour",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050106136084490/S.png",
+      "theme": "Lavender Haze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TSTE_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Dance** The Eras Tour",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050105133650031/A.png",
+      "theme": "Lavender Haze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TSTE_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Dance** The Eras Tour",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050105414664303/B.png",
+      "theme": "Lavender Haze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TSTE_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Dance** The Eras Tour",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050105695678554/C.png",
+      "theme": "Lavender Haze",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TSTE_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Rhythm** The Eras Tour",
+    "idol":"Taylor Swift Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> The Eras Tour",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050121671782450/R.png",
+    "theme": "Lavender Haze",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TSTE_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Rhythm** The Eras Tour",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050121915060314/S.png",
+      "theme": "Lavender Haze",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TSTE_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Rhythm** The Eras Tour",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050120967139398/A.png",
+      "theme": "Lavender Haze",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TSTE_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Rhythm** The Eras Tour",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050121210404934/B.png",
+      "theme": "Lavender Haze",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TSTE_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Rhythm** The Eras Tour",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> The Eras Tour",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1086050121441103952/C.png",
+      "theme": "Lavender Haze",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
