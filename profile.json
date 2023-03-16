@@ -250,7 +250,21 @@
           "HBD_LU":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224343004545025/p_hld_luda.png",
               "HBD_LU_NAME":"**LUDA** HAPPYBIRTHDAY",
           "HBD_DA":"https://cdn.discordapp.com/attachments/1036296996966907924/1080224342778073140/p_hdd_dami.png",
-              "HBD_DA_NAME":"**DAMI** HAPPYBIRTHDAY"
+              "HBD_DA_NAME":"**DAMI** HAPPYBIRTHDAY",
+          "FR_VO":"https://cdn.discordapp.com/attachments/1036296996966907924/1084144985185722398/HT_VO.png",
+              "FR_VO_NAME":"**Rina Sawayama Vocal** Frankenstein",
+          "FR_DA":"https://cdn.discordapp.com/attachments/1036296996966907924/1084144984976011364/HT_DA.png",
+              "FR_DA_NAME":"**Rina Sawayama Dance** Frankenstein",
+          "FR_RH":"https://cdn.discordapp.com/attachments/1036296996966907924/1084144984753717439/HT_RH.png",
+              "FR_RH_NAME":"**Rina Sawayama Rhythm** Frankenstein",
+          "HY_JN":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145046451929138/HY_JN.png",
+              "HY_JN_NAME":"**BLACKPINK JENNIE** How You Like That",
+          "HY_JS":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145046128959570/HY_JS.png",
+              "HY_JS_NAME":"**BLACKPINK JISOO** How You Like That",
+          "HY_RS":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145045717913670/HY_RS.png",
+              "HY_RS_NAME":"**BLACKPINK ROSÉ** How You Like That",
+          "HY_LS":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145045915058248/HY_LS.png",
+              "HY_LS_NAME":"**BLACKPINK LISA** How You Like That"
   }
   ]
 }
