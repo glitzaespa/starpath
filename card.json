@@ -37672,5 +37672,885 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TXBH_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> Blue Hour",
+    "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672583019696148/beomgyu_r.png",
+    "theme": "Blue Hour",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXBH_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672582759661618/beomgyu_s.png",
+      "theme": "Blue Hour",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXBH_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672582478626876/beomgyu_a.png",
+      "theme": "Blue Hour",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXBH_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672582222778449/beomgyu_b.png",
+      "theme": "Blue Hour",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXBH_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672581992104007/beomgyu_c.png",
+      "theme": "Blue Hour",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXBH_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Blue Hour",
+    "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672616448307300/taehyun_r.png",
+    "theme": "Blue Hour",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXBH_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672616200839239/taehyun_s.png",
+      "theme": "Blue Hour",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXBH_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672615957581874/taehyun_a.png",
+      "theme": "Blue Hour",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXBH_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672615684943903/taehyun_b.png",
+      "theme": "Blue Hour",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXBH_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672615475224626/taehyun_c.png",
+      "theme": "Blue Hour",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXBH_HK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "inv":"<:R_EMOTE:1036291037620097034> Blue Hour",
+    "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672644449484810/huening_kai_r.png",
+    "theme": "Blue Hour",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXBH_HK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:S_EMOTE:1036291020956115105> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672644105547806/huening_kai_s.png",
+      "theme": "Blue Hour",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXBH_HK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:A_EMOTE:1036291003348439102> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672643803562024/huening_kai_a.png",
+      "theme": "Blue Hour",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXBH_HK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:B_EMOTE:1036290987477180546> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672643547705454/huening_kai_b.png",
+      "theme": "Blue Hour",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXBH_HK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:C_EMOTE:1036290969676546092> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672643300245554/huening_kai_c.png",
+      "theme": "Blue Hour",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXBH_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Blue Hour",
+    "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672517055885352/soobin_r.png",
+    "theme": "Blue Hour",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXBH_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672516774854658/soobin_s.png",
+      "theme": "Blue Hour",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXBH_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672516531605524/soobin_a.png",
+      "theme": "Blue Hour",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXBH_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672516191858768/soobin_b.png",
+      "theme": "Blue Hour",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXBH_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672515898245140/soobin_c.png",
+      "theme": "Blue Hour",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXBH_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Blue Hour",
+    "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672556889178213/yeonjun_r.png",
+    "theme": "Blue Hour",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXBH_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672556612370513/yeonjun_s.png",
+      "theme": "Blue Hour",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXBH_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672556209700874/yeonjun_a.png",
+      "theme": "Blue Hour",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXBH_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672555718983741/yeonjun_b.png",
+      "theme": "Blue Hour",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXBH_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Blue Hour",
+      "image": "https://cdn.discordapp.com/attachments/1075672378165702666/1075672551705018408/yeonjun_c.png",
+      "theme": "Blue Hour",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXCY_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER BEOMGYU** Can't You See Me?",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> Can't You See Me?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086011552673853/R.png",
+    "theme": "Can't You See Me?",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXCY_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER BEOMGYU** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086011955314708/S.png",
+      "theme": "Can't You See Me?",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXCY_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER BEOMGYU** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086010491519037/A.png",
+      "theme": "Can't You See Me?",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXCY_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER BEOMGYU** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086010734784594/B.png",
+      "theme": "Can't You See Me?",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXCY_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER BEOMGYU** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086011015790612/C.png",
+      "theme": "Can't You See Me?",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXCY_HK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER HUENINGKAI** Can't You See Me?",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "inv":"<:R_EMOTE:1036291037620097034> Can't You See Me?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086032931045379/R.png",
+    "theme": "Can't You See Me?",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXCY_HK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER HUENINGKAI** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:S_EMOTE:1036291020956115105> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086033186902167/S.png",
+      "theme": "Can't You See Me?",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXCY_HK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER HUENINGKAI** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:A_EMOTE:1036291003348439102> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086032192839760/A.png",
+      "theme": "Can't You See Me?",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXCY_HK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER HUENINGKAI** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:B_EMOTE:1036290987477180546> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086032444506163/B.png",
+      "theme": "Can't You See Me?",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXCY_HK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER HUENINGKAI** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER HUENINGKAI",
+      "inv":"<:C_EMOTE:1036290969676546092> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086032691974286/C.png",
+      "theme": "Can't You See Me?",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXCY_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER SOOBIN** Can't You See Me?",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Can't You See Me?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086059162222592/R.png",
+    "theme": "Can't You See Me?",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXCY_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER SOOBIN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086059380310046/S.png",
+      "theme": "Can't You See Me?",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXCY_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER SOOBIN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086058444996688/A.png",
+      "theme": "Can't You See Me?",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXCY_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER SOOBIN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086058725998602/B.png",
+      "theme": "Can't You See Me?",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXCY_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER SOOBIN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086058948300880/C.png",
+      "theme": "Can't You See Me?",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXCY_TH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER TAEHYUN** Can't You See Me?",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Can't You See Me?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086085498261626/R.png",
+    "theme": "Can't You See Me?",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXCY_TH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER TAEHYUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086085703778315/S.png",
+      "theme": "Can't You See Me?",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXCY_TH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER TAEHYUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086084718121110/A.png",
+      "theme": "Can't You See Me?",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXCY_TH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER TAEHYUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086084948803734/B.png",
+      "theme": "Can't You See Me?",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXCY_TH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER TAEHYUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER TAEHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086085208838294/C.png",
+      "theme": "Can't You See Me?",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TXCY_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TOMORROW X TOGETHER YEONJUN** Can't You See Me?",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Can't You See Me?",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086103089152082/R.png",
+    "theme": "Can't You See Me?",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TXCY_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TOMORROW X TOGETHER YEONJUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086103336628296/S.png",
+      "theme": "Can't You See Me?",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TXCY_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TOMORROW X TOGETHER YEONJUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086102258679889/A.png",
+      "theme": "Can't You See Me?",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TXCY_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TOMORROW X TOGETHER YEONJUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086102560682034/B.png",
+      "theme": "Can't You See Me?",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TXCY_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TOMORROW X TOGETHER YEONJUN** Can't You See Me?",
+      "idol":"TOMORROW X TOGETHER YEONJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Can't You See Me?",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086102791360603/C.png",
+      "theme": "Can't You See Me?",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_GI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes Gun-il** Happy Death Day",
+    "idol":"Xdinary Heroes Gun-il",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316043307003974/1072316142389055498/gun-il_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_GI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes Gun-il** Happy Death Day",
+      "idol":"Xdinary Heroes Gun-il",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316043307003974/1072316142066085968/gun-il_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_GI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes Gun-il** Happy Death Day",
+      "idol":"Xdinary Heroes Gun-il",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316043307003974/1072316141713772654/gun-il_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_GI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes Gun-il** Happy Death Day",
+      "idol":"Xdinary Heroes Gun-il",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316043307003974/1072316141319499898/gun-il_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_GI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes Gun-il** Happy Death Day",
+      "idol":"Xdinary Heroes Gun-il",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316043307003974/1072316140887494691/gun-il_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_JS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes Jungsu** Happy Death Day",
+    "idol":"Xdinary Heroes Jungsu",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316426020458627/1072316435705106432/jungsu_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_JS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes Jungsu** Happy Death Day",
+      "idol":"Xdinary Heroes Jungsu",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316426020458627/1072316435457658900/jungsu_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_JS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes Jungsu** Happy Death Day",
+      "idol":"Xdinary Heroes Jungsu",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316426020458627/1072316435197599814/jungsu_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_JS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes Jungsu** Happy Death Day",
+      "idol":"Xdinary Heroes Jungsu",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316426020458627/1072316430755827792/jungsu_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_JS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes Jungsu** Happy Death Day",
+      "idol":"Xdinary Heroes Jungsu",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316426020458627/1072316430474825769/jungsu_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes Gaon** Happy Death Day",
+    "idol":"Xdinary Heroes Gaon",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316521789018214/1072316529665912844/gaon_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes Gaon** Happy Death Day",
+      "idol":"Xdinary Heroes Gaon",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316521789018214/1072316529263247401/gaon_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes Gaon** Happy Death Day",
+      "idol":"Xdinary Heroes Gaon",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316521789018214/1072316528936104086/gaon_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes Gaon** Happy Death Day",
+      "idol":"Xdinary Heroes Gaon",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316521789018214/1072316528587972659/gaon_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes Gaon** Happy Death Day",
+      "idol":"Xdinary Heroes Gaon",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316521789018214/1072316528118202398/gaon_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_OD_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes O.de** Happy Death Day",
+    "idol":"Xdinary Heroes O.de",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316685463326800/1072316695110238268/o.de_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_OD_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes O.de** Happy Death Day",
+      "idol":"Xdinary Heroes O.de",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316685463326800/1072316694778875994/o.de_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_OD_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes O.de** Happy Death Day",
+      "idol":"Xdinary Heroes O.de",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316685463326800/1072316694460104780/o.de_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_OD_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes O.de** Happy Death Day",
+      "idol":"Xdinary Heroes O.de",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316685463326800/1072316694191685682/o.de_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_OD_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes O.de** Happy Death Day",
+      "idol":"Xdinary Heroes O.de",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316685463326800/1072316693860323419/o.de_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_JH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes Jun Han** Happy Death Day",
+    "idol":"Xdinary Heroes Jun Han",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316805495926824/1072316815193149571/jun_han_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_JH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes Jun Han** Happy Death Day",
+      "idol":"Xdinary Heroes Jun Han",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316805495926824/1072316814954070097/jun_han_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_JH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes Jun Han** Happy Death Day",
+      "idol":"Xdinary Heroes Jun Han",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316805495926824/1072316814673068052/jun_han_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_JH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes Jun Han** Happy Death Day",
+      "idol":"Xdinary Heroes Jun Han",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316805495926824/1072316814383648848/jun_han_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_JH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes Jun Han** Happy Death Day",
+      "idol":"Xdinary Heroes Jun Han",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316805495926824/1072316814115209266/jun_han_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "XDHD_JY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Xdinary Heroes Jooyeon** Happy Death Day",
+    "idol":"Xdinary Heroes Jooyeon",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy Death Day",
+    "image": "https://cdn.discordapp.com/attachments/1072316927072026704/1072316932398780416/jooyeon_r.png",
+    "theme": "Happy Death Day",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "XDHD_JY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Xdinary Heroes Jooyeon** Happy Death Day",
+      "idol":"Xdinary Heroes Jooyeon",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316927072026704/1072316932113580083/jooyeon_s.png",
+      "theme": "Happy Death Day",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "XDHD_JY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Xdinary Heroes Jooyeon** Happy Death Day",
+      "idol":"Xdinary Heroes Jooyeon",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316927072026704/1072316931874508811/jooyeon_a.png",
+      "theme": "Happy Death Day",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "XDHD_JY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Xdinary Heroes Jooyeon** Happy Death Day",
+      "idol":"Xdinary Heroes Jooyeon",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316927072026704/1072316931622834217/jooyeon_b.png",
+      "theme": "Happy Death Day",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "XDHD_JY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Xdinary Heroes Jooyeon** Happy Death Day",
+      "idol":"Xdinary Heroes Jooyeon",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy Death Day",
+      "image": "https://cdn.discordapp.com/attachments/1072316927072026704/1072316931291496459/jooyeon_c.png",
+      "theme": "Happy Death Day",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
