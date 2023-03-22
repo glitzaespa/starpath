@@ -1,14 +1,10 @@
 {
-"DEFAULT_FREE": [
+"drop_21022023": [
   {
-    "name":"**`Free` EVERYSTAR** Wallpaper",
-    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038454754940026971/DEFAULT.png"
+    "description_esp":"ha sido añadido a tu inventario.",
+    "description_eng":"has been added to your inventory!",
+    "error_esp":"¡Estas en cooldown! Espera \`%time%\` para lanzar una carta de nuevo.",
+    "error_eng":"You're on cooldown! Wait \`%time%\` to wait drop a card again."
   }
-  ],
-  "RO_FREE": [
-  {
-    "name":"**`Free` ROSALÍA** Wallpaper",
-    "image":"https://cdn.discordapp.com/attachments/1036296996966907924/1038451616698880000/ROSALIA.png"
-  }
-  ],
+  ]
 }
