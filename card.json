@@ -38717,5 +38717,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "JSLL_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Vocal** Love Letter",
+    "idol":"LOONA JinSoul Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Letter",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241378611007488/R.png",
+    "theme": "Love Letter",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSLL_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Vocal** Love Letter",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241378854281307/S.png",
+      "theme": "Love Letter",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSLL_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Vocal** Love Letter",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241377856049274/A.png",
+      "theme": "Love Letter",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSLL_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Vocal** Love Letter",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241378128662609/B.png",
+      "theme": "Love Letter",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSLL_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Vocal** Love Letter",
+      "idol":"LOONA JinSoul Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241378388725840/C.png",
+      "theme": "Love Letter",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "JSLL_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Dance** Love Letter",
+    "idol":"LOONA JinSoul Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Letter",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241407845302433/R.png",
+    "theme": "Love Letter",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSLL_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Dance** Love Letter",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241408122130492/S.png",
+      "theme": "Love Letter",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSLL_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Dance** Love Letter",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241406989664286/A.png",
+      "theme": "Love Letter",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSLL_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Dance** Love Letter",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241407232938044/B.png",
+      "theme": "Love Letter",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSLL_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Dance** Love Letter",
+      "idol":"LOONA JinSoul Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241407518154943/C.png",
+      "theme": "Love Letter",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "JSLL_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul Rhythm** Love Letter",
+    "idol":"LOONA JinSoul Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Letter",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241450513960970/R.png",
+    "theme": "Love Letter",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSLL_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul Rhythm** Love Letter",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241450736275476/S.png",
+      "theme": "Love Letter",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSLL_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul Rhythm** Love Letter",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241449880621247/A.png",
+      "theme": "Love Letter",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSLL_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul Rhythm** Love Letter",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241450069381190/B.png",
+      "theme": "Love Letter",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSLL_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul Rhythm** Love Letter",
+      "idol":"LOONA JinSoul Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Letter",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1089241450300063915/C.png",
+      "theme": "Love Letter",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
