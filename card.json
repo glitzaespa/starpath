@@ -40037,5 +40037,60 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+    "NDCD_HC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NCT Dream HAECHAN** CANDY",
+    "idol":"NCT Dream HAECHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CANDY",
+    "image": "https://cdn.discordapp.com/attachments/1072722241567076444/1072722623957586031/haechan_r.png",
+    "theme": "CANDY",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NDCD_HC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NCT Dream HAECHAN** CANDY",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CANDY",
+      "image": "https://cdn.discordapp.com/attachments/1072722241567076444/1072722623672369203/haechan_s.png",
+      "theme": "CANDY",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NDCD_HC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NCT Dream HAECHAN** CANDY",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CANDY",
+      "image": "https://cdn.discordapp.com/attachments/1072722241567076444/1072722623399723098/haechan_a.png",
+      "theme": "CANDY",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NDCD_HC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NCT Dream HAECHAN** CANDY",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CANDY",
+      "image": "https://cdn.discordapp.com/attachments/1072722241567076444/1072722623110336532/haechan_b.png",
+      "theme": "CANDY",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+    "NDCD_HC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NCT Dream HAECHAN** CANDY",
+      "idol":"NCT Dream HAECHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CANDY",
+      "image": "https://cdn.discordapp.com/attachments/1072722241567076444/1072722622758010961/haechan_c.png",
+      "theme": "CANDY",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
