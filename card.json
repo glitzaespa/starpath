@@ -40092,5 +40092,61 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "LOST_KL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip** Star",
+    "idol":"LOONA Kim Lip",
+    "inv":"<:R_EMOTE:1036291037620097034> Star",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043006343721031/R.png",
+    "zoom": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043006591193190/R_ZOOM.png",
+    "theme": "Star (Voice English Ver.)",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "LOST_KL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip** Star",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:S_EMOTE:1036291020956115105> Star",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043006951882762/S.png",
+      "theme": "Star (Voice English Ver.)",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "LOST_KL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip** Star",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:A_EMOTE:1036291003348439102> Star",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043005643259924/A.png",
+      "theme": "Star (Voice English Ver.)",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "LOST_KL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip** Star",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:B_EMOTE:1036290987477180546> Star",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043005886550116/B.png",
+      "theme": "Star (Voice English Ver.)",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "LOST_KL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip** Star",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:C_EMOTE:1036290969676546092> Star",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090043006117216286/C.png",
+      "theme": "Star (Voice English Ver.)",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
