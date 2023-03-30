@@ -42293,5 +42293,995 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "IVEL_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** ELEVEN",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086159930368040/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** ELEVEN",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086160161046678/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** ELEVEN",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086159313805342/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** ELEVEN",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086159536095322/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** ELEVEN",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086159716470835/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVEL_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** ELEVEN",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086191429582888/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** ELEVEN",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086191668666428/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** ELEVEN",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086190699774052/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** ELEVEN",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086190926274601/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** ELEVEN",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086191161151539/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVEL_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** ELEVEN",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086216947744858/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** ELEVEN",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086217161646100/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** ELEVEN",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086216314405014/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** ELEVEN",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086216528306176/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** ELEVEN",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086216733831270/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVEL_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** ELEVEN",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086233980796928/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** ELEVEN",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086234203111434/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** ELEVEN",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086233288736919/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** ELEVEN",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086233506856970/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** ELEVEN",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086233750130688/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVEL_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** ELEVEN",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086277400244264/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** ELEVEN",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086277614149762/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** ELEVEN",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086276716572793/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** ELEVEN",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086276951449640/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** ELEVEN",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086277169545286/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVEL_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** ELEVEN",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> ELEVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086297633574992/R.png",
+    "theme": "ELEVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVEL_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086297876832387/S.png",
+      "theme": "ELEVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVEL_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086296924737556/A.png",
+      "theme": "ELEVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVEL_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086297134440468/B.png",
+      "theme": "ELEVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVEL_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** ELEVEN",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> ELEVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086297415467138/C.png",
+      "theme": "ELEVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHV_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Vocal** HEAVEN",
+    "idol":"Demi Lovato Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> HEAVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086449333141665/R.png",
+    "theme": "HEAVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHV_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Vocal** HEAVEN",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086449551265982/S.png",
+      "theme": "HEAVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHV_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Vocal** HEAVEN",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086448628498452/A.png",
+      "theme": "HEAVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHV_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Vocal** HEAVEN",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086448863400046/B.png",
+      "theme": "HEAVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHV_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Vocal** HEAVEN",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086449094078535/C.png",
+      "theme": "HEAVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHV_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Dance** HEAVEN",
+    "idol":"Demi Lovato Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> HEAVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086475761467392/R.png",
+    "theme": "HEAVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHV_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Dance** HEAVEN",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086475962798162/S.png",
+      "theme": "HEAVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHV_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Dance** HEAVEN",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086475044233256/A.png",
+      "theme": "HEAVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHV_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Dance** HEAVEN",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086475258151023/B.png",
+      "theme": "HEAVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHV_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Dance** HEAVEN",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086475488841789/C.png",
+      "theme": "HEAVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHV_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Rhythm** HEAVEN",
+    "idol":"Demi Lovato Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> HEAVEN",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086496770736138/R.png",
+    "theme": "HEAVEN",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHV_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Rhythm** HEAVEN",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086497043353660/S.png",
+      "theme": "HEAVEN",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHV_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Rhythm** HEAVEN",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086496087064617/A.png",
+      "theme": "HEAVEN",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHV_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Rhythm** HEAVEN",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086496300961823/B.png",
+      "theme": "HEAVEN",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHV_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Rhythm** HEAVEN",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> HEAVEN",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1082086496489701487/C.png",
+      "theme": "HEAVEN",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDJE_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Vocal** Jealous",
+    "idol":"KANGDANIEL Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Jealous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055615005831208/R.png",
+    "theme": "Jealous",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDJE_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Vocal** Jealous",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055615274258503/S.png",
+      "theme": "Jealous",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDJE_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Vocal** Jealous",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055614225690724/A.png",
+      "theme": "Jealous",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDJE_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Vocal** Jealous",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055614523478067/B.png",
+      "theme": "Jealous",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDJE_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Vocal** Jealous",
+      "idol":"KANGDANIEL Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055614770937896/C.png",
+      "theme": "Jealous",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDJE_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Dance** Jealous",
+    "idol":"KANGDANIEL Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Jealous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055645280317450/R.png",
+    "theme": "Jealous",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDJE_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Dance** Jealous",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055645515206797/S.png",
+      "theme": "Jealous",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDJE_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Dance** Jealous",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055644395319438/A.png",
+      "theme": "Jealous",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDJE_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Dance** Jealous",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055644743454781/B.png",
+      "theme": "Jealous",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDJE_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Dance** Jealous",
+      "idol":"KANGDANIEL Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055644982526104/C.png",
+      "theme": "Jealous",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KDJE_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KANGDANIEL Rhythm** Jealous",
+    "idol":"KANGDANIEL Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Jealous",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055676901167214/R.png",
+    "theme": "Jealous",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KDJE_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KANGDANIEL Rhythm** Jealous",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055677370941460/S.png",
+      "theme": "Jealous",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KDJE_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KANGDANIEL Rhythm** Jealous",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055675634487466/A.png",
+      "theme": "Jealous",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KDJE_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KANGDANIEL Rhythm** Jealous",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055676016181328/B.png",
+      "theme": "Jealous",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KDJE_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KANGDANIEL Rhythm** Jealous",
+      "idol":"KANGDANIEL Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Jealous",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1087055676360110221/C.png",
+      "theme": "Jealous",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AGSN_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ariana Grande Vocal** safety net",
+    "idol":"Ariana Grande Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> safety net",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090406983770849431/R.png",
+    "theme": "safety net",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AGSN_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ariana Grande Vocal** safety net",
+      "idol":"Ariana Grande Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090406984022499429/S.png",
+      "theme": "safety net",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AGSN_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ariana Grande Vocal** safety net",
+      "idol":"Ariana Grande Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090406983032651877/A.png",
+      "theme": "safety net",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AGSN_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ariana Grande Vocal** safety net",
+      "idol":"Ariana Grande Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090406983280107630/B.png",
+      "theme": "safety net",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AGSN_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ariana Grande Vocal** safety net",
+      "idol":"Ariana Grande Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090406983527575642/C.png",
+      "theme": "safety net",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AGSN_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ariana Grande Dance** safety net",
+    "idol":"Ariana Grande Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> safety net",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407005186949221/R.png",
+    "theme": "safety net",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AGSN_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ariana Grande Dance** safety net",
+      "idol":"Ariana Grande Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407005442822255/S.png",
+      "theme": "safety net",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AGSN_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ariana Grande Dance** safety net",
+      "idol":"Ariana Grande Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407004327116810/A.png",
+      "theme": "safety net",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AGSN_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ariana Grande Dance** safety net",
+      "idol":"Ariana Grande Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407004545241159/B.png",
+      "theme": "safety net",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AGSN_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ariana Grande Dance** safety net",
+      "idol":"Ariana Grande Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407004952072222/C.png",
+      "theme": "safety net",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "AGSN_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Ariana Grande Rhythm** safety net",
+    "idol":"Ariana Grande Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> safety net",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407032567386193/R.png",
+    "theme": "safety net",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "AGSN_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Ariana Grande Rhythm** safety net",
+      "idol":"Ariana Grande Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407032886141070/S.png",
+      "theme": "safety net",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "AGSN_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Ariana Grande Rhythm** safety net",
+      "idol":"Ariana Grande Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407031590097017/A.png",
+      "theme": "safety net",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "AGSN_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Ariana Grande Rhythm** safety net",
+      "idol":"Ariana Grande Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407031963406336/B.png",
+      "theme": "safety net",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "AGSN_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Ariana Grande Rhythm** safety net",
+      "idol":"Ariana Grande Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> safety net",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090407032307327088/C.png",
+      "theme": "safety net",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TSBW_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Vocal** Bejeweled",
+    "idol":"Taylor Swift Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Bejeweled",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402119519055872/R.png",
+    "theme": "Bejeweled",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSBW_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Vocal** Bejeweled",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402119800066048/S.png",
+      "theme": "Bejeweled",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSBW_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Vocal** Bejeweled",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402118705348700/A.png",
+      "theme": "Bejeweled",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSBW_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Vocal** Bejeweled",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402118982176768/B.png",
+      "theme": "Bejeweled",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSBW_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Vocal** Bejeweled",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402119292551308/C.png",
+      "theme": "Bejeweled",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TSBW_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Dance** Bejeweled",
+    "idol":"Taylor Swift Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Bejeweled",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402310326341632/R.png",
+    "theme": "Bejeweled",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSBW_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Dance** Bejeweled",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402310569607228/S.png",
+      "theme": "Bejeweled",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSBW_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Dance** Bejeweled",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402309604921434/A.png",
+      "theme": "Bejeweled",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSBW_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Dance** Bejeweled",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402309852381224/B.png",
+      "theme": "Bejeweled",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSBW_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Dance** Bejeweled",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402310083051520/C.png",
+      "theme": "Bejeweled",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TSBW_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Rhythm** Bejeweled",
+    "idol":"Taylor Swift Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Bejeweled",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402377837838346/R.png",
+    "theme": "Bejeweled",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSBW_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Rhythm** Bejeweled",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402378072727562/S.png",
+      "theme": "Bejeweled",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSBW_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Rhythm** Bejeweled",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402377066086480/A.png",
+      "theme": "Bejeweled",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSBW_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Rhythm** Bejeweled",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402377321947236/B.png",
+      "theme": "Bejeweled",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSBW_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Rhythm** Bejeweled",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Bejeweled",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090402377569419284/C.png",
+      "theme": "Bejeweled",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
