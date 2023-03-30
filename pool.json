@@ -76,7 +76,8 @@
     "hold":"LGHM_VO;LGHM_DA;LGHM_RH",
     "hylt":"BPHY_JS;BPHY_JN;BPHY_RS;BPHY_LS",
     "yyxy":"YXRD_CH;YXRD_GO;YXRD_OL;YXRD_YV",
-    "loco": "ITLO_YJ;ITLO_LI;ITLO_RJ;ITLO_CR;ITLO_YN"
+    "loco": "ITLO_YJ;ITLO_LI;ITLO_RJ;ITLO_CR;ITLO_YN",
+    "bejeweled": "TSBW_VO;TSBW_DA;TSBW_RH"
  }
   ]
 }
