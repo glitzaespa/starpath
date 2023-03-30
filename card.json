@@ -41964,332 +41964,332 @@
       "maximum": "200"
     }
     ],
-  "NMEX_SU_R": [
+  "NMEX_SY_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** expérgo",
     "idol":"NMIXX SULLYOON",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085743977220808804/EVERYSTAR_NormalTheme_20230316083133.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
-    "NMEX_SU_S": [
+    "NMEX_SY_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** expérgo",
       "idol":"NMIXX SULLYOON",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085743976948170823/EVERYSTAR_NormalTheme_20230316083137.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
-    "NMEX_SU_A": [
+    "NMEX_SY_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** expérgo",
       "idol":"NMIXX SULLYOON",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085743976742662214/EVERYSTAR_NormalTheme_20230316083142.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
-    "NMEX_SU_B": [
+    "NMEX_SY_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** expérgo",
       "idol":"NMIXX SULLYOON",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085743976528748665/EVERYSTAR_NormalTheme_20230316083145.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
-  "NMEX_SU_C": [
+  "NMEX_SY_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** expérgo",
       "idol":"NMIXX SULLYOON",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085743976289665054/EVERYSTAR_NormalTheme_20230316083148.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
     ],
-  "NMEX_KY_R": [
+  "NMEX_KJ_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** expérgo",
     "idol":"NMIXX KYUJIN",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744101997150239/EVERYSTAR_NormalTheme_20230316083059.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
-    "NMEX_KY_S": [
+    "NMEX_KJ_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** expérgo",
       "idol":"NMIXX KYUJIN",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744101653229598/EVERYSTAR_NormalTheme_20230316083103.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
-    "NMEX_KY_A": [
+    "NMEX_KJ_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** expérgo",
       "idol":"NMIXX KYUJIN",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744101393170492/EVERYSTAR_NormalTheme_20230316083105.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
-    "NMEX_KY_B": [
+    "NMEX_KJ_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** expérgo",
       "idol":"NMIXX KYUJIN",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744101149909002/EVERYSTAR_NormalTheme_20230316083108.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
-  "NMEX_KY_C": [
+  "NMEX_KJ_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** expérgo",
       "idol":"NMIXX KYUJIN",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744100936003644/EVERYSTAR_NormalTheme_20230316083111.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
     ],
   "NMEX_JW_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** expérgo",
     "idol":"NMIXX JIWOO",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744186084577410/EVERYSTAR_NormalTheme_20230316083022.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
     "NMEX_JW_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** expérgo",
       "idol":"NMIXX JIWOO",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744185707085864/EVERYSTAR_NormalTheme_20230316083027.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
     "NMEX_JW_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** expérgo",
       "idol":"NMIXX JIWOO",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744185409286234/EVERYSTAR_NormalTheme_20230316083030.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
     "NMEX_JW_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** expérgo",
       "idol":"NMIXX JIWOO",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744185128276018/EVERYSTAR_NormalTheme_20230316083033.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
   "NMEX_JW_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** expérgo",
       "idol":"NMIXX JIWOO",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744184801116160/EVERYSTAR_NormalTheme_20230316083037.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
     ],
   "NMEX_BA_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** expérgo",
     "idol":"NMIXX BAE",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744248743272498/EVERYSTAR_NormalTheme_20230316082904.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
     "NMEX_BA_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** expérgo",
       "idol":"NMIXX BAE",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744248474849310/EVERYSTAR_NormalTheme_20230316082911.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
     "NMEX_BA_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** expérgo",
       "idol":"NMIXX BAE",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744248252543056/EVERYSTAR_NormalTheme_20230316082919.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
     "NMEX_BA_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** expérgo",
       "idol":"NMIXX BAE",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744248038629376/EVERYSTAR_NormalTheme_20230316082922.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
   "NMEX_BA_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** expérgo",
       "idol":"NMIXX BAE",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744247803760740/EVERYSTAR_NormalTheme_20230316082925.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
     ],
   "NMEX_HA_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** expérgo",
     "idol":"NMIXX HAEWON",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744335909310534/EVERYSTAR_NormalTheme_20230316082825.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
     "NMEX_HA_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** expérgo",
       "idol":"NMIXX HAEWON",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744335103983706/EVERYSTAR_NormalTheme_20230316082828.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
     "NMEX_HA_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** expérgo",
       "idol":"NMIXX HAEWON",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744334768459927/EVERYSTAR_NormalTheme_20230316082831.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
     "NMEX_HA_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** expérgo",
       "idol":"NMIXX HAEWON",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744334369980446/EVERYSTAR_NormalTheme_20230316082833.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
   "NMEX_HA_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** expérgo",
       "idol":"NMIXX HAEWON",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744334068002846/EVERYSTAR_NormalTheme_20230316082836.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
     ],
   "NMEX_LI_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** expergo",
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** expérgo",
     "idol":"NMIXX LILY",
-    "inv":"<:R_EMOTE:1036291037620097034> expergo",
+    "inv":"<:R_EMOTE:1036291037620097034> expérgo",
     "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744480650535074/EVERYSTAR_NormalTheme_20230316082755.png",
-    "theme": "expergo",
+    "theme": "expérgo",
     "minimum": "1800",
     "maximum": "2400"
   }
   ],
     "NMEX_LI_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** expergo",
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** expérgo",
       "idol":"NMIXX LILY",
-      "inv":"<:S_EMOTE:1036291020956115105> expergo",
+      "inv":"<:S_EMOTE:1036291020956115105> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744480294014996/EVERYSTAR_NormalTheme_20230316082758.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "1200",
       "maximum": "1800"
     }
     ],
     "NMEX_LI_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** expergo",
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** expérgo",
       "idol":"NMIXX LILY",
-      "inv":"<:A_EMOTE:1036291003348439102> expergo",
+      "inv":"<:A_EMOTE:1036291003348439102> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744480042352751/EVERYSTAR_NormalTheme_20230316082801.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "600",
       "maximum": "1200"
     }
     ],
     "NMEX_LI_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** expergo",
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** expérgo",
       "idol":"NMIXX LILY",
-      "inv":"<:B_EMOTE:1036290987477180546> expergo",
+      "inv":"<:B_EMOTE:1036290987477180546> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744479803285624/EVERYSTAR_NormalTheme_20230316082804.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "200",
       "maximum": "600"
     }
     ],
   "NMEX_LI_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** expergo",
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** expérgo",
       "idol":"NMIXX LILY",
-      "inv":"<:C_EMOTE:1036290969676546092> expergo",
+      "inv":"<:C_EMOTE:1036290969676546092> expérgo",
       "image": "https://cdn.discordapp.com/attachments/758201394678726710/1085744479580983347/EVERYSTAR_NormalTheme_20230316082807.png",
-      "theme": "expergo",
+      "theme": "expérgo",
       "minimum": "0",
       "maximum": "200"
     }
