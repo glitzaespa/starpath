@@ -43283,5 +43283,280 @@
       "minimum": "0",
       "maximum": "250"
     }
+    ],
+  "RVSP_IR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet IRENE** Strike a pose",
+    "idol":"Red Velvet IRENE",
+    "inv":"<:R_EMOTE:1036291037620097034> Strike a pose",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408076928098324/R.png",
+    "theme": "POSE",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RVSP_IR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet IRENE** Strike a pose",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:S_EMOTE:1036291020956115105> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408077171376238/S.png",
+      "theme": "POSE",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RVSP_IR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet IRENE** Strike a pose",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:A_EMOTE:1036291003348439102> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408076231843901/A.png",
+      "theme": "POSE",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RVSP_IR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet IRENE** Strike a pose",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:B_EMOTE:1036290987477180546> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408076458344568/B.png",
+      "theme": "POSE",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RVSP_IR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet IRENE** Strike a pose",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:C_EMOTE:1036290969676546092> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408076672258048/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RVSP_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet SEULGI** Strike a pose",
+    "idol":"Red Velvet SEULGI",
+    "inv":"<:R_EMOTE:1036291037620097034> Strike a pose",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408101284413460/R.png",
+    "theme": "POSE",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RVSP_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet SEULGI** Strike a pose",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:S_EMOTE:1036291020956115105> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408101544476933/S.png",
+      "theme": "POSE",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RVSP_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet SEULGI** Strike a pose",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:A_EMOTE:1036291003348439102> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408100596547664/A.png",
+      "theme": "POSE",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RVSP_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet SEULGI** Strike a pose",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:B_EMOTE:1036290987477180546> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408100827250780/B.png",
+      "theme": "POSE",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RVSP_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet SEULGI** Strike a pose",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:C_EMOTE:1036290969676546092> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408101057929407/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RVSP_WE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet WENDY** Strike a pose",
+    "idol":"Red Velvet WENDY",
+    "inv":"<:R_EMOTE:1036291037620097034> Strike a pose",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408122021072896/R.png",
+    "theme": "POSE",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RVSP_WE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet WENDY** Strike a pose",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:S_EMOTE:1036291020956115105> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408122260127826/S.png",
+      "theme": "POSE",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RVSP_WE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet WENDY** Strike a pose",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:A_EMOTE:1036291003348439102> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408121257701417/A.png",
+      "theme": "POSE",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RVSP_WE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet WENDY** Strike a pose",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:B_EMOTE:1036290987477180546> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408121509367848/B.png",
+      "theme": "POSE",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RVSP_WE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet WENDY** Strike a pose",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:C_EMOTE:1036290969676546092> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408121765212290/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RVSP_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet JOY** Strike a pose",
+    "idol":"Red Velvet JOY",
+    "inv":"<:R_EMOTE:1036291037620097034> Strike a pose",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408142183088159/R.png",
+    "theme": "POSE",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RVSP_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet JOY** Strike a pose",
+      "idol":"Red Velvet JOY",
+      "inv":"<:S_EMOTE:1036291020956115105> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408142602502286/S.png",
+      "theme": "POSE",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RVSP_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet JOY** Strike a pose",
+      "idol":"Red Velvet JOY",
+      "inv":"<:A_EMOTE:1036291003348439102> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408141172260935/A.png",
+      "theme": "POSE",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RVSP_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet JOY** Strike a pose",
+      "idol":"Red Velvet JOY",
+      "inv":"<:B_EMOTE:1036290987477180546> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408141537148928/B.png",
+      "theme": "POSE",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RVSP_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet JOY** Strike a pose",
+      "idol":"Red Velvet JOY",
+      "inv":"<:C_EMOTE:1036290969676546092> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408141851725824/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "RVSP_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet YERI** Strike a pose",
+    "idol":"Red Velvet YERI",
+    "inv":"<:R_EMOTE:1036291037620097034> Strike a pose",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408167898361876/R.png",
+    "theme": "POSE",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "RVSP_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet YERI** Strike a pose",
+      "idol":"Red Velvet YERI",
+      "inv":"<:S_EMOTE:1036291020956115105> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408168166785145/S.png",
+      "theme": "POSE",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "RVSP_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet YERI** Strike a pose",
+      "idol":"Red Velvet YERI",
+      "inv":"<:A_EMOTE:1036291003348439102> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408167160168509/A.png",
+      "theme": "POSE",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "RVSP_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet YERI** Strike a pose",
+      "idol":"Red Velvet YERI",
+      "inv":"<:B_EMOTE:1036290987477180546> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408167390851072/B.png",
+      "theme": "POSE",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "RVSP_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet YERI** Strike a pose",
+      "idol":"Red Velvet YERI",
+      "inv":"<:C_EMOTE:1036290969676546092> Strike a pose",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1090408167671873658/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
