@@ -43613,5 +43613,665 @@
       "minimum": "0",
       "maximum": "0"
     }
+    ],
+  "LOPS_CR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Choerry** POSE",
+    "idol":"LOONA Choerry",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846572398084116/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_CR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Choerry** POSE",
+      "idol":"LOONA Choerry",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846572641366096/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_CR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Choerry** POSE",
+      "idol":"LOONA Choerry",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846571345313852/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_CR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Choerry** POSE",
+      "idol":"LOONA Choerry",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846571768955021/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_CR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Choerry** POSE",
+      "idol":"LOONA Choerry",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846572083523666/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Chuu** POSE",
+    "idol":"LOONA Chuu",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846596368543894/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Chuu** POSE",
+      "idol":"LOONA Chuu",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846596607623209/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Chuu** POSE",
+      "idol":"LOONA Chuu",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846595600986222/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Chuu** POSE",
+      "idol":"LOONA Chuu",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846595869425724/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Chuu** POSE",
+      "idol":"LOONA Chuu",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846596100096100/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Go Won** POSE",
+    "idol":"LOONA Go Won",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846618346692608/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Go Won** POSE",
+      "idol":"LOONA Go Won",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846618636095594/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Go Won** POSE",
+      "idol":"LOONA Go Won",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846617486860370/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Go Won** POSE",
+      "idol":"LOONA Go Won",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846617780457532/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Go Won** POSE",
+      "idol":"LOONA Go Won",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846618074071050/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HaSeul** POSE",
+    "idol":"LOONA HaSeul",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846647115432096/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HaSeul** POSE",
+      "idol":"LOONA HaSeul",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846647421612133/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HaSeul** POSE",
+      "idol":"LOONA HaSeul",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846646322708690/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HaSeul** POSE",
+      "idol":"LOONA HaSeul",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846646591139960/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HaSeul** POSE",
+      "idol":"LOONA HaSeul",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846646867955833/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_HE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HeeJin** POSE",
+    "idol":"LOONA HeeJin",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846677196967966/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_HE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HeeJin** POSE",
+      "idol":"LOONA HeeJin",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846677486387220/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_HE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HeeJin** POSE",
+      "idol":"LOONA HeeJin",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846672109277244/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_HE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HeeJin** POSE",
+      "idol":"LOONA HeeJin",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846672616800367/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_HE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HeeJin** POSE",
+      "idol":"LOONA HeeJin",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846676890779648/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA HyunJin** POSE",
+    "idol":"LOONA HyunJin",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846694251020318/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA HyunJin** POSE",
+      "idol":"LOONA HyunJin",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846694527840288/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA HyunJin** POSE",
+      "idol":"LOONA HyunJin",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846693470879804/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA HyunJin** POSE",
+      "idol":"LOONA HyunJin",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846693701562368/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA HyunJin** POSE",
+      "idol":"LOONA HyunJin",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846693949014087/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA JinSoul** POSE",
+    "idol":"LOONA JinSoul",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846723015544904/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA JinSoul** POSE",
+      "idol":"LOONA JinSoul",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846723409825964/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA JinSoul** POSE",
+      "idol":"LOONA JinSoul",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846721706938408/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA JinSoul** POSE",
+      "idol":"LOONA JinSoul",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846722055049246/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA JinSoul** POSE",
+      "idol":"LOONA JinSoul",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846722721960028/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_KI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Kim Lip** POSE",
+    "idol":"LOONA Kim Lip",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846747589988432/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_KI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Kim Lip** POSE",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846747883569293/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_KI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Kim Lip** POSE",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846746797264996/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_KI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Kim Lip** POSE",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846747053096970/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_KI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Kim Lip** POSE",
+      "idol":"LOONA Kim Lip",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846747329929226/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_OL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Olivia Hye** POSE",
+    "idol":"LOONA Olivia Hye",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846771908554842/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_OL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Olivia Hye** POSE",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846775943483562/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_OL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Olivia Hye** POSE",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846771040333834/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_OL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Olivia Hye** POSE",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846771329749052/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_OL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Olivia Hye** POSE",
+      "idol":"LOONA Olivia Hye",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846771602366514/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_VI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA ViVi** POSE",
+    "idol":"LOONA ViVi",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846798622085141/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_VI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA ViVi** POSE",
+      "idol":"LOONA ViVi",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846798873731142/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_VI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA ViVi** POSE",
+      "idol":"LOONA ViVi",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846797376356492/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_VI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA ViVi** POSE",
+      "idol":"LOONA ViVi",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846797674172558/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_VI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA ViVi** POSE",
+      "idol":"LOONA ViVi",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846798089404436/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA YeoJin** POSE",
+    "idol":"LOONA YeoJin",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846825348186142/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA YeoJin** POSE",
+      "idol":"LOONA YeoJin",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846825583071353/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA YeoJin** POSE",
+      "idol":"LOONA YeoJin",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846824597397534/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA YeoJin** POSE",
+      "idol":"LOONA YeoJin",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846824861646908/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA YeoJin** POSE",
+      "idol":"LOONA YeoJin",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846825104908378/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LOPS_YV_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LOONA Yves** POSE",
+    "idol":"LOONA Yves",
+    "inv":"<:R_EMOTE:1036291037620097034> POSE",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846851608715284/R.png",
+    "theme": "POSE",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LOPS_YV_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LOONA Yves** POSE",
+      "idol":"LOONA Yves",
+      "inv":"<:S_EMOTE:1036291020956115105> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846851872948314/S.png",
+      "theme": "POSE",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LOPS_YV_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LOONA Yves** POSE",
+      "idol":"LOONA Yves",
+      "inv":"<:A_EMOTE:1036291003348439102> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846850702745720/A.png",
+      "theme": "POSE",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LOPS_YV_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LOONA Yves** POSE",
+      "idol":"LOONA Yves",
+      "inv":"<:B_EMOTE:1036290987477180546> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846851008921631/B.png",
+      "theme": "POSE",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LOPS_YV_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LOONA Yves** POSE",
+      "idol":"LOONA Yves",
+      "inv":"<:C_EMOTE:1036290969676546092> POSE",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091846851319312454/C.png",
+      "theme": "POSE",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
