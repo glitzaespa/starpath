@@ -44273,5 +44273,280 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "BN23_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **\🐰 IVE JANGWONYOUNG** 2023 Bunnies",
+    "idol":"\🐰 IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 Bunnies",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954507925159956/R.png",
+    "theme": "Royal",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "BN23_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **\🐰 IVE JANGWONYOUNG** 2023 Bunnies",
+      "idol":"\🐰 IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954508243935323/S.png",
+      "theme": "Royal",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "BN23_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **\🐰 IVE JANGWONYOUNG** 2023 Bunnies",
+      "idol":"\🐰 IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954507195367544/A.png",
+      "theme": "Royal",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "BN23_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **\🐰 IVE JANGWONYOUNG** 2023 Bunnies",
+      "idol":"\🐰 IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954507413454888/B.png",
+      "theme": "Royal",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "BN23_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **\🐰 IVE JANGWONYOUNG** 2023 Bunnies",
+      "idol":"\🐰 IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954507644149870/C.png",
+      "theme": "Royal",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "BN23_NA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **\🐰 TWICE NAYEON** 2023 Bunnies",
+    "idol":"TWICE NAYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 Bunnies",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954552674201662/R.png",
+    "theme": "SET ME FREE",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "BN23_NA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **\🐰 TWICE NAYEON** 2023 Bunnies",
+      "idol":"TWICE NAYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954552942641172/S.png",
+      "theme": "SET ME FREE",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "BN23_NA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **\🐰 TWICE NAYEON** 2023 Bunnies",
+      "idol":"TWICE NAYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954551936004216/A.png",
+      "theme": "SET ME FREE",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "BN23_NA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **\🐰 TWICE NAYEON** 2023 Bunnies",
+      "idol":"TWICE NAYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954552183476254/B.png",
+      "theme": "SET ME FREE",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "BN23_NA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **\🐰 TWICE NAYEON** 2023 Bunnies",
+      "idol":"TWICE NAYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954552422547516/C.png",
+      "theme": "SET ME FREE",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "BN23_SB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **\🐰 TOMORROW X TOGETHER SOOBIN** 2023 Bunnies",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 Bunnies",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954593883230208/R.png",
+    "theme": "Tinnitus (Wanna be a rock)",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "BN23_SB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **\🐰 TOMORROW X TOGETHER SOOBIN** 2023 Bunnies",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954594134904842/S.png",
+      "theme": "Tinnitus (Wanna be a rock)",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "BN23_SB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **\🐰 TOMORROW X TOGETHER SOOBIN** 2023 Bunnies",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954593119866980/A.png",
+      "theme": "Tinnitus (Wanna be a rock)",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "BN23_SB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **\🐰 TOMORROW X TOGETHER SOOBIN** 2023 Bunnies",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954593333792851/B.png",
+      "theme": "Tinnitus (Wanna be a rock)",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "BN23_SB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **\🐰 TOMORROW X TOGETHER SOOBIN** 2023 Bunnies",
+      "idol":"TOMORROW X TOGETHER SOOBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954593623191682/C.png",
+      "theme": "Tinnitus (Wanna be a rock)",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "BN23_SM_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **\🐰 CRAVITY SEONGMIN** 2023 Bunnies",
+    "idol":"\🐰 CRAVITY SEONGMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 Bunnies",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954625797697657/R.png",
+    "theme": "PARTY ROCK",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "BN23_SM_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **\🐰 CRAVITY SEONGMIN** 2023 Bunnies",
+      "idol":"\🐰 CRAVITY SEONGMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954626066137108/S.png",
+      "theme": "PARTY ROCK",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "BN23_SM_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **\🐰 CRAVITY SEONGMIN** 2023 Bunnies",
+      "idol":"\🐰 CRAVITY SEONGMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954625076265020/A.png",
+      "theme": "PARTY ROCK",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "BN23_SM_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **\🐰 CRAVITY SEONGMIN** 2023 Bunnies",
+      "idol":"\🐰 CRAVITY SEONGMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954625344712734/B.png",
+      "theme": "PARTY ROCK",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "BN23_SM_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **\🐰 CRAVITY SEONGMIN** 2023 Bunnies",
+      "idol":"\🐰 CRAVITY SEONGMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954625554415696/C.png",
+      "theme": "PARTY ROCK",
+      "minimum": "0",
+      "maximum": "600"
+    }
+    ],
+  "BD23_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **\🐰 STAYC SUMIN** 2023 Bunnies",
+    "idol":"STAYC SUMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 Bunnies",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954740935524405/R.png",
+    "theme": "RUN2U",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "BD23_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **\🐰 STAYC SUMIN** 2023 Bunnies",
+      "idol":"STAYC SUMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954741216559155/S.png",
+      "theme": "RUN2U",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "BD23_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **\🐰 STAYC SUMIN** 2023 Bunnies",
+      "idol":"STAYC SUMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954740155383879/A.png",
+      "theme": "RUN2U",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "BD23_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **\🐰 STAYC SUMIN** 2023 Bunnies",
+      "idol":"STAYC SUMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954740428029952/B.png",
+      "theme": "RUN2U",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "BD23_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **\🐰 STAYC SUMIN** 2023 Bunnies",
+      "idol":"STAYC SUMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 Bunnies",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1091954740679680130/C.png",
+      "theme": "RUN2U",
+      "minimum": "0",
+      "maximum": "600"
+    }
     ]
           }
