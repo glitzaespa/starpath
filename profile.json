@@ -264,7 +264,13 @@
           "HY_RS":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145045717913670/HY_RS.png",
               "HY_RS_NAME":"**BLACKPINK ROSÉ** How You Like That",
           "HY_LS":"https://cdn.discordapp.com/attachments/1062879137980756099/1084145045915058248/HY_LS.png",
-              "HY_LS_NAME":"**BLACKPINK LISA** How You Like That"
+              "HY_LS_NAME":"**BLACKPINK LISA** How You Like That",
+          "CH_HO":"https://cdn.discordapp.com/attachments/1090791248744415302/1094021523473436683/p_cheers_hoshi.png",
+              "CH_HO_NAME":"**SEVENTEENLEADERS HOSHI** CHEERS",
+          "CH_SC":"https://cdn.discordapp.com/attachments/1090791248744415302/1094021523712528524/p_cheers_scoups.png",
+              "CH_SC_NAME":"**SEVENTEENLEADERS S.COUPS** CHEERS",
+          "CH_WO":"https://cdn.discordapp.com/attachments/1090791248744415302/1094021523242762240/p_cheers_woozi.png",
+              "CH_WO_NAME":"**SEVENTEENLEADERS WOOZI** CHEERS"
   }
   ]
 }
