@@ -45098,5 +45098,500 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TWIC_NA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE NAYEON** ICON",
+    "idol":"TWICE NAYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200472732807229/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_NA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE NAYEON** ICON",
+      "idol":"TWICE NAYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200473030606948/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_NA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE NAYEON** ICON",
+      "idol":"TWICE NAYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200471738757171/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_NA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE NAYEON** ICON",
+      "idol":"TWICE NAYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200472036556890/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_NA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE NAYEON** ICON",
+      "idol":"TWICE NAYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200472384675890/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_JE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE JEONGYEON** ICON",
+    "idol":"TWICE JEONGYEON",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200498364190730/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_JE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE JEONGYEON** ICON",
+      "idol":"TWICE JEONGYEON",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200498720723044/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_JE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE JEONGYEON** ICON",
+      "idol":"TWICE JEONGYEON",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200497374335038/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_JE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE JEONGYEON** ICON",
+      "idol":"TWICE JEONGYEON",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200497697312949/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_JE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE JEONGYEON** ICON",
+      "idol":"TWICE JEONGYEON",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200498016067584/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_MO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE MOMO** ICON",
+    "idol":"TWICE MOMO",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200529712431124/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_MO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE MOMO** ICON",
+      "idol":"TWICE MOMO",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200530052157450/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_MO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE MOMO** ICON",
+      "idol":"TWICE MOMO",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200528500277388/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_MO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE MOMO** ICON",
+      "idol":"TWICE MOMO",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200528999387247/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_MO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE MOMO** ICON",
+      "idol":"TWICE MOMO",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200529355898900/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE SANA** ICON",
+    "idol":"TWICE SANA",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200552592363590/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE SANA** ICON",
+      "idol":"TWICE SANA",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200552936280134/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE SANA** ICON",
+      "idol":"TWICE SANA",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200551594102994/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE SANA** ICON",
+      "idol":"TWICE SANA",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200551887720570/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE SANA** ICON",
+      "idol":"TWICE SANA",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200552311328778/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_JI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE JIHYO** ICON",
+    "idol":"TWICE JIHYO",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200577909170277/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_JI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE JIHYO** ICON",
+      "idol":"TWICE JIHYO",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200578274066512/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_JI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE JIHYO** ICON",
+      "idol":"TWICE JIHYO",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200576894148618/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_JI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE JIHYO** ICON",
+      "idol":"TWICE JIHYO",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200577229684756/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_JI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE JIHYO** ICON",
+      "idol":"TWICE JIHYO",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200577548472361/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_MI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE MINA** ICON",
+    "idol":"TWICE MINA",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200602340982815/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_MI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE MINA** ICON",
+      "idol":"TWICE MINA",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200602651369553/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_MI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE MINA** ICON",
+      "idol":"TWICE MINA",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200601309184010/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_MI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE MINA** ICON",
+      "idol":"TWICE MINA",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200601640542249/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_MI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE MINA** ICON",
+      "idol":"TWICE MINA",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200601971904643/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE DAHYUN** ICON",
+    "idol":"TWICE DAHYUN",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200626340798464/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE DAHYUN** ICON",
+      "idol":"TWICE DAHYUN",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200626718289980/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE DAHYUN** ICON",
+      "idol":"TWICE DAHYUN",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200625220919416/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE DAHYUN** ICON",
+      "idol":"TWICE DAHYUN",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200625548079115/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE DAHYUN** ICON",
+      "idol":"TWICE DAHYUN",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200625984294972/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_CH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE CHAEYOUNG** ICON",
+    "idol":"TWICE CHAEYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200647291338762/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_CH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE CHAEYOUNG** ICON",
+      "idol":"TWICE CHAEYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200647622701113/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_CH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE CHAEYOUNG** ICON",
+      "idol":"TWICE CHAEYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200646242775180/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_CH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE CHAEYOUNG** ICON",
+      "idol":"TWICE CHAEYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200646641221752/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_CH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE CHAEYOUNG** ICON",
+      "idol":"TWICE CHAEYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200646964191324/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "TWIC_TZ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TWICE TZUYU** ICON",
+    "idol":"TWICE TZUYU",
+    "inv":"<:R_EMOTE:1036291037620097034> ICON",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200671689609238/R.png",
+    "theme": "ICON",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TWIC_TZ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TWICE TZUYU** ICON",
+      "idol":"TWICE TZUYU",
+      "inv":"<:S_EMOTE:1036291020956115105> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200671999991968/S.png",
+      "theme": "ICON",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TWIC_TZ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TWICE TZUYU** ICON",
+      "idol":"TWICE TZUYU",
+      "inv":"<:A_EMOTE:1036291003348439102> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200670678782053/A.png",
+      "theme": "ICON",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TWIC_TZ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TWICE TZUYU** ICON",
+      "idol":"TWICE TZUYU",
+      "inv":"<:B_EMOTE:1036290987477180546> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200671010136196/B.png",
+      "theme": "ICON",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TWIC_TZ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TWICE TZUYU** ICON",
+      "idol":"TWICE TZUYU",
+      "inv":"<:C_EMOTE:1036290969676546092> ICON",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1063200671341490216/C.png",
+      "theme": "ICON",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
