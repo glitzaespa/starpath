@@ -44548,5 +44548,555 @@
       "minimum": "0",
       "maximum": "600"
     }
+    ],
+  "JSFL_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Vocal** FLOWER",
+    "idol":"JISOO Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> FLOWER",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340838844710973/R.png",
+    "theme": "FLOWER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSFL_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Vocal** FLOWER",
+      "idol":"JISOO Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340839243165707/S.png",
+      "theme": "FLOWER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSFL_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Vocal** FLOWER",
+      "idol":"JISOO Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340837812912148/A.png",
+      "theme": "FLOWER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSFL_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Vocal** FLOWER",
+      "idol":"JISOO Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340838114897960/B.png",
+      "theme": "FLOWER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSFL_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Vocal** FLOWER",
+      "idol":"JISOO Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340838559481866/C.png",
+      "theme": "FLOWER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSFL_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Dance** FLOWER",
+    "idol":"JISOO Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> FLOWER",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340861686890506/R.png",
+    "theme": "FLOWER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSFL_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Dance** FLOWER",
+      "idol":"JISOO Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340861951135875/S.png",
+      "theme": "FLOWER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSFL_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Dance** FLOWER",
+      "idol":"JISOO Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340860848029757/A.png",
+      "theme": "FLOWER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSFL_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Dance** FLOWER",
+      "idol":"JISOO Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340861162594354/B.png",
+      "theme": "FLOWER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSFL_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Dance** FLOWER",
+      "idol":"JISOO Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340861431042129/C.png",
+      "theme": "FLOWER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSFL_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Rhythm** FLOWER",
+    "idol":"JISOO Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> FLOWER",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340885888008263/R.png",
+    "theme": "FLOWER",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JSFL_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Rhythm** FLOWER",
+      "idol":"JISOO Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340886114512916/S.png",
+      "theme": "FLOWER",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JSFL_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Rhythm** FLOWER",
+      "idol":"JISOO Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340885133033524/A.png",
+      "theme": "FLOWER",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JSFL_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Rhythm** FLOWER",
+      "idol":"JISOO Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340885388898354/B.png",
+      "theme": "FLOWER",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JSFL_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Rhythm** FLOWER",
+      "idol":"JISOO Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> FLOWER",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093340885644742717/C.png",
+      "theme": "FLOWER",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_HH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y HONG HYEJU** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y HONG HYEJU",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667068949319770/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_HH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y HONG HYEJU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667069209354350/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_HH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y HONG HYEJU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667068127236106/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_HH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y HONG HYEJU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667068395659344/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_HH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y HONG HYEJU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y HONG HYEJU",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667068676681768/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_KR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM RIWON** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y KIM RIWON",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667097642545253/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_KR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM RIWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667097873236018/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_KR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM RIWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667096791101541/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_KR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM RIWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667097046958101/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_KR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM RIWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM RIWON",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667097382490172/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_KS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y KIM SEONYOU** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y KIM SEONYOU",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667124679024710/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_KS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y KIM SEONYOU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667124913901658/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_KS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y KIM SEONYOU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667123940827136/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_KS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y KIM SEONYOU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667124175704074/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_KS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y KIM SEONYOU** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y KIM SEONYOU",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667124435763381/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_MH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y MYUNG HYUNGSEO** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y MYUNG HYUNGSEO",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667146535538738/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_MH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y MYUNG HYUNGSEO** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667146971750430/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_MH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y MYUNG HYUNGSEO** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667145524707448/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_MH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y MYUNG HYUNGSEO** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667145818316860/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_MH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y MYUNG HYUNGSEO** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y MYUNG HYUNGSEO",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667146053189724/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_PB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y PARK BOEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667169738432604/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_PB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y PARK BOEUN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667170157854871/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_PB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y PARK BOEUN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667168887001138/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_PB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y PARK BOEUN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667169155428442/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_PB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y PARK BOEUN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667169407074394/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_WJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y WON JIMIN** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y WON JIMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667192261840936/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_WJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y WON JIMIN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667192471564388/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_WJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y WON JIMIN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667191443955793/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_WJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y WON JIMIN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667191741747250/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_WJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y WON JIMIN** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y WON JIMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667192005992558/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "CLTM_YC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y YOON CHAEWON** TELL ME ONE MORE TIME",
+    "idol":"CLASS:y YOON CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> TELL ME ONE MORE TIME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667220036522105/R.png",
+    "theme": "TELL ME ONE MORE TIME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "CLTM_YC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y YOON CHAEWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667220258832464/S.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLTM_YC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y YOON CHAEWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667218925035560/A.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "CLTM_YC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **CLASS:y YOON CHAEWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667219491262484/B.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "CLTM_YC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **CLASS:y YOON CHAEWON** TELL ME ONE MORE TIME",
+      "idol":"CLASS:y YOON CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> TELL ME ONE MORE TIME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1093667219789070396/C.png",
+      "theme": "TELL ME ONE MORE TIME",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
