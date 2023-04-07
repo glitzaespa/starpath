@@ -45593,5 +45593,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "SVLCH_HO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SEVENTEENLEADERS HOSHI** CHEERS",
+    "idol":"SEVENTEENLEADERS HOSHI",
+    "inv":"<:R_EMOTE:1036291037620097034> CHEERS",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021016176566412/R.png",
+    "theme": "CHEERS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SVLCH_HO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SEVENTEENLEADERS HOSHI** CHEERS",
+      "idol":"SEVENTEENLEADERS HOSHI",
+      "inv":"<:S_EMOTE:1036291020956115105> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021016411451422/S.png",
+      "theme": "CHEERS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SVLCH_HO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SEVENTEENLEADERS HOSHI** CHEERS",
+      "idol":"SEVENTEENLEADERS HOSHI",
+      "inv":"<:A_EMOTE:1036291003348439102> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021015354482808/A.png",
+      "theme": "CHEERS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SVLCH_HO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SEVENTEENLEADERS HOSHI** CHEERS",
+      "idol":"SEVENTEENLEADERS HOSHI",
+      "inv":"<:B_EMOTE:1036290987477180546> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021015610339450/B.png",
+      "theme": "CHEERS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SVLCH_HO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SEVENTEENLEADERS HOSHI** CHEERS",
+      "idol":"SEVENTEENLEADERS HOSHI",
+      "inv":"<:C_EMOTE:1036290969676546092> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021015882973244/C.png",
+      "theme": "CHEERS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SVLCH_SC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SEVENTEENLEADERS S.COUPS** CHEERS",
+    "idol":"SEVENTEENLEADERS S.COUPS",
+    "inv":"<:R_EMOTE:1036291037620097034> CHEERS",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021376253370368/R.png",
+    "theme": "CHEERS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SVLCH_SC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SEVENTEENLEADERS S.COUPS** CHEERS",
+      "idol":"SEVENTEENLEADERS S.COUPS",
+      "inv":"<:S_EMOTE:1036291020956115105> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021376597295165/S.png",
+      "theme": "CHEERS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SVLCH_SC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SEVENTEENLEADERS S.COUPS** CHEERS",
+      "idol":"SEVENTEENLEADERS S.COUPS",
+      "inv":"<:A_EMOTE:1036291003348439102> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021375167045712/A.png",
+      "theme": "CHEERS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SVLCH_SC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SEVENTEENLEADERS S.COUPS** CHEERS",
+      "idol":"SEVENTEENLEADERS S.COUPS",
+      "inv":"<:B_EMOTE:1036290987477180546> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021375452250142/B.png",
+      "theme": "CHEERS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SVLCH_SC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SEVENTEENLEADERS S.COUPS** CHEERS",
+      "idol":"SEVENTEENLEADERS S.COUPS",
+      "inv":"<:C_EMOTE:1036290969676546092> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021375817166949/C.png",
+      "theme": "CHEERS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SVLCH_WO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SEVENTEENLEADERS WOOZI** CHEERS",
+    "idol":"SEVENTEENLEADERS WOOZI",
+    "inv":"<:R_EMOTE:1036291037620097034> CHEERS",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021410415976571/R.png",
+    "theme": "CHEERS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SVLCH_WO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SEVENTEENLEADERS WOOZI** CHEERS",
+      "idol":"SEVENTEENLEADERS WOOZI",
+      "inv":"<:S_EMOTE:1036291020956115105> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021410764111942/S.png",
+      "theme": "CHEERS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SVLCH_WO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SEVENTEENLEADERS WOOZI** CHEERS",
+      "idol":"SEVENTEENLEADERS WOOZI",
+      "inv":"<:A_EMOTE:1036291003348439102> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021409476452455/A.png",
+      "theme": "CHEERS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SVLCH_WO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SEVENTEENLEADERS WOOZI** CHEERS",
+      "idol":"SEVENTEENLEADERS WOOZI",
+      "inv":"<:B_EMOTE:1036290987477180546> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021409904279693/B.png",
+      "theme": "CHEERS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SVLCH_WO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SEVENTEENLEADERS WOOZI** CHEERS",
+      "idol":"SEVENTEENLEADERS WOOZI",
+      "inv":"<:C_EMOTE:1036290969676546092> CHEERS",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094021410172710942/C.png",
+      "theme": "CHEERS",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
