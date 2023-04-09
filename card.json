@@ -45758,5 +45758,61 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "SP23_BG_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **🌸 TOMORROW X TOGETHER BEOMGYU** SPRING 2023",
+    "idol":"🌸 TOMORROW X TOGETHER BEOMGYU",
+    "inv":"<:R_EMOTE:1036291037620097034> SPRING 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454856833564792/R.png",
+    "gif": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454657767702580/c_a_spring2023_beomgyu_fix.gif",
+    "theme": "I Know I Love You [Verse2]",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "SP23_BG_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **🌸 TOMORROW X TOGETHER BEOMGYU** SPRING 2023",
+      "idol":"🌸 TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:S_EMOTE:1036291020956115105> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454857114603530/S.png",
+      "theme": "I Know I Love You [Verse2]",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "SP23_BG_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **🌸 TOMORROW X TOGETHER BEOMGYU** SPRING 2023",
+      "idol":"🌸 TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:A_EMOTE:1036291003348439102> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454855902433350/A.png",
+      "theme": "I Know I Love You [Verse2]",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "SP23_BG_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **🌸 TOMORROW X TOGETHER BEOMGYU** SPRING 2023",
+      "idol":"🌸 TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:B_EMOTE:1036290987477180546> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454856271548426/B.png",
+      "theme": "I Know I Love You [Verse2]",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "SP23_BG_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **🌸 TOMORROW X TOGETHER BEOMGYU** SPRING 2023",
+      "idol":"🌸 TOMORROW X TOGETHER BEOMGYU",
+      "inv":"<:C_EMOTE:1036290969676546092> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1094454856556744775/C.png",
+      "theme": "I Know I Love You [Verse2]",
+      "minimum": "0",
+      "maximum": "600"
+    }
     ]
           }
