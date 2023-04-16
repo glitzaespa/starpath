@@ -45814,5 +45814,61 @@
       "minimum": "0",
       "maximum": "600"
     }
+    ],
+  "SP23_VI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **🌸 LOONA ViVi** SPRING 2023",
+    "idol":"🌸 LOONA ViVi",
+    "inv":"<:R_EMOTE:1036291037620097034> SPRING 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097181866450235442/R.png",
+    "gif": "https://imgur.com/xCa89JQ",
+    "theme": "FlipThat [Verse3]",
+    "minimum": "3600",
+    "maximum": "5000"
+  }
+  ],
+    "SP23_VI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **🌸 LOONA ViVi** SPRING 2023",
+      "idol":"🌸 LOONA ViVi",
+      "inv":"<:S_EMOTE:1036291020956115105> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097181866697707520/S.png",
+      "theme": "FlipThat [Verse3]",
+      "minimum": "2600",
+      "maximum": "3600"
+    }
+    ],
+    "SP23_VI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **🌸 LOONA ViVi** SPRING 2023",
+      "idol":"🌸 LOONA ViVi",
+      "inv":"<:A_EMOTE:1036291003348439102> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097181865628151920/A.png",
+      "theme": "FlipThat [Verse3]",
+      "minimum": "1400",
+      "maximum": "2600"
+    }
+    ],
+    "SP23_VI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **🌸 LOONA ViVi** SPRING 2023",
+      "idol":"🌸 LOONA ViVi",
+      "inv":"<:B_EMOTE:1036290987477180546> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097181865867235348/B.png",
+      "theme": "FlipThat [Verse3]",
+      "minimum": "600",
+      "maximum": "1400"
+    }
+    ],
+  "SP23_VI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **🌸 LOONA ViVi** SPRING 2023",
+      "idol":"🌸 LOONA ViVi",
+      "inv":"<:C_EMOTE:1036290969676546092> SPRING 2023",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097181866177601546/C.png",
+      "theme": "FlipThat [Verse3]",
+      "minimum": "0",
+      "maximum": "600"
+    }
     ]
           }
