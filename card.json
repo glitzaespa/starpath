@@ -46090,5 +46090,335 @@
       "minimum": "0",
       "maximum": "600"
     }
+    ],
+  "DL4E_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Vocal** 4 EVER 4 ME",
+    "idol":"Demi Lovato Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> 4 EVER 4 ME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681080175312896/R.png",
+    "theme": "4 EVER 4 ME",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "DL4E_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Vocal** 4 EVER 4 ME",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681080401793145/S.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "DL4E_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Vocal** 4 EVER 4 ME",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681079386787850/A.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "DL4E_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Vocal** 4 EVER 4 ME",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681079642636400/B.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "DL4E_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Vocal** 4 EVER 4 ME",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681079915253871/C.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "DL4E_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Dance** 4 EVER 4 ME",
+    "idol":"Demi Lovato Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> 4 EVER 4 ME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681105261449246/R.png",
+    "theme": "4 EVER 4 ME",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "DL4E_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Dance** 4 EVER 4 ME",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681105466953849/S.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "DL4E_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Dance** 4 EVER 4 ME",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681104493891696/A.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "DL4E_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Dance** 4 EVER 4 ME",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681104724561981/B.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "DL4E_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Dance** 4 EVER 4 ME",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681105018159264/C.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "DL4E_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Rhythm** 4 EVER 4 ME",
+    "idol":"Demi Lovato Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> 4 EVER 4 ME",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681130783785010/R.png",
+    "theme": "4 EVER 4 ME",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "DL4E_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Rhythm** 4 EVER 4 ME",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681131098362005/S.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "DL4E_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Rhythm** 4 EVER 4 ME",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681129957498943/A.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "DL4E_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Rhythm** 4 EVER 4 ME",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681130230136942/B.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "DL4E_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Rhythm** 4 EVER 4 ME",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> 4 EVER 4 ME",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097681130469204119/C.png",
+      "theme": "4 EVER 4 ME",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "DLHA_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Vocal** Heart Attack",
+    "idol":"Demi Lovato Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682636777988336/R.png",
+    "theme": "Heart Attack (Rock Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHA_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Vocal** Heart Attack",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682637029650583/S.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHA_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Vocal** Heart Attack",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682636035596369/A.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHA_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Vocal** Heart Attack",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682636274675783/B.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHA_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Vocal** Heart Attack",
+      "idol":"Demi Lovato Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682636534726686/C.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHA_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Dance** Heart Attack",
+    "idol":"Demi Lovato Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682655421673472/R.png",
+    "theme": "Heart Attack (Rock Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHA_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Dance** Heart Attack",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682655685902336/S.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHA_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Dance** Heart Attack",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682654561841284/A.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHA_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Dance** Heart Attack",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682654813487164/B.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHA_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Dance** Heart Attack",
+      "idol":"Demi Lovato Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682655128068146/C.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "DLHA_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Demi Lovato Rhythm** Heart Attack",
+    "idol":"Demi Lovato Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Heart Attack",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682683762585650/R.png",
+    "theme": "Heart Attack (Rock Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "DLHA_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Demi Lovato Rhythm** Heart Attack",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682684039397427/S.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "DLHA_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Demi Lovato Rhythm** Heart Attack",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682682848227389/A.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "DLHA_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Demi Lovato Rhythm** Heart Attack",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682683179565066/B.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "DLHA_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Demi Lovato Rhythm** Heart Attack",
+      "idol":"Demi Lovato Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Heart Attack",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097682683506724954/C.png",
+      "theme": "Heart Attack (Rock Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
