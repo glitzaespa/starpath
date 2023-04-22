@@ -48235,5 +48235,599 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "NJHB_HN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NEWJEANS HANNI** Hype Boy",
+    "idol":"NEWJEANS HANNI",
+    "inv":"<:R_EMOTE:1036291037620097034> Hype Boy",
+    "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096995966122463252/image4.jpg",
+    "theme": "Hype Boy",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NJHB_HN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NEWJEANS HANNI** Hype Boy",
+      "idol":"NEWJEANS HANNI",
+      "inv":"<:S_EMOTE:1036291020956115105> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096995965916958751/image3.jpg",
+      "theme": "Hype Boy",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NJHB_HN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NEWJEANS HANNI** Hype Boy",
+      "idol":"NEWJEANS HANNI",
+      "inv":"<:A_EMOTE:1036291003348439102> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096995965673672704/image2.jpg",
+      "theme": "Hype Boy",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NJHB_HN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NEWJEANS HANNI** Hype Boy",
+      "idol":"NEWJEANS HANNI",
+      "inv":"<:B_EMOTE:1036290987477180546> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096995965422030988/image1.jpg",
+      "theme": "Hype Boy",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NJHB_HN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NEWJEANS HANNI** Hype Boy",
+      "idol":"NEWJEANS HANNI",
+      "inv":"<:C_EMOTE:1036290969676546092> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096995964885151804/image0.jpg",
+      "theme": "Hype Boy",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NJHB_DN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NEWJEANS DANIELLE** Hype Boy",
+    "idol":"NEWJEANS DANIELLE",
+    "inv":"<:R_EMOTE:1036291037620097034> Hype Boy",
+    "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096996949112127518/image0.jpg",
+    "theme": "Hype Boy",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NJHB_DN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NEWJEANS DANIELLE** Hype Boy",
+      "idol":"NEWJEANS DANIELLE",
+      "inv":"<:S_EMOTE:1036291020956115105> Hype Boy",
+      "image": "https://media.discordapp.net/attachments/1095497581158735884/1096996949321859202/image1.jpg",
+      "theme": "Hype Boy",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NJHB_DN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NEWJEANS DANIELLE** Hype Boy",
+      "idol":"NEWJEANS DANIELLE",
+      "inv":"<:A_EMOTE:1036291003348439102> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096996949535772702/image2.jpg",
+      "theme": "Hype Boy",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NJHB_DN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NEWJEANS DANIELLE** Hype Boy",
+      "idol":"NEWJEANS DANIELLE",
+      "inv":"<:B_EMOTE:1036290987477180546> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096996949749661716/image3.jpg",
+      "theme": "Hype Boy",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NJHB_DN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NEWJEANS DANIELLE** Hype Boy",
+      "idol":"NEWJEANS DANIELLE",
+      "inv":"<:C_EMOTE:1036290969676546092> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096996949997142047/image4.jpg",
+      "theme": "Hype Boy",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NJHB_MJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NEWJEANS MINJI** Hype Boy",
+    "idol":"NEWJEANS MINJI",
+    "inv":"<:R_EMOTE:1036291037620097034> Hype Boy",
+    "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096997161394249798/image0.jpg",
+    "theme": "Hype Boy",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NJHB_MJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NEWJEANS MINJI** Hype Boy",
+      "idol":"NEWJEANS MINJI",
+      "inv":"<:S_EMOTE:1036291020956115105> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096997161717219348/image1.jpg",
+      "theme": "Hype Boy",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NJHB_MJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NEWJEANS MINJI** Hype Boy",
+      "idol":"NEWJEANS MINJI",
+      "inv":"<:A_EMOTE:1036291003348439102> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096997161968869457/image2.jpg",
+      "theme": "Hype Boy",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NJHB_MJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NEWJEANS MINJI** Hype Boy",
+      "idol":"NEWJEANS MINJI",
+      "inv":"<:B_EMOTE:1036290987477180546> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096997162346348596/image3.jpg",
+      "theme": "Hype Boy",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NJHB_MJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NEWJEANS MINJI** Hype Boy",
+      "idol":"NEWJEANS MINJI",
+      "inv":"<:C_EMOTE:1036290969676546092> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096997162568663060/image4.jpg",
+      "theme": "Hype Boy",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NJHB_HR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NEWJEANS HAERIN** Hype Boy",
+    "idol":"NEWJEANS HAERIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Hype Boy",
+    "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999512721084568/image0.jpg",
+    "theme": "Hype Boy",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NJHB_HR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NEWJEANS HAERIN** Hype Boy",
+      "idol":"NEWJEANS HAERIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999512964345877/image1.jpg",
+      "theme": "Hype Boy",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NJHB_HR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NEWJEANS HAERIN** Hype Boy",
+      "idol":"NEWJEANS HAERIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999513220186174/image2.jpg",
+      "theme": "Hype Boy",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NJHB_HR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NEWJEANS HAERIN** Hype Boy",
+      "idol":"NEWJEANS HAERIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999513438310513/image3.jpg",
+      "theme": "Hype Boy",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NJHB_HR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NEWJEANS HAERIN** Hype Boy",
+      "idol":"NEWJEANS HAERIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999513673183302/image4.jpg",
+      "theme": "Hype Boy",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NJHB_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NEWJEANS HYEIN** Hype Boy",
+    "idol":"NEWJEANS HYEIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Hype Boy",
+    "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999752282943599/image0.jpg",
+    "theme": "Hype Boy",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NJHB_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NEWJEANS HYEIN** Hype Boy",
+      "idol":"NEWJEANS HYEIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999752530403368/image1.jpg",
+      "theme": "Hype Boy",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NJHB_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NEWJEANS HYEIN** Hype Boy",
+      "idol":"NEWJEANS HYEIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999752832405515/image2.jpg",
+      "theme": "Hype Boy",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NJHB_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NEWJEANS HYEIN** Hype Boy",
+      "idol":"NEWJEANS HYEIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Hype Boy",
+      "image": "https://cdn.discordapp.com/attachments/1095497581158735884/1096999753230856222/image3.jpg",
+      "theme": "Hype Boy",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_JWY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE JANGWONYOUNG** I AM",
+    "idol":"IVE JANGWONYOUNG",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531429931057253/I_AM_Limited_Theme2_20230406095631.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_JWY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE JANGWONYOUNG** I AM",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531430178537542/I_AM_Limited_Theme2_20230406095645.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_JWY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE JANGWONYOUNG** I AM",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531430488899625/I_AM_Limited_Theme2_20230406095649.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_JWY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE JANGWONYOUNG** I AM",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531430782517360/I_AM_Limited_Theme2_20230406095653.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_JWY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE JANGWONYOUNG** I AM",
+      "idol":"IVE JANGWONYOUNG",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531431105482752/I_AM_Limited_Theme2_20230406095657.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVIA_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LEESEO** I AM",
+    "idol":"IVE LEESEO",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531431361314857/I_AM_Limited_Theme2_20230406095940.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LEESEO** I AM",
+      "idol":"IVE LEESEO",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531431629766716/I_AM_Limited_Theme2_20230406095946.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LEESEO** I AM",
+      "idol":"IVE LEESEO",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531431956926596/I_AM_Limited_Theme2_20230406095950.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LEESEO** I AM",
+      "idol":"IVE LEESEO",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531432212758528/I_AM_Limited_Theme2_20230406095953.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LEESEO** I AM",
+      "idol":"IVE LEESEO",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531432460238848/I_AM_Limited_Theme2_20230406095955.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVIA_GA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE GAEUL** I AM",
+    "idol":"IVE GAEUL",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531460754997288/I_AM_Limited_Theme2_20230406100212.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_GA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE GAEUL** I AM",
+      "idol":"IVE GAEUL",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531460989882478/I_AM_Limited_Theme2_20230406100217.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_GA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE GAEUL** I AM",
+      "idol":"IVE GAEUL",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531461228970034/I_AM_Limited_Theme2_20230406100219.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_GA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE GAEUL** I AM",
+      "idol":"IVE GAEUL",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531461459640390/I_AM_Limited_Theme2_20230406100222.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_GA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE GAEUL** I AM",
+      "idol":"IVE GAEUL",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531461660971058/I_AM_Limited_Theme2_20230406100226.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+"IVIA_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE LIZ** I AM",
+    "idol":"IVE LIZ",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531461887475854/I_AM_Limited_Theme2_20230406100340.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE LIZ** I AM",
+      "idol":"IVE LIZ",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531462126534676/I_AM_Limited_Theme2_20230406100345.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE LIZ** I AM",
+      "idol":"IVE LIZ",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531462382391387/I_AM_Limited_Theme2_20230406100349.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE LIZ** I AM",
+      "idol":"IVE LIZ",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531462642450493/I_AM_Limited_Theme2_20230406100352.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE LIZ** I AM",
+      "idol":"IVE LIZ",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531462889898015/I_AM_Limited_Theme2_20230406100354.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVIA_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE REI** I AM",
+    "idol":"IVE REI",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531494821142538/I_AM_Limited_Theme2_20230406100415.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE REI** I AM",
+      "idol":"IVE REI",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531495018283068/I_AM_Limited_Theme2_20230406100419.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE REI** I AM",
+      "idol":"IVE REI",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531495223799878/I_AM_Limited_Theme2_20230406100421.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE REI** I AM",
+      "idol":"IVE REI",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531495475454064/I_AM_Limited_Theme2_20230406100424.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE REI** I AM",
+      "idol":"IVE REI",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531495701954660/I_AM_Limited_Theme2_20230406100427.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "IVIA_AYJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **IVE ANYUJIN** I AM",
+    "idol":"IVE ANYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> I AM",
+    "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531495903277257/I_AM_Limited_Theme2_20230406100458.png",
+    "theme": "I AM",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "IVIA_AYJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **IVE ANYUJIN** I AM",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531496121376859/I_AM_Limited_Theme2_20230406100502.png",
+      "theme": "I AM",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "IVIA_AYJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **IVE ANYUJIN** I AM",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531496331100182/I_AM_Limited_Theme2_20230406100507.png",
+      "theme": "I AM",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "IVIA_AYJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **IVE ANYUJIN** I AM",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531496519839865/I_AM_Limited_Theme2_20230406100510.png",
+      "theme": "I AM",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "IVIA_AYJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **IVE ANYUJIN** I AM",
+      "idol":"IVE ANYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> I AM",
+      "image": "https://cdn.discordapp.com/attachments/1081894369935761458/1093531496721162331/I_AM_Limited_Theme2_20230406100513.png",
+      "theme": "I AM",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
