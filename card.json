@@ -48829,5 +48829,225 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "RVRB_IR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet IRENE** RBB",
+    "idol":"Red Velvet IRENE",
+    "inv":"<:R_EMOTE:1036291037620097034> RBB",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087256108662867/R.png",
+    "theme": "RBB",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVRB_IR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet IRENE** RBB",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:S_EMOTE:1036291020956115105> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087256351936692/S.png",
+      "theme": "RBB",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVRB_IR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet IRENE** RBB",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:A_EMOTE:1036291003348439102> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087255374659714/A.png",
+      "theme": "RBB",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVRB_IR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet IRENE** RBB",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:B_EMOTE:1036290987477180546> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087255638904874/B.png",
+      "theme": "RBB",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVRB_IR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet IRENE** RBB",
+      "idol":"Red Velvet IRENE",
+      "inv":"<:C_EMOTE:1036290969676546092> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087255869603870/C.png",
+      "theme": "RBB",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVRB_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet SEULGI** RBB",
+    "idol":"Red Velvet SEULGI",
+    "inv":"<:R_EMOTE:1036291037620097034> RBB",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087333497778226/R.png",
+    "theme": "RBB",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVRB_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet SEULGI** RBB",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:S_EMOTE:1036291020956115105> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087333757829251/S.png",
+      "theme": "RBB",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVRB_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet SEULGI** RBB",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:A_EMOTE:1036291003348439102> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087332709249164/A.png",
+      "theme": "RBB",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVRB_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet SEULGI** RBB",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:B_EMOTE:1036290987477180546> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087332960895026/B.png",
+      "theme": "RBB",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVRB_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet SEULGI** RBB",
+      "idol":"Red Velvet SEULGI",
+      "inv":"<:C_EMOTE:1036290969676546092> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087333258706945/C.png",
+      "theme": "RBB",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVRB_WE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet WENDY** RBB",
+    "idol":"Red Velvet WENDY",
+    "inv":"<:R_EMOTE:1036291037620097034> RBB",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087367014469783/R.png",
+    "theme": "RBB",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVRB_WE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet WENDY** RBB",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:S_EMOTE:1036291020956115105> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087367295484026/S.png",
+      "theme": "RBB",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVRB_WE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet WENDY** RBB",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:A_EMOTE:1036291003348439102> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087366146248704/A.png",
+      "theme": "RBB",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVRB_WE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet WENDY** RBB",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:B_EMOTE:1036290987477180546> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087366465011733/B.png",
+      "theme": "RBB",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVRB_WE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet WENDY** RBB",
+      "idol":"Red Velvet WENDY",
+      "inv":"<:C_EMOTE:1036290969676546092> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087366737633391/C.png",
+      "theme": "RBB",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "RVRB_JO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Red Velvet JOY** RBB",
+    "idol":"Red Velvet JOY",
+    "inv":"<:R_EMOTE:1036291037620097034> RBB",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087293584769094/R.png",
+    "theme": "RBB",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "RVRB_JO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Red Velvet JOY** RBB",
+      "idol":"Red Velvet JOY",
+      "inv":"<:S_EMOTE:1036291020956115105> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087293836439552/S.png",
+      "theme": "RBB",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "RVRB_JO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Red Velvet JOY** RBB",
+      "idol":"Red Velvet JOY",
+      "inv":"<:A_EMOTE:1036291003348439102> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087292813017159/A.png",
+      "theme": "RBB",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "RVRB_JO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Red Velvet JOY** RBB",
+      "idol":"Red Velvet JOY",
+      "inv":"<:B_EMOTE:1036290987477180546> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087293060493362/B.png",
+      "theme": "RBB",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "RVRB_JO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Red Velvet JOY** RBB",
+      "idol":"Red Velvet JOY",
+      "inv":"<:C_EMOTE:1036290969676546092> RBB",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099087293312147497/C.png",
+      "theme": "RBB",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
