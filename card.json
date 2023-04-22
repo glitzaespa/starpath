@@ -47576,7 +47576,7 @@
       "maximum": "200"
     }
     ],
-  "YNLW_VO_R": [
+  "YELW_VO_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **YENA Vocal** LOVE WAR",
     "idol":"YENA Vocal",
@@ -47587,7 +47587,7 @@
     "maximum": "2400"
   }
   ],
-    "YNLW_VO_S": [
+    "YELW_VO_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **YENA Vocal** LOVE WAR",
       "idol":"YENA Vocal",
@@ -47598,7 +47598,7 @@
       "maximum": "1800"
     }
     ],
-    "YNLW_VO_A": [
+    "YELW_VO_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **YENA Vocal** LOVE WAR",
       "idol":"YENA Vocal",
@@ -47609,7 +47609,7 @@
       "maximum": "1200"
     }
     ],
-    "YNLW_VO_B": [
+    "YELW_VO_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **YENA Vocal** LOVE WAR",
       "idol":"YENA Vocal",
@@ -47620,7 +47620,7 @@
       "maximum": "600"
     }
     ],
-  "YNLW_VO_C": [
+  "YELW_VO_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **YENA Vocal** LOVE WAR",
       "idol":"YENA Vocal",
@@ -47631,7 +47631,7 @@
       "maximum": "200"
     }
     ],
-  "YNLW_DA_R": [
+  "YELW_DA_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **YENA Dance** LOVE WAR",
     "idol":"YENA Dance",
@@ -47642,7 +47642,7 @@
     "maximum": "2400"
   }
   ],
-    "YNLW_DA_S": [
+    "YELW_DA_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **YENA Dance** LOVE WAR",
       "idol":"YENA Dance",
@@ -47653,7 +47653,7 @@
       "maximum": "1800"
     }
     ],
-    "YNLW_DA_A": [
+    "YELW_DA_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **YENA Dance** LOVE WAR",
       "idol":"YENA Dance",
@@ -47664,7 +47664,7 @@
       "maximum": "1200"
     }
     ],
-    "YNLW_DA_B": [
+    "YELW_DA_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **YENA Dance** LOVE WAR",
       "idol":"YENA Dance",
@@ -47675,7 +47675,7 @@
       "maximum": "600"
     }
     ],
-  "YNLW_DA_C": [
+  "YELW_DA_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **YENA Dance** LOVE WAR",
       "idol":"YENA Dance",
@@ -47686,7 +47686,7 @@
       "maximum": "200"
     }
     ],
-  "YNLW_RH_R": [
+  "YELW_RH_R": [
   {
     "name":"<:R_EMOTE:1036291037620097034> **YENA Rhythm** LOVE WAR",
     "idol":"YENA Rhythm",
@@ -47697,7 +47697,7 @@
     "maximum": "2400"
   }
   ],
-    "YNLW_RH_S": [
+    "YELW_RH_S": [
     {
       "name":"<:S_EMOTE:1036291020956115105> **YENA Rhythm** LOVE WAR",
       "idol":"YENA Rhythm",
@@ -47708,7 +47708,7 @@
       "maximum": "1800"
     }
     ],
-    "YNLW_RH_A": [
+    "YELW_RH_A": [
     {
       "name":"<:A_EMOTE:1036291003348439102> **YENA Rhythm** LOVE WAR",
       "idol":"YENA Rhythm",
@@ -47719,7 +47719,7 @@
       "maximum": "1200"
     }
     ],
-    "YNLW_RH_B": [
+    "YELW_RH_B": [
     {
       "name":"<:B_EMOTE:1036290987477180546> **YENA Rhythm** LOVE WAR",
       "idol":"YENA Rhythm",
@@ -47730,7 +47730,7 @@
       "maximum": "600"
     }
     ],
-  "YNLW_RH_C": [
+  "YELW_RH_C": [
     {
       "name":"<:C_EMOTE:1036290969676546092> **YENA Rhythm** LOVE WAR",
       "idol":"YENA Rhythm",
