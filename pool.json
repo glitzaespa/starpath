@@ -77,7 +77,8 @@
     "hylt":"BPHY_JS;BPHY_JN;BPHY_RS;BPHY_LS",
     "yyxy":"YXRD_CH;YXRD_GO;YXRD_OL;YXRD_YV",
     "loco": "ITLO_YJ;ITLO_LI;ITLO_RJ;ITLO_CR;ITLO_YN",
-    "bejeweled": "TSBW_VO;TSBW_DA;TSBW_RH"
+    "bejeweled": "TSBW_VO;TSBW_DA;TSBW_RH",
+    "iam": "IVIA_JWY;IVIA_GA;IVIA_RE;IVIA_LI;IVIA_LE;IVIA_AYJ"
  }
   ]
 }
