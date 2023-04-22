@@ -49104,5 +49104,445 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "CC23_LO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator LOUIE** 2023 CCs",
+    "idol":"Card Creator LOUIE",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099258770510594128/EVERYSTAR_FinalLimitedTheme_20230422165921.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_LO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator LOUIE** 2023 CCs",
+      "idol":"Card Creator LOUIE",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099258770233774151/EVERYSTAR_FinalLimitedTheme_20230422165929.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_LO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator LOUIE** 2023 CCs",
+      "idol":"Card Creator LOUIE",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099258769969516654/EVERYSTAR_FinalLimitedTheme_20230422165939.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_LO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator LOUIE** 2023 CCs",
+      "idol":"Card Creator LOUIE",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099258769717870602/EVERYSTAR_FinalLimitedTheme_20230422165950.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_LO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator LOUIE** 2023 CCs",
+      "idol":"Card Creator LOUIE",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099258769436856340/EVERYSTAR_FinalLimitedTheme_20230422165958.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_LE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator LEAH** 2023 CCs",
+    "idol":"Card Creator LEAH",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099147236979511336/Untitled596_20230422063754.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_LE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator LEAH** 2023 CCs",
+      "idol":"Card Creator LEAH",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099147236757209098/Untitled596_20230422063745.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_LE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator LEAH** 2023 CCs",
+      "idol":"Card Creator LEAH",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099147236551708784/Untitled596_20230422063742.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_LE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator LEAH** 2023 CCs",
+      "idol":"Card Creator LEAH",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099147236316811366/Untitled596_20230422063738.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_LE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator LEAH** 2023 CCs",
+      "idol":"Card Creator LEAH",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099147235989651596/Untitled596_20230422063733.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_WO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator WOOZY** 2023 CCs",
+    "idol":"Card Creator WOOZY",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099138555445518336/image.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_WO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator WOOZY** 2023 CCs",
+      "idol":"Card Creator WOOZY",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099138555210641448/image.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_WO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator WOOZY** 2023 CCs",
+      "idol":"Card Creator WOOZY",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099138554975748156/image.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_WO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator WOOZY** 2023 CCs",
+      "idol":"Card Creator WOOZY",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099138554749263882/image.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_WO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator WOOZY** 2023 CCs",
+      "idol":"Card Creator WOOZY",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099138554526969947/image.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_GO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator GOGO** 2023 CCs",
+    "idol":"Card Creator GOGO",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1098460898961670194/R.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_GO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator GOGO** 2023 CCs",
+      "idol":"Card Creator GOGO",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1098460898668073041/S.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_GO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator GOGO** 2023 CCs",
+      "idol":"Card Creator GOGO",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1098460898403827762/A.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_GO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator GOGO** 2023 CCs",
+      "idol":"Card Creator GOGO",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1098460898139590786/B.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_GO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator GOGO** 2023 CCs",
+      "idol":"Card Creator GOGO",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1098460897829208144/C.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_AN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator andrew** 2023 CCs",
+    "idol":"Card Creator andrew",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097809262077542490/image4.jpg",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_AN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator andrew** 2023 CCs",
+      "idol":"Card Creator andrew",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097809261771366441/image3.jpg",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_AN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator andrew** 2023 CCs",
+      "idol":"Card Creator andrew",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097809261414858872/image2.jpg",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_AN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator andrew** 2023 CCs",
+      "idol":"Card Creator andrew",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097809261121249351/image1.jpg",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_AN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator andrew** 2023 CCs",
+      "idol":"Card Creator andrew",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097809260743770132/image0.jpg",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_LF_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator loafer** 2023 CCs",
+    "idol":"Card Creator loafer",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097283439423664210/gugugaga_20230417061203.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_LF_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator loafer** 2023 CCs",
+      "idol":"Card Creator loafer",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097283439192973382/gugugaga_20230417061200.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_LF_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator loafer** 2023 CCs",
+      "idol":"Card Creator loafer",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097283438937129091/gugugaga_20230417061157.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_LF_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator loafer** 2023 CCs",
+      "idol":"Card Creator loafer",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097283438618353774/gugugaga_20230417061153.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_LF_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator loafer** 2023 CCs",
+      "idol":"Card Creator loafer",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097283438375092306/gugugaga_20230417061149.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_AC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator ACE** 2023 CCs",
+    "idol":"Card Creator ACE",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097302383949783121/acer.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_AC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator ACE** 2023 CCs",
+      "idol":"Card Creator ACE",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097302383719092254/aces.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_AC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator ACE** 2023 CCs",
+      "idol":"Card Creator ACE",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097302383484219402/acea.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_AC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator ACE** 2023 CCs",
+      "idol":"Card Creator ACE",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097302383270305902/aceb.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_AC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator ACE** 2023 CCs",
+      "idol":"Card Creator ACE",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097302383018643466/acec.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
+    ],
+  "CC23_KI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator KIT** 2023 CCs",
+    "idol":"Card Creator KIT",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097321661189070950/r.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_KI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator KIT** 2023 CCs",
+      "idol":"Card Creator KIT",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097321660908056718/s.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_KI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator KIT** 2023 CCs",
+      "idol":"Card Creator KIT",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097321660463456266/a.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_KI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator KIT** 2023 CCs",
+      "idol":"Card Creator KIT",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097321660144693339/b.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_KI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator KIT** 2023 CCs",
+      "idol":"Card Creator KIT",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1097321659880439838/c.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
     ]
           }
