@@ -49544,5 +49544,60 @@
       "minimum": "0",
       "maximum": "2000"
     }
+    ],
+  "CC23_GL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Card Creator Glitzy** 2023 CCs",
+    "idol":"Card Creator Glitzy",
+    "inv":"<:R_EMOTE:1036291037620097034> 2023 CCs",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099334016651493548/R.png",
+    "theme": "unknownccsong123",
+    "minimum": "8000",
+    "maximum": "10000"
+  }
+  ],
+    "CC23_GL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Card Creator Glitzy** 2023 CCs",
+      "idol":"Card Creator Glitzy",
+      "inv":"<:S_EMOTE:1036291020956115105> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099334016420814878/S.png",
+      "theme": "unknownccsong123",
+      "minimum": "6000",
+      "maximum": "8000"
+    }
+    ],
+    "CC23_GL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Card Creator Glitzy** 2023 CCs",
+      "idol":"Card Creator Glitzy",
+      "inv":"<:A_EMOTE:1036291003348439102> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099334015674228897/A.png",
+      "theme": "unknownccsong123",
+      "minimum": "4000",
+      "maximum": "6000"
+    }
+    ],
+    "CC23_GL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Card Creator Glitzy** 2023 CCs",
+      "idol":"Card Creator Glitzy",
+      "inv":"<:B_EMOTE:1036290987477180546> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099334015925878974/B.png",
+      "theme": "unknownccsong123",
+      "minimum": "2000",
+      "maximum": "4000"
+    }
+    ],
+  "CC23_GL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Card Creator Glitzy** 2023 CCs",
+      "idol":"Card Creator Glitzy",
+      "inv":"<:C_EMOTE:1036290969676546092> 2023 CCs",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099334016169169036/C.png",
+      "theme": "unknownccsong123",
+      "minimum": "0",
+      "maximum": "2000"
+    }
     ]
           }
