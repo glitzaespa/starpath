@@ -46420,5 +46420,1820 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "NMLM_KJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** Love Me Like This",
+    "idol":"NMIXX KYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116976179265597/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_KJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** Love Me Like This",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116976514801675/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_KJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** Love Me Like This",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116975415902269/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_KJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** Love Me Like This",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116975642390658/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_KJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** Love Me Like This",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116975919210597/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMLM_BA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** Love Me Like This",
+    "idol":"NMIXX BAE",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116911108829304/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_BA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** Love Me Like This",
+      "idol":"NMIXX BAE",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116911373062185/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_BA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** Love Me Like This",
+      "idol":"NMIXX BAE",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116910349660240/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_BA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** Love Me Like This",
+      "idol":"NMIXX BAE",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116910609698898/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_BA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** Love Me Like This",
+      "idol":"NMIXX BAE",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116910869762098/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMLM_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** Love Me Like This",
+    "idol":"NMIXX HAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116929886724189/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** Love Me Like This",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116930205483058/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** Love Me Like This",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116929018515567/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** Love Me Like This",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116929337270352/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** Love Me Like This",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116929609912360/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMLM_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** Love Me Like This",
+    "idol":"NMIXX JIWOO",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116956990312508/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** Love Me Like This",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116957317464064/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** Love Me Like This",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116956294058014/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** Love Me Like This",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116956524740608/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** Love Me Like This",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116956755435670/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMLM_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** Love Me Like This",
+    "idol":"NMIXX LILY",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116997138198538/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** Love Me Like This",
+      "idol":"NMIXX LILY",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116997381464084/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** Love Me Like This",
+      "idol":"NMIXX LILY",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116996131565659/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** Love Me Like This",
+      "idol":"NMIXX LILY",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116996383219743/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** Love Me Like This",
+      "idol":"NMIXX LILY",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099116996878159952/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMLM_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** Love Me Like This",
+    "idol":"NMIXX SULLYOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Love Me Like This",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099117018730475520/R.png",
+    "theme": "Love Me Like This",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "NMLM_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** Love Me Like This",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099117019011489912/S.png",
+      "theme": "Love Me Like This",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "NMLM_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** Love Me Like This",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099117018025832539/A.png",
+      "theme": "Love Me Like This",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "NMLM_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** Love Me Like This",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099117018264903690/B.png",
+      "theme": "Love Me Like This",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "NMLM_SY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** Love Me Like This",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Love Me Like This",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1099117018491387925/C.png",
+      "theme": "Love Me Like This",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "NMYD_LI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX LILY** Young, Dumb, Stupid",
+    "idol":"NMIXX LILY",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086458196723507291/EVERYSTARLETHEMETEMPLATE2_20230318090150.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_LI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX LILY** Young, Dumb, Stupid",
+      "idol":"NMIXX LILY",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086458197008715876/EVERYSTARLETHEMETEMPLATE2_20230318090200.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_LI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX LILY** Young, Dumb, Stupid",
+      "idol":"NMIXX LILY",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086458197277159434/EVERYSTARLETHEMETEMPLATE2_20230318090204.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_LI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX LILY** Young, Dumb, Stupid",
+      "idol":"NMIXX LILY",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086458197491064892/EVERYSTARLETHEMETEMPLATE2_20230318090206.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_LI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX LILY** Young, Dumb, Stupid",
+      "idol":"NMIXX LILY",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086458197742719086/EVERYSTARLETHEMETEMPLATE2_20230318090210.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMYD_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX HAEWON** Young, Dumb, Stupid",
+    "idol":"NMIXX HAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086459427378438164/EVERYSTARLETHEMETEMPLATE2_20230318090237.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX HAEWON** Young, Dumb, Stupid",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086459427042889818/EVERYSTARLETHEMETEMPLATE2_20230318090241.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX HAEWON** Young, Dumb, Stupid",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086459426690564126/EVERYSTARLETHEMETEMPLATE2_20230318090245.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX HAEWON** Young, Dumb, Stupid",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086459426417938574/EVERYSTARLETHEMETEMPLATE2_20230318090248.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX HAEWON** Young, Dumb, Stupid",
+      "idol":"NMIXX HAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086459426074001548/EVERYSTARLETHEMETEMPLATE2_20230318090251.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMYD_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX SULLYOON** Young, Dumb, Stupid",
+    "idol":"NMIXX SULLYOON",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086463774975860848/EVERYSTARLETHEMETEMPLATE2_20230318090326.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX SULLYOON** Young, Dumb, Stupid",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086463775286251680/EVERYSTARLETHEMETEMPLATE2_20230318090330.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX SULLYOON** Young, Dumb, Stupid",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086463775672119428/EVERYSTARLETHEMETEMPLATE2_20230318090333.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX SULLYOON** Young, Dumb, Stupid",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086463776062185542/EVERYSTARLETHEMETEMPLATE2_20230318090335.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_SY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX SULLYOON** Young, Dumb, Stupid",
+      "idol":"NMIXX SULLYOON",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086463776393547828/EVERYSTARLETHEMETEMPLATE2_20230318090338.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMYD_BA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX BAE** Young, Dumb, Stupid",
+    "idol":"NMIXX BAE",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508619366944858/EVERYSTARLETHEMETEMPLATE2_20230318090400.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_BA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX BAE** Young, Dumb, Stupid",
+      "idol":"NMIXX BAE",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508619731828736/EVERYSTARLETHEMETEMPLATE2_20230318090403.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_BA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX BAE** Young, Dumb, Stupid",
+      "idol":"NMIXX BAE",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508620050616490/EVERYSTARLETHEMETEMPLATE2_20230318090406.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_BA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX BAE** Young, Dumb, Stupid",
+      "idol":"NMIXX BAE",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508620369363004/EVERYSTARLETHEMETEMPLATE2_20230318090409.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_BA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX BAE** Young, Dumb, Stupid",
+      "idol":"NMIXX BAE",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508620658786374/EVERYSTARLETHEMETEMPLATE2_20230318090413.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMYD_JW_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX JIWOO** Young, Dumb, Stupid",
+    "idol":"NMIXX JIWOO",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508973236170782/EVERYSTARLETHEMETEMPLATE2_20230318090427.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_JW_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX JIWOO** Young, Dumb, Stupid",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508973479436348/EVERYSTARLETHEMETEMPLATE2_20230318090431.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_JW_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX JIWOO** Young, Dumb, Stupid",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508973705941012/EVERYSTARLETHEMETEMPLATE2_20230318090439.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_JW_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX JIWOO** Young, Dumb, Stupid",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508973978562620/EVERYSTARLETHEMETEMPLATE2_20230318090443.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_JW_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX JIWOO** Young, Dumb, Stupid",
+      "idol":"NMIXX JIWOO",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086508974230216785/EVERYSTARLETHEMETEMPLATE2_20230318090446.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "NMYD_KJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **NMIXX KYUJIN** Young, Dumb, Stupid",
+    "idol":"NMIXX KYUJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Young, Dumb, Stupid",
+    "image": "https://media.discordapp.net/attachments/1086458009129058304/1086509449444872192/EVERYSTARLETHEMETEMPLATE2_20230318090454.png",
+    "theme": "Young, Dumb, Stupid",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "NMYD_KJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **NMIXX KYUJIN** Young, Dumb, Stupid",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086509449788784640/EVERYSTARLETHEMETEMPLATE2_20230318090459.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "NMYD_KJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **NMIXX KYUJIN** Young, Dumb, Stupid",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086509450162098337/EVERYSTARLETHEMETEMPLATE2_20230318090502.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "NMYD_KJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **NMIXX KYUJIN** Young, Dumb, Stupid",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086509450438914170/EVERYSTARLETHEMETEMPLATE2_20230318090520.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "NMYD_KJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **NMIXX KYUJIN** Young, Dumb, Stupid",
+      "idol":"NMIXX KYUJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Young, Dumb, Stupid",
+      "image": "https://media.discordapp.net/attachments/1086458009129058304/1086509450740912308/EVERYSTARLETHEMETEMPLATE2_20230318090523.png",
+      "theme": "Young, Dumb, Stupid",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMWU_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Ji Suyeon** Whatever U Want",
+    "idol":"Weki Meki Ji Suyeon",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346716992274432/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Ji Suyeon** Whatever U Want",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346716740624515/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Ji Suyeon** Whatever U Want",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346716484763658/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Ji Suyeon** Whatever U Want",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346716249903194/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_SY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Ji Suyeon** Whatever U Want",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346715981455410/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_EL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki ELLY** Whatever U Want",
+    "idol":"Weki Meki ELLY",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346880251367586/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_EL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki ELLY** Whatever U Want",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346880045854761/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_EL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki ELLY** Whatever U Want",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346879810981888/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_EL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki ELLY** Whatever U Want",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346879584473128/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_EL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki ELLY** Whatever U Want",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097346879353794651/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Choi Yoojung** Whatever U Want",
+    "idol":"Weki Meki Choi Yoojung",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347016742408222/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Choi Yoojung** Whatever U Want",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347016457211955/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Choi Yoojung** Whatever U Want",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347016067125328/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Choi Yoojung** Whatever U Want",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347015744180284/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Choi Yoojung** Whatever U Want",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347015492501634/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_DY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Kim Doyeon** Whatever U Want",
+    "idol":"Weki Meki Kim Doyeon",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347161169080380/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_DY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Kim Doyeon** Whatever U Want",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347160925818890/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_DY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Kim Doyeon** Whatever U Want",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347160724484096/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_DY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Kim Doyeon** Whatever U Want",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347160489590794/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_DY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Kim Doyeon** Whatever U Want",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347160267313252/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki SEI** Whatever U Want",
+    "idol":"Weki Meki SEI",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347301296590909/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347301028139079/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300797464636/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300554199050/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300310913235/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki SEI** Whatever U Want",
+    "idol":"Weki Meki SEI",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347301296590909/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347301028139079/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300797464636/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300554199050/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki SEI** Whatever U Want",
+      "idol":"Weki Meki SEI",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347300310913235/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_LU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki LUA** Whatever U Want",
+    "idol":"Weki Meki LUA",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347443777093732/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_LU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki LUA** Whatever U Want",
+      "idol":"Weki Meki LUA",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347443508645908/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_LU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki LUA** Whatever U Want",
+      "idol":"Weki Meki LUA",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347443265384488/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_LU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki LUA** Whatever U Want",
+      "idol":"Weki Meki LUA",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347443022118922/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_LU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki LUA** Whatever U Want",
+      "idol":"Weki Meki LUA",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347442824974366/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_RN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki RINA** Whatever U Want",
+    "idol":"Weki Meki RINA",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347572198289490/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_RN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki RINA** Whatever U Want",
+      "idol":"Weki Meki RINA",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347571871121488/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_RN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki RINA** Whatever U Want",
+      "idol":"Weki Meki RINA",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347571615289374/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_RN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki RINA** Whatever U Want",
+      "idol":"Weki Meki RINA",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347571304902666/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_RN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki RINA** Whatever U Want",
+      "idol":"Weki Meki RINA",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347571074224248/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMWU_LC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki LUCY** Whatever U Want",
+    "idol":"Weki Meki LUCY",
+    "inv":"<:R_EMOTE:1036291037620097034> Whatever U Want",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347693451423754/image.png",
+    "theme": "Whatever U Want",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMWU_LC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki LUCY** Whatever U Want",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:S_EMOTE:1036291020956115105> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347693187170304/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMWU_LC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki LUCY** Whatever U Want",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:A_EMOTE:1036291003348439102> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347692977463407/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMWU_LC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki LUCY** Whatever U Want",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:B_EMOTE:1036290987477180546> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347692738392104/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMWU_LC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki LUCY** Whatever U Want",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:C_EMOTE:1036290969676546092> Whatever U Want",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1097347692520276058/image.png",
+      "theme": "Whatever U Want",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YNLW_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Vocal** LOVE WAR",
+    "idol":"YENA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE WAR",
+    "image": "https://media.discordapp.net/attachments/1044531947470340157/1091585682750845069/image4.jpg",
+    "theme": "LOVE WAR",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YNLW_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Vocal** LOVE WAR",
+      "idol":"YENA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091585682490806303/image3.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YNLW_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Vocal** LOVE WAR",
+      "idol":"YENA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091585682251726898/image2.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YNLW_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Vocal** LOVE WAR",
+      "idol":"YENA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091585682016841778/image1.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YNLW_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Vocal** LOVE WAR",
+      "idol":"YENA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091585681815523368/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YNLW_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Dance** LOVE WAR",
+    "idol":"YENA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE WAR",
+    "image": "https://cdn.discordapp.com/attachments/1073295373910691953/1097688217735663656/image4.jpg",
+    "theme": "LOVE WAR",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YNLW_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Dance** LOVE WAR",
+      "idol":"YENA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE WAR",
+      "image": "https://cdn.discordapp.com/attachments/1073295373910691953/1097688217458847924/image3.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YNLW_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Dance** LOVE WAR",
+      "idol":"YENA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE WAR",
+      "image": "https://cdn.discordapp.com/attachments/1073295373910691953/1097688217223975073/image2.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YNLW_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Dance** LOVE WAR",
+      "idol":"YENA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE WAR",
+      "image": "https://cdn.discordapp.com/attachments/1073295373910691953/1097688217001660446/image1.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YNLW_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Dance** LOVE WAR",
+      "idol":"YENA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE WAR",
+      "image": "https://cdn.discordapp.com/attachments/1073295373910691953/1097688216775176242/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YNLW_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YENA Rhythm** LOVE WAR",
+    "idol":"YENA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> LOVE WAR",
+    "image": "https://media.discordapp.net/attachments/1044531947470340157/1091583346586423307/image0.jpg",
+    "theme": "LOVE WAR",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YNLW_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YENA Rhythm** LOVE WAR",
+      "idol":"YENA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091583304198799360/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YNLW_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YENA Rhythm** LOVE WAR",
+      "idol":"YENA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091583204080758824/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YNLW_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YENA Rhythm** LOVE WAR",
+      "idol":"YENA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1044531947470340157/1091583100502413384/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YNLW_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YENA Rhythm** LOVE WAR",
+      "idol":"YENA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> LOVE WAR",
+      "image": "https://media.discordapp.net/attachments/1048741486897930262/1091582494245146624/image0.jpg",
+      "theme": "LOVE WAR",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KARO_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Vocal** Rover",
+    "idol":"KAI Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Rover",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558453015973980/image.png",
+    "theme": "Rover",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KARO_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Vocal** Rover",
+      "idol":"KAI Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558452743356527/image.png",
+      "theme": "Rover",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KARO_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Vocal** Rover",
+      "idol":"KAI Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558452474917026/image.png",
+      "theme": "Rover",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KARO_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Vocal** Rover",
+      "idol":"KAI Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558452130975807/image.png",
+      "theme": "Rover",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KARO_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Vocal** Rover",
+      "idol":"KAI Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558451841577132/image.png",
+      "theme": "Rover",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KARO_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Dance** Rover",
+    "idol":"KAI Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Rover",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558580044660816/image.png",
+    "theme": "Rover",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KARO_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Dance** Rover",
+      "idol":"KAI Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558579700744223/image.png",
+      "theme": "Rover",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KARO_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Dance** Rover",
+      "idol":"KAI Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558579440693379/image.png",
+      "theme": "Rover",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KARO_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Dance** Rover",
+      "idol":"KAI Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558579142885486/image.png",
+      "theme": "Rover",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KARO_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Dance** Rover",
+      "idol":"KAI Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558578916409425/image.png",
+      "theme": "Rover",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "KARO_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **KAI Rhythm** Rover",
+    "idol":"KAI Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Rover",
+    "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558692716261396/image.png",
+    "theme": "Rover",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "KARO_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **KAI Rhythm** Rover",
+      "idol":"KAI Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558692468801607/image.png",
+      "theme": "Rover",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "KARO_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **KAI Rhythm** Rover",
+      "idol":"KAI Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558691982266458/image.png",
+      "theme": "Rover",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "KARO_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **KAI Rhythm** Rover",
+      "idol":"KAI Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558691722211488/image.png",
+      "theme": "Rover",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "KARO_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **KAI Rhythm** Rover",
+      "idol":"KAI Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Rover",
+      "image": "https://media.discordapp.net/attachments/1054170405344124959/1088558691478945872/image.png",
+      "theme": "Rover",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JSAE_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Vocal** All Eyes On Me",
+    "idol":"JISOO Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> All Eyes On Me",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304476622266389/R.png",
+    "theme": "All Eyes On Me",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSAE_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Vocal** All Eyes On Me",
+      "idol":"JISOO Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304476811022386/S.png",
+      "theme": "All Eyes On Me",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSAE_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Vocal** All Eyes On Me",
+      "idol":"JISOO Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304475905040504/A.png",
+      "theme": "All Eyes On Me",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSAE_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Vocal** All Eyes On Me",
+      "idol":"JISOO Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304476165099520/B.png",
+      "theme": "All Eyes On Me",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSAE_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Vocal** All Eyes On Me",
+      "idol":"JISOO Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304476391571536/C.png",
+      "theme": "All Eyes On Me",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "JSAE_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Dance** All Eyes On Me",
+    "idol":"JISOO Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> All Eyes On Me",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304500705951744/R.png",
+    "theme": "All Eyes On Me",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSAE_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Dance** All Eyes On Me",
+      "idol":"JISOO Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304500974395503/S.png",
+      "theme": "All Eyes On Me",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSAE_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Dance** All Eyes On Me",
+      "idol":"JISOO Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304499846119434/A.png",
+      "theme": "All Eyes On Me",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSAE_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Dance** All Eyes On Me",
+      "idol":"JISOO Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304500135542874/B.png",
+      "theme": "All Eyes On Me",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSAE_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Dance** All Eyes On Me",
+      "idol":"JISOO Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304500408164372/C.png",
+      "theme": "All Eyes On Me",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "JSAE_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JISOO Rhythm** All Eyes On Me",
+    "idol":"JISOO Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> All Eyes On Me",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304525238452224/R.png",
+    "theme": "All Eyes On Me",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "JSAE_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JISOO Rhythm** All Eyes On Me",
+      "idol":"JISOO Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304525464948898/S.png",
+      "theme": "All Eyes On Me",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "JSAE_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JISOO Rhythm** All Eyes On Me",
+      "idol":"JISOO Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304524529614961/A.png",
+      "theme": "All Eyes On Me",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "JSAE_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JISOO Rhythm** All Eyes On Me",
+      "idol":"JISOO Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304524735139891/B.png",
+      "theme": "All Eyes On Me",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "JSAE_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JISOO Rhythm** All Eyes On Me",
+      "idol":"JISOO Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> All Eyes On Me",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1097304525016145931/C.png",
+      "theme": "All Eyes On Me",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "LCKN_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Vocal** KNOCK",
+    "idol":"LEE CHAEYEON Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> KNOCK",
+    "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991654466039979/KnackNanananaKnackCHAEYEON_20230416105008.png?width=282&height=397",
+    "theme": "KNOCK",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LCKN_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Vocal** KNOCK",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991654281498744/KnackNanananaKnackCHAEYEON_20230416105006.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LCKN_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Vocal** KNOCK",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991654054985870/KnackNanananaKnackCHAEYEON_20230416105003.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LCKN_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Vocal** KNOCK",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991653878837248/KnackNanananaKnackCHAEYEON_20230416104959.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LCKN_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Vocal** KNOCK",
+      "idol":"LEE CHAEYEON Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991653610410046/KnackNanananaKnackCHAEYEON_20230416104954.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LCKN_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Dance** KNOCK",
+    "idol":"LEE CHAEYEON Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> KNOCK",
+    "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991732987601037/KnackNanananaKnackCHAEYEON_20230416105037.png?width=282&height=397",
+    "theme": "KNOCK",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LCKN_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Dance** KNOCK",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991732761120799/KnackNanananaKnackCHAEYEON_20230416105034.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LCKN_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Dance** KNOCK",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991732522041434/KnackNanananaKnackCHAEYEON_20230416105032.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LCKN_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Dance** KNOCK",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991732295540816/KnackNanananaKnackCHAEYEON_20230416105029.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LCKN_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Dance** KNOCK",
+      "idol":"LEE CHAEYEON Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991732014534696/KnackNanananaKnackCHAEYEON_20230416105026.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LCKN_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LEE CHAEYEON Rhythm** KNOCK",
+    "idol":"LEE CHAEYEON Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> KNOCK",
+    "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991804387246161/KnackNanananaKnackCHAEYEON_20230416105059.png?width=282&height=397",
+    "theme": "KNOCK",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LCKN_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LEE CHAEYEON Rhythm** KNOCK",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991804148154408/KnackNanananaKnackCHAEYEON_20230416105056.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LCKN_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LEE CHAEYEON Rhythm** KNOCK",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991803837780008/KnackNanananaKnackCHAEYEON_20230416105054.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LCKN_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LEE CHAEYEON Rhythm** KNOCK",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991803502231623/KnackNanananaKnackCHAEYEON_20230416105051.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LCKN_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LEE CHAEYEON Rhythm** KNOCK",
+      "idol":"LEE CHAEYEON Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> KNOCK",
+      "image": "https://media.discordapp.net/attachments/1096839516544847923/1096991803145732106/KnackNanananaKnackCHAEYEON_20230416105046.png?width=282&height=397",
+      "theme": "KNOCK",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
