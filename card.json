@@ -49599,5 +49599,170 @@
       "minimum": "0",
       "maximum": "2000"
     }
-    ]
+    ],
+    "LMCY_JT_R": [
+      {
+        "name":"<:R_EMOTE:1036291037620097034> **Little Mix Jade Thirlwall** Cut You Off",
+        "idol":"Little Mix Jade Thirlwall",
+        "inv":"<:R_EMOTE:1036291037620097034> Cut You Off",
+        "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858183213830221/R.png",
+        "theme": "Cut You Off",
+        "minimum": "1800",
+        "maximum": "2400"
+      }
+      ],
+        "LMCY_JT_S": [
+        {
+          "name":"<:S_EMOTE:1036291020956115105> **Little Mix Jade Thirlwall** Cut You Off",
+          "idol":"Little Mix Jade Thirlwall",
+          "inv":"<:S_EMOTE:1036291020956115105> Cut You Off",
+          "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858183549370468/S.png",
+          "theme": "Cut You Off",
+          "minimum": "1200",
+          "maximum": "1800"
+        }
+        ],
+        "LMCY_JT_A": [
+        {
+          "name":"<:A_EMOTE:1036291003348439102> **Little Mix Jade Thirlwall** Cut You Off",
+          "idol":"Little Mix Jade Thirlwall",
+          "inv":"<:A_EMOTE:1036291003348439102> Cut You Off",
+          "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858182119096320/A.png",
+          "theme": "Cut You Off",
+          "minimum": "600",
+          "maximum": "1200"
+        }
+        ],
+        "LMCY_JT_B": [
+        {
+          "name":"<:B_EMOTE:1036290987477180546> **Little Mix Jade Thirlwall** Cut You Off",
+          "idol":"Little Mix Jade Thirlwall",
+          "inv":"<:B_EMOTE:1036290987477180546> Cut You Off",
+          "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858182538547200/B.png",
+          "theme": "Cut You Off",
+          "minimum": "200",
+          "maximum": "600"
+        }
+        ],
+        "LMCY_JT_C": [
+          {
+            "name":"<:C_EMOTE:1036290969676546092> **Little Mix Jade Thirlwall** Cut You Off",
+            "idol":"Little Mix Jade Thirlwall",
+            "inv":"<:C_EMOTE:1036290969676546092> Cut You Off",
+            "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858182903431258/C.png",
+            "theme": "Cut You Off",
+            "minimum": "0",
+            "maximum": "200"
+          }
+          ],
+          "LMCY_LAP_R": [
+            {
+              "name":"<:R_EMOTE:1036291037620097034> **Little Mix Leigh-Anne Pinnock** Cut You Off",
+              "idol":"Little Mix Leigh-Anne Pinnock",
+              "inv":"<:R_EMOTE:1036291037620097034> Cut You Off",
+              "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858206613852190/R.png",
+              "theme": "Cut You Off",
+              "minimum": "1800",
+              "maximum": "2400"
+            }
+            ],
+              "LMCY_LAP_S": [
+              {
+                "name":"<:S_EMOTE:1036291020956115105> **Little Mix Leigh-Anne Pinnock** Cut You Off",
+                "idol":"Little Mix Leigh-Anne Pinnock",
+                "inv":"<:S_EMOTE:1036291020956115105> Cut You Off",
+                "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858206911627264/S.png",
+                "theme": "Cut You Off",
+                "minimum": "1200",
+                "maximum": "1800"
+              }
+              ],
+              "LMCY_LAP_A": [
+              {
+                "name":"<:A_EMOTE:1036291003348439102> **Little Mix Leigh-Anne Pinnock** Cut You Off",
+                "idol":"Little Mix Leigh-Anne Pinnock",
+                "inv":"<:A_EMOTE:1036291003348439102> Cut You Off",
+                "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858205674328185/A.png",
+                "theme": "Cut You Off",
+                "minimum": "600",
+                "maximum": "1200"
+              }
+              ],
+              "LMCY_LAP_B": [
+              {
+                "name":"<:B_EMOTE:1036290987477180546> **Little Mix Leigh-Anne Pinnock** Cut You Off",
+                "idol":"Little Mix Leigh-Anne Pinnock",
+                "inv":"<:B_EMOTE:1036290987477180546> Cut You Off",
+                "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858205997268992/B.png",
+                "theme": "Cut You Off",
+                "minimum": "200",
+                "maximum": "600"
+              }
+              ],
+              "LMCY_LAP_C": [
+                {
+                  "name":"<:C_EMOTE:1036290969676546092> **Little Mix Leigh-Anne Pinnock** Cut You Off",
+                  "idol":"Little Mix Leigh-Anne Pinnock",
+                  "inv":"<:C_EMOTE:1036290969676546092> Cut You Off",
+                  "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858206295076984/C.png",
+                  "theme": "Cut You Off",
+                  "minimum": "0",
+                  "maximum": "200"
+                }
+                ],
+                "LMCY_PE_R": [
+                  {
+                    "name":"<:R_EMOTE:1036291037620097034> **Little Mix Perrie Edwards** Cut You Off",
+                    "idol":"Little Mix Perrie Edwards",
+                    "inv":"<:R_EMOTE:1036291037620097034> Cut You Off",
+                    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858230336819310/R.png",
+                    "theme": "Cut You Off",
+                    "minimum": "1800",
+                    "maximum": "2400"
+                  }
+                  ],
+                    "LMCY_PE_S": [
+                    {
+                      "name":"<:S_EMOTE:1036291020956115105> **Little Mix Perrie Edwards** Cut You Off",
+                      "idol":"Little Mix Perrie Edwards",
+                      "inv":"<:S_EMOTE:1036291020956115105> Cut You Off",
+                      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858230622044190/S.png",
+                      "theme": "Cut You Off",
+                      "minimum": "1200",
+                      "maximum": "1800"
+                    }
+                    ],
+                    "LMCY_PE_A": [
+                    {
+                      "name":"<:A_EMOTE:1036291003348439102> **Little Mix Perrie Edwards** Cut You Off",
+                      "idol":"Little Mix Perrie Edwards",
+                      "inv":"<:A_EMOTE:1036291003348439102> Cut You Off",
+                      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858229384724591/A.png",
+                      "theme": "Cut You Off",
+                      "minimum": "600",
+                      "maximum": "1200"
+                    }
+                    ],
+                    "LMCY_PE_B": [
+                    {
+                      "name":"<:B_EMOTE:1036290987477180546> **Little Mix Perrie Edwards** Cut You Off",
+                      "idol":"Little Mix Perrie Edwards",
+                      "inv":"<:B_EMOTE:1036290987477180546> Cut You Off",
+                      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858229682503762/B.png",
+                      "theme": "Cut You Off",
+                      "minimum": "200",
+                      "maximum": "600"
+                    }
+                    ],
+                    "LMCY_PE_C": [
+                      {
+                        "name":"<:C_EMOTE:1036290969676546092> **Little Mix Perrie Edwards** Cut You Off",
+                        "idol":"Little Mix Perrie Edwards",
+                        "inv":"<:C_EMOTE:1036290969676546092> Cut You Off",
+                        "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1099858230005481563/C.png",
+                        "theme": "Cut You Off",
+                        "minimum": "0",
+                        "maximum": "200"
+                      }
+                      ]
           }
