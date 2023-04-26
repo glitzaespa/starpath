@@ -51139,5 +51139,885 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "MCAT_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAX CHANGMIN (Station) Vocal** All That Love",
+    "idol":"MAX CHANGMIN (Station) Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> All That Love",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587535253643304/R.png",
+    "theme": "All That Love (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MCAT_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAX CHANGMIN (Station) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (Station) Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587535564034068/S.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MCAT_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAX CHANGMIN (Station) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (Station) Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534372851824/A.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MCAT_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAX CHANGMIN (Station) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (Station) Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534611923024/B.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MCAT_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAX CHANGMIN (Station) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (Station) Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534968442900/C.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MCAT_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAX CHANGMIN (STATION) Dance** All That Love",
+    "idol":"MAX CHANGMIN (STATION) Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> All That Love",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587562541789235/R.png",
+    "theme": "All That Love (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MCAT_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAX CHANGMIN (STATION) Dance** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587562789249024/S.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MCAT_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAX CHANGMIN (STATION) Dance** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587561778425976/A.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MCAT_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAX CHANGMIN (STATION) Dance** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587562017488896/B.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MCAT_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAX CHANGMIN (STATION) Dance** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587562298515537/C.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MCAT_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MAX CHANGMIN (STATION) Rhythm** All That Love",
+    "idol":"MAX CHANGMIN (STATION) Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> All That Love",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587585727893614/R.png",
+    "theme": "All That Love (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MCAT_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MAX CHANGMIN (STATION) Rhythm** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587586134737036/S.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MCAT_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MAX CHANGMIN (STATION) Rhythm** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587584649953290/A.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MCAT_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MAX CHANGMIN (STATION) Rhythm** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587584998084658/B.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MCAT_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MAX CHANGMIN (STATION) Rhythm** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> All That Love",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587585383968818/C.png",
+      "theme": "All That Love (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MRCH_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MARK (STATION) Vocal** Child",
+    "idol":"MARK (STATION) Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Child",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587629440946257/R.png",
+    "theme": "Child (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MRCH_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MARK (STATION) Vocal** Child",
+      "idol":"MARK (STATION) Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587629713567775/S.png",
+      "theme": "Child (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MRCH_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MARK (STATION) Vocal** Child",
+      "idol":"MARK (STATION) Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587628555948083/A.png",
+      "theme": "Child (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MRCH_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MARK (STATION) Vocal** Child",
+      "idol":"MARK (STATION) Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587628795015178/B.png",
+      "theme": "Child (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MRCH_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MARK (STATION) Vocal** Child",
+      "idol":"MARK (STATION) Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587629088620554/C.png",
+      "theme": "Child (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MRCH_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MARK (STATION) Dance** Child",
+    "idol":"MARK (STATION) Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Child",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587647782629426/R.png",
+    "theme": "Child (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MRCH_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MARK (STATION) Dance** Child",
+      "idol":"MARK (STATION) Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587648009126019/S.png",
+      "theme": "Child (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MRCH_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MARK (STATION) Dance** Child",
+      "idol":"MARK (STATION) Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587646947962960/A.png",
+      "theme": "Child (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MRCH_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MARK (STATION) Dance** Child",
+      "idol":"MARK (STATION) Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587647224791182/B.png",
+      "theme": "Child (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MRCH_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MARK (STATION) Dance** Child",
+      "idol":"MARK (STATION) Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587647539355748/C.png",
+      "theme": "Child (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "MRCH_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **MARK (STATION) Rhythm** Child",
+    "idol":"MARK (STATION) Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Child",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587666568917087/R.png",
+    "theme": "Child (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "MRCH_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **MARK (STATION) Rhythm** Child",
+      "idol":"MARK (STATION) Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587667030286366/S.png",
+      "theme": "Child (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "MRCH_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **MARK (STATION) Rhythm** Child",
+      "idol":"MARK (STATION) Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587665864274011/A.png",
+      "theme": "Child (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "MRCH_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **MARK (STATION) Rhythm** Child",
+      "idol":"MARK (STATION) Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587666136899624/B.png",
+      "theme": "Child (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "MRCH_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **MARK (STATION) Rhythm** Child",
+      "idol":"MARK (STATION) Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Child",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587666363400222/C.png",
+      "theme": "Child (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YEDD_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YERI (STATION) Vocal** Dear Diary",
+    "idol":"YERI (STATION) Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Dear Diary",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587714274918522/R.png",
+    "theme": "Dear Diary",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YEDD_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YERI (STATION) Vocal** Dear Diary",
+      "idol":"YERI (STATION) Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587714593697802/S.png",
+      "theme": "Dear Diary",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YEDD_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YERI (STATION) Vocal** Dear Diary",
+      "idol":"YERI (STATION) Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713423474758/A.png",
+      "theme": "Dear Diary",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YEDD_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YERI (STATION) Vocal** Dear Diary",
+      "idol":"YERI (STATION) Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713696108685/B.png",
+      "theme": "Dear Diary",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YEDD_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YERI (STATION) Vocal** Dear Diary",
+      "idol":"YERI (STATION) Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713985523763/C.png",
+      "theme": "Dear Diary",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YEDD_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YERI (STATION) Dance** Dear Diary",
+    "idol":"YERI (STATION) Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Dear Diary",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587730821460111/R.png",
+    "theme": "Dear Diary (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YEDD_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YERI (STATION) Dance** Dear Diary",
+      "idol":"YERI (STATION) Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587731089883176/S.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YEDD_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YERI (STATION) Dance** Dear Diary",
+      "idol":"YERI (STATION) Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587730041319537/A.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YEDD_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YERI (STATION) Dance** Dear Diary",
+      "idol":"YERI (STATION) Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587730292965496/B.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YEDD_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YERI (STATION) Dance** Dear Diary",
+      "idol":"YERI (STATION) Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587730603352174/C.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "YEDD_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **YERI (STATION) Rhythm** Dear Diary",
+    "idol":"YERI (STATION) Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Dear Diary",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587750329159831/R.png",
+    "theme": "Dear Diary (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "YEDD_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **YERI (STATION) Rhythm** Dear Diary",
+      "idol":"YERI (STATION) Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587750664708146/S.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "YEDD_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **YERI (STATION) Rhythm** Dear Diary",
+      "idol":"YERI (STATION) Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587749423190026/A.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "YEDD_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **YERI (STATION) Rhythm** Dear Diary",
+      "idol":"YERI (STATION) Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587749733572688/B.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "YEDD_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **YERI (STATION) Rhythm** Dear Diary",
+      "idol":"YERI (STATION) Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Dear Diary",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587750043955210/C.png",
+      "theme": "Dear Diary (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JHFO_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JAEHYUN (STATION) Vocal** Forever Only",
+    "idol":"JAEHYUN (STATION) Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Forever Only",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587796835598436/R.png",
+    "theme": "Forever Only (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JHFO_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JAEHYUN (STATION) Vocal** Forever Only",
+      "idol":"JAEHYUN (STATION) Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587797280215170/S.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JHFO_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JAEHYUN (STATION) Vocal** Forever Only",
+      "idol":"JAEHYUN (STATION) Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587795879317595/A.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JHFO_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JAEHYUN (STATION) Vocal** Forever Only",
+      "idol":"JAEHYUN (STATION) Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587796219035648/B.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JHFO_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JAEHYUN (STATION) Vocal** Forever Only",
+      "idol":"JAEHYUN (STATION) Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587796546211971/C.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JHFO_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JAEHYUN (STATION) Dance** Forever Only",
+    "idol":"JAEHYUN (STATION) Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Forever Only",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587817844887602/R.png",
+    "theme": "Forever Only (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JHFO_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JAEHYUN (STATION) Dance** Forever Only",
+      "idol":"JAEHYUN (STATION) Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587818088140911/S.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JHFO_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JAEHYUN (STATION) Dance** Forever Only",
+      "idol":"JAEHYUN (STATION) Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587817085718608/A.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JHFO_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JAEHYUN (STATION) Dance** Forever Only",
+      "idol":"JAEHYUN (STATION) Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587817337360464/B.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JHFO_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JAEHYUN (STATION) Dance** Forever Only",
+      "idol":"JAEHYUN (STATION) Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587817580638308/C.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "JHFO_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **JAEHYUN (STATION) Rhythm** Forever Only",
+    "idol":"JAEHYUN (STATION) Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Forever Only",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587837117710457/R.png",
+    "theme": "Forever Only (STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "JHFO_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **JAEHYUN (STATION) Rhythm** Forever Only",
+      "idol":"JAEHYUN (STATION) Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587837381955594/S.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "JHFO_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **JAEHYUN (STATION) Rhythm** Forever Only",
+      "idol":"JAEHYUN (STATION) Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587836434038845/A.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "JHFO_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **JAEHYUN (STATION) Rhythm** Forever Only",
+      "idol":"JAEHYUN (STATION) Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587836660535368/B.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "JHFO_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **JAEHYUN (STATION) Rhythm** Forever Only",
+      "idol":"JAEHYUN (STATION) Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Forever Only",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587836887007282/C.png",
+      "theme": "Forever Only (STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STHA_JA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STATION JAEMIN** Hair In The Air",
+    "idol":"STATION JAEMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> Hair In The Air",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587886203637882/R.png",
+    "theme": "Hair In The Air (Trolls x STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STHA_JA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STATION JAEMIN** Hair In The Air",
+      "idol":"STATION JAEMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587886488862730/S.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STHA_JA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STATION JAEMIN** Hair In The Air",
+      "idol":"STATION JAEMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587885431881859/A.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STHA_JA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STATION JAEMIN** Hair In The Air",
+      "idol":"STATION JAEMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587885742264430/B.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STHA_JA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STATION JAEMIN** Hair In The Air",
+      "idol":"STATION JAEMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587885968752690/C.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STHA_JE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STATION JENO** Hair In The Air",
+    "idol":"STATION JENO",
+    "inv":"<:R_EMOTE:1036291037620097034> Hair In The Air",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587908043395162/R.png",
+    "theme": "Hair In The Air (Trolls x STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STHA_JE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STATION JENO** Hair In The Air",
+      "idol":"STATION JENO",
+      "inv":"<:S_EMOTE:1036291020956115105> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587908378935366/S.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STHA_JE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STATION JENO** Hair In The Air",
+      "idol":"STATION JENO",
+      "inv":"<:A_EMOTE:1036291003348439102> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587907129036942/A.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STHA_JE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STATION JENO** Hair In The Air",
+      "idol":"STATION JENO",
+      "inv":"<:B_EMOTE:1036290987477180546> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587907431022662/B.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STHA_JE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STATION JENO** Hair In The Air",
+      "idol":"STATION JENO",
+      "inv":"<:C_EMOTE:1036290969676546092> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587907728810004/C.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STHA_RE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STATION RENJUN** Hair In The Air",
+    "idol":"STATION RENJUN",
+    "inv":"<:R_EMOTE:1036291037620097034> Hair In The Air",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587929425944576/R.png",
+    "theme": "Hair In The Air (Trolls x STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STHA_RE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STATION RENJUN** Hair In The Air",
+      "idol":"STATION RENJUN",
+      "inv":"<:S_EMOTE:1036291020956115105> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587929690181672/S.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STHA_RE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STATION RENJUN** Hair In The Air",
+      "idol":"STATION RENJUN",
+      "inv":"<:A_EMOTE:1036291003348439102> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587928557731850/A.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STHA_RE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STATION RENJUN** Hair In The Air",
+      "idol":"STATION RENJUN",
+      "inv":"<:B_EMOTE:1036290987477180546> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587928901652520/B.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STHA_RE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STATION RENJUN** Hair In The Air",
+      "idol":"STATION RENJUN",
+      "inv":"<:C_EMOTE:1036290969676546092> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587929161711657/C.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STHA_YE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STATION YERI** Hair In The Air",
+    "idol":"STATION YERI",
+    "inv":"<:R_EMOTE:1036291037620097034> Hair In The Air",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587952813375588/R.png",
+    "theme": "Hair In The Air (Trolls x STATION)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STHA_YE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STATION YERI** Hair In The Air",
+      "idol":"STATION YERI",
+      "inv":"<:S_EMOTE:1036291020956115105> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587953023103056/S.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STHA_YE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STATION YERI** Hair In The Air",
+      "idol":"STATION YERI",
+      "inv":"<:A_EMOTE:1036291003348439102> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587952188424282/A.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STHA_YE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STATION YERI** Hair In The Air",
+      "idol":"STATION YERI",
+      "inv":"<:B_EMOTE:1036290987477180546> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587952402346004/B.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STHA_YE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STATION YERI** Hair In The Air",
+      "idol":"STATION YERI",
+      "inv":"<:C_EMOTE:1036290969676546092> Hair In The Air",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587952607858818/C.png",
+      "theme": "Hair In The Air (Trolls x STATION)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
