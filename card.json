@@ -51142,8 +51142,8 @@
     ],
   "MCAT_VO_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **MAX CHANGMIN (Station) Vocal** All That Love",
-    "idol":"MAX CHANGMIN (Station) Vocal",
+    "name":"<:R_EMOTE:1036291037620097034> **MAX CHANGMIN (STATION) Vocal** All That Love",
+    "idol":"MAX CHANGMIN (STATION) Vocal",
     "inv":"<:R_EMOTE:1036291037620097034> All That Love",
     "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587535253643304/R.png",
     "theme": "All That Love (STATION)",
@@ -51153,8 +51153,8 @@
   ],
     "MCAT_VO_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **MAX CHANGMIN (Station) Vocal** All That Love",
-      "idol":"MAX CHANGMIN (Station) Vocal",
+      "name":"<:S_EMOTE:1036291020956115105> **MAX CHANGMIN (STATION) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Vocal",
       "inv":"<:S_EMOTE:1036291020956115105> All That Love",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587535564034068/S.png",
       "theme": "All That Love (STATION)",
@@ -51164,8 +51164,8 @@
     ],
     "MCAT_VO_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **MAX CHANGMIN (Station) Vocal** All That Love",
-      "idol":"MAX CHANGMIN (Station) Vocal",
+      "name":"<:A_EMOTE:1036291003348439102> **MAX CHANGMIN (STATION) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Vocal",
       "inv":"<:A_EMOTE:1036291003348439102> All That Love",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534372851824/A.png",
       "theme": "All That Love (STATION)",
@@ -51175,8 +51175,8 @@
     ],
     "MCAT_VO_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **MAX CHANGMIN (Station) Vocal** All That Love",
-      "idol":"MAX CHANGMIN (Station) Vocal",
+      "name":"<:B_EMOTE:1036290987477180546> **MAX CHANGMIN (STATION) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Vocal",
       "inv":"<:B_EMOTE:1036290987477180546> All That Love",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534611923024/B.png",
       "theme": "All That Love (STATION)",
@@ -51186,8 +51186,8 @@
     ],
   "MCAT_VO_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **MAX CHANGMIN (Station) Vocal** All That Love",
-      "idol":"MAX CHANGMIN (Station) Vocal",
+      "name":"<:C_EMOTE:1036290969676546092> **MAX CHANGMIN (STATION) Vocal** All That Love",
+      "idol":"MAX CHANGMIN (STATION) Vocal",
       "inv":"<:C_EMOTE:1036290969676546092> All That Love",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587534968442900/C.png",
       "theme": "All That Love (STATION)",
@@ -51476,7 +51476,7 @@
     "idol":"YERI (STATION) Vocal",
     "inv":"<:R_EMOTE:1036291037620097034> Dear Diary",
     "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587714274918522/R.png",
-    "theme": "Dear Diary",
+    "theme": "Dear Diary (STATION)",
     "minimum": "1800",
     "maximum": "2400"
   }
@@ -51487,7 +51487,7 @@
       "idol":"YERI (STATION) Vocal",
       "inv":"<:S_EMOTE:1036291020956115105> Dear Diary",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587714593697802/S.png",
-      "theme": "Dear Diary",
+      "theme": "Dear Diary (STATION)",
       "minimum": "1200",
       "maximum": "1800"
     }
@@ -51498,7 +51498,7 @@
       "idol":"YERI (STATION) Vocal",
       "inv":"<:A_EMOTE:1036291003348439102> Dear Diary",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713423474758/A.png",
-      "theme": "Dear Diary",
+      "theme": "Dear Diary (STATION)",
       "minimum": "600",
       "maximum": "1200"
     }
@@ -51509,7 +51509,7 @@
       "idol":"YERI (STATION) Vocal",
       "inv":"<:B_EMOTE:1036290987477180546> Dear Diary",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713696108685/B.png",
-      "theme": "Dear Diary",
+      "theme": "Dear Diary (STATION)",
       "minimum": "200",
       "maximum": "600"
     }
@@ -51520,7 +51520,7 @@
       "idol":"YERI (STATION) Vocal",
       "inv":"<:C_EMOTE:1036290969676546092> Dear Diary",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587713985523763/C.png",
-      "theme": "Dear Diary",
+      "theme": "Dear Diary (STATION)",
       "minimum": "0",
       "maximum": "200"
     }
