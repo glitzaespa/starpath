@@ -52019,5 +52019,225 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "FFCU_AR_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **FIFTY FIFTY Aran** Cupid",
+    "idol":"FIFTY FIFTY Aran",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690464245133412/R.png",
+    "theme": "Cupid",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "FFCU_AR_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **FIFTY FIFTY Aran** Cupid",
+      "idol":"FIFTY FIFTY Aran",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690464551313408/S.png",
+      "theme": "Cupid",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "FFCU_AR_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **FIFTY FIFTY Aran** Cupid",
+      "idol":"FIFTY FIFTY Aran",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690463238500482/A.png",
+      "theme": "Cupid",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "FFCU_AR_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **FIFTY FIFTY Aran** Cupid",
+      "idol":"FIFTY FIFTY Aran",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690463641149440/B.png",
+      "theme": "Cupid",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "FFCU_AR_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **FIFTY FIFTY Aran** Cupid",
+      "idol":"FIFTY FIFTY Aran",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690463968301076/C.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "FFCU_KE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **FIFTY FIFTY Keena** Cupid",
+    "idol":"FIFTY FIFTY Keena",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690933612912741/R.png",
+    "theme": "Cupid",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "FFCU_KE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **FIFTY FIFTY Keena** Cupid",
+      "idol":"FIFTY FIFTY Keena",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690933910716436/S.png",
+      "theme": "Cupid",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "FFCU_KE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **FIFTY FIFTY Keena** Cupid",
+      "idol":"FIFTY FIFTY Keena",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690932711145482/A.png",
+      "theme": "Cupid",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "FFCU_KE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **FIFTY FIFTY Keena** Cupid",
+      "idol":"FIFTY FIFTY Keena",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690933004738621/B.png",
+      "theme": "Cupid",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "FFCU_KE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **FIFTY FIFTY Keena** Cupid",
+      "idol":"FIFTY FIFTY Keena",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101690933294153788/C.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "FFCU_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **FIFTY FIFTY Saena** Cupid",
+    "idol":"FIFTY FIFTY Saena",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691456894288003/R.png",
+    "theme": "Cupid",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "FFCU_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **FIFTY FIFTY Saena** Cupid",
+      "idol":"FIFTY FIFTY Saena",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691457187872859/S.png",
+      "theme": "Cupid",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "FFCU_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **FIFTY FIFTY Saena** Cupid",
+      "idol":"FIFTY FIFTY Saena",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691456021872691/A.png",
+      "theme": "Cupid",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "FFCU_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **FIFTY FIFTY Saena** Cupid",
+      "idol":"FIFTY FIFTY Saena",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691456307068999/B.png",
+      "theme": "Cupid",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "FFCU_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **FIFTY FIFTY Saena** Cupid",
+      "idol":"FIFTY FIFTY Saena",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691456617459722/C.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "FFCU_SI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **FIFTY FIFTY Sio** Cupid",
+    "idol":"FIFTY FIFTY Sio",
+    "inv":"<:R_EMOTE:1036291037620097034> Cupid",
+    "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691783206936667/R.png",
+    "theme": "Cupid",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "FFCU_SI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **FIFTY FIFTY Sio** Cupid",
+      "idol":"FIFTY FIFTY Sio",
+      "inv":"<:S_EMOTE:1036291020956115105> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691783521501234/S.png",
+      "theme": "Cupid",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "FFCU_SI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **FIFTY FIFTY Sio** Cupid",
+      "idol":"FIFTY FIFTY Sio",
+      "inv":"<:A_EMOTE:1036291003348439102> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691782061891604/A.png",
+      "theme": "Cupid",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "FFCU_SI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **FIFTY FIFTY Sio** Cupid",
+      "idol":"FIFTY FIFTY Sio",
+      "inv":"<:B_EMOTE:1036290987477180546> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691782468735006/B.png",
+      "theme": "Cupid",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "FFCU_SI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **FIFTY FIFTY Sio** Cupid",
+      "idol":"FIFTY FIFTY Sio",
+      "inv":"<:C_EMOTE:1036290969676546092> Cupid",
+      "image": "https://cdn.discordapp.com/attachments/1100034810291945575/1101691782888161341/C.png",
+      "theme": "Cupid",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
