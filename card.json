@@ -53504,5 +53504,335 @@
             "minimum": "0",
             "maximum": "250"
           }
-          ]
+          ],
+  "AEHT_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa KARINA** Hold On Tight",
+    "idol":"aespa KARINA",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold On Tight",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101716705815826522/image.png",
+    "theme": "Hold On Tight",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEHT_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa KARINA** Hold On Tight",
+      "idol":"aespa KARINA",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101716705559986217/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEHT_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa KARINA** Hold On Tight",
+      "idol":"aespa KARINA",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101716705283158117/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEHT_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa KARINA** Hold On Tight",
+      "idol":"aespa KARINA",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101716704939216926/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEHT_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa KARINA** Hold On Tight",
+      "idol":"aespa KARINA",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101716704591102033/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "AEHT_GI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa GISELLE** Hold On Tight",
+    "idol":"aespa GISELLE",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold On Tight",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717087874994246/image.png",
+    "theme": "Hold On Tight",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEHT_GI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa GISELLE** Hold On Tight",
+      "idol":"aespa GISELLE",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717087589777500/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEHT_GI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa GISELLE** Hold On Tight",
+      "idol":"aespa GISELLE",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717087329734737/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEHT_GI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa GISELLE** Hold On Tight",
+      "idol":"aespa GISELLE",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717086989991956/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEHT_GI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa GISELLE** Hold On Tight",
+      "idol":"aespa GISELLE",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717086549573662/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "AEHT_NN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **aespa NINGNING** Hold On Tight",
+    "idol":"aespa NINGNING",
+    "inv":"<:R_EMOTE:1036291037620097034> Hold On Tight",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717438111948850/image.png",
+    "theme": "Hold On Tight",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "AEHT_NN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **aespa NINGNING** Hold On Tight",
+      "idol":"aespa NINGNING",
+      "inv":"<:S_EMOTE:1036291020956115105> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717437696720927/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "AEHT_NN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **aespa NINGNING** Hold On Tight",
+      "idol":"aespa NINGNING",
+      "inv":"<:A_EMOTE:1036291003348439102> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717437466030120/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "AEHT_NN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **aespa NINGNING** Hold On Tight",
+      "idol":"aespa NINGNING",
+      "inv":"<:B_EMOTE:1036290987477180546> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717437159841832/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "AEHT_NN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **aespa NINGNING** Hold On Tight",
+      "idol":"aespa NINGNING",
+      "inv":"<:C_EMOTE:1036290969676546092> Hold On Tight",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101717436916576306/image.png",
+      "theme": "Hold On Tight",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "SZBC_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SZA Vocal** Broken Clocks",
+    "idol":"SZA Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Broken Clocks",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906341834440804/image.png",
+    "theme": "Broken Clocks",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SZBC_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SZA Vocal** Broken Clocks",
+      "idol":"SZA Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906341545021440/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SZBC_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SZA Vocal** Broken Clocks",
+      "idol":"SZA Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906341247238234/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SZBC_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SZA Vocal** Broken Clocks",
+      "idol":"SZA Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906340999778314/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SZBC_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SZA Vocal** Broken Clocks",
+      "idol":"SZA Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906340689383455/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SZBC_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SZA Dance** Broken Clocks",
+    "idol":"SZA Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Broken Clocks",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906478602301450/image.png",
+    "theme": "Broken Clocks",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SZBC_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SZA Dance** Broken Clocks",
+      "idol":"SZA Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906478321279056/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SZBC_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SZA Dance** Broken Clocks",
+      "idol":"SZA Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906477998309466/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SZBC_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SZA Dance** Broken Clocks",
+      "idol":"SZA Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906477729882142/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SZBC_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SZA Dance** Broken Clocks",
+      "idol":"SZA Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906477427884062/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SZBC_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **SZA Rhythm** Broken Clocks",
+    "idol":"SZA Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Broken Clocks",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906611947618454/image.png",
+    "theme": "Broken Clocks",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SZBC_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **SZA Rhythm** Broken Clocks",
+      "idol":"SZA Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906611674984518/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SZBC_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **SZA Rhythm** Broken Clocks",
+      "idol":"SZA Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906611423322112/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SZBC_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **SZA Rhythm** Broken Clocks",
+      "idol":"SZA Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906611159089152/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SZBC_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **SZA Rhythm** Broken Clocks",
+      "idol":"SZA Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Broken Clocks",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100906610886455336/image.png",
+      "theme": "Broken Clocks",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ]
           }
