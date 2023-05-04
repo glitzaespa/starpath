@@ -52239,5 +52239,775 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "STSS_SU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SUMIN** SAME SAME",
+    "idol":"STAYC SUMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770717936238602/SumR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_SU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SUMIN** SAME SAME",
+      "idol":"STAYC SUMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770717747486790/SumS.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_SU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SUMIN** SAME SAME",
+      "idol":"STAYC SUMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770717537775676/SumA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_SU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SUMIN** SAME SAME",
+      "idol":"STAYC SUMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770717311287376/SumB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_SU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SUMIN** SAME SAME",
+      "idol":"STAYC SUMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770717080596622/SumC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STSS_SI_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SIEUN** SAME SAME",
+    "idol":"STAYC SIEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770831031435324/SieR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_SI_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SIEUN** SAME SAME",
+      "idol":"STAYC SIEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770831291494400/SieS.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_SI_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SIEUN** SAME SAME",
+      "idol":"STAYC SIEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770830247100516/SieA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_SI_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SIEUN** SAME SAME",
+      "idol":"STAYC SIEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770830511353856/SieB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_SI_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SIEUN** SAME SAME",
+      "idol":"STAYC SIEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770830767210667/SieC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STSS_IS_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC ISA** SAME SAME",
+    "idol":"STAYC ISA",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770867555446826/IsaR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_IS_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC ISA** SAME SAME",
+      "idol":"STAYC ISA",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770867861618708/IsaS.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_IS_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC ISA** SAME SAME",
+      "idol":"STAYC ISA",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770866779496468/IsaA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_IS_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC ISA** SAME SAME",
+      "idol":"STAYC ISA",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770867035340820/IsaB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_IS_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC ISA** SAME SAME",
+      "idol":"STAYC ISA",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770867274424401/IsaC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STSS_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC SEEUN** SAME SAME",
+    "idol":"STAYC SEEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770907166462002/SeR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC SEEUN** SAME SAME",
+      "idol":"STAYC SEEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770907384553533/Ses.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC SEEUN** SAME SAME",
+      "idol":"STAYC SEEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770906407292948/SeA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC SEEUN** SAME SAME",
+      "idol":"STAYC SEEUN",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770906663129168/SeB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC SEEUN** SAME SAME",
+      "idol":"STAYC SEEUN",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770906889625690/SeC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STSS_YO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC YOON** SAME SAME",
+    "idol":"STAYC YOON",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770954348183672/YoR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_YO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC YOON** SAME SAME",
+      "idol":"STAYC YOON",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770954587242536/YoS.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_YO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC YOON** SAME SAME",
+      "idol":"STAYC YOON",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770953639346277/YoA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_YO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC YOON** SAME SAME",
+      "idol":"STAYC YOON",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770953878405190/YoB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_YO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC YOON** SAME SAME",
+      "idol":"STAYC YOON",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770954104918037/YoC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "STSS_J_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **STAYC J** SAME SAME",
+    "idol":"STAYC J",
+    "inv":"<:R_EMOTE:1036291037620097034> SAME SAME",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770981778931733/JR.png",
+    "theme": "SAME SAME",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "STSS_J_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **STAYC J** SAME SAME",
+      "idol":"STAYC J",
+      "inv":"<:S_EMOTE:1036291020956115105> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770982013796392/JS.png",
+      "theme": "SAME SAME",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "STSS_J_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **STAYC J** SAME SAME",
+      "idol":"STAYC J",
+      "inv":"<:A_EMOTE:1036291003348439102> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770980961042612/JA.png",
+      "theme": "SAME SAME",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "STSS_J_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **STAYC J** SAME SAME",
+      "idol":"STAYC J",
+      "inv":"<:B_EMOTE:1036290987477180546> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770981229461605/JB.png",
+      "theme": "SAME SAME",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "STSS_J_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **STAYC J** SAME SAME",
+      "idol":"STAYC J",
+      "inv":"<:C_EMOTE:1036290969676546092> SAME SAME",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101770981506306048/JC.png",
+      "theme": "SAME SAME",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_BC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids BANG CHAN** CIRCUS",
+    "idol":"Stray Kids BANG CHAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741830669860914/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_BC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids BANG CHAN** CIRCUS",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741830913134663/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_BC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids BANG CHAN** CIRCUS",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741829763911730/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_BC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids BANG CHAN** CIRCUS",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741830019743865/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_BC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids BANG CHAN** CIRCUS",
+      "idol":"Stray Kids BANG CHAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741830397251594/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_CB_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids CHANGBIN** CIRCUS",
+    "idol":"Stray Kids CHANGBIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741847778435093/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_CB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids CHANGBIN** CIRCUS",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741847996534955/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_CB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids CHANGBIN** CIRCUS",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741846973141063/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_CB_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids CHANGBIN** CIRCUS",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741847249952808/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_CB_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids CHANGBIN** CIRCUS",
+      "idol":"Stray Kids CHANGBIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741847514206268/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_FE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids FELIX** CIRCUS",
+    "idol":"Stray Kids FELIX",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741864824098887/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_FE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids FELIX** CIRCUS",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741865226739783/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_FE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids FELIX** CIRCUS",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741863842627694/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_FE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids FELIX** CIRCUS",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741864262049812/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_FE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids FELIX** CIRCUS",
+      "idol":"Stray Kids FELIX",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741864576630815/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_HA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HAN** CIRCUS",
+    "idol":"Stray Kids HAN",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741887238438932/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_HA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HAN** CIRCUS",
+      "idol":"Stray Kids HAN",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741887532044339/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_HA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HAN** CIRCUS",
+      "idol":"Stray Kids HAN",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741886428938280/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_HA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HAN** CIRCUS",
+      "idol":"Stray Kids HAN",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741886701572116/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_HA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HAN** CIRCUS",
+      "idol":"Stray Kids HAN",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741886999384074/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_HJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids HYUNJIN** CIRCUS",
+    "idol":"Stray Kids HYUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741910420373554/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_HJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids HYUNJIN** CIRCUS",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741910667821096/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_HJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids HYUNJIN** CIRCUS",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741909589901362/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_HJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids HYUNJIN** CIRCUS",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741909971566602/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_HJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids HYUNJIN** CIRCUS",
+      "idol":"Stray Kids HYUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741910189682738/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_IN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids I.N** CIRCUS",
+    "idol":"Stray Kids I.N",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741930024546325/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_IN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids I.N** CIRCUS",
+      "idol":"Stray Kids I.N",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741930330726471/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_IN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids I.N** CIRCUS",
+      "idol":"Stray Kids I.N",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741929043071077/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_IN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids I.N** CIRCUS",
+      "idol":"Stray Kids I.N",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741929366040606/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_IN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids I.N** CIRCUS",
+      "idol":"Stray Kids I.N",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741929676410880/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_LK_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids LEE KNOW** CIRCUS",
+    "idol":"Stray Kids LEE KNOW",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741949934907494/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_LK_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids LEE KNOW** CIRCUS",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741950228512788/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_LK_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids LEE KNOW** CIRCUS",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741949024743514/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_LK_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids LEE KNOW** CIRCUS",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741949343514655/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_LK_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids LEE KNOW** CIRCUS",
+      "idol":"Stray Kids LEE KNOW",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741949632913418/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "SKCI_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Stray Kids SEUNGMIN** CIRCUS",
+    "idol":"Stray Kids SEUNGMIN",
+    "inv":"<:R_EMOTE:1036291037620097034> CIRCUS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741976342253608/R.png",
+    "theme": "CIRCUS",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "SKCI_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Stray Kids SEUNGMIN** CIRCUS",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:S_EMOTE:1036291020956115105> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741976673583186/S.png",
+      "theme": "CIRCUS",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "SKCI_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Stray Kids SEUNGMIN** CIRCUS",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:A_EMOTE:1036291003348439102> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741975331422269/A.png",
+      "theme": "CIRCUS",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "SKCI_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Stray Kids SEUNGMIN** CIRCUS",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:B_EMOTE:1036290987477180546> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741975637610567/B.png",
+      "theme": "CIRCUS",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "SKCI_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Stray Kids SEUNGMIN** CIRCUS",
+      "idol":"Stray Kids SEUNGMIN",
+      "inv":"<:C_EMOTE:1036290969676546092> CIRCUS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101741975994105886/C.png",
+      "theme": "CIRCUS",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
