@@ -53834,5 +53834,819 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "LSFE_SA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM SAKURA** FEARLESS",
+    "idol":"LE SSERAFIM SAKURA",
+    "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101772935515095080/image4.jpg",
+    "theme": "FEARLESS (2023 Ver.)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSFE_SA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM SAKURA** FEARLESS",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101772935175352361/image3.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSFE_SA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM SAKURA** FEARLESS",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101772934864977920/image2.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSFE_SA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM SAKURA** FEARLESS",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101772934554595378/image1.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSFE_SA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM SAKURA** FEARLESS",
+      "idol":"LE SSERAFIM SAKURA",
+      "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101772934298730496/image0.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSFE_KC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KIM CHAEWON** FEARLESS",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773288323166260/image4.jpg",
+    "theme": "FEARLESS (2023 Ver.)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSFE_KC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KIM CHAEWON** FEARLESS",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773287975034890/image3.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSFE_KC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KIM CHAEWON** FEARLESS",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773287660470312/image2.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSFE_KC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KIM CHAEWON** FEARLESS",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773287085846588/image1.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSFE_KC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KIM CHAEWON** FEARLESS",
+      "idol":"LE SSERAFIM KIM CHAEWON",
+      "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773286792241182/image0.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSFE_HY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773594205368340/image4.jpg",
+    "theme": "FEARLESS (2023 Ver.)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSFE_HY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773593974669362/image3.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSFE_HY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773593773363251/image2.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSFE_HY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773593546862652/image1.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSFE_HY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HUH YUNJIN** FEARLESS",
+      "idol":"LE SSERAFIM HUH YUNJIN",
+      "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773593274220644/image0.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSFE_KA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM KAZUHA** FEARLESS",
+    "idol":"LE SSERAFIM KAZUHA",
+    "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773780898037861/image4.jpg",
+    "theme": "FEARLESS (2023 Ver.)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSFE_KA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM KAZUHA** FEARLESS",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773780575059978/image3.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSFE_KA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM KAZUHA** FEARLESS",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773780273086574/image2.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSFE_KA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM KAZUHA** FEARLESS",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773779996246086/image1.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSFE_KA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM KAZUHA** FEARLESS",
+      "idol":"LE SSERAFIM KAZUHA",
+      "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773779677483068/image0.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "LSFE_HE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
+    "idol":"LE SSERAFIM HONG EUNCHAEW",
+    "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984929959986/image4.jpg",
+    "theme": "FEARLESS (2023 Ver.)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "LSFE_HE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984657313843/image3.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "LSFE_HE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984330162196/image2.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "LSFE_HE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984003002438/image1.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "LSFE_HE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773983738765332/image0.jpg",
+      "theme": "FEARLESS (2023 Ver.)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+  "WMSI_SY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Ji Suyeon** Siesta",
+    "idol":"Weki Meki Ji Suyeon",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250688159744/image.png",
+    "theme": "Siesta",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "WMSI_SY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Ji Suyeon** Siesta",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250428092446/image.png",
+      "theme": "Siesta",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "WMSI_SY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Ji Suyeon** Siesta",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250180632636/image.png",
+      "theme": "Siesta",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "WMSI_SY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Ji Suyeon** Siesta",
+      "idol":"Weki Meki Ji Suyeon",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721249908019291/image.png",
+      "theme": "Siesta",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "WMSI_EL_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki ELLY** Siesta",
+    "idol":"Weki Meki ELLY",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721465822384128/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_EL_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki ELLY** Siesta",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721465398767646/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_EL_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki ELLY** Siesta",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721465063215205/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_EL_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki ELLY** Siesta",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721464685735937/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_EL_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki ELLY** Siesta",
+      "idol":"Weki Meki ELLY",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721464316629022/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMSI_YJ_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Choi Yoojung** Siesta",
+    "idol":"Weki Meki Choi Yoojung",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721667987841054/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_YJ_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Choi Yoojung** Siesta",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721667480326185/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_YJ_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Choi Yoojung** Siesta",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721667111235675/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_YJ_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Choi Yoojung** Siesta",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721666788265994/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_YJ_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Choi Yoojung** Siesta",
+      "idol":"Weki Meki Choi Yoojung",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721666528227399/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMSI_DY_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki Kim Doyeon** Siesta",
+    "idol":"Weki Meki Kim Doyeon",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721851903877150/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_DY_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki Kim Doyeon** Siesta",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721851660615741/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_DY_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki Kim Doyeon** Siesta",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721851442499654/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_DY_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki Kim Doyeon** Siesta",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721851161485393/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_DY_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki Kim Doyeon** Siesta",
+      "idol":"Weki Meki Kim Doyeon",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721850897252372/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMSI_SE_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki SEI** Siesta",
+    "idol":"Weki Meki SEI",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722048490905772/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_SE_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki SEI** Siesta",
+      "idol":"Weki Meki SEI",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722048209895514/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_SE_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki SEI** Siesta",
+      "idol":"Weki Meki SEI",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722047912091769/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_SE_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki SEI** Siesta",
+      "idol":"Weki Meki SEI",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722047601717288/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_SE_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki SEI** Siesta",
+      "idol":"Weki Meki SEI",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722047257788506/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMSI_RN_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki RINA** Siesta",
+    "idol":"Weki Meki RINA",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722399398973441/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_RN_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki RINA** Siesta",
+      "idol":"Weki Meki RINA",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722399130517534/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_RN_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki RINA** Siesta",
+      "idol":"Weki Meki RINA",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722398857896016/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_RN_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki RINA** Siesta",
+      "idol":"Weki Meki RINA",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722398576889936/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_RN_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki RINA** Siesta",
+      "idol":"Weki Meki RINA",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722398287462431/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "WMSI_LC_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki LUCY** Siesta",
+    "idol":"Weki Meki LUCY",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722564365127730/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_LC_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki LUCY** Siesta",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722564100894740/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_LC_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki LUCY** Siesta",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563719200768/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_LC_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki LUCY** Siesta",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563274616922/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_LC_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki LUCY** Siesta",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563006169149/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TYHS_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON (STATION) Vocal** Happy (Summer Version)",
+    "idol":"TAEYEON (STATION) Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy (Summer Version)",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587997314961458/R.png",
+    "theme": "Happy (Summer Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYHS_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON (STATION) Vocal** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587997587574894/S.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYHS_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON (STATION) Vocal** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587996539015179/A.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYHS_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON (STATION) Vocal** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587996769697893/B.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TYHS_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON (STATION) Vocal** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100587997075865650/C.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+    "TYHS_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON (STATION) Dance** Happy (Summer Version)",
+    "idol":"TAEYEON (STATION) Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy (Summer Version)",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588021277016076/R.png",
+    "theme": "Happy (Summer Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYHS_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON (STATION) Dance** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588021578989769/S.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYHS_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON (STATION) Dance** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588020165517394/A.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYHS_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON (STATION) Dance** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588020475887656/B.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TYHS_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON (STATION) Dance** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588020891131914/C.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
+    ],
+      "TYHS_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **TAEYEON (STATION) Rhythm** Happy (Summer Version)",
+    "idol":"TAEYEON (STATION) Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Happy (Summer Version)",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588041476780072/R.png",
+    "theme": "Happy (Summer Version)",
+    "minimum": "1800",
+    "maximum": "2400"
+  }
+  ],
+    "TYHS_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **TAEYEON (STATION) Rhythm** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588041715863682/S.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "TYHS_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **TAEYEON (STATION) Rhythm** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588040646307880/A.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ],
+    "TYHS_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **TAEYEON (STATION) Rhythm** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588040935723008/B.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "200",
+      "maximum": "600"
+    }
+    ],
+  "TYHS_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **TAEYEON (STATION) Rhythm** Happy (Summer Version)",
+      "idol":"TAEYEON (STATION) Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Happy (Summer Version)",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1100588041212530838/C.png",
+      "theme": "Happy (Summer Version)",
+      "minimum": "0",
+      "maximum": "200"
+    }
     ]
           }
