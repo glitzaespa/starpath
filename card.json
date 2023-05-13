@@ -54057,8 +54057,8 @@
     ],
   "LSFE_HE_R": [
   {
-    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
-    "idol":"LE SSERAFIM HONG EUNCHAEW",
+    "name":"<:R_EMOTE:1036291037620097034> **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
     "inv":"<:R_EMOTE:1036291037620097034> FEARLESS",
     "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984929959986/image4.jpg",
     "theme": "FEARLESS (2023 Ver.)",
@@ -54068,8 +54068,8 @@
   ],
     "LSFE_HE_S": [
     {
-      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
-      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "name":"<:S_EMOTE:1036291020956115105> **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
       "inv":"<:S_EMOTE:1036291020956115105> FEARLESS",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984657313843/image3.jpg",
       "theme": "FEARLESS (2023 Ver.)",
@@ -54079,8 +54079,8 @@
     ],
     "LSFE_HE_A": [
     {
-      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
-      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "name":"<:A_EMOTE:1036291003348439102> **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
       "inv":"<:A_EMOTE:1036291003348439102> FEARLESS",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984330162196/image2.jpg",
       "theme": "FEARLESS (2023 Ver.)",
@@ -54090,8 +54090,8 @@
     ],
     "LSFE_HE_B": [
     {
-      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
-      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "name":"<:B_EMOTE:1036290987477180546> **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
       "inv":"<:B_EMOTE:1036290987477180546> FEARLESS",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773984003002438/image1.jpg",
       "theme": "FEARLESS (2023 Ver.)",
@@ -54101,8 +54101,8 @@
     ],
   "LSFE_HE_C": [
     {
-      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HONG EUNCHAEW** FEARLESS",
-      "idol":"LE SSERAFIM HONG EUNCHAEW",
+      "name":"<:C_EMOTE:1036290969676546092> **LE SSERAFIM HONG EUNCHAE** FEARLESS",
+      "idol":"LE SSERAFIM HONG EUNCHAE",
       "inv":"<:C_EMOTE:1036290969676546092> FEARLESS",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101773983738765332/image0.jpg",
       "theme": "FEARLESS (2023 Ver.)",
@@ -54117,8 +54117,8 @@
     "inv":"<:R_EMOTE:1036291037620097034> Siesta",
     "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250688159744/image.png",
     "theme": "Siesta",
-    "minimum": "1800",
-    "maximum": "2400"
+    "minimum": "1850",
+    "maximum": "2450"
   }
   ],
     "WMSI_SY_S": [
@@ -54128,8 +54128,8 @@
       "inv":"<:S_EMOTE:1036291020956115105> Siesta",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250428092446/image.png",
       "theme": "Siesta",
-      "minimum": "1200",
-      "maximum": "1800"
+      "minimum": "1250",
+      "maximum": "1850"
     }
     ],
     "WMSI_SY_A": [
@@ -54139,8 +54139,8 @@
       "inv":"<:A_EMOTE:1036291003348439102> Siesta",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721250180632636/image.png",
       "theme": "Siesta",
-      "minimum": "600",
-      "maximum": "1200"
+      "minimum": "650",
+      "maximum": "1250"
     }
     ],
     "WMSI_SY_B": [
@@ -54150,8 +54150,8 @@
       "inv":"<:B_EMOTE:1036290987477180546> Siesta",
       "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101721249908019291/image.png",
       "theme": "Siesta",
-      "minimum": "200",
-      "maximum": "600"
+      "minimum": "250",
+      "maximum": "650"
     }
     ],
   "WMSI_EL_R": [
