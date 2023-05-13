@@ -54483,6 +54483,61 @@
       "minimum": "0",
       "maximum": "250"
     }
+  ],
+  "WMSI_LU_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Weki Meki LUA** Siesta",
+    "idol":"Weki Meki LUA",
+    "inv":"<:R_EMOTE:1036291037620097034> Siesta",
+    "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722564365127730/image.png",
+    "theme": "Siesta",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "WMSI_LU_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Weki Meki LUA** Siesta",
+      "idol":"Weki Meki LUA",
+      "inv":"<:S_EMOTE:1036291020956115105> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722564100894740/image.png",
+      "theme": "Siesta",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "WMSI_LU_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Weki Meki LUA** Siesta",
+      "idol":"Weki Meki LUA",
+      "inv":"<:A_EMOTE:1036291003348439102> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563719200768/image.png",
+      "theme": "Siesta",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "WMSI_LU_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Weki Meki LUA** Siesta",
+      "idol":"Weki Meki LUA",
+      "inv":"<:B_EMOTE:1036290987477180546> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563274616922/image.png",
+      "theme": "Siesta",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "WMSI_LU_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Weki Meki LUA** Siesta",
+      "idol":"Weki Meki LUCY",
+      "inv":"<:C_EMOTE:1036290969676546092> Siesta",
+      "image": "https://cdn.discordapp.com/attachments/1097231374991249438/1101722563006169149/image.png",
+      "theme": "Siesta",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ],
   "TYHS_VO_R": [
   {
