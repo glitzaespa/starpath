@@ -54703,5 +54703,170 @@
       "minimum": "0",
       "maximum": "200"
     }
+    ],
+  "TSLS_VO_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Vocal** Love spiral",
+    "idol":"Taylor Swift Vocal",
+    "inv":"<:R_EMOTE:1036291037620097034> Love spiral",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033685531828355/R.png",
+    "theme": "LavenderHazeFull",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSLS_VO_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Vocal** Love spiral",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:S_EMOTE:1036291020956115105> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033685808648272/S.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSLS_VO_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Vocal** Love spiral",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:A_EMOTE:1036291003348439102> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033684588109854/A.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSLS_VO_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Vocal** Love spiral",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:B_EMOTE:1036290987477180546> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033684936232990/B.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSLS_VO_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Vocal** Love spiral",
+      "idol":"Taylor Swift Vocal",
+      "inv":"<:C_EMOTE:1036290969676546092> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033685263396904/C.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TSLS_DA_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Dance** Love spiral",
+    "idol":"Taylor Swift Dance",
+    "inv":"<:R_EMOTE:1036291037620097034> Love spiral",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033710886400085/R.png",
+    "theme": "LavenderHazeFull",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSLS_DA_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Dance** Love spiral",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:S_EMOTE:1036291020956115105> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033711167422505/S.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSLS_DA_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Dance** Love spiral",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:A_EMOTE:1036291003348439102> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033710081093775/A.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSLS_DA_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Dance** Love spiral",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:B_EMOTE:1036290987477180546> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033710353727518/B.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSLS_DA_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Dance** Love spiral",
+      "idol":"Taylor Swift Dance",
+      "inv":"<:C_EMOTE:1036290969676546092> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033710601179136/C.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "0",
+      "maximum": "250"
+    }
+    ],
+  "TSLS_RH_R": [
+  {
+    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Rhythm** Love spiral",
+    "idol":"Taylor Swift Rhythm",
+    "inv":"<:R_EMOTE:1036291037620097034> Love spiral",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033739034365952/R.png",
+    "theme": "LavenderHazeFull",
+    "minimum": "1850",
+    "maximum": "2450"
+  }
+  ],
+    "TSLS_RH_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **Taylor Swift Rhythm** Love spiral",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:S_EMOTE:1036291020956115105> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033739298615396/S.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "1250",
+      "maximum": "1850"
+    }
+    ],
+    "TSLS_RH_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **Taylor Swift Rhythm** Love spiral",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:A_EMOTE:1036291003348439102> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033737998381127/A.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "650",
+      "maximum": "1250"
+    }
+    ],
+    "TSLS_RH_B": [
+    {
+      "name":"<:B_EMOTE:1036290987477180546> **Taylor Swift Rhythm** Love spiral",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:B_EMOTE:1036290987477180546> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033738371665920/B.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "250",
+      "maximum": "650"
+    }
+    ],
+  "TSLS_RH_C": [
+    {
+      "name":"<:C_EMOTE:1036290969676546092> **Taylor Swift Rhythm** Love spiral",
+      "idol":"Taylor Swift Rhythm",
+      "inv":"<:C_EMOTE:1036290969676546092> Love spiral",
+      "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1107033738698830044/C.png",
+      "theme": "LavenderHazeFull",
+      "minimum": "0",
+      "maximum": "250"
+    }
     ]
           }
